@@ -3,17 +3,22 @@ body {
 }
 
 .header {
-  background-color: #2E3031;
+  background: url(../img/header-home.svg) #2E3031 no-repeat;
+      background-size: cover;
+      background-position: center top;
+      height: 150px;
 }
 
-.img-header {
-  max-height: 220px;
-  min-width: 600px;
+
+@media screen and (min-width: 600px) {
+  .header {
+    height: 300px;
+  }
 }
 
-@media screen and (max-width: 640px) {
-  .img-header {
-    margin-left: -30%;
+@media screen and (min-width: 1400px) {
+  .header {
+    background-size: auto;
   }
 }
 
