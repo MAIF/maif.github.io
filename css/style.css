@@ -64,6 +64,9 @@ body {
   text-align: center;
 }
 
+.link a{
+  color: #8B8B8A;
+}
 .repo {
   width: 50px;
   display: block;
