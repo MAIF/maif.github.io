@@ -9,6 +9,14 @@ body {
       height: 150px;
 }
 
+.orange{
+  background-color: #F7A600;
+}
+
+.iza{
+  background-color: #DC5F9F;
+}
+
 
 @media screen and (min-width: 600px) {
   .header {
@@ -32,6 +40,7 @@ body {
   padding: 5px;
   margin-top: 50px;
   background-color: #fff;
+  min-height: 460px;
 }
 
 .logo {
@@ -67,8 +76,27 @@ body {
 .link a{
   color: #8B8B8A;
 }
-.repo {
-  width: 50px;
+
+.repo{
+  border-radius:50%;
+  width:40px;
+  height:40px;
   display: block;
   margin: auto;
+  color: #fff;
+}
+
+.fa-github{
+    padding-top: 7px;
+    width: 100%;
+}
+
+.repo i {
+  text-align: center;
+}
+
+
+
+.disabled{
+  color:#cfcdcc;
 }
