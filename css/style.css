@@ -4,19 +4,18 @@ body {
 
 .header {
   background: url(../img/header-home.svg) #2E3031 no-repeat;
-      background-size: cover;
-      background-position: center top;
-      height: 150px;
+  background-size: cover;
+  background-position: center top;
+  height: 150px;
 }
 
-.orange{
+.orange {
   background-color: #F7A600;
 }
 
-.iza{
+.iza {
   background-color: #DC5F9F;
 }
-
 
 @media screen and (min-width: 600px) {
   .header {
@@ -33,6 +32,7 @@ body {
 .home {
   background-image: url(../img/bg-container.svg);
   background-attachment: top;
+  background-repeat: no-repeat;
 }
 
 .product {
@@ -73,30 +73,41 @@ body {
   text-align: center;
 }
 
-.link a{
+.link a {
   color: #8B8B8A;
 }
 
-.repo{
-  border-radius:50%;
-  width:40px;
-  height:40px;
+.repo {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
   display: block;
   margin: auto;
   color: #fff;
 }
 
-.fa-github{
-    padding-top: 7px;
-    width: 100%;
+.fa-github {
+  padding-top: 7px;
+  width: 100%;
 }
 
 .repo i {
   text-align: center;
 }
 
+.soon {
+  position: absolute;
+  text-align: center;
+  bottom: 10px;
+  left: 0;
+  right: 0;
+  font-size: 24px;
+}
 
+.disabled {
+  color: #cfcdcc;
+}
 
-.disabled{
-  color:#cfcdcc;
+.n2 {
+  background-color: #2E3031;
 }
