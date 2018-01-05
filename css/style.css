@@ -95,6 +95,11 @@ body {
   width: 100%;
 }
 
+footer .fa-github {
+  padding-top: 0px;
+  width: auto;
+}
+
 .repo i {
   text-align: center;
 }
