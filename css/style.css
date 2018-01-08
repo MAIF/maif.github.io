@@ -95,6 +95,10 @@ body {
   width: 100%;
 }
 
+footer {
+  margin-top: 20px;
+}
+
 footer .fa-github {
   padding-top: 0px;
   width: auto;
@@ -126,10 +130,6 @@ footer .fa-github {
   display: block;
   margin: 0 auto;
 }
-
-/* .entete{
-      background: linear-gradient(90deg, #F7A600 50%, #2E3031 50%);
-} */
 
 .contentN2 {
   padding-top: 30px;
@@ -292,44 +292,60 @@ h2 {
   }
   .details li, .details {
     list-style-type: none;
+    text-align: left;
     text-align: center;
   }
-
-  .more-details{
+  .more-details {
     padding-left: 15px;
   }
-
 }
 
 @media screen and (max-width: 770px) {
   .sidebar-content {
     width: 200px;
-    margin: 0 auto;
-}
-
-.sidebar-container {
+    padding-left: 30px;
+  }
+  .contentN2 {
+    padding-left: 30px;
+  }
+  .sidebar-container {
     flex-direction: column;
-}
-
-.sidebar {
+  }
+  .sidebar {
     background: linear-gradient(180deg, #F7A600 50%, #2E3031 50%);
-  position: inherit;
-}
-.footer-content3 {
+    position: inherit;
+  }
+  .footer-content3 {
     margin-left: 0px;
     margin-top: 20px;
     width: 100%;
     background-color: #F7A600;
-}
-
-.intro{
-  text-align: center;
-}
-
-.titleOnLine {
-    text-align: center;
-}
-.titleOnLine li {
+  }
+  .intro {
+    text-align: left;
+  }
+  .titleOnLine {
+    text-align: left;
+  }
+  .titleOnLine li {
     display: inline-block;
-}
+  }
+  .more-details {
+    text-align: left;
+  }
+  .tagN2 {
+    margin-top: -40px;
+  }
+  .titleOnLine li {
+    text-align: left;
+  }
+  .details li, .details {
+    text-align: left;
+  }
+  .outer-circle {
+    margin-left: 0px;
+  }
+  .linkN2 {
+    padding-left: 20px;
+  }
 }
