@@ -17,6 +17,9 @@ body {
   background-color: #DC5F9F;
 }
 
+.cardsColor {
+  background-color: #888888;
+}
 
 .home {
   background-image: url(../img/bg-container.svg);
