@@ -128,3 +128,26 @@ footer .fa-github {
     background-size: auto;
   }
 }
+
+.offre .product{
+  padding: 15px;
+}
+.offre h1 {
+  text-align: center;
+}
+
+.offre h2{
+  margin-top: 60px;
+}
+
+.offre h1 + p + h2{
+    margin-top: 100px;
+}
+
+.offre .fa {
+margin-right: 10px;
+}
+
+.offre a{
+  color:#2f3031;
+}
