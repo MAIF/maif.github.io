@@ -116,7 +116,6 @@ footer .fa-github {
   color: #cfcdcc;
 }
 
-
 @media screen and (min-width: 600px) {
   .header {
     height: 300px;
@@ -129,25 +128,64 @@ footer .fa-github {
   }
 }
 
-.offre .product{
+.offre .product {
   padding: 15px;
 }
+
 .offre h1 {
   text-align: center;
 }
 
-.offre h2{
+.offre h2 {
   margin-top: 60px;
 }
 
-.offre h1 + p + h2{
-    margin-top: 100px;
+.offre h1+p+h2 {
+  margin-top: 100px;
 }
 
 .offre .fa {
-margin-right: 10px;
+  margin-right: 10px;
 }
 
-.offre a{
-  color:#2f3031;
+.offre a {
+  color: #2f3031;
+}
+
+.row-offer-blocs {
+  margin-top: 50px;
+  position: relative;
+}
+
+
+.join h1 {
+  font-weight: bold;
+  margin-top: 40px;
+  color: #000000;
+}
+
+.join .tag {
+  width: 30%;
+  right: -1px;
+  top:10px
+}
+
+.joinus {
+  border: 1px solid #9D9D9C;
+  padding: 5px;
+  background-color: #fff;
+}
+
+.joinus .description {
+  text-align: left;
+  padding: 10px;
+}
+
+.joinus.job {
+    position: relative;
+}
+
+.profil-bg {
+  background: url(../../img/joinus-Profil.svg) #2E3031 no-repeat;
+  color: #f5f5f5;
 }
