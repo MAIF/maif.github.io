@@ -48,13 +48,13 @@ body {
 .title {
   font-weight: bold;
   font-size: 36px;
-  color: #000000;
+  color: #2f3031;
   text-align: center;
   word-break: break-word;
 }
 
 .title a {
-  color: black;
+  color: #000000;
 }
 
 .description {
@@ -161,13 +161,23 @@ footer .fa-github {
 .join h1 {
   font-weight: bold;
   margin-top: 40px;
-  color: #000000;
+  color: #2f3031;
 }
 
 .join .tag {
   width: 30%;
   right: -1px;
-  top:10px
+  top:10px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.tag-yellow{
+fill:#F7A600;
+}
+
+.tag-pink{
+  fill:#DC5E9F;
 }
 
 .joinus {
