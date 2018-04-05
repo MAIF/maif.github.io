@@ -92,6 +92,7 @@ footer {
   padding-top: 30px;
   padding-bottom: 20px;
   background-color: black;
+  height: 100px;
 }
 
 footer .fa-github {
@@ -170,6 +171,7 @@ footer .fa-github {
   top:10px;
   font-size: 14px;
   font-weight: bold;
+  fill:#2E3031;
 }
 
 .tag-yellow{
@@ -178,6 +180,17 @@ fill:#F7A600;
 
 .tag-pink{
   fill:#DC5E9F;
+}
+
+.tag-green{
+  fill:#A6BC99;
+}
+.tag-blue{
+  fill:#00B4CD;
+}
+
+.tag-shadow{
+fill:#2E3031;
 }
 
 .joinus {
