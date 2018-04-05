@@ -43,6 +43,33 @@ body {
   right: 14px;
   top: 70px;
   width: 20%;
+  font-size: 14px;
+  font-weight: bold;
+  fill: #2E3031;
+}
+
+.tag-yellow {
+  fill: #F7A600;
+}
+
+.tag-pink {
+  fill: #DC5E9F;
+}
+
+.tag-green {
+  fill: #A6BC99;
+}
+
+.tag-blue {
+  fill: #00B4CD;
+}
+
+.tag-grey {
+  fill: #a6bc99;
+}
+
+.tag-shadow {
+  fill: #2E3031;
 }
 
 .title {
@@ -117,11 +144,11 @@ footer .fa-github {
 }
 
 .manifesto {
-    border: 0;
-    position: fixed;
-    right: 0;
-    top: 0;
-    z-index: 9000;
+  border: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 9000;
 }
 
 @media screen and (min-width: 600px) {
