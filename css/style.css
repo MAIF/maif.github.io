@@ -116,6 +116,13 @@ footer .fa-github {
   color: #cfcdcc;
 }
 
+.manifesto {
+    border: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 9000;
+}
 
 @media screen and (min-width: 600px) {
   .header {
