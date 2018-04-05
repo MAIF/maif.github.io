@@ -93,11 +93,16 @@ body {
 .link {
   font-size: 14px;
   color: #8B8B8A;
-  text-align: center;
+  text-align: left;
 }
 
 .link a {
   color: #8B8B8A;
+}
+
+.link-center {
+  text-align: center;
+  margin-top: 40px;
 }
 
 .repo {
@@ -116,14 +121,20 @@ body {
 
 footer {
   margin-top: 50px;
-  padding-top: 30px;
-  padding-bottom: 20px;
+  padding-top: 15px;
   background-color: black;
+  overflow: auto;
 }
 
 footer .fa-github {
   padding-top: 0px;
   width: auto;
+}
+
+.footer-content {
+  display: inline-block;
+  border-left: 1px solid #8b8b8a;
+  padding-left: 10px;
 }
 
 .repo i {

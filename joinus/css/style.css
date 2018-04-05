@@ -69,7 +69,7 @@ body {
   text-align: left;
 }
 
-.link-center{
+.link-center {
   text-align: center;
   margin-top: 40px;
 }
@@ -96,7 +96,7 @@ footer {
   margin-top: 50px;
   padding-top: 15px;
   background-color: black;
-      overflow: auto;
+  overflow: auto;
 }
 
 footer .fa-github {
@@ -104,11 +104,12 @@ footer .fa-github {
   width: auto;
 }
 
-.footer-content{
+.footer-content {
   display: inline-block;
-    border-left: 1px solid #8b8b8a;
-    padding-left: 10px;
+  border-left: 1px solid #8b8b8a;
+  padding-left: 10px;
 }
+
 .repo i {
   text-align: center;
 }
@@ -167,7 +168,6 @@ footer .fa-github {
   position: relative;
 }
 
-
 .join h1 {
   font-weight: bold;
   margin-top: 40px;
@@ -177,29 +177,30 @@ footer .fa-github {
 .join .tag {
   width: 30%;
   right: -1px;
-  top:10px;
+  top: 10px;
   font-size: 14px;
   font-weight: bold;
-  fill:#2E3031;
+  fill: #2E3031;
 }
 
-.tag-yellow{
-fill:#F7A600;
+.tag-yellow {
+  fill: #F7A600;
 }
 
-.tag-pink{
-  fill:#DC5E9F;
+.tag-pink {
+  fill: #DC5E9F;
 }
 
-.tag-green{
-  fill:#A6BC99;
-}
-.tag-blue{
-  fill:#00B4CD;
+.tag-green {
+  fill: #A6BC99;
 }
 
-.tag-shadow{
-fill:#2E3031;
+.tag-blue {
+  fill: #00B4CD;
+}
+
+.tag-shadow {
+  fill: #2E3031;
 }
 
 .joinus {
@@ -214,7 +215,7 @@ fill:#2E3031;
 }
 
 .joinus.job {
-    position: relative;
+  position: relative;
 }
 
 .profil-bg {
