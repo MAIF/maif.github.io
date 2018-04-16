@@ -93,7 +93,7 @@ body {
 .link {
   font-size: 14px;
   color: #8B8B8A;
-  text-align: left;
+  text-align: center;
 }
 
 .link a {
@@ -129,6 +129,10 @@ footer {
 footer .fa-github {
   padding-top: 0px;
   width: auto;
+}
+
+footer .link{
+  text-align: left;
 }
 
 .footer-content {
