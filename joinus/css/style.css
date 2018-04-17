@@ -42,7 +42,6 @@ body {
   position: absolute;
   right: 14px;
   top: 70px;
-  width: 20%;
 }
 
 .title {
@@ -175,7 +174,6 @@ footer .fa-github {
 }
 
 .join .tag {
-  width: 30%;
   right: -1px;
   top: 10px;
   font-size: 14px;
