@@ -72,7 +72,9 @@ body {
 .tag-shadow {
   fill: #2E3031;
 }
-
+.tag-nio{
+  fill: #75b84e;
+}
 .title {
   font-weight: bold;
   font-size: 36px;
