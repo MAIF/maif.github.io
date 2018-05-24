@@ -21,6 +21,10 @@ body {
   background-color: #a6bc99;
 }
 
+.nioColor {
+  background-color: #86b55c;
+}
+
 .home {
   background-image: url(../img/bg-container.svg);
   background-repeat: no-repeat;
