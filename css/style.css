@@ -22,12 +22,20 @@ body {
 }
 
 .nioColor {
-  background-color: #86b55c;
+  background-color: #75b94e;
+}
+
+.letsColor {
+  background-color: #c8d400;
 }
 
 .home {
   background-image: url(../img/bg-container.svg);
   background-repeat: no-repeat;
+}
+
+.emptyBlock{
+    min-height: 510px;
 }
 
 .product {
@@ -79,6 +87,9 @@ body {
 .tag-nio{
   fill: #75b84e;
 }
+.tag-lets{
+  fill: #c8d400;
+}
 .title {
   font-weight: bold;
   font-size: 36px;
@@ -118,7 +129,7 @@ body {
 }
 
 .fa-github {
-  padding-top: 7px;
+  padding-top: 6px;
   width: 100%;
 }
 
@@ -179,7 +190,11 @@ footer .link-center {
     height: 300px;
   }
 }
-
+@media screen and (max-width: 800px) {
+  .emptyBlock{
+    display: none;
+  }
+}
 @media screen and (min-width: 1400px) {
   .header {
     background-size: auto;
