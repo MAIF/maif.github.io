@@ -216,6 +216,10 @@ footer .fa-github {
   position: relative;
 }
 
+.disabled-bg {
+  opacity: 0.5;
+}
+
 .profil-bg {
   background: url(../../img/joinus-Profil.svg) #2E3031 no-repeat;
   color: #f5f5f5;
