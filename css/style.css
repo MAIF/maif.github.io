@@ -48,15 +48,6 @@ body {
   font-size: 24px;
 }
 
-.banner-fixed{
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1;
-}
-.banner-fixed .banner{
-  margin-top: 0px;
-}
 .emptyBlock{
     min-height: 510px;
 }

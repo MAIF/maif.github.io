@@ -182,23 +182,6 @@ tarteaucitron.init({
     tarteaucitron.user.analyticsMore = function () {};
     (tarteaucitron.job = tarteaucitron.job || []).push('analytics');
 
-    // When the user scrolls the page, execute myFunction
-    window.onscroll = function() {myFunction()};
-
-    // Get the header
-    var header = document.getElementById("banner-fixed");
-    // header height
-    var headerHeight=document.getElementById("header").clientHeight
-
-
-    // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
-    function myFunction() {
-      if (window.pageYOffset > headerHeight) {
-        header.classList.add("banner-fixed");
-      } else {
-        header.classList.remove("banner-fixed");
-      }
-    }
 </script>
 </body>
 
