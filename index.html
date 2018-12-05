@@ -28,13 +28,26 @@ tarteaucitron.init({
 </head>
 
 <body>
-  <div class="container-width header">
+  <div class="container-width header" id="header">
   </div>
 
   <a href="joinus">
       <img class="manifesto" src="img/joinus.png">
     </a>
+  <div class="container" id="banner-fixed">
+    <div class="row banner">
+      <a href="https://medium.com/oss-by-maif/ossbymaif-projet-open-source-de-lann%C3%A9e-9461bb2056d0">
+        <div class="col-xs-12 text-center">
+            <p class="title-banner">Prix du Meilleur Projet Open Source 2018</p>
+        </div>
+        <div class="col-xs-12 text-center">
+            <img class="logo-libre" src="img/logo-acteursdulibre.png">
+        </div>
+      </a>
+    </div>
+  </div>
   <div class="container home">
+
     <div class="row">
       <div class="col-sm-6 col-md-4">
         <div class="product">
@@ -121,7 +134,7 @@ tarteaucitron.init({
           <p class="link"><a href="https://maif.github.io/cards">maif.github.io/cards</a></p>
           <a href="https://github.com/MAIF/cards"><p class="repo cardsColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
         </div>
-      </div>    
+      </div>
       <div class="col-sm-6 col-md-3">
         <div class="product">
           <img class="logo" src="img/lets.svg"  alt="let's automate logo"/>
@@ -142,7 +155,7 @@ tarteaucitron.init({
             <p class="link"><a href="https://github.com/MAIF/lets-automate">github.com/MAIF/lets-automate</a></p>
             <a href="https://github.com/MAIF/lets-automate"><p class="repo letsColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
         </div>
-      </div>    
+      </div>
     </div>
   </div>
   <footer>
@@ -168,6 +181,24 @@ tarteaucitron.init({
     tarteaucitron.user.analyticsUa = 'UA-112498312-1';
     tarteaucitron.user.analyticsMore = function () {};
     (tarteaucitron.job = tarteaucitron.job || []).push('analytics');
+
+    // When the user scrolls the page, execute myFunction
+    window.onscroll = function() {myFunction()};
+
+    // Get the header
+    var header = document.getElementById("banner-fixed");
+    // header height
+    var headerHeight=document.getElementById("header").clientHeight
+
+
+    // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+    function myFunction() {
+      if (window.pageYOffset > headerHeight) {
+        header.classList.add("banner-fixed");
+      } else {
+        header.classList.remove("banner-fixed");
+      }
+    }
 </script>
 </body>
 

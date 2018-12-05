@@ -34,6 +34,29 @@ body {
   background-repeat: no-repeat;
 }
 
+.banner {
+    margin-top: 20px;
+}
+.banner .col-xs-12{
+  background-color: #222222;
+}
+
+.title-banner{
+  margin-top: 10px;
+  background-color: #00aded;
+  color: #FFF;
+  font-size: 24px;
+}
+
+.banner-fixed{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+.banner-fixed .banner{
+  margin-top: 0px;
+}
 .emptyBlock{
     min-height: 510px;
 }
@@ -183,6 +206,13 @@ footer .link-center {
   right: 0;
   top: 0;
   z-index: 9000;
+}
+
+@media screen and (max-width:400px) {
+  .logo-libre{
+    width: auto;
+    height: 100%;
+  }
 }
 
 @media screen and (min-width: 600px) {
