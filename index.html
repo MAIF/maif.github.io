@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <!-- Latest compiled and minified CSS -->
-  <link href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-PmY9l28YgO4JwMKbTvgaS7XNZJ30MK9FAZjjzXtlqyZCqBY6X6bXIkM++IkyinN+" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <link href="https://fonts.googleapis.com/css?family=Arvo:400,600" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
@@ -36,20 +36,44 @@ tarteaucitron.init({
     </a>
   <div class="container" id="banner-fixed">
     <div class="row banner">
-      <a href="https://medium.com/oss-by-maif/ossbymaif-projet-open-source-de-lann%C3%A9e-9461bb2056d0">
-        <div class="col-xs-12 text-center">
-            <p class="title-banner">Prix du Meilleur Projet Open Source 2018</p>
-        </div>
-        <div class="col-xs-12 text-center">
-            <img class="logo-libre" src="img/logo-acteursdulibre.png">
-        </div>
-      </a>
+      <div class="col">
+        <a href="https://medium.com/oss-by-maif/ossbymaif-projet-open-source-de-lann%C3%A9e-9461bb2056d0">
+          <div class="d-flex flex-column">
+            <div class="text-center">
+                <p class="title-banner">Prix du Meilleur Projet Open Source 2018</p>
+            </div>
+            <div class="text-center">
+                <img class="logo-libre" src="img/logo-acteursdulibre.png">
+            </div>
+          </div>
+        </a>
+      </div>
     </div>
   </div>
   <div class="container home">
-
     <div class="row">
-      <div class="col-sm-6 col-md-4">
+      <div class="col-sm-6 col-md-4 mt-4">
+        <div class="product">
+          <img class="logo" src="img/melusine.svg"  alt="melusine logo"/>
+          <svg class="tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30" width="70" height="30" >
+            <g>
+              <g>
+                <polygon class="tag-mel" points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"/>
+                <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z"/>
+                <circle class="tag-shadow" cx="14" cy="12.5" r="2.5"/>
+                <text transform="translate(17 18.67)">
+                  <tspan>Python</tspan>
+                </text>
+              </g>
+            </g>
+          </svg>
+          <div class="title">melusine</div>
+            <p class="description">Melusine is a high-level library for emails classification and feature extraction dédiée aux courriels français.</p>
+            <p class="link"><a href="https://github.com/maif/melusine">github.com/MAIF/melusine</a></p>
+            <a href=""><p class="repo melusineColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-4 mt-4">
         <div class="product">
           <a href="https://maif.github.io/otoroshi"><img class="logo" src="img/otoroshi.svg" alt="otoroshi logo"/></a>
           <svg class="tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30" width="70" height="30" >
@@ -70,7 +94,7 @@ tarteaucitron.init({
           <a href="https://github.com/MAIF/otoroshi"><p class="repo otoColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
         </div>
       </div>
-      <div class="col-sm-6 col-md-4">
+      <div class="col-sm-6 col-md-4 mt-4">
         <div class="product">
           <a href="https://maif.github.io/izanami"><img class="logo" src="img/izanami.svg"  alt="izanami logo"/></a>
           <svg class="tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30" width="70" height="30" >
@@ -91,7 +115,7 @@ tarteaucitron.init({
           <a href="https://github.com/MAIF/izanami"><p class="repo izaColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
         </div>
       </div>
-      <div class="col-sm-6 col-md-4">
+      <div class="col-sm-6 col-md-4 mt-4">
         <div class="product">
           <a href="https://maif.github.io/nio"><img class="logo" src="img/nio.svg"  alt="nio logo"/></a>
           <svg class="tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30" width="70" height="30" >
@@ -112,9 +136,8 @@ tarteaucitron.init({
           <a href="https://github.com/MAIF/nio"><p class="repo nioColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
         </div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-6 col-md-3">
+
+      <div class="col-sm-6 col-md-3 mt-4">
         <div class="product">
           <a href="https://maif.github.io/cards"><img class="logo" src="img/cards.svg"  alt="izanami logo"/></a>
           <svg class="tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30" width="70" height="30" >
@@ -131,11 +154,13 @@ tarteaucitron.init({
           </svg>
           <div class="title"><a href="https://maif.github.io/cards">cards</a></div>
           <p class="description">A deck of cards enumerating simple rules to design all new digital products at MAIF</p>
-          <p class="link"><a href="https://maif.github.io/cards">maif.github.io/cards</a></p>
-          <a href="https://github.com/MAIF/cards"><p class="repo cardsColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
+          <div class="content-bottom">
+            <p class="link"><a href="https://maif.github.io/cards">maif.github.io/cards</a></p>
+            <a href="https://github.com/MAIF/cards"><p class="repo cardsColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
+          </div>
         </div>
       </div>
-      <div class="col-sm-6 col-md-3">
+      <div class="col-sm-6 col-md-3 mt-4">
         <div class="product">
           <img class="logo" src="img/lets.svg"  alt="let's automate logo"/>
           <svg class="tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30" width="70" height="30" >
@@ -152,29 +177,31 @@ tarteaucitron.init({
           </svg>
           <div class="title">let's automate</div>
             <p class="description">Automate Let's Encrypt certificate issuance, renewal and synchronize with CleverCloud.</p>
-            <p class="link"><a href="https://github.com/MAIF/lets-automate">github.com/MAIF/lets-automate</a></p>
-            <a href="https://github.com/MAIF/lets-automate"><p class="repo letsColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
+            <div class="content-bottom">
+              <p class="link"><a href="https://github.com/MAIF/lets-automate">github.com/MAIF/lets-automate</a></p>
+              <a href="https://github.com/MAIF/lets-automate"><p class="repo letsColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
+            </div>
         </div>
       </div>
     </div>
   </div>
   <footer>
-    <div class="col-xs-6 text-center">
+    <div class="row">
+    <div class="col text-center">
       <div class="footer-content">
-    <p class="link"><a href="mailto:oss@maif.fr"><span class="fa fa-envelope"></span> oss@maif.fr</a></p>
-    <p class="link"><a href="joinus"><span class="fa fa-user"></span> join us</a></p>
+        <p class="link"><a href="mailto:oss@maif.fr"><span class="fa fa-envelope"></span> oss@maif.fr</a></p>
+        <p class="link"><a href="joinus"><span class="fa fa-user"></span> join us</a></p>
+    </div>
   </div>
-  </div>
-  <div class="col-xs-6 text-center">
+  <div class="col text-center">
     <div class="footer-content">
-    <p class="link"><a href="https://github.com/MAIF"><span class="fa fa-github"></span> github.com/MAIF</a>
-    </p>
+    <p class="link"><a href="https://github.com/MAIF"><span class="fa fa-github"></span> github.com/MAIF</a></p>
     <p class="link"><a href="https://medium.com/oss-by-maif"><span class="fa fa-medium"></span> medium.com/oss-by-maif</a></p>
+    </div>
   </div>
   </div>
-  <div class="col-xs-12">
-
-  <p class="link link-center">made with <span class="fa fa-heart"></span></p>
+  <div class="col">
+    <p class="link link-center">made with <span class="fa fa-heart"></span></p>
   </div>
   </footer>
   <script type="text/javascript">
@@ -183,6 +210,8 @@ tarteaucitron.init({
     (tarteaucitron.job = tarteaucitron.job || []).push('analytics');
 
 </script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
 </body>
 
 </html>
