@@ -1,217 +1,364 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!-- Latest compiled and minified CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Arvo:400,600"
+      rel="stylesheet"
+    />
+    <link
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel="stylesheet"
+    />
+    <link href="css/style.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="img/favicon.ico" />
+    <title>OSS by MAIF</title>
+    <script
+      type="text/javascript"
+      src="js/tarteaucitron/tarteaucitron.js"
+    ></script>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <!-- Latest compiled and minified CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  <link href="https://fonts.googleapis.com/css?family=Arvo:400,600" rel="stylesheet">
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
-    <link rel="icon" type="image/png" href="img/favicon.ico">
-  <title>OSS by MAIF</title>
-  <script type="text/javascript" src="js/tarteaucitron/tarteaucitron.js"></script>
+    <script type="text/javascript">
+      tarteaucitron.init({
+        hashtag:
+          "#tarteaucitron" /* Ouverture automatique du panel avec le hashtag */,
+        highPrivacy: false /* désactiver le consentement implicite (en naviguant) ? */,
+        orientation:
+          "top" /* le bandeau doit être en haut (top) ou en bas (bottom) ? */,
+        adblocker: false /* Afficher un message si un adblocker est détecté */,
+        showAlertSmall: false /* afficher le petit bandeau en bas à droite ? */,
+        cookieslist: true /* Afficher la liste des cookies installés ? */,
+        removeCredit: false /* supprimer le lien vers la source ? */
+      });
+    </script>
+  </head>
 
-<script type="text/javascript">
-tarteaucitron.init({
-    "hashtag": "#tarteaucitron", /* Ouverture automatique du panel avec le hashtag */
-    "highPrivacy": false, /* désactiver le consentement implicite (en naviguant) ? */
-    "orientation": "top", /* le bandeau doit être en haut (top) ou en bas (bottom) ? */
-    "adblocker": false, /* Afficher un message si un adblocker est détecté */
-    "showAlertSmall": false, /* afficher le petit bandeau en bas à droite ? */
-    "cookieslist": true, /* Afficher la liste des cookies installés ? */
-    "removeCredit": false /* supprimer le lien vers la source ? */
-});
-</script>
-</head>
+  <body>
+    <div class="container-width header" id="header"></div>
 
-<body>
-  <div class="container-width header" id="header">
-  </div>
-
-  <a href="joinus">
-      <img class="manifesto" src="img/joinus.png">
-    </a>
-  <div class="container" id="banner-fixed">
-    <div class="row banner">
-      <div class="col">
-        <a href="https://medium.com/oss-by-maif/ossbymaif-projet-open-source-de-lann%C3%A9e-9461bb2056d0">
-          <div class="d-flex flex-column">
-            <div class="text-center">
-                <p class="title-banner">Prix du Meilleur Projet Open Source 2018</p>
+    <!--<a href="joinus">
+      <img class="manifesto" src="img/joinus.png" />
+    </a>-->
+    <div class="container home">
+      <div class="row">
+        <div class="col-sm-6 col-md-4 mt-4">
+          <div class="product">
+            <a href="https://maif.github.io/melusine"
+              ><img class="logo" src="img/melusine.svg" alt="melusine logo"
+            /></a>
+            <svg
+              class="tag"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 70 30"
+              width="70"
+              height="30"
+            >
+              <g>
+                <g>
+                  <polygon
+                    class="tag-mel"
+                    points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"
+                  />
+                  <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z" />
+                  <circle class="tag-shadow" cx="14" cy="12.5" r="2.5" />
+                  <text transform="translate(17 18.67)">
+                    <tspan>Python</tspan>
+                  </text>
+                </g>
+              </g>
+            </svg>
+            <div class="title">
+              <a href="https://maif.github.io/melusine">melusine</a>
             </div>
-            <div class="text-center">
-                <img class="img-fluid" src="img/logo-acteursdulibre.png">
-            </div>
-          </div>
-        </a>
-      </div>
-    </div>
-  </div>
-  <div class="container home">
-    <div class="row">
-      <div class="col-sm-6 col-md-4 mt-4">
-        <div class="product">
-          <a href="https://maif.github.io/melusine"><img class="logo" src="img/melusine.svg"  alt="melusine logo"/></a>
-          <svg class="tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30" width="70" height="30" >
-            <g>
-              <g>
-                <polygon class="tag-mel" points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"/>
-                <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z"/>
-                <circle class="tag-shadow" cx="14" cy="12.5" r="2.5"/>
-                <text transform="translate(17 18.67)">
-                  <tspan>Python</tspan>
-                </text>
-              </g>
-            </g>
-          </svg>
-          <div class="title"><a href="https://maif.github.io/melusine">melusine</a></div>
-            <p class="description">Melusine is a high-level library for emails classification and feature extraction "dédiée aux courriels français".</p>
-            <p class="link"><a href="https://maif.github.com/melusine">maif.github.com/melusine</a></p>
-            <a href="https://github.com/maif/melusine"><p class="repo melusineColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-4 mt-4">
-        <div class="product">
-          <a href="https://maif.github.io/otoroshi"><img class="logo" src="img/otoroshi.svg" alt="otoroshi logo"/></a>
-          <svg class="tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30" width="70" height="30" >
-            <g>
-              <g>
-                <polygon class="tag-yellow" points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"/>
-                <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z"/>
-                <circle class="tag-shadow" cx="14" cy="12.5" r="2.5"/>
-                <text transform="translate(23.53 18.67)">
-                  <tspan>Scala</tspan>
-                </text>
-              </g>
-            </g>
-          </svg>
-          <div class="title"><a href="https://maif.github.io/otoroshi">otoroshi</a></div>
-          <p class="description">Reverse proxy that handles traffic from and to your micro-services, with API management.</p>
-          <p class="link"><a href="https://maif.github.io/otoroshi">maif.github.io/otoroshi</a></p>
-          <a href="https://github.com/MAIF/otoroshi"><p class="repo otoColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-4 mt-4">
-        <div class="product">
-          <a href="https://maif.github.io/izanami"><img class="logo" src="img/izanami.svg"  alt="izanami logo"/></a>
-          <svg class="tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30" width="70" height="30" >
-            <g>
-              <g>
-                <polygon class="tag-pink" points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"/>
-                <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z"/>
-                <circle class="tag-shadow" cx="14" cy="12.5" r="2.5"/>
-                <text transform="translate(23.53 18.67)">
-                  <tspan>Scala</tspan>
-                </text>
-              </g>
-            </g>
-          </svg>
-          <div class="title"><a href="https://maif.github.io/izanami">izanami</a></div>
-          <p class="description">Shared configuration service for micro-services, provides feature flipping and A/B Testing.</p>
-          <p class="link"><a href="https://maif.github.io/izanami">maif.github.io/izanami</a></p>
-          <a href="https://github.com/MAIF/izanami"><p class="repo izaColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-4 mt-4">
-        <div class="product">
-          <a href="https://maif.github.io/nio"><img class="logo" src="img/nio.svg"  alt="nio logo"/></a>
-          <svg class="tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30" width="70" height="30" >
-            <g>
-              <g>
-                <polygon class="tag-nio" points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"/>
-                <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z"/>
-                <circle class="tag-shadow" cx="14" cy="12.5" r="2.5"/>
-                <text transform="translate(23.53 18.67)">
-                  <tspan>Scala</tspan>
-                </text>
-              </g>
-            </g>
-          </svg>
-          <div class="title"><a href="https://maif.github.io/nio">niõ</a></div>
-          <p class="description">Privacy management toolbox. It provides an API to manage persons' privacy. </p>
-          <p class="link"><a href="https://maif.github.io/nio">maif.github.io/nio</a></p>
-          <a href="https://github.com/MAIF/nio"><p class="repo nioColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
-        </div>
-      </div>
-
-      <div class="col-sm-6 col-md-4 mt-4">
-        <div class="product">
-          <a href="https://maif.github.io/cards"><img class="logo" src="img/cards.svg"  alt="izanami logo"/></a>
-          <svg class="tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30" width="70" height="30" >
-            <g>
-              <g>
-                <polygon class="tag-grey" points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"/>
-                <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z"/>
-                <circle class="tag-shadow" cx="14" cy="12.5" r="2.5"/>
-                <text transform="translate(23.53 18.67)">
-                  <tspan>JS</tspan>
-                </text>
-              </g>
-            </g>
-          </svg>
-          <div class="title"><a href="https://maif.github.io/cards">cards</a></div>
-          <p class="description">A deck of cards enumerating simple rules to design all new digital products at MAIF</p>
-          <div class="content-bottom">
-            <p class="link"><a href="https://maif.github.io/cards">maif.github.io/cards</a></p>
-            <a href="https://github.com/MAIF/cards"><p class="repo cardsColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
+            <p class="description">
+              Melusine is a high-level library for emails classification and
+              feature extraction "dédiée aux courriels français".
+            </p>
+            <p class="link">
+              <a href="https://maif.github.com/melusine"
+                >maif.github.com/melusine</a
+              >
+            </p>
+            <a href="https://github.com/maif/melusine"
+              ><p class="repo melusineColor">
+                <i class="fa fa-github fa-2x" aria-hidden="true"></i></p
+            ></a>
           </div>
         </div>
-      </div>
-      <div class="col-sm-6 col-md-4 mt-4">
-        <div class="product">
-          <img class="logo" src="img/lets.svg"  alt="let's automate logo"/>
-          <svg class="tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 30" width="70" height="30" >
-            <g>
+        <div class="col-sm-6 col-md-4 mt-4">
+          <div class="product">
+            <a href="https://maif.github.io/otoroshi"
+              ><img class="logo" src="img/otoroshi.svg" alt="otoroshi logo"
+            /></a>
+            <svg
+              class="tag"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 70 30"
+              width="70"
+              height="30"
+            >
               <g>
-                <polygon class="tag-lets" points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"/>
-                <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z"/>
-                <circle class="tag-shadow" cx="14" cy="12.5" r="2.5"/>
-                <text transform="translate(23.53 18.67)">
-                  <tspan>Kotlin</tspan>
-                </text>
+                <g>
+                  <polygon
+                    class="tag-yellow"
+                    points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"
+                  />
+                  <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z" />
+                  <circle class="tag-shadow" cx="14" cy="12.5" r="2.5" />
+                  <text transform="translate(23.53 18.67)">
+                    <tspan>Scala</tspan>
+                  </text>
+                </g>
               </g>
-            </g>
-          </svg>
-          <div class="title">let's automate</div>
-            <p class="description">Automate Let's Encrypt certificate issuance, renewal and synchronize with CleverCloud.</p>
+            </svg>
+            <div class="title">
+              <a href="https://maif.github.io/otoroshi">otoroshi</a>
+            </div>
+            <p class="description">
+              Reverse proxy that handles traffic from and to your
+              micro-services, with API management.
+            </p>
+            <p class="link">
+              <a href="https://maif.github.io/otoroshi"
+                >maif.github.io/otoroshi</a
+              >
+            </p>
+            <a href="https://github.com/MAIF/otoroshi"
+              ><p class="repo otoColor">
+                <i class="fa fa-github fa-2x" aria-hidden="true"></i></p
+            ></a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 mt-4">
+          <div class="product">
+            <a href="https://maif.github.io/izanami"
+              ><img class="logo" src="img/izanami.svg" alt="izanami logo"
+            /></a>
+            <svg
+              class="tag"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 70 30"
+              width="70"
+              height="30"
+            >
+              <g>
+                <g>
+                  <polygon
+                    class="tag-pink"
+                    points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"
+                  />
+                  <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z" />
+                  <circle class="tag-shadow" cx="14" cy="12.5" r="2.5" />
+                  <text transform="translate(23.53 18.67)">
+                    <tspan>Scala</tspan>
+                  </text>
+                </g>
+              </g>
+            </svg>
+            <div class="title">
+              <a href="https://maif.github.io/izanami">izanami</a>
+            </div>
+            <p class="description">
+              Shared configuration service for micro-services, provides feature
+              flipping and A/B Testing.
+            </p>
+            <p class="link">
+              <a href="https://maif.github.io/izanami"
+                >maif.github.io/izanami</a
+              >
+            </p>
+            <a href="https://github.com/MAIF/izanami"
+              ><p class="repo izaColor">
+                <i class="fa fa-github fa-2x" aria-hidden="true"></i></p
+            ></a>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 mt-4">
+          <div class="product">
+            <a href="https://maif.github.io/nio"
+              ><img class="logo" src="img/nio.svg" alt="nio logo"
+            /></a>
+            <svg
+              class="tag"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 70 30"
+              width="70"
+              height="30"
+            >
+              <g>
+                <g>
+                  <polygon
+                    class="tag-nio"
+                    points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"
+                  />
+                  <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z" />
+                  <circle class="tag-shadow" cx="14" cy="12.5" r="2.5" />
+                  <text transform="translate(23.53 18.67)">
+                    <tspan>Scala</tspan>
+                  </text>
+                </g>
+              </g>
+            </svg>
+            <div class="title">
+              <a href="https://maif.github.io/nio">niõ</a>
+            </div>
+            <p class="description">
+              Privacy management toolbox. It provides an API to manage persons'
+              privacy.
+            </p>
+            <p class="link">
+              <a href="https://maif.github.io/nio">maif.github.io/nio</a>
+            </p>
+            <a href="https://github.com/MAIF/nio"
+              ><p class="repo nioColor">
+                <i class="fa fa-github fa-2x" aria-hidden="true"></i></p
+            ></a>
+          </div>
+        </div>
+
+        <div class="col-sm-6 col-md-4 mt-4">
+          <div class="product">
+            <a href="https://maif.github.io/cards"
+              ><img class="logo" src="img/cards.svg" alt="izanami logo"
+            /></a>
+            <svg
+              class="tag"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 70 30"
+              width="70"
+              height="30"
+            >
+              <g>
+                <g>
+                  <polygon
+                    class="tag-grey"
+                    points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"
+                  />
+                  <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z" />
+                  <circle class="tag-shadow" cx="14" cy="12.5" r="2.5" />
+                  <text transform="translate(23.53 18.67)">
+                    <tspan>JS</tspan>
+                  </text>
+                </g>
+              </g>
+            </svg>
+            <div class="title">
+              <a href="https://maif.github.io/cards">cards</a>
+            </div>
+            <p class="description">
+              A deck of cards enumerating simple rules to design all new digital
+              products at MAIF
+            </p>
             <div class="content-bottom">
-              <p class="link"><a href="https://github.com/MAIF/lets-automate">github.com/MAIF/lets-automate</a></p>
-              <a href="https://github.com/MAIF/lets-automate"><p class="repo letsColor"><i class="fa fa-github fa-2x" aria-hidden="true"></i></p></a>
+              <p class="link">
+                <a href="https://maif.github.io/cards">maif.github.io/cards</a>
+              </p>
+              <a href="https://github.com/MAIF/cards"
+                ><p class="repo cardsColor">
+                  <i class="fa fa-github fa-2x" aria-hidden="true"></i></p
+              ></a>
             </div>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-4 mt-4">
+          <div class="product">
+            <img class="logo" src="img/lets.svg" alt="let's automate logo" />
+            <svg
+              class="tag"
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 70 30"
+              width="70"
+              height="30"
+            >
+              <g>
+                <g>
+                  <polygon
+                    class="tag-lets"
+                    points="67.5 25.7 0.5 25.7 7.84 12.6 0.5 0 67.5 0 67.5 25.7"
+                  />
+                  <path class="tag-shadow" d="M0,25.5l7,4H67V25.7Z" />
+                  <circle class="tag-shadow" cx="14" cy="12.5" r="2.5" />
+                  <text transform="translate(23.53 18.67)">
+                    <tspan>Kotlin</tspan>
+                  </text>
+                </g>
+              </g>
+            </svg>
+            <div class="title">let's automate</div>
+            <p class="description">
+              Automate Let's Encrypt certificate issuance, renewal and
+              synchronize with CleverCloud.
+            </p>
+            <div class="content-bottom">
+              <p class="link">
+                <a href="https://github.com/MAIF/lets-automate"
+                  >github.com/MAIF/lets-automate</a
+                >
+              </p>
+              <a href="https://github.com/MAIF/lets-automate"
+                ><p class="repo letsColor">
+                  <i class="fa fa-github fa-2x" aria-hidden="true"></i></p
+              ></a>
+            </div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-  <footer>
-    <div class="row">
-    <div class="col text-center">
-      <div class="footer-content">
-        <p class="link"><a href="mailto:oss@maif.fr"><span class="fa fa-envelope"></span> oss@maif.fr</a></p>
-        <p class="link"><a href="joinus"><span class="fa fa-user"></span> join us</a></p>
-    </div>
-  </div>
-  <div class="col text-center">
-    <div class="footer-content">
-    <p class="link"><a href="https://github.com/MAIF"><span class="fa fa-github"></span> github.com/MAIF</a></p>
-    <p class="link"><a href="https://medium.com/oss-by-maif"><span class="fa fa-medium"></span> medium.com/oss-by-maif</a></p>
-    </div>
-  </div>
-  </div>
-  <div class="col">
-    <p class="link link-center">made with <span class="fa fa-heart"></span></p>
-  </div>
-  </footer>
-  <script type="text/javascript">
-    tarteaucitron.user.analyticsUa = 'UA-112498312-1';
-    tarteaucitron.user.analyticsMore = function () {};
-    (tarteaucitron.job = tarteaucitron.job || []).push('analytics');
-
-</script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-
-</body>
-
+    <footer>
+      <div class="row">
+        <div class="col text-center">
+          <div class="footer-content">
+            <p class="link">
+              <a href="mailto:oss@maif.fr"
+                ><span class="fa fa-envelope"></span> oss@maif.fr</a
+              >
+            </p>
+            <!--
+            <p class="link">
+              <a href="joinus"><span class="fa fa-user"></span> join us</a>
+            </p>
+            -->
+          </div>
+        </div>
+        <div class="col text-center">
+          <div class="footer-content">
+            <p class="link">
+              <a href="https://github.com/MAIF"
+                ><span class="fa fa-github"></span> github.com/MAIF</a
+              >
+            </p>
+            <p class="link">
+              <a href="https://medium.com/oss-by-maif"
+                ><span class="fa fa-medium"></span> medium.com/oss-by-maif</a
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <p class="link link-center">
+          made with <span class="fa fa-heart"></span>
+        </p>
+      </div>
+    </footer>
+    <script type="text/javascript">
+      tarteaucitron.user.analyticsUa = "UA-112498312-1";
+      tarteaucitron.user.analyticsMore = function() {};
+      (tarteaucitron.job = tarteaucitron.job || []).push("analytics");
+    </script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+      integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+      crossorigin="anonymous"
+    ></script>
+  </body>
 </html>
