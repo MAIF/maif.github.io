@@ -1,72 +1,172 @@
+@font-face {
+  font-family:'MAIF';
+  src:	url('MAIF-Light.eot');
+  src:	url('MAIF-Light.eot?#iefix') format('embedded-opentype'),
+  url('MAIF-Light.woff2') format('woff2'),
+  url('MAIF-Light.woff') format('woff'),
+  url('MAIF-Light.svg') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'MAIF';
+  src:	url('MAIF-LightItalic.eot');
+  src:	url('MAIF-LightItalic.eot?#iefix') format('embedded-opentype'),
+  url('MAIF-LightItalic.woff2') format('woff2'),
+  url('MAIF-LightItalic.woff') format('woff'),
+  url('MAIF-LightItalic.svg') format('svg');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family:'MAIF';
+  src:	url('MAIF-Italic.eot');
+  src:	url('MAIF-Italic.eot?#iefix') format('embedded-opentype'),
+  url('MAIF-Italic.woff2') format('woff2'),
+  url('MAIF-Italic.woff') format('woff'),
+  url('MAIF-Italic.svg') format('svg');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family:'MAIF';
+  src:	url('MAIF-Regular.eot');
+  src:	url('MAIF-Regular.eot?#iefix') format('embedded-opentype'),
+  url('MAIF-Regular.woff2') format('woff2'),
+  url('MAIF-Regular.woff') format('woff'),
+  url('MAIF-Regular.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'MAIF';
+  src:	url('MAIF-Medium.eot');
+  src:	url('MAIF-Medium.eot?#iefix') format('embedded-opentype'),
+  url('MAIF-Medium.woff2') format('woff2'),
+  url('MAIF-Medium.woff') format('woff'),
+  url('MAIF-Medium.svg') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'MAIF';
+  src:	url('MAIF-MediumItalic.eot');
+  src:	url('MAIF-MediumItalic.eot?#iefix') format('embedded-opentype'),
+  url('MAIF-MediumItalic.woff2') format('woff2'),
+  url('MAIF-MediumItalic.woff') format('woff'),
+  url('MAIF-MediumItalic.svg') format('svg');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family:'MAIF';
+  src:	url('MAIF-Bold.eot');
+  src:	url('MAIF-Bold.eot?#iefix') format('embedded-opentype'),
+  url('MAIF-Bold.woff2') format('woff2'),
+  url('MAIF-Bold.woff') format('woff'),
+  url('MAIF-Bold.svg') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'MAIF';
+  src:	url('MAIF-BoldItalic.eot');
+  src:	url('MAIF-BoldItalic.eot?#iefix') format('embedded-opentype'),
+  url('MAIF-BoldItalic.woff2') format('woff2'),
+  url('MAIF-BoldItalic.woff') format('woff'),
+  url('MAIF-BoldItalic.svg') format('svg');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family:'MAIF';
+  src:	url('MAIF-Black.eot');
+  src:	url('MAIF-Black.eot?#iefix') format('embedded-opentype'),
+  url('MAIF-Black.woff2') format('woff2'),
+  url('MAIF-Black.woff') format('woff'),
+  url('MAIF-Black.svg') format('svg');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family:'MAIF';
+  src:	url('MAIF-BlackItalic.eot');
+  src:	url('MAIF-BlackItalic.eot?#iefix') format('embedded-opentype'),
+  url('MAIF-BlackItalic.woff2') format('woff2'),
+  url('MAIF-BlackItalic.woff') format('woff'),
+  url('MAIF-BlackItalic.svg') format('svg');
+  font-weight: 900;
+  font-style: italic;
+}
+
 body {
-  font-family: 'Arvo', serif;
+  font-family: 'MAIF', serif;
+  background-color: rgb(246, 243, 241);
 }
 
 .header {
-  background: url(../img/header-home.svg) #2E3031 no-repeat;
-  background-size: cover;
-  background-position: center top;
-  height: 150px;
+  height: 200px;
+  border-bottom: 1px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.otoColor {
-  background-color: #F7A600;
+.header img {
+  width: 160px;
+}
+.baseline{
+  font-size: 22px;
+}
+.header-fix{
+  height: 0;
+  justify-content: center;
+  width: 100%;
+  z-index: 2;
+  top: 0;
+  background-color: #f6f3f1;
+  display: flex;
+  border-bottom: 1px solid #fff;
 }
 
-.izaColor {
-  background-color: #DC5F9F;
+.fixed-nav {
+  position: fixed;
+  height: 60px;
+  transition: 0.5s height ease;
 }
 
-.cardsColor {
-  background-color: #a6bc99;
+
+.display-none {
+  display: none;
 }
 
-.nioColor {
-  background-color: #75b94e;
-}
-
-.letsColor {
-  background-color: #c8d400;
-}
-
-.melusineColor{
-  background-color: #68a692;
-}
 .home {
-  background-image: url(../img/bg-container.svg);
-  background-repeat: no-repeat;
+  background-color: rgb(246, 243, 241);
 }
 
-.banner {
-    margin-top: 20px;
+
+.intro{
+  background-color: #fff;
 }
 
-.banner a{
-  text-decoration: none;
-}
-
-.banner .col{
-  background-color: #222222;
-}
-
-.title-banner{
-  margin-top: 10px;
-  background-color: #00aded;
-  color: #FFF;
-  font-size: 24px;
-}
-
-.emptyBlock{
-    min-height: 510px;
-}
 
 .product {
-  border: 1px solid #9D9D9C;
-  height: 100%;
   padding: 5px;
   background-color: #fff;
   min-height: 460px;
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .logo {
@@ -74,64 +174,18 @@ body {
   width: 100%;
 }
 
-.tag {
-  position: absolute;
-  right: -3px;
-  top: 10px;
-  font-size: 14px;
-  font-weight: bold;
-  fill: #2E3031;
-}
-
-.tag-yellow {
-  fill: #F7A600;
-}
-
-.tag-pink {
-  fill: #DC5E9F;
-}
-
-.tag-green {
-  fill: #A6BC99;
-}
-
-.tag-blue {
-  fill: #00B4CD;
-}
-
-.tag-grey {
-  fill: #a6bc99;
-}
-
-.tag-shadow {
-  fill: #2E3031;
-}
-.tag-nio{
-  fill: #75b84e;
-}
-.tag-lets{
-  fill: #c8d400;
-}
-.tag-mel{
-  fill: #68a692;
-}
-
 .title {
   font-weight: bold;
   font-size: 35px;
-  color: #000000;
+  color: rgb(46, 64, 79);
   text-align: center;
   word-break: break-word;
-}
-
-.title a {
-  color: black;
 }
 
 .description {
   font-size: 14px;
   text-align: center;
-  color: #000000;
+  color: rgb(46, 64, 79);;
 }
 
 .link {
@@ -145,22 +199,25 @@ body {
   word-break: break-all;
 }
 
+.external-link,.external-link:hover{
+  color: #c62222;
+}
+
 .content-bottom{
-    /* position: absolute;
     bottom: 5px;
     margin-left: auto;
     margin-right: auto;
-    left: 0;
-    right: 0; */
 }
-
+.read-more{
+  background-color: #fff;
+}
 .repo {
   border-radius: 50%;
   width: 40px;
   height: 40px;
   display: block;
   margin: auto;
-  color: #fff;
+  color: #c62222;
 }
 
 .fa-github {
@@ -170,9 +227,9 @@ body {
 
 footer {
   margin-top: 50px;
-  padding-top: 15px;
-  background-color: black;
+  background: linear-gradient(90deg, #595667, #684a52);;
   overflow: auto;
+  color: #fff;
 }
 
 footer .fa-github {
@@ -180,64 +237,30 @@ footer .fa-github {
   width: auto;
 }
 
-footer .link{
-  text-align: left;
-}
-
-footer .link-center {
-  text-align: center;
-  margin-top: 40px;
-}
 
 .footer-content {
   display: inline-block;
-  border-left: 1px solid #8b8b8a;
-  padding-left: 10px;
+  font-size: 14px;
+  padding: 15px 5px;
 }
 
+.footer-content a{
+  margin: 0 5px;
+  color: #ffff;
+}
 .repo i {
   text-align: center;
 }
 
-.soon {
-  position: absolute;
-  text-align: center;
-  bottom: 10px;
-  left: 0;
-  right: 0;
-  font-size: 24px;
-}
 
-.disabled {
-  color: #cfcdcc;
-}
-
-.manifesto {
-  border: 0;
-  position: fixed;
-  right: 0;
-  top: 0;
-  z-index: 9000;
-}
-
-@media screen and (max-width:400px) {
-  .logo-libre{
-    width: auto;
-    height: 100%;
-  }
-}
-
-@media screen and (min-width: 600px) {
-  .header {
-    height: 300px;
-  }
-}
 @media screen and (max-width: 800px) {
-  .emptyBlock{
-    display: none;
-  }
   .content-bottom{
     position: relative;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .product {
+    min-height: 520px;
   }
 }
 @media screen and (min-width: 1400px) {
