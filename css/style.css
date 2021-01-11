@@ -172,6 +172,7 @@ body {
 .logo {
   position: relative;
   width: 100%;
+  background-color: #343736;
 }
 
 .title {
