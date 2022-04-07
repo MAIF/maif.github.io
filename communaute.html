@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.14.0-beta2/dist/css/bootstrap-select.min.css"
+    />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link href="css/style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-sm fixed-top navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand flex-grow-1" href="index.html"
+          ><img
+            alt="logo MAIF"
+            src="https://static.maif.fr/resources/img/logo-maif.svg"
+          />
+          #OSSbyMAIF</a
+        >
+        <button class="navbar-toggler me-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse  order-2 order-sm-0" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="projets.html"
+                >PROJETS</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="communaute.html">COMMUNAUTE</a>
+            </li>
+          </ul>
+        </div>
+        <select
+          id="language"
+          class="form-select"
+          aria-label="Default select example"
+        >
+          <option value="English">English</option>
+          <option value="Francais" selected>Français</option>
+        </select>
+      </div>
+    </nav>
+    <div class="bg-blue">
+      <section class="container">
+        <div class="d-flex justify-content-center align-items-center p-4">
+          <img
+            class="w-10"
+            alt="logo MAIF"
+            src="https://static.maif.fr/resources/img/logo-maif.svg"
+          />
+          <div class="text-white ms-4">
+            <h1>#OSSbyMAIF</h1>
+            <h2>
+              Designing & building <strong>commons</strong><br />since
+              <strong>1934</strong>
+            </h2>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="title pt-4">Communauté</div>
+          <ul class="nav nav-tabs mt-4" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+              <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Nos événements</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab" aria-controls="profile" aria-selected="false">Comment s'engager ?</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact" type="button" role="tab" aria-controls="contact" aria-selected="false">Témoignages</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" id="recrutement-tab" data-bs-toggle="tab" data-bs-target="#recrutement" type="button" role="tab" aria-controls="recrutement" aria-selected="false">Recrutement</button>
+            </li>
+          </ul>
+          <div class="tab-content mt-1 p-3" id="myTabContent">
+            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus aliquid sapiente velit officiis excepturi! Temporibus adipisci neque, distinctio cum quas odit est maxime mollitia qui hic, voluptates suscipit porro, placeat ut enim incidunt. Saepe qui aspernatur et accusantium alias, sed, aut, dolorum beatae praesentium incidunt nostrum quaerat quisquam sequi deleniti.
+            </div>
+            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">bb</div>
+            <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">cc</div>
+            <div class="tab-pane fade" id="recrutement" role="tabpanel" aria-labelledby="recrutement-tab">recrutement</div>
+            
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <div class="footer-content">
+              <a href="mailto:oss@maif.fr"
+                ><span class="fa fa-envelope me-2"></span>oss@maif.fr</a
+              >
+              <span>|</span>
+              <a href="https://github.com/MAIF"
+                ><span class="fa fa-github me-2"></span>github.com/MAIF</a
+              >
+              <span>|</span>
+              <a href="https://medium.com/oss-by-maif"
+                ><span class="fa fa-medium me-2"></span
+                >medium.com/oss-by-maif</a
+              >
+              <span>|</span>
+              made with <span class="fa fa-heart"></span>
+
+              <span>|</span>
+              <a href="https://maif.fr"
+                ><img
+                  alt="logo MAIF"
+                  src="https://static.maif.fr/resources/img/logo-maif.svg"
+                  width="40"
+              /></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.14.0-beta2/dist/js/bootstrap-select.min.js"></script>
+
+    <script src="js/select.js"></script>
+    <script>
+      var products = document.querySelectorAll('[data-bs-toggle="collapse"]');
+      products.forEach((product) => {
+        product.addEventListener("click", () => {
+          var openStories = document.querySelectorAll(
+            ".story-telling.collapse.show"
+          );
+          openStories.forEach((story) => {
+            story.classList.toggle("show");
+          });
+        });
+      });
+    </script>
+  </body>
+</html>
