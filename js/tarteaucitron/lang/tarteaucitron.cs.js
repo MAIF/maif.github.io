@@ -1,5 +1,6 @@
 /*global tarteaucitron */
 tarteaucitron.lang = {
+    "middleBarHead": "☝ 🍪",
     "adblock": "Ahoj! Tato stránka je transparetní a umožňuje ti si přímo vybrat, jaké služby třetích stran chceš povolit.",
     "adblock_call": "Pro úpravu osobních preferencí si, prosím, vypni adblock.",
     "reload": "Načíst stránku znovu",
@@ -13,6 +14,8 @@ tarteaucitron.lang = {
     "personalize": "Přizpůsobit",
     "acceptAll": "OK, přijmout vše",
     "close": "Zavřít",
+
+    "privacyUrl": "Zásady ochrany osobních údajů",
     
     "all": "Nastavení všech služeb",
 
@@ -27,8 +30,21 @@ tarteaucitron.lang = {
     "more": "Dozvědět se více",
     "source": "Zobrazit oficiální stránku",
     "credit": "Správce cookies od tarteaucitron.js",
+
+    "toggleInfoBox": "Zobrazit/skrýt informace o ukládání souborů cookie",
+    "title": "Panel pro správu cookies",
+    "cookieDetail": "Podrobnosti o souboru cookie pro",
+    "ourSite": "na našem webu",
+    "modalWindow": "(modální okno)",
+    "newWindow": "(nové okno)",
+    "allowAll": "Povolit všechny soubory cookie",
+    "denyAll": "Odmítnout všechny cookies",
+
+    "icon": "Cookies",
     
     "fallback": "je vypnutý.",
+    "allowed": "povoleno",
+    "disallowed": "nepovoleno",
 
     "ads": {
         "title": "Reklamní síť",
@@ -61,5 +77,8 @@ tarteaucitron.lang = {
     "other": {
         "title": "Jiný",
         "details": "Služby pro zobrazení webového obsahu."
-    }
+    },
+    
+    "mandatoryTitle": "Mandatory cookies",
+    "mandatoryText": "This site uses cookies necessary for its proper functioning which cannot be deactivated."
 };

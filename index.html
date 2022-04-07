@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -31,7 +31,9 @@
       tarteaucitron.init({
         hashtag:
           "#tarteaucitron" /* Ouverture automatique du panel avec le hashtag */,
-        highPrivacy: false /* désactiver le consentement implicite (en naviguant) ? */,
+          "DenyAllCta" : true, /* Show the deny all button */
+          "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+          "highPrivacy": true, /* HIGHLY RECOMMANDED Disable auto consent */
         orientation:
           "top" /* le bandeau doit être en haut (top) ou en bas (bottom) ? */,
         adblocker: false /* Afficher un message si un adblocker est détecté */,
