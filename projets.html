@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.14.0-beta2/dist/css/bootstrap-select.min.css"
+    />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link href="css/style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-sm fixed-top navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand flex-grow-1" href="index.html"
+          ><img
+            alt="logo MAIF"
+            src="https://static.maif.fr/resources/img/logo-maif.svg"
+          />
+          #OSSbyMAIF</a
+        >
+        <button class="navbar-toggler me-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse  order-2 order-sm-0" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="projets.html"
+                >PROJETS</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="communaute.html">COMMUNAUTE</a>
+            </li>
+          </ul>
+        </div>
+        <select
+          id="language"
+          class="form-select"
+          aria-label="Default select example"
+        >
+          <option value="English">English</option>
+          <option value="Francais" selected>Français</option>
+        </select>
+      </div>
+    </nav>
+    <div class="bg-blue">
+      <section class="container">
+        <div class="d-flex justify-content-center align-items-center p-4">
+          <img
+            class="w-10"
+            alt="logo MAIF"
+            src="https://static.maif.fr/resources/img/logo-maif.svg"
+          />
+          <div class="text-white ms-4">
+            <h1>#OSSbyMAIF</h1>
+            <h2>
+              Designing & building <strong>commons</strong><br />since
+              <strong>1934</strong>
+            </h2>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="title pt-4">Projets</div>
+          <div class="row">
+            <div class="col-sm-6 col-md-4 mt-4 mb-4">
+              <div class="position-relative">
+                <span
+                data-bs-toggle="collapse"
+                href="#collapseThoth"
+                role="button"
+                aria-expanded="false"
+                aria-controls="collapseThoth"
+                >
+                <div class="product pb-5">
+                  <div class="content">
+                  <img
+                        class="logo"
+                        src="https://www.ossbymaif.fr/img/thoth.svg"
+                        alt="thoth logo"
+                      />
+                    <div class="product_title">thoth</div>
+                    <div class="collapse story-telling" id="collapseThoth">
+                      <div class="card card-body mb-4">
+                        <p>
+                          Pep den en deus dleadoù e-keñver ar gevredigezh, al
+                          lec'h nemetañ ma c'hell peurziorren e bersonelezh en
+                          he frankiz.
+                        </p>
+
+                        <p>
+                          Da bep hini eo an holl wirioù ha frankizioù embannet
+                          en disklêriadur-mañ, hep ket a ziforc'h, a ouenn, a
+                          liv, a reizh, a yezh, a veno politikel pe a veno all,
+                          a orin broadel pe gevredigezhel, a leve, a
+                          c'hanedigezh pe a natur all.
+                        </p>
+
+                        <p>
+                          Pep hini en deus gwir da gemer perzh evel a gar e
+                          buhez sevenadurel ar gumuniezh, da gaout dudi gant an
+                          arzoù, da gemer perzh en araokadeg ar skiantoù ha da
+                          gaout e lod eus ar madoù degaset ganti.
+                        </p>
+
+                        <p>
+                          Ar mammoù hag ar vugale o deus gwir da gaout harp ha
+                          skoazell dreist an holl. An hol vugale, ganet eus tud
+                          dimezet pe dizimez, o devo ar emmes gwares
+                          kevredigezhel.
+                        </p>
+
+                        <p>
+                          Gwir pep hini eo e vefe anavezet e bersonelezh
+                          lezennel e pep lec'h.
+                        </p>
+                      </div>
+                    </div>
+                    <p class="description p-2">
+                      Power your Java Apps with Event Sourcing.
+                    </p>
+                  </div>
+                  <div class="content-bottom">
+                    <a href="https://github.com/maif/thoth"
+                      ><p class="repo">
+                        <i class="fab fa-github fa-2x" aria-hidden="true"></i></p
+                    ></a>
+                  </div>
+
+                </div><!-- fin product-->
+              </span>
+
+              <div class="read-more position-absolute d-flex justify-content-center w-100 mt-n5">
+                <p class="link">
+                  <a
+                    href="https://maif.github.io/thoth"
+                    title="See more details about the project"
+                    >Read more <i class="fas fa-arrow-right ms-2"></i
+                  ></a>
+                </p>
+              </div>
+              </div>
+              </div>
+              <div class="col-sm-6 col-md-4 mt-4 mb-4">
+                <div class="position-relative">
+                  <span
+                  data-bs-toggle="collapse"
+                  href="#collapseshapash"
+                  role="button"
+                  aria-expanded="false"
+                  aria-controls="collapseshapash"
+                  >
+                  <div class="product pb-5">
+                    <div class="content">
+                    <img
+                          class="logo"
+                          src="https://www.ossbymaif.fr/img/shapash.png"
+                          alt="shapash logo"
+                        />
+                      <div class="product_title">shapash</div>
+                      <div class="collapse story-telling" id="collapseshapash">
+                        <div class="card card-body mb-4">
+                          <p>
+                            Pep den en deus dleadoù e-keñver ar gevredigezh, al
+                            lec'h nemetañ ma c'hell peurziorren e bersonelezh en
+                            he frankiz.
+                          </p>
+  
+                          <p>
+                            Da bep hini eo an holl wirioù ha frankizioù embannet
+                            en disklêriadur-mañ, hep ket a ziforc'h, a ouenn, a
+                            liv, a reizh, a yezh, a veno politikel pe a veno all,
+                            a orin broadel pe gevredigezhel, a leve, a
+                            c'hanedigezh pe a natur all.
+                          </p>
+  
+                          <p>
+                            Pep hini en deus gwir da gemer perzh evel a gar e
+                            buhez sevenadurel ar gumuniezh, da gaout dudi gant an
+                            arzoù, da gemer perzh en araokadeg ar skiantoù ha da
+                            gaout e lod eus ar madoù degaset ganti.
+                          </p>
+  
+                          <p>
+                            Ar mammoù hag ar vugale o deus gwir da gaout harp ha
+                            skoazell dreist an holl. An hol vugale, ganet eus tud
+                            dimezet pe dizimez, o devo ar emmes gwares
+                            kevredigezhel.
+                          </p>
+  
+                          <p>
+                            Gwir pep hini eo e vefe anavezet e bersonelezh
+                            lezennel e pep lec'h.
+                          </p>
+                        </div>
+                      </div>
+                      <p class="description p-2">
+                        Make Machine Learning models transparent and understandable by everyone. 
+                      </p>
+                    </div>
+                    <div class="content-bottom">
+                      <a href="https://github.com/maif/shapash"
+                        ><p class="repo">
+                          <i class="fab fa-github fa-2x" aria-hidden="true"></i></p
+                      ></a>
+                    </div>
+  
+                  </div><!-- fin product-->
+                </span>
+  
+                <div class="read-more position-absolute d-flex justify-content-center w-100 mt-n5">
+                  <p class="link">
+                    <a
+                      href="https://maif.github.io/shapash"
+                      title="See more details about the project"
+                      >Read more <i class="fas fa-arrow-right ms-2"></i
+                    ></a>
+                  </p>
+                </div>
+                </div>
+                </div>
+
+            <div class="col-sm-6 col-md-4 mt-4">
+              <div>
+                <div class="product">
+                  <div class="content">
+                    <a href="https://maif.github.io/daikoku"
+                      ><img
+                        class="logo"
+                        src="https://www.ossbymaif.fr/img/daikoku.svg"
+                        alt="daikoku logo"
+                      />
+                    </a>
+                    <div class="product_title">daikoku</div>
+                    <p class="description p-2">
+                      The missing developer portal for your apis served by
+                      Otoroshi.
+                    </p>
+                  </div>
+                  <div class="content-bottom">
+                    <a href="https://github.com/maif/daikoku"
+                      ><p class="repo">
+                        <i class="fab fa-github fa-2x" aria-hidden="true"></i></p
+                    ></a>
+                  </div>
+                  <div class="read-more mt-3">
+                    <p class="link">
+                      <a
+                        href="https://maif.github.io/daikoku"
+                        title="See more details about the project"
+                        >Read more <i class="fas fa-arrow-right ms-2"></i
+                      ></a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mt-4">
+              <div>
+                <div class="product">
+                  <div class="content">
+                    <a href="https://maif.github.io/melusine"
+                      ><img
+                        class="logo"
+                        src="https://www.ossbymaif.fr/img/melusine.svg"
+                        alt="melusine logo"
+                      />
+                    </a>
+                    <div class="product_title">melusine</div>
+                    <p class="description p-2">
+                      Melusine is a high-level library for emails classification
+                      and feature extraction "dédiée aux courriels français".
+                    </p>
+                  </div>
+                  <div class="content-bottom">
+                    <a href="https://github.com/maif/melusine"
+                      ><p class="repo">
+                        <i class="fab fa-github fa-2x" aria-hidden="true"></i></p
+                    ></a>
+                  </div>
+
+                  <div class="read-more mt-3">
+                    <p class="link">
+                      <a
+                        href="https://maif.github.io/melusine"
+                        title="See more details about the project"
+                        >Read more <i class="fas fa-arrow-right ms-2"></i
+                      ></a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mt-4">
+              <div>
+                <div class="product">
+                  <div class="content">
+                    <a href="https://maif.github.io/otoroshi">
+                      <img
+                        class="logo"
+                        src="https://www.ossbymaif.fr/img/otoroshi.svg"
+                        alt="otoroshi logo"
+                      />
+                    </a>
+                    <div class="product_title">otoroshi</div>
+                    <p class="description p-2">
+                      Reverse proxy that handles traffic from and to your
+                      micro-services, with API management.
+                    </p>
+                  </div>
+                  <div class="content-bottom">
+                    <a href="https://github.com/MAIF/otoroshi"
+                      ><p class="repo">
+                        <i class="fab fa-github fa-2x" aria-hidden="true"></i></p
+                    ></a>
+                  </div>
+                  <div class="read-more mt-3">
+                    <p class="link">
+                      <a
+                        href="https://maif.github.io/otoroshi"
+                        title="See more details about the project"
+                        >Read more <i class="fas fa-arrow-right ms-2"></i
+                      ></a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mt-4">
+              <div class="product">
+                <div class="content">
+                  <a href="https://maif.github.io/izanami">
+                    <img
+                      class="logo"
+                      src="https://www.ossbymaif.fr/img/izanami.svg"
+                      alt="izanami logo"
+                    />
+                  </a>
+                  <div class="product_title">izanami</div>
+                  <p class="description p-2">
+                    Shared configuration service for micro-services, provides
+                    feature flipping and A/B Testing.
+                  </p>
+                </div>
+                <div class="content-bottom">
+                  <a href="https://github.com/MAIF/izanami"
+                    ><p class="repo">
+                      <i class="fab fa-github fa-2x" aria-hidden="true"></i></p
+                  ></a>
+                </div>
+                <div class="read-more mt-3">
+                  <p class="link">
+                    <a
+                      href="https://maif.github.io/izanami"
+                      title="See more details about the project"
+                      >Read more <i class="fas fa-arrow-right ms-2"></i
+                    ></a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mt-4">
+              <div class="product">
+                <div class="content">
+                  <a href="https://maif.github.io/nio">
+                    <img
+                      class="logo"
+                      src="https://www.ossbymaif.fr/img/nio.svg"
+                      alt="nio logo"
+                    />
+                  </a>
+                  <div class="product_title">nio</div>
+                  <p class="description p-2">
+                    Privacy management toolbox. It provides an API to manage
+                    persons' privacy.
+                  </p>
+                </div>
+                <div class="content-bottom">
+                  <a href="https://github.com/MAIF/nio"
+                    ><p class="repo">
+                      <i class="fab fa-github fa-2x" aria-hidden="true"></i></p
+                  ></a>
+                </div>
+
+                <div class="read-more mt-3">
+                  <p class="link">
+                    <a
+                      href="https://maif.github.io/nio"
+                      title="See more details about the project"
+                      >Read more <i class="fas fa-arrow-right ms-2"></i
+                    ></a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mt-4">
+              <div class="product">
+                <div class="content">
+                  <a href="https://maif.github.io/cards"
+                    ><img
+                      class="logo"
+                      src="https://www.ossbymaif.fr/img/cards.svg"
+                      alt="izanami logo"
+                  /></a>
+                  <div class="product_title">cards</div>
+                  <p class="description p-2">
+                    A deck of cards enumerating simple rules to design all new
+                    digital products at MAIF
+                  </p>
+                </div>
+                <div class="content-bottom">
+                  <a href="https://github.com/MAIF/cards"
+                    ><p class="repo">
+                      <i class="fab fa-github fa-2x" aria-hidden="true"></i></p
+                  ></a>
+                </div>
+
+                <div class="read-more mt-3">
+                  <p class="link">
+                    <a
+                      href="https://maif.github.io/cards"
+                      title="See more details about the project"
+                      >Read more <i class="fas fa-arrow-right ms-2"></i
+                    ></a>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-6 col-md-4 mt-4">
+              <div class="product">
+                <div class="content">
+                  <img
+                    class="logo"
+                    src="https://www.ossbymaif.fr/img/lets.svg"
+                    alt="let's automate logo"
+                  />
+
+                  <div class="product_title">let's automate</div>
+                  <p class="description p-2">
+                    Automate Let's Encrypt certificate issuance, renewal and
+                    synchronize with CleverCloud.
+                  </p>
+                </div>
+                <div class="content-bottom">
+                  <a href="https://github.com/MAIF/lets-automate"
+                    ><p class="repo">
+                      <i class="fab fa-github fa-2x" aria-hidden="true"></i></p
+                  ></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <div class="footer-content">
+              <a href="mailto:oss@maif.fr"
+                ><span class="fa fa-envelope me-2"></span>oss@maif.fr</a
+              >
+              <span>|</span>
+              <a href="https://github.com/MAIF"
+                ><span class="fab fa-github me-2"></span>github.com/MAIF</a
+              >
+              <span>|</span>
+              <a href="https://medium.com/oss-by-maif"
+                ><span class="fa fa-medium me-2"></span
+                >medium.com/oss-by-maif</a
+              >
+              <span>|</span>
+              made with <span class="fa fa-heart"></span>
+
+              <span>|</span>
+              <a href="https://maif.fr"
+                ><img
+                  alt="logo MAIF"
+                  src="https://static.maif.fr/resources/img/logo-maif.svg"
+                  width="40"
+              /></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.14.0-beta2/dist/js/bootstrap-select.min.js"></script>
+
+    <script src="js/select.js"></script>
+    <script>
+      var products = document.querySelectorAll('[data-bs-toggle="collapse"]');
+      products.forEach((product) => {
+        product.addEventListener('click', () => {
+          var openStories=document.querySelectorAll('.story-telling.collapse.show'); 
+          openStories.forEach((story) => {story.classList.toggle("show");})
+        });
+      });
+
+
+
+    </script>
+  </body>
+</html>

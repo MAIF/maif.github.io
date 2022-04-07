@@ -1,164 +1,149 @@
 @font-face {
-  font-family:'MAIF';
-  src:	url('MAIF-Light.eot');
-  src:	url('MAIF-Light.eot?#iefix') format('embedded-opentype'),
-  url('MAIF-Light.woff2') format('woff2'),
-  url('MAIF-Light.woff') format('woff'),
-  url('MAIF-Light.svg') format('svg');
+  font-family: "MAIF";
+  src: url("MAIF-Light.eot");
+  src: url("MAIF-Light.eot?#iefix") format("embedded-opentype"),
+    url("MAIF-Light.woff2") format("woff2"),
+    url("MAIF-Light.woff") format("woff"), url("MAIF-Light.svg") format("svg");
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
-  font-family:'MAIF';
-  src:	url('MAIF-LightItalic.eot');
-  src:	url('MAIF-LightItalic.eot?#iefix') format('embedded-opentype'),
-  url('MAIF-LightItalic.woff2') format('woff2'),
-  url('MAIF-LightItalic.woff') format('woff'),
-  url('MAIF-LightItalic.svg') format('svg');
+  font-family: "MAIF";
+  src: url("MAIF-LightItalic.eot");
+  src: url("MAIF-LightItalic.eot?#iefix") format("embedded-opentype"),
+    url("MAIF-LightItalic.woff2") format("woff2"),
+    url("MAIF-LightItalic.woff") format("woff"),
+    url("MAIF-LightItalic.svg") format("svg");
   font-weight: 300;
   font-style: italic;
 }
 
 @font-face {
-  font-family:'MAIF';
-  src:	url('MAIF-Italic.eot');
-  src:	url('MAIF-Italic.eot?#iefix') format('embedded-opentype'),
-  url('MAIF-Italic.woff2') format('woff2'),
-  url('MAIF-Italic.woff') format('woff'),
-  url('MAIF-Italic.svg') format('svg');
+  font-family: "MAIF";
+  src: url("MAIF-Italic.eot");
+  src: url("MAIF-Italic.eot?#iefix") format("embedded-opentype"),
+    url("MAIF-Italic.woff2") format("woff2"),
+    url("MAIF-Italic.woff") format("woff"), url("MAIF-Italic.svg") format("svg");
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
-  font-family:'MAIF';
-  src:	url('MAIF-Regular.eot');
-  src:	url('MAIF-Regular.eot?#iefix') format('embedded-opentype'),
-  url('MAIF-Regular.woff2') format('woff2'),
-  url('MAIF-Regular.woff') format('woff'),
-  url('MAIF-Regular.svg') format('svg');
+  font-family: "MAIF";
+  src: url("MAIF-Regular.eot");
+  src: url("MAIF-Regular.eot?#iefix") format("embedded-opentype"),
+    url("MAIF-Regular.woff2") format("woff2"),
+    url("MAIF-Regular.woff") format("woff"),
+    url("MAIF-Regular.svg") format("svg");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family:'MAIF';
-  src:	url('MAIF-Medium.eot');
-  src:	url('MAIF-Medium.eot?#iefix') format('embedded-opentype'),
-  url('MAIF-Medium.woff2') format('woff2'),
-  url('MAIF-Medium.woff') format('woff'),
-  url('MAIF-Medium.svg') format('svg');
+  font-family: "MAIF";
+  src: url("MAIF-Medium.eot");
+  src: url("MAIF-Medium.eot?#iefix") format("embedded-opentype"),
+    url("MAIF-Medium.woff2") format("woff2"),
+    url("MAIF-Medium.woff") format("woff"), url("MAIF-Medium.svg") format("svg");
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
-  font-family:'MAIF';
-  src:	url('MAIF-MediumItalic.eot');
-  src:	url('MAIF-MediumItalic.eot?#iefix') format('embedded-opentype'),
-  url('MAIF-MediumItalic.woff2') format('woff2'),
-  url('MAIF-MediumItalic.woff') format('woff'),
-  url('MAIF-MediumItalic.svg') format('svg');
+  font-family: "MAIF";
+  src: url("MAIF-MediumItalic.eot");
+  src: url("MAIF-MediumItalic.eot?#iefix") format("embedded-opentype"),
+    url("MAIF-MediumItalic.woff2") format("woff2"),
+    url("MAIF-MediumItalic.woff") format("woff"),
+    url("MAIF-MediumItalic.svg") format("svg");
   font-weight: 500;
   font-style: italic;
 }
 
 @font-face {
-  font-family:'MAIF';
-  src:	url('MAIF-Bold.eot');
-  src:	url('MAIF-Bold.eot?#iefix') format('embedded-opentype'),
-  url('MAIF-Bold.woff2') format('woff2'),
-  url('MAIF-Bold.woff') format('woff'),
-  url('MAIF-Bold.svg') format('svg');
+  font-family: "MAIF";
+  src: url("MAIF-Bold.eot");
+  src: url("MAIF-Bold.eot?#iefix") format("embedded-opentype"),
+    url("MAIF-Bold.woff2") format("woff2"), url("MAIF-Bold.woff") format("woff"),
+    url("MAIF-Bold.svg") format("svg");
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
-  font-family:'MAIF';
-  src:	url('MAIF-BoldItalic.eot');
-  src:	url('MAIF-BoldItalic.eot?#iefix') format('embedded-opentype'),
-  url('MAIF-BoldItalic.woff2') format('woff2'),
-  url('MAIF-BoldItalic.woff') format('woff'),
-  url('MAIF-BoldItalic.svg') format('svg');
+  font-family: "MAIF";
+  src: url("MAIF-BoldItalic.eot");
+  src: url("MAIF-BoldItalic.eot?#iefix") format("embedded-opentype"),
+    url("MAIF-BoldItalic.woff2") format("woff2"),
+    url("MAIF-BoldItalic.woff") format("woff"),
+    url("MAIF-BoldItalic.svg") format("svg");
   font-weight: 700;
   font-style: italic;
 }
 
 @font-face {
-  font-family:'MAIF';
-  src:	url('MAIF-Black.eot');
-  src:	url('MAIF-Black.eot?#iefix') format('embedded-opentype'),
-  url('MAIF-Black.woff2') format('woff2'),
-  url('MAIF-Black.woff') format('woff'),
-  url('MAIF-Black.svg') format('svg');
+  font-family: "MAIF";
+  src: url("MAIF-Black.eot");
+  src: url("MAIF-Black.eot?#iefix") format("embedded-opentype"),
+    url("MAIF-Black.woff2") format("woff2"),
+    url("MAIF-Black.woff") format("woff"), url("MAIF-Black.svg") format("svg");
   font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
-  font-family:'MAIF';
-  src:	url('MAIF-BlackItalic.eot');
-  src:	url('MAIF-BlackItalic.eot?#iefix') format('embedded-opentype'),
-  url('MAIF-BlackItalic.woff2') format('woff2'),
-  url('MAIF-BlackItalic.woff') format('woff'),
-  url('MAIF-BlackItalic.svg') format('svg');
+  font-family: "MAIF";
+  src: url("MAIF-BlackItalic.eot");
+  src: url("MAIF-BlackItalic.eot?#iefix") format("embedded-opentype"),
+    url("MAIF-BlackItalic.woff2") format("woff2"),
+    url("MAIF-BlackItalic.woff") format("woff"),
+    url("MAIF-BlackItalic.svg") format("svg");
   font-weight: 900;
   font-style: italic;
 }
 
 body {
-  font-family: 'MAIF', serif;
+  font-family: "MAIF", serif;
   background-color: rgb(246, 243, 241);
+  padding-top: 6.5rem;
+  font-size: 18px;
 }
 
-.header {
-  height: 200px;
-  border-bottom: 1px solid #fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+h2 {
+  font-size: 1.7rem;
 }
 
-.header img {
-  width: 160px;
-}
-.baseline{
-  font-size: 22px;
-}
-.header-fix{
-  height: 0;
-  justify-content: center;
-  width: 100%;
-  z-index: 2;
-  top: 0;
-  background-color: #f6f3f1;
-  display: flex;
-  border-bottom: 1px solid #fff;
+.bg-blue {
+  background-color: #2e404f;
 }
 
-.fixed-nav {
-  position: fixed;
-  height: 60px;
-  transition: 0.5s height ease;
+.w-10 {
+  width: 10%;
 }
 
 
-.display-none {
-  display: none;
+
+.title {
+  font-size: 2rem;
+  color:#c62222;
 }
-
-.home {
-  background-color: rgb(246, 243, 241);
+.form-select{
+  width: auto;
 }
-
-
-.intro{
-  background-color: #fff;
+.btn-promote {
+  background: #c62222;
+  color: #fff;
+  border: solid 2px #c62222;
 }
+/* products */
+/* .product {
+  min-height: 520px;
+} */
 
-
+a .product{
+  text-decoration: none;
+}
 .product {
   padding: 5px;
   background-color: #fff;
@@ -167,50 +152,23 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  transition: all 0.5s;
 }
 
-.logo {
-  position: relative;
-  width: 100%;
-  background-color: #343736;
-}
-
-.title {
+/* .product:hover{
+  box-shadow: 0 4px 15px 2px rgba(0,0,0,.54);
+} */
+.product_title {
   font-weight: bold;
   font-size: 35px;
   color: rgb(46, 64, 79);
   text-align: center;
   word-break: break-word;
 }
-
-.description {
-  font-size: 14px;
-  text-align: center;
-  color: rgb(46, 64, 79);;
-}
-
-.link {
-  font-size: 14px;
-  color: #8B8B8A;
-  text-align: center;
-}
-
-.link a {
-  color: #8B8B8A;
-  word-break: break-all;
-}
-
-.external-link,.external-link:hover{
-  color: #c62222;
-}
-
-.content-bottom{
-    bottom: 5px;
-    margin-left: auto;
-    margin-right: auto;
-}
-.read-more{
-  background-color: #fff;
+.logo {
+  position: relative;
+  width: 100%;
+  background-color: #343736;
 }
 .repo {
   border-radius: 50%;
@@ -220,24 +178,35 @@ body {
   margin: auto;
   color: #c62222;
 }
-
-.fa-github {
-  padding-top: 6px;
-  width: 100%;
+.repo i{
+  transition: all 0.2s;
+}
+.repo i:hover{
+  transform: scale(1.1);
+}
+.read-more {
+  background-color: #fff;
+}
+.link {
+  font-size: 14px;
+  color: #8B8B8A;
+  text-align: center;
+}
+.link a {
+  color: #8B8B8A;
+  word-break: break-all;
+  text-decoration: none;
+}
+.link a:hover {
+  text-decoration: underline;
 }
 
 footer {
   margin-top: 50px;
-  background: linear-gradient(90deg, #595667, #684a52);;
+  background: linear-gradient(90deg, #595667, #684a52);
   overflow: auto;
   color: #fff;
 }
-
-footer .fa-github {
-  padding-top: 0px;
-  width: auto;
-}
-
 
 .footer-content {
   display: inline-block;
@@ -245,27 +214,42 @@ footer .fa-github {
   padding: 15px 5px;
 }
 
-.footer-content a{
+.footer-content a {
   margin: 0 5px;
   color: #ffff;
+  text-decoration: none;
 }
-.repo i {
-  text-align: center;
+
+.footer-content a:hover {
+  text-decoration: underline;
+}
+
+.twitter-tweet {
+  transform: scale(0.5) translateY(-50%);
+}
+
+.medium-container{
+  position: relative;
+overflow: hidden;
+width: 100%;
+padding-top: 56.25%;
 }
 
 
-@media screen and (max-width: 800px) {
-  .content-bottom{
-    position: relative;
-  }
+.medium-container iframe{
+  position: absolute !important;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+width: 100%;
+height: 100%;
 }
-@media screen and (min-width: 1200px) {
-  .product {
-    min-height: 520px;
-  }
+
+.card{
+  background-color: rgb(246, 243, 241);
 }
-@media screen and (min-width: 1400px) {
-  .header {
-    background-size: auto;
-  }
+
+.nav-link, .nav-link:hover {
+  color: inherit;
 }
