@@ -21,7 +21,8 @@ jobs:
           TWITTER_BEARER: ${{ secrets.TWITTER_BEARER }} 
           YOUTUBE_BEARER: ${{ secrets.YOUTUBE_BEARER }} 
           MEDIUM_BEARER: ${{ secrets.MEDIUM_BEARER }} 
-      - run: npm ci
+      - name: install dependencies
+        run: cd scripts; npm ci
       - name: Search on twitter
         id: twitter
         run: node ./scripts/twitter.js
