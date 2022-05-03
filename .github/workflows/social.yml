@@ -2,7 +2,7 @@ name: Search ossbymaif on social networks
 
 on:
   schedule:
-    - cron:  '0 * * * *'
+    - cron:  '* * * * *'
 
 jobs:
   build:
