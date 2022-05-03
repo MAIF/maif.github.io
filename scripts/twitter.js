@@ -50,6 +50,6 @@ function fetchLastTweets() {
   })
 }
 
-console.log('input params', process.argv)
+console.log('input paramss', process.argv)
 
 fetchLastTweets();
