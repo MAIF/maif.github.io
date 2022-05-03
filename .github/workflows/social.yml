@@ -39,7 +39,9 @@ jobs:
           git config --local user.email "ossbymaif-github-actions@users.noreply.github.com"
           git config --local user.name "ossbymaif-github-actions"
           git add --all
-          git commit -am "Update social network data"
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -am "Update social network data"
+          fi
       - name: Push documentation
         uses: ad-m/github-push-action@master
         with:
