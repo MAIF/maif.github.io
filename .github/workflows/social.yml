@@ -9,21 +9,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2.0.0
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - run: npm ci
       - name: Search on twitter
         id: twitter
-        uses: octocat/hello-world-javascript-action@v1.1
         run: node ./scripts/twitter.js
         with:
           twitter_bearer: ${{ secrets.TWITTER_BEARER }}
       # - name: Search on youtube
       #   id: youtube
-      #   uses: octocat/hello-world-javascript-action@v1.1
       #   run: node ./scripts/youtube.js
       #   with:
       #     youtube_bearer: ${{ secrets.YOUTUBE_BEARER }}
       # - name: Search on medium
       #   id: medium
-      #   uses: octocat/hello-world-javascript-action@v1.1
       #   run: node ./scripts/medium.js
       - name: Commit files
         run: |
