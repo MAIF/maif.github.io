@@ -23,14 +23,10 @@ jobs:
         id: twitter
         run: node ./scripts/twitter.js
         env:  
-          TWITTER_BEARER: ${{ secrets.TWITTER_BEARER }} 
-          YOUTUBE_BEARER: ${{ secrets.YOUTUBE_BEARER }} 
-          MEDIUM_BEARER: ${{ secrets.MEDIUM_BEARER }} 
-      # - name: Search on youtube
-      #   id: youtube
-      #   run: node ./scripts/youtube.js
-      #   with:
-      #     youtube_bearer: ${{ secrets.YOUTUBE_BEARER }}
+          TWITTER_BEARER: ${{ secrets.TWITTER_BEARER }}
+      - name: Search on youtube
+        id: youtube
+        run: node ./scripts/youtube.js
       - name: Search on medium
         id: medium
         run: node ./scripts/medium.js

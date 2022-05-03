@@ -8,6 +8,7 @@
     "lodash": "4.17.21",
     "moment": "2.29.3",
     "node-fetch": "2.6.1",
-    "xml2js": "^0.4.23"
+    "xml2js": "^0.4.23",
+    "youtube-search-api": "^1.1.0"
   }
 }

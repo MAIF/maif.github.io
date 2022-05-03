@@ -4,7 +4,6 @@ const _ = require('lodash');
 
 const TWITTER_BEARER = process.env.TWITTER_BEARER || 'secret';
 const tweets_file = './social-data/tweets.json';
-
 const tweets_from_file = JSON.parse(fs.readFileSync(tweets_file).toString('utf8'));
 const tweets_from_file_map = _.keyBy(tweets_from_file, t => t.id);
 
