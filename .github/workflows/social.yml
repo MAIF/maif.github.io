@@ -20,9 +20,7 @@ jobs:
       - run: npm ci
       - name: Search on twitter
         id: twitter
-        run: node ./scripts/twitter.js
-        with:
-          twitter_bearer: ${{ secrets.TWITTER_BEARER }}
+        run: node ./scripts/twitter.js ${{ secrets.TWITTER_BEARER }}
       # - name: Search on youtube
       #   id: youtube
       #   run: node ./scripts/youtube.js
