@@ -44,7 +44,7 @@ function fetchLastTweets() {
       })
     } else {
       r.text().then(body => {
-        console.log(`failed to fetch tweets: ${r.status} - ${body} `)
+        console.log(`failed to fetch tweets: ${r.status} - ${body}`)
       })
     }
   })
