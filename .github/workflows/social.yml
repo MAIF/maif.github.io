@@ -1,0 +1,37 @@
+name: Search ossbymaif on social networks
+
+on:
+  schedule:
+    - cron:  '0 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.0.0
+      - name: Search on twitter
+        id: twitter
+        uses: octocat/hello-world-javascript-action@v1.1
+        run: node ./scripts/twitter.js
+        with:
+          twitter_bearer: ${{ secrets.TWITTER_BEARER }}
+      # - name: Search on youtube
+      #   id: youtube
+      #   uses: octocat/hello-world-javascript-action@v1.1
+      #   run: node ./scripts/youtube.js
+      #   with:
+      #     youtube_bearer: ${{ secrets.YOUTUBE_BEARER }}
+      # - name: Search on medium
+      #   id: medium
+      #   uses: octocat/hello-world-javascript-action@v1.1
+      #   run: node ./scripts/medium.js
+      - name: Commit files
+        run: |
+          git config --local user.email "ossbymaif-github-actions@users.noreply.github.com"
+          git config --local user.name "ossbymaif-github-actions"
+          git add --all
+          git commit -am "Update social network data"
+      - name: Push documentation
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
