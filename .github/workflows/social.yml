@@ -1,6 +1,11 @@
 name: Search ossbymaif on social networks
 
 on:
+  push:
+    paths:
+      - 'scripts/**'
+    branches:
+      - master
   schedule:
     - cron:  '* * * * *'
 
