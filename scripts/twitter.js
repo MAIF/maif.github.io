@@ -32,7 +32,6 @@ function fetchLastTweets() {
               author_username: users_by_id[tweet.author_id].username, 
               author_name:  users_by_id[tweet.author_id].name 
             };
-            console.log(new_tweet)
             new_tweets_for_file = [ 
               ...new_tweets_for_file, 
               new_tweet
