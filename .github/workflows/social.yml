@@ -17,15 +17,15 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '16'
-        env:  
-          TWITTER_BEARER: ${{ secrets.TWITTER_BEARER }} 
-          YOUTUBE_BEARER: ${{ secrets.YOUTUBE_BEARER }} 
-          MEDIUM_BEARER: ${{ secrets.MEDIUM_BEARER }} 
       - name: install dependencies
         run: cd scripts; npm ci
       - name: Search on twitter
         id: twitter
         run: node ./scripts/twitter.js
+        env:  
+          TWITTER_BEARER: ${{ secrets.TWITTER_BEARER }} 
+          YOUTUBE_BEARER: ${{ secrets.YOUTUBE_BEARER }} 
+          MEDIUM_BEARER: ${{ secrets.MEDIUM_BEARER }} 
       # - name: Search on youtube
       #   id: youtube
       #   run: node ./scripts/youtube.js
