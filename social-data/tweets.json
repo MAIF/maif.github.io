@@ -214,5 +214,29 @@
     "created_at": "2022-05-05T15:26:36.000Z",
     "author_username": "FawazGhali",
     "author_name": "Dr. Fawaz Ghali"
+  },
+  {
+    "id": "1522274036214124547",
+    "text": "RT @daniel1bartolo: Et ça y est ! @MAIF a libéré sa nouvelle brique #OpenSource #Eurybia, toujours pour une IA maîtrisée chez @NiortTech !…",
+    "author_id": "135145900",
+    "created_at": "2022-05-05T17:56:27.000Z",
+    "author_username": "laVeilleTechno",
+    "author_name": "La veille techno"
+  },
+  {
+    "id": "1522273474752000001",
+    "text": "RT @daniel1bartolo: Et ça y est ! @MAIF a libéré sa nouvelle brique #OpenSource #Eurybia, toujours pour une IA maîtrisée chez @NiortTech !…",
+    "author_id": "1348558873636921349",
+    "created_at": "2022-05-05T17:54:13.000Z",
+    "author_username": "opensource_orgs",
+    "author_name": "OpenSource Orgs"
+  },
+  {
+    "id": "1522273452010491906",
+    "text": "Et ça y est ! @MAIF a libéré sa nouvelle brique #OpenSource #Eurybia, toujours pour une IA maîtrisée chez @NiortTech !\nPour découvrir la solution 👉https://t.co/kz2S6Em54l https://t.co/WZncidTSyo",
+    "author_id": "760410699461976064",
+    "created_at": "2022-05-05T17:54:08.000Z",
+    "author_username": "daniel1bartolo",
+    "author_name": "Daniel Bartolo"
   }
 ]
