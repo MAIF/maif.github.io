@@ -262,5 +262,21 @@
     "id": "1522490358248128512",
     "author_username": "NiortNumeric",
     "author_name": "Niort Numeric"
+  },
+  {
+    "created_at": "2022-05-06T12:59:38.000Z",
+    "id": "1522561727816253440",
+    "text": "RT @daniel1bartolo: Et ça y est ! @MAIF a libéré sa nouvelle brique #OpenSource #Eurybia, toujours pour une IA maîtrisée chez @NiortTech !…",
+    "author_id": "1348558873636921349",
+    "author_username": "opensource_orgs",
+    "author_name": "OpenSource Orgs"
+  },
+  {
+    "created_at": "2022-05-06T12:59:33.000Z",
+    "id": "1522561706274217984",
+    "text": "RT @daniel1bartolo: Et ça y est ! @MAIF a libéré sa nouvelle brique #OpenSource #Eurybia, toujours pour une IA maîtrisée chez @NiortTech !…",
+    "author_id": "1267694193268400128",
+    "author_username": "GolhenY",
+    "author_name": "Golhen Yann"
   }
 ]
