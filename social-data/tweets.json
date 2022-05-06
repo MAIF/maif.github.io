@@ -246,5 +246,21 @@
     "created_at": "2022-05-05T20:35:07.000Z",
     "author_username": "benjamin_cavy",
     "author_name": "Benjamin Cavy"
+  },
+  {
+    "text": "RT @NiortNumeric: 📣 Hier soir, en avant-première à Niort Tech, la @MAIF présentait Eurybia, une nouvelle solution open source pour une inte…",
+    "author_id": "135145900",
+    "created_at": "2022-05-06T08:16:27.000Z",
+    "id": "1522490462174691328",
+    "author_username": "laVeilleTechno",
+    "author_name": "La veille techno"
+  },
+  {
+    "text": "📣 Hier soir, en avant-première à Niort Tech, la @MAIF présentait Eurybia, une nouvelle solution open source pour une intelligence artificielle plus maîtrisée. #iA #OSSByMAIF https://t.co/olFVykJA7o",
+    "author_id": "2375891329",
+    "created_at": "2022-05-06T08:16:02.000Z",
+    "id": "1522490358248128512",
+    "author_username": "NiortNumeric",
+    "author_name": "Niort Numeric"
   }
 ]
