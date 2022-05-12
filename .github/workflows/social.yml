@@ -1,0 +1,44 @@
+name: Search ossbymaif on social networks
+
+on:
+  push:
+    paths:
+      - 'scripts/**'
+    branches:
+      - master
+  schedule:
+    - cron:  '0 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.0.0
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      - name: install dependencies
+        run: cd scripts; npm ci
+      - name: Search on twitter
+        id: twitter
+        run: node ./scripts/twitter.js
+        env:  
+          TWITTER_BEARER: ${{ secrets.TWITTER_BEARER }}
+      - name: Search on youtube
+        id: youtube
+        run: node ./scripts/youtube.js
+      - name: Search on medium
+        id: medium
+        run: node ./scripts/medium.js
+      - name: Commit files
+        run: |
+          git config --local user.email "ossbymaif-github-actions@users.noreply.github.com"
+          git config --local user.name "ossbymaif-github-actions"
+          git add --all
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -am "Update social network data"
+          fi
+      - name: Push documentation
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

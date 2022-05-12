@@ -1,0 +1,14 @@
+{
+  "name": "ossbymaif-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "10.1.0",
+    "lodash": "4.17.21",
+    "moment": "2.29.3",
+    "node-fetch": "2.6.1",
+    "xml2js": "^0.4.23",
+    "youtube-search-api": "^1.1.0"
+  }
+}
