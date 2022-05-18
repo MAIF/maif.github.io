@@ -3,7 +3,7 @@ const _ = require('lodash');
 const axios = require("axios");
 const youtubesearchapi = require('youtube-search-api');
 
-const videos_file = './youtube.json';
+const videos_file = './social-data/youtube.json';
 const videos_from_file = JSON.parse(fs.readFileSync(videos_file).toString('utf8'));
 
 function transform(item) {
