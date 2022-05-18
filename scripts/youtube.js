@@ -67,7 +67,7 @@ const GetYoutubeInitData = async (url) => {
 
                   initdata = {
                         ...await JSON.parse(data),
-                        datePublished: page.data.split("datePublished")[1].trim().slice(2, 20).split("content=\"")[1].trim()
+                        datePublished: page.data.split("datePublished")[1].trim().slice(2, 40).split("content=\"")[1].trim()
                   }
                   return await Promise.resolve({ initdata, apiToken, context });
             } else {
