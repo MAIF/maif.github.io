@@ -117,12 +117,17 @@ h2 {
 .bg-blue {
   background-color: #2e404f;
 }
+.bg-light{
+  background-color: rgb(246, 243, 241)
+}
 
 .w-10 {
   width: 10%;
 }
 
-
+.intro {
+  background-color: #fff;
+}
 
 .title {
   font-size: 2rem;
@@ -247,21 +252,28 @@ height: 100%;
 }
 
 
-.card{
-  background-color: rgb(246, 243, 241);
-  max-height: 400px;
-  overflow: auto;
-}
+
 
 .nav-link, .nav-link:hover {
   color: inherit;
 }
 
 /* home */
-.grid-item { width: 200px; }
-.grid-item--width2 { width: 400px; }
+.home .grid{
+  display: none;
+}
+.home .grid-item { 
+  width: 400px; 
+/* margin : 10px; */
+}
 
 /* project */
+.projects .grid-item .card{
+  background-color: rgb(246, 243, 241);
+  max-height: 400px;
+  overflow: auto;
+}
+
 .projects .grid-item,
 .grid-sizer {
   width: 33%;
