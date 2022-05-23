@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -19,15 +19,34 @@
       crossorigin="anonymous"
     />
 
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.14.0-beta2/dist/css/bootstrap-select.min.css"
-    />
+
     <link
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
       rel="stylesheet"
     />
     <link href="css/style.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="img/favicon.ico" />
+    <title>OSS by MAIF</title>
+    <script
+      type="text/javascript"
+      src="js/tarteaucitron/tarteaucitron.js"
+    ></script>
+
+    <script type="text/javascript">
+      tarteaucitron.init({
+        hashtag:
+          "#tarteaucitron" /* Ouverture automatique du panel avec le hashtag */,
+        DenyAllCta: true /* Show the deny all button */,
+        AcceptAllCta: true /* Show the accept all button when highPrivacy on */,
+        highPrivacy: true /* HIGHLY RECOMMANDED Disable auto consent */,
+        orientation:
+          "top" /* le bandeau doit être en haut (top) ou en bas (bottom) ? */,
+        adblocker: false /* Afficher un message si un adblocker est détecté */,
+        showAlertSmall: false /* afficher le petit bandeau en bas à droite ? */,
+        cookieslist: true /* Afficher la liste des cookies installés ? */,
+        removeCredit: false /* supprimer le lien vers la source ? */,
+      });
+    </script>
   </head>
   <body class="projects">
     <nav class="navbar navbar-expand-sm fixed-top navbar-light bg-light">
@@ -37,7 +56,7 @@
             alt="logo MAIF"
             src="https://static.maif.fr/resources/img/logo-maif.svg"
           />
-          #OSSbyMAIF</a
+          <span id="slogan" style="opacity: 0;">#OSSbyMAIF</span></a
         >
         <button
           class="navbar-toggler me-2"
@@ -56,23 +75,25 @@
         >
           <ul class="navbar-nav ms-auto">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="projets.html"
-                >PROJETS</a
+              <a class="nav-link" href="index.html"
+                ><i class="fas fa-home"></i></a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="communaute.html">COMMUNAUTE</a>
+              <a class="nav-link" aria-current="page" href="projets.html"
+                >PROJETS</a
+              >
             </li>
           </ul>
         </div>
-        <select
+        <!--<select
           id="language"
           class="form-select"
           aria-label="Default select example"
         >
           <option value="English">English</option>
           <option value="Francais" selected>Français</option>
-        </select>
+        </select>-->
       </div>
     </nav>
     <div class="bg-blue">
@@ -102,9 +123,7 @@
           z-index: 1000;
         "
       >
-        <div class="col-12">
-          <div class="title pt-4">Projets</div>
-
+        <div class="col-12 mt-4">
           <div class="grid">
             <div class="grid-sizer"></div>
             <div class="grid-item">
@@ -886,7 +905,7 @@
           //remove all expanded
           document.querySelectorAll(".is-expanded").forEach((item) => {
             item.classList.remove("is-expanded");
-            childStory = item.querySelector(".story-telling").remove("d-block");
+            item.querySelector(".story-telling").classList.remove("d-block");
             var redraw = itemContent.children[0].offsetWidth;
           });
         }
@@ -938,6 +957,18 @@
         itemContent.style.width = size.width + "px";
         itemContent.style.height = size.height + "px";
       }
+    </script>
+	 <script>
+      const slogan = document.querySelector("#slogan");
+      function stickyNavigation() {
+        if (window.scrollY >= 200) {
+          slogan.style.opacity = 1;
+        } else {
+          slogan.style.opacity = window.scrollY /200;
+        }
+      }
+
+      window.addEventListener("scroll", stickyNavigation);
     </script>
   </body>
 </html>
