@@ -3,36 +3,66 @@
     "text": "Meet up #OSSbyMAIF : Melusine, la librairie NLP qui classifie vos emails",
     "id": "3sdRHpWN9jQ",
     "thumbnail": "https://i.ytimg.com/vi/3sdRHpWN9jQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCMHn4L-1mn2Ce2tTWPqqu1phrTiw",
-    "length": "41:27"
+    "length": "41:27",
+    "title": "Meet up ",
+    "isLive": false,
+    "channel": "MAIF",
+    "description": "Un meetup pour échanger autour des solutions Open Source développées par MAIF, que vous pouvez toutes retrouver sur ,https://maif.github.io,  \n\nCette session du 15 décembre 2021 a pour objectif de vous présenter Melusine, notre librairie NLP (Natural Language Processing) de classification des emails. Ce meetup est animé par Tiphaine Fabre qui est Data Scientist à la MAIF. Elle vous expliquera Mélusine et ses principales fonctionnalités.\n\nPour voir les coulisses ,#OSSByMAIF, : ,https://medium.com/oss-by-maif,\nRetrouvez MAIF sur GitHub : ,https://maif.github.io",
+    "datePublished": "2022-02-15"
   },
   {
     "text": "Meet up #OSSbyMAIF : à la rencontre d'Izanami",
     "id": "ttzS8mq6yiw",
     "thumbnail": "https://i.ytimg.com/vi/ttzS8mq6yiw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAWaP_lot2P8YuxPhMpoxGDbagw-w",
-    "length": "42:05"
+    "length": "42:05",
+    "title": "Meet up ",
+    "isLive": false,
+    "channel": "MAIF",
+    "description": "Un meetup pour échanger autour des solutions Open Source développées par MAIF, que vous pouvez toutes retrouver sur ,https://maif.github.io, \n\nCette session a pour objectif de vous présenter Izanami, notre solution de gestion de configuration distribuée, de Feature Flipping et d'A/B Testing.\nAvec Pierre Brunin et Alexandre Delègue tous deux développeurs MAIF et  principaux contributeurs d'Izanami.\n\nPour voir les coulisses ,#OSSByMAIF, : ,https://medium.com/oss-by-maif,\nRetrouvez MAIF sur GitHub : ,https://maif.github.io",
+    "datePublished": "2021-10-06"
   },
   {
     "text": "Meet up #OSSbyMAIF : Mélusine classe, résume et route vos emails vers le bon interlocuteur",
     "id": "OYdOhWODtl0",
     "thumbnail": "https://i.ytimg.com/vi/OYdOhWODtl0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA7Xrqk0xOiotn70Hg5OU9EtcUeqQ",
-    "length": "44:40"
+    "length": "44:40",
+    "title": "Meet up ",
+    "isLive": false,
+    "channel": "MAIF",
+    "description": "Un meetup pour échanger autour des solutions Open Source développées par MAIF, que vous pouvez toutes retrouver sur ,https://maif.github.io, \n\nTiphaine Fabre Data scientist NLP à la MAIF vous présente Melusine : une bibliothèque Python de haut niveau pour la classification des e-mails et l’extraction de fonctionnalités. Melusine est conçu pour le prétraitement, la classification et la synthèse automatique des e-mails écrits en français. Ecrite en Python, elle peut fonctionner sur Scikit-Learn, Keras ou Tensorflow.\n\nPour en savoir plus sur Melusine : ,https://maif.github.io/melusine/,\nRetrouvez MAIF sur GitHub : ,https://maif.github.io",
+    "datePublished": "2021-06-23"
   },
   {
     "text": "Meet up #OSSbyMAIF : Otoroshi et Daikoku pour gérer vos APIs",
     "id": "CsJbFveOuNE",
     "thumbnail": "https://i.ytimg.com/vi/CsJbFveOuNE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDPgN_N13vnuKeQdprNALnjmamY0g",
-    "length": "52:42"
+    "length": "52:42",
+    "title": "Meet up ",
+    "isLive": false,
+    "channel": "MAIF",
+    "description": "Un meetup convivial d'échange autour des solutions Open Source développées par MAIF, que vous pouvez retrouver sur ,https://maif.github.io,\n\nMathieu Ancelin et Quentin Aubert, tous deux developpeurs de talent, vous présenteront les différentes fonctionnalités et l'articulation Otoroshi/Daikoku comme solution complète de management technique et business de vos APIs dans une démo autour d'un cas d'usage concret.\n\nPour en savoir plus sur Otoroshi : ,https://maif.github.io/otoroshi/,   \net sur Daikoku : ,https://maif.github.io/daikoku/,\n\nRetrouvez MAIF sur GitHub : ,https://maif.github.io",
+    "datePublished": "2021-05-12"
   },
   {
     "text": "Meet up #OSSbyMAIF : Event Sourcing, vous en rêviez ? Thoth l'a fait !",
     "id": "WpsBopoTHJk",
     "thumbnail": "https://i.ytimg.com/vi/WpsBopoTHJk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLClfNb650a-g2gcnMpgw4YIGEcigA",
-    "length": "1:03:32"
+    "length": "1:03:32",
+    "title": "Meet up ",
+    "isLive": false,
+    "channel": "MAIF",
+    "description": "Un meetup convivial d'échange autour des solutions Open Source développées par MAIF, que vous pouvez retrouver sur ,https://maif.github.io,\n\nLes principaux contributeurs à Thoth, Benjamin Cavy et Alexandre Delègue, vous présentent notre librairie de mise en œuvre de l'event-sourcing en Java.  Un meetup qui vous permettra de découvrir les principaux concepts de l'Event Sourcing et la manière dont ceux-ci sont implémentés dans Thoth.\n\nPour en savoir plus sur Thoth : ,https://medium.com/oss-by-maif/bienve...,\nRetrouvez MAIF sur GitHub : ,https://maif.github.io",
+    "datePublished": "2021-03-24"
   },
   {
     "text": "Meet up #OSSbyMAIF : Shapash pour expliquer vos algorithmes de Machine Learning",
     "id": "r1R_A9B9apk",
     "thumbnail": "https://i.ytimg.com/vi/r1R_A9B9apk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAIISypUdLFolNdiSGPI6tIXaAd6w",
-    "length": "48:06"
+    "length": "48:06",
+    "title": "Meet up ",
+    "isLive": false,
+    "channel": "MAIF",
+    "description": "Un Meetup convivial d'échange autour des solutions Open Source développées par la MAIF, que vous pouvez retrouver sur ,https://maif.github.io,\nPrésentée par l'équipe Shapash (Yann Golhen, Yann Lagre, Gautier Prentout, Sebastien Bidault, Guillaume Vignal, Maxime Gendre, Johann Martin, Thomas Bouche) cette rencontre vous permettra de découvrir la philosophie qui est derrière Shapash, notre solution d'explicabilité des algorithmes de Machine Learning,  ainsi qu'un tour d'horizon de ses principales fonctionnalités et cas d'usage. \n\nPour en savoir plus sur Shapash : ,https://medium.com/oss-by-maif/shapas..., \nRetrouvez MAIF sur GitHub : ,https://maif.github.io",
+    "datePublished": "2021-02-09"
   }
 ]
