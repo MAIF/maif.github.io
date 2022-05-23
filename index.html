@@ -194,16 +194,16 @@
 
         switch (target) {
           case "Youtube":
-            card.innerHTML = `<div class="card m-2"><div class="card-body"><img class="card-img-top" src="${infos.thumbnail}" alt="Toutube thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">#OssByMaif</div></div><div class="card-footer d-flex justify-content-between"><a href="https://www.youtube.com/playlist?list=PLHWGfQmqyWtZuFKhNMseGODfsO0LJBp2a" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Youtube.png" alt="Youtube logo"></a> <span>${infos.datePublished}</span></div></div>`;
+            card.innerHTML = `<div class="card m-2 shadow"><div class="card-body"><img class="card-img-top" src="${infos.thumbnail}" alt="Toutube thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">#OssByMaif</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="https://www.youtube.com/playlist?list=PLHWGfQmqyWtZuFKhNMseGODfsO0LJBp2a" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Youtube.png" alt="Youtube logo"></a> <span class="footer_date">${infos.datePublished}</span></div></div>`;
             break;
 
           case "Twitter":
             newDate = infos.created_at.split("T")[0];
-            card.innerHTML = `<div class="card m-2"><div class="card-body"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center mt-4">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between"><a href="https://twitter.com/${infos.author_username}/status/${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Twitter.svg" alt="Twitter logo"></a> <span>${newDate}</span></div></div>`;
+            card.innerHTML = `<div class="card m-2 shadow"><div class="card-body"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center mt-4">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="https://twitter.com/${infos.author_username}/status/${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Twitter.svg" alt="Twitter logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
             break;
           case "Medium":
             newDate = infos.created_at.split(" ")[0];
-            card.innerHTML = `<div class="card m-2"><div class="card-body"><img class="card-img-top" src="${infos.thumbnail}" alt="Medium thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between"><a href="${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Medium.svg" alt="Medium logo"></a> <span>${newDate}</span></div></div>`;
+            card.innerHTML = `<div class="card m-2 shadow"><div class="card-body"><img class="card-img-top" src="${infos.thumbnail}" alt="Medium thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Medium.svg" alt="Medium logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
             break;
         }
 

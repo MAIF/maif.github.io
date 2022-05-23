@@ -267,6 +267,9 @@ height: 100%;
 /* margin : 10px; */
 }
 
+.home .footer_date{
+  font-size: 16px;
+}
 /* project */
 .projects .grid-item .card{
   background-color: rgb(246, 243, 241);
