@@ -35,61 +35,45 @@
       src="js/tarteaucitron/tarteaucitron.js"
     ></script>
 
-    <script type="text/javascript">
-      tarteaucitron.init({
-        hashtag:
-          "#tarteaucitron" /* Ouverture automatique du panel avec le hashtag */,
-        DenyAllCta: true /* Show the deny all button */,
-        AcceptAllCta: true /* Show the accept all button when highPrivacy on */,
-        highPrivacy: true /* HIGHLY RECOMMANDED Disable auto consent */,
-        orientation:
-          "top" /* le bandeau doit être en haut (top) ou en bas (bottom) ? */,
-        adblocker: false /* Afficher un message si un adblocker est détecté */,
-        showAlertSmall: false /* afficher le petit bandeau en bas à droite ? */,
-        cookieslist: true /* Afficher la liste des cookies installés ? */,
-        removeCredit: false /* supprimer le lien vers la source ? */,
-      });
-    </script>
-  </head>
-  <body class="home">
-    <nav class="navbar navbar-expand-sm fixed-top navbar-light bg-light">
-      <div class="container-fluid">
-        <a class="navbar-brand flex-grow-1" href="index.html"
-          ><img
-            alt="logo MAIF"
-            src="https://static.maif.fr/resources/img/logo-maif.svg"
-          />
-          <span id="slogan" style="opacity: 0;">#OSSbyMAIF</span></a
-        >
-        <button
-          class="navbar-toggler me-2"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div
-          class="collapse navbar-collapse order-2 order-sm-0"
-          id="navbarSupportedContent"
-        >
-          <ul class="navbar-nav ms-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="index.html"
-                ><i class="fas fa-home"></i></a
-              >
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="projets.html"
-                >PROJETS</a
-              >
-            </li>
-          </ul>
-        </div>
-        <!--<select
+  <script type="text/javascript">
+    tarteaucitron.init({
+      hashtag:
+        "#tarteaucitron" /* Ouverture automatique du panel avec le hashtag */,
+      DenyAllCta: true /* Show the deny all button */,
+      AcceptAllCta: true /* Show the accept all button when highPrivacy on */,
+      highPrivacy: true /* HIGHLY RECOMMANDED Disable auto consent */,
+      orientation:
+        "top" /* le bandeau doit être en haut (top) ou en bas (bottom) ? */,
+      adblocker: false /* Afficher un message si un adblocker est détecté */,
+      showAlertSmall: false /* afficher le petit bandeau en bas à droite ? */,
+      cookieslist: true /* Afficher la liste des cookies installés ? */,
+      removeCredit: false /* supprimer le lien vers la source ? */,
+    });
+  </script>
+</head>
+
+<body class="home">
+  <nav class="navbar navbar-expand-sm fixed-top navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand flex-grow-1" href="index.html"><img alt="logo MAIF"
+          src="https://static.maif.fr/resources/img/logo-maif.svg" />
+        <span id="slogan" style="opacity: 0;">#OSSbyMAIF</span></a>
+      <button class="navbar-toggler me-2" type="button" data-bs-toggle="collapse"
+        data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+        aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse order-2 order-sm-0" id="navbarSupportedContent">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html"><i class="fas fa-home"></i></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="projets.html">PROJETS</a>
+          </li>
+        </ul>
+      </div>
+      <!--<select
           id="language"
           class="form-select"
           aria-label="Default select example"
@@ -97,86 +81,74 @@
           <option value="English">English</option>
           <option value="Francais" selected>Français</option>
         </select>-->
-      </div>
-    </nav>
-    <div class="bg-blue">
-      <section class="container">
-        <div class="d-flex justify-content-center align-items-center p-4">
-          <img
-            class="w-10"
-            alt="logo MAIF"
-            src="https://static.maif.fr/resources/img/logo-maif.svg"
-          />
-          <div class="text-white ms-4">
-            <h1>#OSSbyMAIF</h1>
-            <h2>
-              Designing & building <strong>commons</strong><br />since
-              <strong>1934</strong>
-            </h2>
-          </div>
-        </div>
-      </section>
     </div>
-    <div class="container-fluid intro">
+  </nav>
+  <div class="bg-blue">
+    <section class="container">
+      <div class="d-flex justify-content-center align-items-center p-4">
+        <img class="w-10" alt="logo MAIF" src="https://static.maif.fr/resources/img/logo-maif.svg" />
+        <div class="text-white ms-4">
+          <h1>#OSSbyMAIF</h1>
+          <h2>
+            Designing & building <strong>commons</strong><br />since
+            <strong>1934</strong>
+          </h2>
+        </div>
+      </div>
+    </section>
+  </div>
+  <div class="container-fluid intro">
+    <div class="row">
+      <div class="col-3 d-none d-sm-flex justify-content-center">
+        <img alt="personnage filaire" src="img/filaire-4.svg">
+      </div>
+      <div class="col-12 col-sm-9 p-4">
+        <p>
+          Parce qu’elles permettent la diffusion et le partage des
+          connaissances et qu’elles facilitent la coopération avec ses
+          partenaires, la MAIF privilégie les technologies de l'open source.
+          Elle a même fait de ce principe un pilier de sa charte numérique. En
+          retour, notre mutuelle d'assurance propose en libre accès le code
+          source d'outils informatiques qu’elle a conçus. En décembre 2018, le
+          Conseil national du logiciel libre lui a décerné le prix du «
+          Meilleur projet open source de l’année » pour cette initiative.
+        </p>
+        <p>
+          <a href="https://entreprise.maif.fr/entreprise/pour-une-societe-de-partage/decouvrir-nos-actions/open-source"
+            class="external-link" target="_blank">→ Open source : notre savoir-faire en partage</a><br><a
+            href="https://entreprise.maif.fr/entreprise/pour-une-societe-de-partage/decouvrir-nos-actions/maitriser-les-enjeux-du-numerique/charte-numerique-maif"
+            class="external-link" target="_blank">→ Charte Numérique MAIF</a>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="bg-light">
+    <div class="container grid p-4" id="actus">
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
       <div class="row">
-        <div class="col-3 d-none d-sm-flex justify-content-center">
-          <img alt="personnage filaire" src="img/filaire-4.svg">
-        </div>
-        <div class="col-12 col-sm-9 p-4">
-          <p>
-            Parce qu’elles permettent la diffusion et le partage des
-            connaissances et qu’elles facilitent la coopération avec ses
-            partenaires, la MAIF privilégie les technologies de l'open source.
-            Elle a même fait de ce principe un pilier de sa charte numérique. En
-            retour, notre mutuelle d'assurance propose en libre accès le code
-            source d'outils informatiques qu’elle a conçus. En décembre 2018, le
-            Conseil national du logiciel libre lui a décerné le prix du «
-            Meilleur projet open source de l’année » pour cette initiative.
-          </p>
-          <p>
-            <a href="https://entreprise.maif.fr/entreprise/pour-une-societe-de-partage/decouvrir-nos-actions/open-source" class="external-link" target="_blank">→ Open source : notre savoir-faire en partage</a><br><a href="https://entreprise.maif.fr/entreprise/pour-une-societe-de-partage/decouvrir-nos-actions/maitriser-les-enjeux-du-numerique/charte-numerique-maif" class="external-link" target="_blank">→ Charte Numérique MAIF</a>
-          </p>
-        </div>
-      </div>
-    </div>
-    <div class="bg-light">
-      <div class="container grid p-4" id="actus">
-      </div>
-    </div>
+        <div class="col">
+          <div class="footer-content">
+            <a href="mailto:oss@maif.fr"><span class="fa fa-envelope me-2"></span>oss@maif.fr</a>
+            <span>|</span>
+            <a href="https://github.com/MAIF"><span class="fab fa-github me-2"></span>github.com/MAIF</a>
+            <span>|</span>
+            <a href="https://medium.com/oss-by-maif"><span class="fab fa-medium me-2"></span>medium.com/oss-by-maif</a>
+            <span>|</span>
+            made with <span class="fa fa-heart"></span>
 
-    <footer>
-      <div class="container">
-        <div class="row">
-          <div class="col">
-            <div class="footer-content">
-              <a href="mailto:oss@maif.fr"
-                ><span class="fa fa-envelope me-2"></span>oss@maif.fr</a
-              >
-              <span>|</span>
-              <a href="https://github.com/MAIF"
-                ><span class="fab fa-github me-2"></span>github.com/MAIF</a
-              >
-              <span>|</span>
-              <a href="https://medium.com/oss-by-maif"
-                ><span class="fab fa-medium me-2"></span
-                >medium.com/oss-by-maif</a
-              >
-              <span>|</span>
-              made with <span class="fa fa-heart"></span>
-
-              <span>|</span>
-              <a href="https://maif.fr"
-                ><img
-                  alt="logo MAIF"
-                  src="https://static.maif.fr/resources/img/logo-maif.svg"
-                  width="40"
-              /></a>
-            </div>
+            <span>|</span>
+            <a href="https://maif.fr"><img alt="logo MAIF" src="https://static.maif.fr/resources/img/logo-maif.svg"
+                width="40" /></a>
           </div>
         </div>
       </div>
-    </footer>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    </div>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 
    
     <!--
@@ -188,95 +160,96 @@
       let actus = document.getElementById("actus");
       let CardsCreate = 0;
 
-      const createCards = (infos, target) => {
-        // console.log(infos)
-        let card = document.createElement("div");
-        let newDate = "";
-        card.className = "grid-item";
+    const createCards = (infos, target) => {
+      // console.log(infos)
+      let card = document.createElement("div");
+      let newDate = "";
+      card.className = "grid-item";
 
-        switch (target) {
-          case "Youtube":
-            card.innerHTML = `<div class="card m-2 shadow"><div class="card-body"><img class="card-img-top" src="${infos.thumbnail}" alt="Toutube thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">#OssByMaif</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="https://www.youtube.com/playlist?list=PLHWGfQmqyWtZuFKhNMseGODfsO0LJBp2a" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Youtube.png" alt="Youtube logo"></a> <span class="footer_date">${infos.datePublished}</span></div></div>`;
-            break;
+      switch (target) {
+        case "Youtube":
+          card.innerHTML = `<div class="card m-2 shadow"><div class="card-body"><img class="card-img-top" src="${infos.thumbnail}" alt="Toutube thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">#OssByMaif</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="https://www.youtube.com/playlist?list=PLHWGfQmqyWtZuFKhNMseGODfsO0LJBp2a" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Youtube.png" alt="Youtube logo"></a> <span class="footer_date">${infos.datePublished}</span></div></div>`;
+          break;
 
-          case "Twitter":
-            newDate = infos.created_at.split("T")[0];
-            card.innerHTML = `<div class="card m-2 shadow"><div class="card-body"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center mt-4">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="https://twitter.com/${infos.author_username}/status/${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Twitter.svg" alt="Twitter logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
-            break;
-          case "Medium":
-            newDate = infos.created_at.split(" ")[0];
-            card.innerHTML = `<div class="card m-2 shadow"><div class="card-body"><img class="card-img-top" src="${infos.thumbnail}" alt="Medium thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Medium.svg" alt="Medium logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
-            break;
-        }
-
-        actus.appendChild(card);
-        CardsCreate++;
-        if (CardsCreate == 9) {
-          initMsnry();
-        }
-      };
-
-      fetch("social-data/tweets.json")
-        .then((response) => response.json())
-        .then((data) => {
-          // console.log(data)
-          data.reverse();
-          for (let index = 0; index < 3; index++) {
-            createCards(data[index], "Twitter");
-          }
-        })
-        .catch((error) => console.log(error));
-
-      fetch("social-data/mediums.json")
-        .then((response) => response.json())
-        .then((data) => {
-          // console.log(data);
-          data.reverse();
-          for (let index = 0; index < 3; index++) {
-            createCards(data[index], "Medium");
-          }
-        })
-        .catch((error) => console.log(error));
-
-      fetch("social-data/youtube.json")
-        .then((response) => response.json())
-        .then((data) => {
-          // console.log(data);
-          // data.reverse();
-          for (let index = 0; index < 3; index++) {
-            createCards(data[index], "Youtube");
-          }
-        })
-        .catch((error) => console.log(error));
-
-      function initMsnry() {
-        imagesLoaded(document.querySelector(".grid"), function (instance) {
-          // console.log("all images are loaded");
-          launchMsnry();
-        });
-      }
-      function launchMsnry() {
-        var elem = document.querySelector(".grid");
-        elem.style.display = "block";
-        var msnry = new Masonry(elem, {
-          // options
-          itemSelector: ".grid-item",
-          columnWidth: 400,
-        });
-      }
-    </script>
-
-    <script>
-      const slogan = document.querySelector("#slogan");
-      function stickyNavigation() {
-        if (window.scrollY >= 200) {
-          slogan.style.opacity = 1;
-        } else {
-          slogan.style.opacity = window.scrollY /200;
-        }
+        case "Twitter":
+          newDate = infos.created_at.split("T")[0];
+          card.innerHTML = `<div class="card m-2 shadow"><div class="card-body"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center mt-4">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="https://twitter.com/${infos.author_username}/status/${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Twitter.svg" alt="Twitter logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
+          break;
+        case "Medium":
+          newDate = infos.created_at.split(" ")[0];
+          card.innerHTML = `<div class="card m-2 shadow"><div class="card-body"><img class="card-img-top" src="${infos.thumbnail}" alt="Medium thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Medium.svg" alt="Medium logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
+          break;
       }
 
-      window.addEventListener("scroll", stickyNavigation);
-    </script>
-  </body>
+      actus.appendChild(card);
+      CardsCreate++;
+      if (CardsCreate == 9) {
+        initMsnry();
+      }
+    };
+
+    Promise.all([
+      fetch("social-data/tweets.json").then((response) => response.json()),
+      fetch("social-data/mediums.json").then((response) => response.json()),
+      fetch("social-data/youtube.json").then((response) => response.json())
+    ])
+      .then(([tweets, mediums, youtubes]) => {
+        const posts = [
+          ...tweets
+            .map(t => ({
+              ...t,
+              type: 'Twitter',
+              createdAt: new Date(t.created_at)
+            })),
+          ...mediums
+            .map(t => ({
+              ...t,
+              type: 'Medium',
+              createdAt: new Date(t.created_at)
+            })),
+          ...youtubes
+            .map(t => ({
+              ...t,
+              type: 'Youtube',
+              createdAt: new Date(t.datePublished)
+            }))]
+
+        posts
+          .sort((a, b) => a.createdAt - b.createdAt)
+          .reverse()
+
+        posts.forEach(p => createCards(p, p.type))
+      })
+
+    function initMsnry() {
+      imagesLoaded(document.querySelector(".grid"), function (instance) {
+        console.log("all images are loaded");
+        launchMsnry();
+      });
+    }
+    function launchMsnry() {
+      var elem = document.querySelector(".grid");
+      elem.style.display = "block";
+      var msnry = new Masonry(elem, {
+        // options
+        itemSelector: ".grid-item",
+        columnWidth: 400,
+      });
+    }
+  </script>
+
+  <script>
+    const slogan = document.querySelector("#slogan");
+    function stickyNavigation() {
+      if (window.scrollY >= 200) {
+        slogan.style.opacity = 1;
+      } else {
+        slogan.style.opacity = window.scrollY / 200;
+      }
+    }
+
+    window.addEventListener("scroll", stickyNavigation);
+  </script>
+</body>
+
 </html>
