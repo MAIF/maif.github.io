@@ -181,12 +181,12 @@
           break;
       }
 
-      actus.appendChild(card);
-      CardsCreate++;
-      if (CardsCreate == 9) {
-        initMsnry();
-      }
-    };
+        actus.appendChild(card);
+        // CardsCreate++;
+        // if (CardsCreate == 9) {
+        //   initMsnry();
+        // }
+      };
 
     Promise.all([
       fetch("social-data/tweets.json").then((response) => response.json()),
@@ -219,7 +219,42 @@
           .reverse()
 
         posts.forEach(p => createCards(p, p.type))
+
+        initMsnry();
       })
+
+      // fetch("social-data/tweets.json")
+      //   .then((response) => response.json())
+      //   .then((data) => {
+      //     // console.log(data)
+      //     data.reverse();
+      //     for (let index = 0; index < 3; index++) {
+      //       createCards(data[index], "Twitter");
+      //     }
+      //   })
+      //   .catch((error) => console.log(error));
+
+      // fetch("social-data/mediums.json")
+      //   .then((response) => response.json())
+      //   .then((data) => {
+      //     // console.log(data);
+      //     data.reverse();
+      //     for (let index = 0; index < 3; index++) {
+      //       createCards(data[index], "Medium");
+      //     }
+      //   })
+      //   .catch((error) => console.log(error));
+
+      // fetch("social-data/youtube.json")
+      //   .then((response) => response.json())
+      //   .then((data) => {
+      //     // console.log(data);
+      //     // data.reverse();
+      //     for (let index = 0; index < 3; index++) {
+      //       createCards(data[index], "Youtube");
+      //     }
+      //   })
+      //   .catch((error) => console.log(error));
 
     function initMsnry() {
       imagesLoaded(document.querySelector(".grid"), function (instance) {
