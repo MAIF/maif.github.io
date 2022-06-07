@@ -130,6 +130,9 @@ h2 {
 .nav-link:hover {
   color: inherit;
 }
+.nav-link.active {
+  color: #c62222 !important;
+}
 
 .title {
   font-size: 2rem;
@@ -162,6 +165,42 @@ footer {
 .footer-content a:hover {
   text-decoration: underline;
 }
+
+/* animation */
+.nav-item:hover {
+  animation-name: slideUp;
+
+  animation-duration: 0.3s;
+
+  animation-timing-function: ease;
+
+  visibility: visible !important;
+}
+
+@keyframes slideUp {
+  0% {
+    transform: translateY(0%);
+  }
+  80% {
+    transform: translateY(-5%);
+  }
+  100% {
+    transform: translateY(0%);
+  }
+}
+
+.animCard{
+  animation: animCard 0.5s
+}
+@keyframes animCard {
+  0% {
+   opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
 /* home */
 .intro {
   background-color: #fff;
@@ -175,6 +214,10 @@ footer {
 
 .home .footer_date {
   font-size: 16px;
+}
+.home .grid-item .card {
+  display: none;
+  /* opacity: 0; */
 }
 /* projects */
 .projects .grid-item .card {
@@ -273,10 +316,10 @@ a .product {
     width: 100%;
   }
   .projects .grid-item {
-    height: 510px;
+    height: 550px;
   }
   .projects .grid-item.is-expanded {
     width: 100%;
-    height: 1000px;
+    height: 700px;
   }
 }
