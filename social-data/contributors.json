@@ -1,0 +1,611 @@
+{
+  "thoth": [
+    {
+      "login": "larousso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+      "commits": 52
+    },
+    {
+      "login": "ptitFicus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+      "commits": 39
+    },
+    {
+      "login": "Gregnarok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23338347?v=4",
+      "commits": 1
+    }
+  ],
+  "shapash": [
+    {
+      "login": "ThomasBouche",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+      "commits": 81
+    },
+    {
+      "login": "ThibaudReal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48520594?v=4",
+      "commits": 65
+    },
+    {
+      "login": "Francesco-Marini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60148515?v=4",
+      "commits": 48
+    },
+    {
+      "login": "MaxGdr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51989635?v=4",
+      "commits": 35
+    },
+    {
+      "login": "yg79",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41585787?v=4",
+      "commits": 26
+    },
+    {
+      "login": "GAP01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43179647?v=4",
+      "commits": 14
+    },
+    {
+      "login": "blanoe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45815264?v=4",
+      "commits": 8
+    },
+    {
+      "login": "mathisbarthere",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25695519?v=4",
+      "commits": 8
+    },
+    {
+      "login": "githubyako",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
+      "commits": 4
+    },
+    {
+      "login": "YL79",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48923214?v=4",
+      "commits": 3
+    },
+    {
+      "login": "amorea04",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36231668?v=4",
+      "commits": 2
+    },
+    {
+      "login": "SebastienBidault",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57792044?v=4",
+      "commits": 2
+    },
+    {
+      "login": "peterdhansen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19173854?v=4",
+      "commits": 2
+    },
+    {
+      "login": "amnaabbassi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22617297?v=4",
+      "commits": 2
+    },
+    {
+      "login": "susmitpy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34369843?v=4",
+      "commits": 1
+    },
+    {
+      "login": "DragonWarrior15",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13030337?v=4",
+      "commits": 1
+    },
+    {
+      "login": "yvanzubro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78306037?v=4",
+      "commits": 1
+    }
+  ],
+  "react-forms": [
+    {
+      "login": "quentinovega",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+      "commits": 142
+    },
+    {
+      "login": "Zwiterrion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+      "commits": 59
+    },
+    {
+      "login": "baudelotphilippe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+      "commits": 15
+    },
+    {
+      "login": "ptitFicus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+      "commits": 2
+    },
+    {
+      "login": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "commits": 1
+    }
+  ],
+  "otoroshi": [
+    {
+      "login": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "commits": 3893
+    },
+    {
+      "login": "Zwiterrion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+      "commits": 262
+    },
+    {
+      "login": "baudelotphilippe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+      "commits": 199
+    },
+    {
+      "login": "quentinovega",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+      "commits": 48
+    },
+    {
+      "login": "mathieuancelinserli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18695639?v=4",
+      "commits": 34
+    },
+    {
+      "login": "guillaumesolderaserli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17246451?v=4",
+      "commits": 10
+    },
+    {
+      "login": "fedysalahserli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22706239?v=4",
+      "commits": 8
+    },
+    {
+      "login": "sebprunierserli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
+      "commits": 3
+    },
+    {
+      "login": "larousso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+      "commits": 3
+    },
+    {
+      "login": "tristan-chauveau",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
+      "commits": 3
+    },
+    {
+      "login": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "commits": 1
+    },
+    {
+      "login": "desmfr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+      "commits": 1
+    }
+  ],
+  "nio": [
+    {
+      "login": "quentinovega",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+      "commits": 38
+    },
+    {
+      "login": "Fraer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/976420?v=4",
+      "commits": 22
+    },
+    {
+      "login": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "commits": 20
+    },
+    {
+      "login": "baudelotphilippe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+      "commits": 11
+    },
+    {
+      "login": "larousso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+      "commits": 9
+    },
+    {
+      "login": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "commits": 7
+    },
+    {
+      "login": "gitter-badger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8518239?v=4",
+      "commits": 1
+    },
+    {
+      "login": "marclaporte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1004261?v=4",
+      "commits": 1
+    },
+    {
+      "login": "frinyvonnick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13099512?v=4",
+      "commits": 1
+    },
+    {
+      "login": "oltruong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
+      "commits": 1
+    }
+  ],
+  "melusine": [
+    {
+      "login": "hugo-quantmetry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43343964?v=4",
+      "commits": 98
+    },
+    {
+      "login": "farthur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24226844?v=4",
+      "commits": 78
+    },
+    {
+      "login": "TFA-MAIF",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55534151?v=4",
+      "commits": 59
+    },
+    {
+      "login": "tstringerquantmetry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47748543?v=4",
+      "commits": 52
+    },
+    {
+      "login": "milidris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25296515?v=4",
+      "commits": 20
+    },
+    {
+      "login": "benoitLebreton-perso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51739671?v=4",
+      "commits": 15
+    },
+    {
+      "login": "adam-benjellounSG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97891573?v=4",
+      "commits": 7
+    },
+    {
+      "login": "victorBigand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45855502?v=4",
+      "commits": 6
+    },
+    {
+      "login": "sachasamama",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19156316?v=4",
+      "commits": 6
+    },
+    {
+      "login": "AntoineSimoulin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11446904?v=4",
+      "commits": 3
+    },
+    {
+      "login": "FDJFDJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23315071?v=4",
+      "commits": 3
+    },
+    {
+      "login": "baudelotphilippe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+      "commits": 2
+    },
+    {
+      "login": "desmfr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+      "commits": 1
+    },
+    {
+      "login": "DataFactory-Verlingue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86673601?v=4",
+      "commits": 1
+    },
+    {
+      "login": "remiadon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
+      "commits": 1
+    },
+    {
+      "login": "Maxime-POULAIN-Verlingue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
+      "commits": 1
+    },
+    {
+      "login": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "commits": 1
+    },
+    {
+      "login": "CRGONCALVES",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47948645?v=4",
+      "commits": 1
+    },
+    {
+      "login": "ggirou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/739916?v=4",
+      "commits": 1
+    },
+    {
+      "login": "nicolaspte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55386851?v=4",
+      "commits": 1
+    }
+  ],
+  "maif.github.io": [
+    {
+      "login": "baudelotphilippe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+      "commits": 71
+    },
+    {
+      "login": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "commits": 36
+    },
+    {
+      "login": "desmfr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+      "commits": 26
+    },
+    {
+      "login": "Zwiterrion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+      "commits": 2
+    },
+    {
+      "login": "ThomasBouche",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+      "commits": 1
+    },
+    {
+      "login": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "commits": 1
+    }
+  ],
+  "lets-automate": [],
+  "jooq-async": [
+    {
+      "login": "larousso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+      "commits": 32
+    }
+  ],
+  "izanami": [
+    {
+      "login": "larousso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+      "commits": 715
+    },
+    {
+      "login": "pierrebruninmaif",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
+      "commits": 199
+    },
+    {
+      "login": "baudelotphilippe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+      "commits": 149
+    },
+    {
+      "login": "gpoulet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10268774?v=4",
+      "commits": 13
+    },
+    {
+      "login": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "commits": 12
+    },
+    {
+      "login": "jtanguy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/551107?v=4",
+      "commits": 7
+    },
+    {
+      "login": "gmembre-zenika",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7294764?v=4",
+      "commits": 3
+    },
+    {
+      "login": "desmfr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+      "commits": 3
+    },
+    {
+      "login": "sguiheux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1478025?v=4",
+      "commits": 3
+    },
+    {
+      "login": "quentinproust",
+      "avatar_url": "https://avatars.githubusercontent.com/u/355461?v=4",
+      "commits": 3
+    },
+    {
+      "login": "kefranabg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9840435?v=4",
+      "commits": 3
+    },
+    {
+      "login": "oltruong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
+      "commits": 2
+    },
+    {
+      "login": "jabby",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1883932?v=4",
+      "commits": 2
+    },
+    {
+      "login": "romaindso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1172281?v=4",
+      "commits": 1
+    },
+    {
+      "login": "sebprunierserli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
+      "commits": 1
+    },
+    {
+      "login": "Freyskeyd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1394604?v=4",
+      "commits": 1
+    },
+    {
+      "login": "ybasket",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2632023?v=4",
+      "commits": 1
+    },
+    {
+      "login": "cbm-lcoatanlem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42838836?v=4",
+      "commits": 1
+    },
+    {
+      "login": "fsamin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/684151?v=4",
+      "commits": 1
+    },
+    {
+      "login": "cbois",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
+      "commits": 1
+    },
+    {
+      "login": "gitter-badger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8518239?v=4",
+      "commits": 1
+    },
+    {
+      "login": "SoerenSilkjaer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25299535?v=4",
+      "commits": 1
+    },
+    {
+      "login": "ptitFicus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+      "commits": 1
+    },
+    {
+      "login": "cdrikd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
+      "commits": 1
+    },
+    {
+      "login": "farnulfo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
+      "commits": 1
+    },
+    {
+      "login": "charlyx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/481446?v=4",
+      "commits": 1
+    },
+    {
+      "login": "hamish-omny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54782479?v=4",
+      "commits": 1
+    }
+  ],
+  "functional-validation": [
+    {
+      "login": "larousso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+      "commits": 11
+    }
+  ],
+  "functional-json": [
+    {
+      "login": "larousso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+      "commits": 24
+    },
+    {
+      "login": "ptitFicus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+      "commits": 5
+    },
+    {
+      "login": "mbaechler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/708318?v=4",
+      "commits": 2
+    }
+  ],
+  "eurybia": [
+    {
+      "login": "ThomasBouche",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+      "commits": 19
+    },
+    {
+      "login": "githubyako",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
+      "commits": 10
+    }
+  ],
+  "daikoku": [
+    {
+      "login": "quentinovega",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+      "commits": 534
+    },
+    {
+      "login": "Zwiterrion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+      "commits": 405
+    },
+    {
+      "login": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "commits": 99
+    },
+    {
+      "login": "baudelotphilippe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+      "commits": 62
+    }
+  ],
+  "cards": [
+    {
+      "login": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "commits": 96
+    },
+    {
+      "login": "baudelotphilippe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+      "commits": 25
+    },
+    {
+      "login": "wikijm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
+      "commits": 1
+    },
+    {
+      "login": "gotson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
+      "commits": 1
+    },
+    {
+      "login": "desmfr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+      "commits": 1
+    }
+  ]
+}

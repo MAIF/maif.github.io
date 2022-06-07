@@ -30,6 +30,9 @@ jobs:
       - name: Search on medium
         id: medium
         run: node ./scripts/medium.js
+      - name: Search contributors on github
+        id: medium
+        run: node ./scripts/contributors.js
       - name: Commit files
         run: |
           git config --local user.email "ossbymaif-github-actions@users.noreply.github.com"
