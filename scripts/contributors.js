@@ -26,6 +26,7 @@ function getCommits(repo) {
           return {
             login: contributor.author.login,
             avatar_url: contributor.author.avatar_url,
+            url: contributor.author.html_url,
             commits: contributor.total
           }
         }).filter(c => c.login !== 'snyk-bot').filter(c => c.login !== 'dependabot[bot]'), c => c.commits).reverse()
@@ -37,6 +38,8 @@ function getCommits(repo) {
 }
 
 function getRepos() {
+
+  const global = {};
 
   return new Promise((success) => {
     return fetch(`https://api.github.com/users/MAIF/repos`, {
@@ -56,11 +59,19 @@ function getRepos() {
   
           function next() {
             if (tasks.length === 0) {
+              results['maif-global-stats'] = _.sortBy(Object.keys(global).map(k => global[k]), c => c.commits).reverse();
               success(results)
             } else {
               const task = tasks.pop();
               getCommits(task.name).then(commits => {
                 results[task.name] = commits;
+                commits.map(commit => {
+                  const gcommit = global[commit.login];
+                  if (!gcommit) {
+                    global[commit.login] = { ...commit, commits: 0 };
+                  }
+                  global[commit.login].commits = global[commit.login].commits + commit.commits;
+                })
                 console.log(task.name);
                 next();
               });
