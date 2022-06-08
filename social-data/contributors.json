@@ -217,15 +217,15 @@
       "commits": 3
     },
     {
-      "login": "cwoodrow",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-      "url": "https://github.com/cwoodrow",
-      "commits": 1
-    },
-    {
       "login": "desmfr",
       "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
       "url": "https://github.com/desmfr",
+      "commits": 1
+    },
+    {
+      "login": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "url": "https://github.com/cwoodrow",
       "commits": 1
     }
   ],
@@ -377,9 +377,21 @@
       "commits": 1
     },
     {
+      "login": "remiadon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
+      "url": "https://github.com/remiadon",
+      "commits": 1
+    },
+    {
       "login": "Maxime-POULAIN-Verlingue",
       "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
       "url": "https://github.com/Maxime-POULAIN-Verlingue",
+      "commits": 1
+    },
+    {
+      "login": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "url": "https://github.com/cwoodrow",
       "commits": 1
     },
     {
@@ -392,18 +404,6 @@
       "login": "ggirou",
       "avatar_url": "https://avatars.githubusercontent.com/u/739916?v=4",
       "url": "https://github.com/ggirou",
-      "commits": 1
-    },
-    {
-      "login": "remiadon",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
-      "url": "https://github.com/remiadon",
-      "commits": 1
-    },
-    {
-      "login": "cwoodrow",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-      "url": "https://github.com/cwoodrow",
       "commits": 1
     },
     {
@@ -669,15 +669,15 @@
       "commits": 25
     },
     {
-      "login": "wikijm",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
-      "url": "https://github.com/wikijm",
-      "commits": 1
-    },
-    {
       "login": "gotson",
       "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
       "url": "https://github.com/gotson",
+      "commits": 1
+    },
+    {
+      "login": "wikijm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
+      "url": "https://github.com/wikijm",
       "commits": 1
     },
     {
@@ -989,15 +989,15 @@
       "commits": 2
     },
     {
-      "login": "gotson",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
-      "url": "https://github.com/gotson",
-      "commits": 1
-    },
-    {
       "login": "wikijm",
       "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
       "url": "https://github.com/wikijm",
+      "commits": 1
+    },
+    {
+      "login": "gotson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
+      "url": "https://github.com/gotson",
       "commits": 1
     },
     {
@@ -1073,12 +1073,6 @@
       "commits": 1
     },
     {
-      "login": "remiadon",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
-      "url": "https://github.com/remiadon",
-      "commits": 1
-    },
-    {
       "login": "ggirou",
       "avatar_url": "https://avatars.githubusercontent.com/u/739916?v=4",
       "url": "https://github.com/ggirou",
@@ -1094,6 +1088,12 @@
       "login": "Maxime-POULAIN-Verlingue",
       "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
       "url": "https://github.com/Maxime-POULAIN-Verlingue",
+      "commits": 1
+    },
+    {
+      "login": "remiadon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
+      "url": "https://github.com/remiadon",
       "commits": 1
     },
     {
