@@ -31,7 +31,7 @@ jobs:
         id: medium
         run: node ./scripts/medium.js
       - name: Search contributors on github
-        id: medium
+        id: github
         run: node ./scripts/contributors.js
         env:  
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
