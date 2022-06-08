@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 const fs = require('fs-extra');
 const _ = require('lodash');
 
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN || 'secret';
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN || process.argv[2] || 'secret';
 const contributors_file = './social-data/contributors.json';
 const filterOut = [
   'project-template',
@@ -27,7 +27,7 @@ function getCommits(repo) {
             login: contributor.author.login,
             avatar_url: contributor.author.avatar_url,
             url: contributor.author.html_url,
-            commits: contributor.total
+            commits: contributor.total,
           }
         }).filter(c => c.login !== 'snyk-bot').filter(c => c.login !== 'dependabot[bot]'), c => c.commits).reverse()
       })

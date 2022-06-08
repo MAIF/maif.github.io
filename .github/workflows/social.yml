@@ -33,6 +33,8 @@ jobs:
       - name: Search contributors on github
         id: medium
         run: node ./scripts/contributors.js
+        env:  
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit files
         run: |
           git config --local user.email "ossbymaif-github-actions@users.noreply.github.com"
