@@ -219,6 +219,14 @@ footer {
   display: none;
   /* opacity: 0; */
 }
+
+.thanks .card-footer{
+  padding: .5rem;
+}
+.thanks #contribs a{
+ text-decoration: none;
+ color:#2e404f;
+}
 /* projects */
 .projects .grid-item .card {
   background-color: rgb(246, 243, 241);
