@@ -473,12 +473,6 @@
       "commits": 3
     },
     {
-      "login": "sguiheux",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1478025?v=4",
-      "url": "https://github.com/sguiheux",
-      "commits": 3
-    },
-    {
       "login": "quentinproust",
       "avatar_url": "https://avatars.githubusercontent.com/u/355461?v=4",
       "url": "https://github.com/quentinproust",
@@ -491,15 +485,21 @@
       "commits": 3
     },
     {
-      "login": "jabby",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1883932?v=4",
-      "url": "https://github.com/jabby",
-      "commits": 2
+      "login": "sguiheux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1478025?v=4",
+      "url": "https://github.com/sguiheux",
+      "commits": 3
     },
     {
       "login": "oltruong",
       "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
       "url": "https://github.com/oltruong",
+      "commits": 2
+    },
+    {
+      "login": "jabby",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1883932?v=4",
+      "url": "https://github.com/jabby",
       "commits": 2
     },
     {
@@ -557,6 +557,12 @@
       "commits": 1
     },
     {
+      "login": "farnulfo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
+      "url": "https://github.com/farnulfo",
+      "commits": 1
+    },
+    {
       "login": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
@@ -569,21 +575,15 @@
       "commits": 1
     },
     {
-      "login": "farnulfo",
-      "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
-      "url": "https://github.com/farnulfo",
+      "login": "cdrikd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
+      "url": "https://github.com/cdrikd",
       "commits": 1
     },
     {
       "login": "hamish-omny",
       "avatar_url": "https://avatars.githubusercontent.com/u/54782479?v=4",
       "url": "https://github.com/hamish-omny",
-      "commits": 1
-    },
-    {
-      "login": "cdrikd",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
-      "url": "https://github.com/cdrikd",
       "commits": 1
     }
   ],
@@ -893,6 +893,12 @@
       "commits": 4
     },
     {
+      "login": "sguiheux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1478025?v=4",
+      "url": "https://github.com/sguiheux",
+      "commits": 3
+    },
+    {
       "login": "kefranabg",
       "avatar_url": "https://avatars.githubusercontent.com/u/9840435?v=4",
       "url": "https://github.com/kefranabg",
@@ -902,12 +908,6 @@
       "login": "quentinproust",
       "avatar_url": "https://avatars.githubusercontent.com/u/355461?v=4",
       "url": "https://github.com/quentinproust",
-      "commits": 3
-    },
-    {
-      "login": "sguiheux",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1478025?v=4",
-      "url": "https://github.com/sguiheux",
       "commits": 3
     },
     {
@@ -1001,27 +1001,27 @@
       "commits": 1
     },
     {
-      "login": "cdrikd",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
-      "url": "https://github.com/cdrikd",
-      "commits": 1
-    },
-    {
       "login": "hamish-omny",
       "avatar_url": "https://avatars.githubusercontent.com/u/54782479?v=4",
       "url": "https://github.com/hamish-omny",
       "commits": 1
     },
     {
-      "login": "farnulfo",
-      "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
-      "url": "https://github.com/farnulfo",
+      "login": "cdrikd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
+      "url": "https://github.com/cdrikd",
       "commits": 1
     },
     {
       "login": "charlyx",
       "avatar_url": "https://avatars.githubusercontent.com/u/481446?v=4",
       "url": "https://github.com/charlyx",
+      "commits": 1
+    },
+    {
+      "login": "farnulfo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
+      "url": "https://github.com/farnulfo",
       "commits": 1
     },
     {
