@@ -222,6 +222,8 @@ footer {
 
 .thanks .card-footer{
   padding: .5rem;
+ margin-right: 0px;
+ margin-left: 0px;
 }
 .thanks #contribs a{
  text-decoration: none;
