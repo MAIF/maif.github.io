@@ -397,12 +397,12 @@
         "baudelotphilippe",
         "desmfr",
         "DataFactory-Verlingue",
-        "remiadon",
         "Maxime-POULAIN-Verlingue",
         "CRGONCALVES",
         "ggirou",
+        "nicolaspte",
         "cwoodrow",
-        "nicolaspte"
+        "remiadon"
       ],
       "commits_count": 357,
       "commits_per_contributor": [
@@ -491,12 +491,6 @@
           "commits_count": 1
         },
         {
-          "name": "remiadon",
-          "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
-          "url": "https://github.com/remiadon",
-          "commits_count": 1
-        },
-        {
           "name": "Maxime-POULAIN-Verlingue",
           "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
           "url": "https://github.com/Maxime-POULAIN-Verlingue",
@@ -515,15 +509,21 @@
           "commits_count": 1
         },
         {
+          "name": "nicolaspte",
+          "avatar_url": "https://avatars.githubusercontent.com/u/55386851?v=4",
+          "url": "https://github.com/nicolaspte",
+          "commits_count": 1
+        },
+        {
           "name": "cwoodrow",
           "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
           "url": "https://github.com/cwoodrow",
           "commits_count": 1
         },
         {
-          "name": "nicolaspte",
-          "avatar_url": "https://avatars.githubusercontent.com/u/55386851?v=4",
-          "url": "https://github.com/nicolaspte",
+          "name": "remiadon",
+          "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
+          "url": "https://github.com/remiadon",
           "commits_count": 1
         }
       ]
@@ -1376,15 +1376,6 @@
         "melusine"
       ]
     },
-    "remiadon": {
-      "name": "remiadon",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
-      "url": "https://github.com/remiadon",
-      "commits_count": 1,
-      "projects": [
-        "melusine"
-      ]
-    },
     "Maxime-POULAIN-Verlingue": {
       "name": "Maxime-POULAIN-Verlingue",
       "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
@@ -1416,6 +1407,15 @@
       "name": "nicolaspte",
       "avatar_url": "https://avatars.githubusercontent.com/u/55386851?v=4",
       "url": "https://github.com/nicolaspte",
+      "commits_count": 1,
+      "projects": [
+        "melusine"
+      ]
+    },
+    "remiadon": {
+      "name": "remiadon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
+      "url": "https://github.com/remiadon",
       "commits_count": 1,
       "projects": [
         "melusine"
@@ -1683,11 +1683,11 @@
     "ybasket",
     "Freyskeyd",
     "romaindso",
+    "remiadon",
     "nicolaspte",
     "ggirou",
     "CRGONCALVES",
     "Maxime-POULAIN-Verlingue",
-    "remiadon",
     "DataFactory-Verlingue",
     "frinyvonnick",
     "marclaporte",
