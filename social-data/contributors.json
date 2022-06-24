@@ -581,20 +581,20 @@
         "sguiheux",
         "quentinproust",
         "kefranabg",
-        "oltruong",
         "jabby",
+        "oltruong",
         "romaindso",
         "sebprunierserli",
         "Freyskeyd",
         "ybasket",
         "cbm-lcoatanlem",
         "fsamin",
-        "charlyx",
-        "SoerenSilkjaer",
         "cbois",
+        "SoerenSilkjaer",
         "ptitFicus",
-        "hamish-omny",
+        "charlyx",
         "farnulfo",
+        "hamish-omny",
         "cdrikd"
       ],
       "commits_count": 1127,
@@ -666,15 +666,15 @@
           "commits_count": 3
         },
         {
-          "name": "oltruong",
-          "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
-          "url": "https://github.com/oltruong",
-          "commits_count": 2
-        },
-        {
           "name": "jabby",
           "avatar_url": "https://avatars.githubusercontent.com/u/1883932?v=4",
           "url": "https://github.com/jabby",
+          "commits_count": 2
+        },
+        {
+          "name": "oltruong",
+          "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
+          "url": "https://github.com/oltruong",
           "commits_count": 2
         },
         {
@@ -714,9 +714,9 @@
           "commits_count": 1
         },
         {
-          "name": "charlyx",
-          "avatar_url": "https://avatars.githubusercontent.com/u/481446?v=4",
-          "url": "https://github.com/charlyx",
+          "name": "cbois",
+          "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
+          "url": "https://github.com/cbois",
           "commits_count": 1
         },
         {
@@ -726,27 +726,27 @@
           "commits_count": 1
         },
         {
-          "name": "cbois",
-          "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
-          "url": "https://github.com/cbois",
-          "commits_count": 1
-        },
-        {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
           "commits_count": 1
         },
         {
-          "name": "hamish-omny",
-          "avatar_url": "https://avatars.githubusercontent.com/u/54782479?v=4",
-          "url": "https://github.com/hamish-omny",
+          "name": "charlyx",
+          "avatar_url": "https://avatars.githubusercontent.com/u/481446?v=4",
+          "url": "https://github.com/charlyx",
           "commits_count": 1
         },
         {
           "name": "farnulfo",
           "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
           "url": "https://github.com/farnulfo",
+          "commits_count": 1
+        },
+        {
+          "name": "hamish-omny",
+          "avatar_url": "https://avatars.githubusercontent.com/u/54782479?v=4",
+          "url": "https://github.com/hamish-omny",
           "commits_count": 1
         },
         {
@@ -879,8 +879,8 @@
       "contributors": [
         "mathieuancelin",
         "baudelotphilippe",
-        "wikijm",
         "gotson",
+        "wikijm",
         "desmfr"
       ],
       "commits_count": 124,
@@ -898,15 +898,15 @@
           "commits_count": 25
         },
         {
-          "name": "wikijm",
-          "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
-          "url": "https://github.com/wikijm",
-          "commits_count": 1
-        },
-        {
           "name": "gotson",
           "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
           "url": "https://github.com/gotson",
+          "commits_count": 1
+        },
+        {
+          "name": "wikijm",
+          "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
+          "url": "https://github.com/wikijm",
           "commits_count": 1
         },
         {
@@ -1538,10 +1538,10 @@
         "izanami"
       ]
     },
-    "charlyx": {
-      "name": "charlyx",
-      "avatar_url": "https://avatars.githubusercontent.com/u/481446?v=4",
-      "url": "https://github.com/charlyx",
+    "cbois": {
+      "name": "cbois",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
+      "url": "https://github.com/cbois",
       "commits_count": 1,
       "projects": [
         "izanami"
@@ -1556,19 +1556,10 @@
         "izanami"
       ]
     },
-    "cbois": {
-      "name": "cbois",
-      "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
-      "url": "https://github.com/cbois",
-      "commits_count": 1,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "hamish-omny": {
-      "name": "hamish-omny",
-      "avatar_url": "https://avatars.githubusercontent.com/u/54782479?v=4",
-      "url": "https://github.com/hamish-omny",
+    "charlyx": {
+      "name": "charlyx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/481446?v=4",
+      "url": "https://github.com/charlyx",
       "commits_count": 1,
       "projects": [
         "izanami"
@@ -1578,6 +1569,15 @@
       "name": "farnulfo",
       "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
       "url": "https://github.com/farnulfo",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "hamish-omny": {
+      "name": "hamish-omny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54782479?v=4",
+      "url": "https://github.com/hamish-omny",
       "commits_count": 1,
       "projects": [
         "izanami"
@@ -1601,19 +1601,19 @@
         "functional-json"
       ]
     },
-    "wikijm": {
-      "name": "wikijm",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
-      "url": "https://github.com/wikijm",
+    "gotson": {
+      "name": "gotson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
+      "url": "https://github.com/gotson",
       "commits_count": 1,
       "projects": [
         "cards"
       ]
     },
-    "gotson": {
-      "name": "gotson",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
-      "url": "https://github.com/gotson",
+    "wikijm": {
+      "name": "wikijm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
+      "url": "https://github.com/wikijm",
       "commits_count": 1,
       "projects": [
         "cards"
@@ -1670,14 +1670,14 @@
     "peterdhansen",
     "SebastienBidault",
     "amorea04",
-    "gotson",
     "wikijm",
+    "gotson",
     "cdrikd",
-    "farnulfo",
     "hamish-omny",
-    "cbois",
-    "SoerenSilkjaer",
+    "farnulfo",
     "charlyx",
+    "SoerenSilkjaer",
+    "cbois",
     "fsamin",
     "cbm-lcoatanlem",
     "ybasket",
