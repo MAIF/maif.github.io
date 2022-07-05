@@ -222,8 +222,8 @@
         "guillaumesolderaserli",
         "fedysalahserli",
         "sebprunierserli",
-        "larousso",
         "tristan-chauveau",
+        "larousso",
         "desmfr",
         "cwoodrow"
       ],
@@ -278,15 +278,15 @@
           "commits_count": 3
         },
         {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 3
-        },
-        {
           "name": "tristan-chauveau",
           "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
           "url": "https://github.com/tristan-chauveau",
+          "commits_count": 3
+        },
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
           "commits_count": 3
         },
         {
@@ -400,10 +400,10 @@
         "PerrierRemi",
         "remiadon",
         "Maxime-POULAIN-Verlingue",
-        "cwoodrow",
         "CRGONCALVES",
         "ggirou",
-        "nicolaspte"
+        "nicolaspte",
+        "cwoodrow"
       ],
       "commits_count": 361,
       "commits_per_contributor": [
@@ -510,12 +510,6 @@
           "commits_count": 1
         },
         {
-          "name": "cwoodrow",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-          "url": "https://github.com/cwoodrow",
-          "commits_count": 1
-        },
-        {
           "name": "CRGONCALVES",
           "avatar_url": "https://avatars.githubusercontent.com/u/47948645?v=4",
           "url": "https://github.com/CRGONCALVES",
@@ -531,6 +525,12 @@
           "name": "nicolaspte",
           "avatar_url": "https://avatars.githubusercontent.com/u/55386851?v=4",
           "url": "https://github.com/nicolaspte",
+          "commits_count": 1
+        },
+        {
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
           "commits_count": 1
         }
       ]
@@ -886,8 +886,8 @@
       "contributors": [
         "mathieuancelin",
         "baudelotphilippe",
-        "wikijm",
         "gotson",
+        "wikijm",
         "desmfr"
       ],
       "commits_count": 124,
@@ -905,15 +905,15 @@
           "commits_count": 25
         },
         {
-          "name": "wikijm",
-          "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
-          "url": "https://github.com/wikijm",
-          "commits_count": 1
-        },
-        {
           "name": "gotson",
           "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
           "url": "https://github.com/gotson",
+          "commits_count": 1
+        },
+        {
+          "name": "wikijm",
+          "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
+          "url": "https://github.com/wikijm",
           "commits_count": 1
         },
         {
@@ -1617,19 +1617,19 @@
         "functional-json"
       ]
     },
-    "wikijm": {
-      "name": "wikijm",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
-      "url": "https://github.com/wikijm",
+    "gotson": {
+      "name": "gotson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
+      "url": "https://github.com/gotson",
       "commits_count": 1,
       "projects": [
         "cards"
       ]
     },
-    "gotson": {
-      "name": "gotson",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
-      "url": "https://github.com/gotson",
+    "wikijm": {
+      "name": "wikijm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
+      "url": "https://github.com/wikijm",
       "commits_count": 1,
       "projects": [
         "cards"
@@ -1686,8 +1686,8 @@
     "peterdhansen",
     "SebastienBidault",
     "amorea04",
-    "gotson",
     "wikijm",
+    "gotson",
     "cdrikd",
     "farnulfo",
     "hamish-omny",
