@@ -44,8 +44,8 @@
         "MaxGdr",
         "yg79",
         "GAP01",
-        "mathisbarthere",
         "blanoe",
+        "mathisbarthere",
         "githubyako",
         "YL79",
         "amorea04",
@@ -95,15 +95,15 @@
           "commits_count": 14
         },
         {
-          "name": "mathisbarthere",
-          "avatar_url": "https://avatars.githubusercontent.com/u/25695519?v=4",
-          "url": "https://github.com/mathisbarthere",
-          "commits_count": 8
-        },
-        {
           "name": "blanoe",
           "avatar_url": "https://avatars.githubusercontent.com/u/45815264?v=4",
           "url": "https://github.com/blanoe",
+          "commits_count": 8
+        },
+        {
+          "name": "mathisbarthere",
+          "avatar_url": "https://avatars.githubusercontent.com/u/25695519?v=4",
+          "url": "https://github.com/mathisbarthere",
           "commits_count": 8
         },
         {
@@ -222,10 +222,10 @@
         "guillaumesolderaserli",
         "fedysalahserli",
         "sebprunierserli",
-        "larousso",
         "tristan-chauveau",
-        "cwoodrow",
-        "desmfr"
+        "larousso",
+        "desmfr",
+        "cwoodrow"
       ],
       "commits_count": 4599,
       "commits_per_contributor": [
@@ -278,27 +278,27 @@
           "commits_count": 3
         },
         {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 3
-        },
-        {
           "name": "tristan-chauveau",
           "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
           "url": "https://github.com/tristan-chauveau",
           "commits_count": 3
         },
         {
-          "name": "cwoodrow",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-          "url": "https://github.com/cwoodrow",
-          "commits_count": 1
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 3
         },
         {
           "name": "desmfr",
           "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
           "url": "https://github.com/desmfr",
+          "commits_count": 1
+        },
+        {
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
           "commits_count": 1
         }
       ]
@@ -1017,19 +1017,19 @@
         "shapash"
       ]
     },
-    "mathisbarthere": {
-      "name": "mathisbarthere",
-      "avatar_url": "https://avatars.githubusercontent.com/u/25695519?v=4",
-      "url": "https://github.com/mathisbarthere",
+    "blanoe": {
+      "name": "blanoe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45815264?v=4",
+      "url": "https://github.com/blanoe",
       "commits_count": 8,
       "projects": [
         "shapash"
       ]
     },
-    "blanoe": {
-      "name": "blanoe",
-      "avatar_url": "https://avatars.githubusercontent.com/u/45815264?v=4",
-      "url": "https://github.com/blanoe",
+    "mathisbarthere": {
+      "name": "mathisbarthere",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25695519?v=4",
+      "url": "https://github.com/mathisbarthere",
       "commits_count": 8,
       "projects": [
         "shapash"
@@ -1215,17 +1215,6 @@
         "otoroshi"
       ]
     },
-    "cwoodrow": {
-      "name": "cwoodrow",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-      "url": "https://github.com/cwoodrow",
-      "commits_count": 9,
-      "projects": [
-        "otoroshi",
-        "nio",
-        "melusine"
-      ]
-    },
     "desmfr": {
       "name": "desmfr",
       "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
@@ -1236,6 +1225,17 @@
         "melusine",
         "izanami",
         "cards"
+      ]
+    },
+    "cwoodrow": {
+      "name": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "url": "https://github.com/cwoodrow",
+      "commits_count": 9,
+      "projects": [
+        "otoroshi",
+        "nio",
+        "melusine"
       ]
     },
     "Fraer": {
@@ -1663,8 +1663,8 @@
     "guillaumesolderaserli",
     "cwoodrow",
     "fedysalahserli",
-    "blanoe",
     "mathisbarthere",
+    "blanoe",
     "jtanguy",
     "adam-benjellounSG",
     "sachasamama",
