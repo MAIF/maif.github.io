@@ -176,95 +176,9 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "contributors": [
-        "mathieuancelin",
-        "Zwiterrion",
-        "baudelotphilippe",
-        "quentinovega",
-        "mathieuancelinserli",
-        "guillaumesolderaserli",
-        "fedysalahserli",
-        "sebprunierserli",
-        "tristan-chauveau",
-        "larousso",
-        "cwoodrow",
-        "desmfr"
-      ],
-      "commits_count": 4605,
-      "commits_per_contributor": [
-        {
-          "name": "mathieuancelin",
-          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-          "url": "https://github.com/mathieuancelin",
-          "commits_count": 3975
-        },
-        {
-          "name": "Zwiterrion",
-          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
-          "url": "https://github.com/Zwiterrion",
-          "commits_count": 319
-        },
-        {
-          "name": "baudelotphilippe",
-          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
-          "url": "https://github.com/baudelotphilippe",
-          "commits_count": 199
-        },
-        {
-          "name": "quentinovega",
-          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
-          "url": "https://github.com/quentinovega",
-          "commits_count": 49
-        },
-        {
-          "name": "mathieuancelinserli",
-          "avatar_url": "https://avatars.githubusercontent.com/u/18695639?v=4",
-          "url": "https://github.com/mathieuancelinserli",
-          "commits_count": 34
-        },
-        {
-          "name": "guillaumesolderaserli",
-          "avatar_url": "https://avatars.githubusercontent.com/u/17246451?v=4",
-          "url": "https://github.com/guillaumesolderaserli",
-          "commits_count": 10
-        },
-        {
-          "name": "fedysalahserli",
-          "avatar_url": "https://avatars.githubusercontent.com/u/22706239?v=4",
-          "url": "https://github.com/fedysalahserli",
-          "commits_count": 8
-        },
-        {
-          "name": "sebprunierserli",
-          "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
-          "url": "https://github.com/sebprunierserli",
-          "commits_count": 3
-        },
-        {
-          "name": "tristan-chauveau",
-          "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
-          "url": "https://github.com/tristan-chauveau",
-          "commits_count": 3
-        },
-        {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 3
-        },
-        {
-          "name": "cwoodrow",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-          "url": "https://github.com/cwoodrow",
-          "commits_count": 1
-        },
-        {
-          "name": "desmfr",
-          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
-          "url": "https://github.com/desmfr",
-          "commits_count": 1
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "nio": {
       "name": "nio",
@@ -893,10 +807,9 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 846,
+      "commits_count": 843,
       "projects": [
         "thoth",
-        "otoroshi",
         "nio",
         "jooq-async",
         "izanami",
@@ -1079,121 +992,14 @@
         "shapash"
       ]
     },
-    "mathieuancelin": {
-      "name": "mathieuancelin",
-      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-      "url": "https://github.com/mathieuancelin",
-      "commits_count": 4202,
-      "projects": [
-        "otoroshi",
-        "nio",
-        "izanami",
-        "daikoku",
-        "cards"
-      ]
-    },
-    "Zwiterrion": {
-      "name": "Zwiterrion",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
-      "url": "https://github.com/Zwiterrion",
-      "commits_count": 724,
-      "projects": [
-        "otoroshi",
-        "daikoku"
-      ]
-    },
-    "baudelotphilippe": {
-      "name": "baudelotphilippe",
-      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
-      "url": "https://github.com/baudelotphilippe",
-      "commits_count": 448,
-      "projects": [
-        "otoroshi",
-        "nio",
-        "melusine",
-        "izanami",
-        "daikoku",
-        "cards"
-      ]
-    },
     "quentinovega": {
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 636,
+      "commits_count": 587,
       "projects": [
-        "otoroshi",
         "nio",
         "daikoku"
-      ]
-    },
-    "mathieuancelinserli": {
-      "name": "mathieuancelinserli",
-      "avatar_url": "https://avatars.githubusercontent.com/u/18695639?v=4",
-      "url": "https://github.com/mathieuancelinserli",
-      "commits_count": 34,
-      "projects": [
-        "otoroshi"
-      ]
-    },
-    "guillaumesolderaserli": {
-      "name": "guillaumesolderaserli",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17246451?v=4",
-      "url": "https://github.com/guillaumesolderaserli",
-      "commits_count": 10,
-      "projects": [
-        "otoroshi"
-      ]
-    },
-    "fedysalahserli": {
-      "name": "fedysalahserli",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22706239?v=4",
-      "url": "https://github.com/fedysalahserli",
-      "commits_count": 8,
-      "projects": [
-        "otoroshi"
-      ]
-    },
-    "sebprunierserli": {
-      "name": "sebprunierserli",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
-      "url": "https://github.com/sebprunierserli",
-      "commits_count": 4,
-      "projects": [
-        "otoroshi",
-        "izanami"
-      ]
-    },
-    "tristan-chauveau": {
-      "name": "tristan-chauveau",
-      "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
-      "url": "https://github.com/tristan-chauveau",
-      "commits_count": 3,
-      "projects": [
-        "otoroshi"
-      ]
-    },
-    "cwoodrow": {
-      "name": "cwoodrow",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-      "url": "https://github.com/cwoodrow",
-      "commits_count": 9,
-      "projects": [
-        "otoroshi",
-        "nio",
-        "melusine"
-      ]
-    },
-    "desmfr": {
-      "name": "desmfr",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
-      "url": "https://github.com/desmfr",
-      "commits_count": 6,
-      "projects": [
-        "otoroshi",
-        "melusine",
-        "izanami",
-        "cards"
       ]
     },
     "Fraer": {
@@ -1203,6 +1009,41 @@
       "commits_count": 22,
       "projects": [
         "nio"
+      ]
+    },
+    "mathieuancelin": {
+      "name": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "url": "https://github.com/mathieuancelin",
+      "commits_count": 227,
+      "projects": [
+        "nio",
+        "izanami",
+        "daikoku",
+        "cards"
+      ]
+    },
+    "baudelotphilippe": {
+      "name": "baudelotphilippe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+      "url": "https://github.com/baudelotphilippe",
+      "commits_count": 249,
+      "projects": [
+        "nio",
+        "melusine",
+        "izanami",
+        "daikoku",
+        "cards"
+      ]
+    },
+    "cwoodrow": {
+      "name": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "url": "https://github.com/cwoodrow",
+      "commits_count": 8,
+      "projects": [
+        "nio",
+        "melusine"
       ]
     },
     "marclaporte": {
@@ -1330,6 +1171,17 @@
       "commits_count": 3,
       "projects": [
         "melusine"
+      ]
+    },
+    "desmfr": {
+      "name": "desmfr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+      "url": "https://github.com/desmfr",
+      "commits_count": 5,
+      "projects": [
+        "melusine",
+        "izanami",
+        "cards"
       ]
     },
     "DataFactory-Verlingue": {
@@ -1476,6 +1328,15 @@
         "izanami"
       ]
     },
+    "sebprunierserli": {
+      "name": "sebprunierserli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
+      "url": "https://github.com/sebprunierserli",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
     "Freyskeyd": {
       "name": "Freyskeyd",
       "avatar_url": "https://avatars.githubusercontent.com/u/1394604?v=4",
@@ -1575,6 +1436,15 @@
         "functional-json"
       ]
     },
+    "Zwiterrion": {
+      "name": "Zwiterrion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+      "url": "https://github.com/Zwiterrion",
+      "commits_count": 405,
+      "projects": [
+        "daikoku"
+      ]
+    },
     "gotson": {
       "name": "gotson",
       "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
@@ -1595,11 +1465,11 @@
     }
   },
   "commits_per_contributor_sorted": [
-    "mathieuancelin",
     "larousso",
-    "Zwiterrion",
     "quentinovega",
+    "Zwiterrion",
     "baudelotphilippe",
+    "mathieuancelin",
     "pierrebruninmaif",
     "ThomasBouche",
     "hugo-quantmetry",
@@ -1610,7 +1480,6 @@
     "Francesco-Marini",
     "ptitFicus",
     "MaxGdr",
-    "mathieuancelinserli",
     "yg79",
     "Fraer",
     "milidris",
@@ -1618,9 +1487,7 @@
     "githubyako",
     "GAP01",
     "gpoulet",
-    "guillaumesolderaserli",
     "cwoodrow",
-    "fedysalahserli",
     "mathisbarthere",
     "blanoe",
     "jtanguy",
@@ -1628,7 +1495,6 @@
     "sachasamama",
     "victorBigand",
     "desmfr",
-    "sebprunierserli",
     "sguiheux",
     "kefranabg",
     "quentinproust",
@@ -1636,7 +1502,6 @@
     "FDJFDJ",
     "AntoineSimoulin",
     "oltruong",
-    "tristan-chauveau",
     "YL79",
     "mbaechler",
     "jabby",
@@ -1656,6 +1521,7 @@
     "cbm-lcoatanlem",
     "ybasket",
     "Freyskeyd",
+    "sebprunierserli",
     "romaindso",
     "nicolaspte",
     "ggirou",
