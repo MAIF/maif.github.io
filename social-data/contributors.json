@@ -895,8 +895,8 @@
       "contributors": [
         "mathieuancelin",
         "baudelotphilippe",
-        "gotson",
         "wikijm",
+        "gotson",
         "desmfr"
       ],
       "commits_count": 124,
@@ -914,15 +914,15 @@
           "commits_count": 25
         },
         {
-          "name": "gotson",
-          "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
-          "url": "https://github.com/gotson",
-          "commits_count": 1
-        },
-        {
           "name": "wikijm",
           "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
           "url": "https://github.com/wikijm",
+          "commits_count": 1
+        },
+        {
+          "name": "gotson",
+          "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
+          "url": "https://github.com/gotson",
           "commits_count": 1
         },
         {
@@ -1627,19 +1627,19 @@
         "functional-json"
       ]
     },
-    "gotson": {
-      "name": "gotson",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
-      "url": "https://github.com/gotson",
+    "wikijm": {
+      "name": "wikijm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
+      "url": "https://github.com/wikijm",
       "commits_count": 1,
       "projects": [
         "cards"
       ]
     },
-    "wikijm": {
-      "name": "wikijm",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
-      "url": "https://github.com/wikijm",
+    "gotson": {
+      "name": "gotson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
+      "url": "https://github.com/gotson",
       "commits_count": 1,
       "projects": [
         "cards"
@@ -1696,8 +1696,8 @@
     "amnaabbassi",
     "SebastienBidault",
     "amorea04",
-    "wikijm",
     "gotson",
+    "wikijm",
     "cdrikd",
     "hamish-omny",
     "charlyx",
