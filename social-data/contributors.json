@@ -224,8 +224,8 @@
         "sebprunierserli",
         "larousso",
         "tristan-chauveau",
-        "desmfr",
-        "cwoodrow"
+        "cwoodrow",
+        "desmfr"
       ],
       "commits_count": 4648,
       "commits_per_contributor": [
@@ -290,15 +290,15 @@
           "commits_count": 3
         },
         {
-          "name": "desmfr",
-          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
-          "url": "https://github.com/desmfr",
-          "commits_count": 1
-        },
-        {
           "name": "cwoodrow",
           "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
           "url": "https://github.com/cwoodrow",
+          "commits_count": 1
+        },
+        {
+          "name": "desmfr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+          "url": "https://github.com/desmfr",
           "commits_count": 1
         }
       ]
@@ -605,13 +605,13 @@
         "ybasket",
         "cbm-lcoatanlem",
         "fsamin",
-        "cbois",
-        "SoerenSilkjaer",
-        "farnulfo",
-        "ptitFicus",
         "charlyx",
+        "SoerenSilkjaer",
+        "cbois",
+        "cdrikd",
         "hamish-omny",
-        "cdrikd"
+        "ptitFicus",
+        "farnulfo"
       ],
       "commits_count": 1127,
       "commits_per_contributor": [
@@ -730,9 +730,9 @@
           "commits_count": 1
         },
         {
-          "name": "cbois",
-          "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
-          "url": "https://github.com/cbois",
+          "name": "charlyx",
+          "avatar_url": "https://avatars.githubusercontent.com/u/481446?v=4",
+          "url": "https://github.com/charlyx",
           "commits_count": 1
         },
         {
@@ -742,21 +742,15 @@
           "commits_count": 1
         },
         {
-          "name": "farnulfo",
-          "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
-          "url": "https://github.com/farnulfo",
+          "name": "cbois",
+          "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
+          "url": "https://github.com/cbois",
           "commits_count": 1
         },
         {
-          "name": "ptitFicus",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-          "url": "https://github.com/ptitFicus",
-          "commits_count": 1
-        },
-        {
-          "name": "charlyx",
-          "avatar_url": "https://avatars.githubusercontent.com/u/481446?v=4",
-          "url": "https://github.com/charlyx",
+          "name": "cdrikd",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
+          "url": "https://github.com/cdrikd",
           "commits_count": 1
         },
         {
@@ -766,9 +760,15 @@
           "commits_count": 1
         },
         {
-          "name": "cdrikd",
-          "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
-          "url": "https://github.com/cdrikd",
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 1
+        },
+        {
+          "name": "farnulfo",
+          "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
+          "url": "https://github.com/farnulfo",
           "commits_count": 1
         }
       ]
@@ -1224,6 +1224,17 @@
         "otoroshi"
       ]
     },
+    "cwoodrow": {
+      "name": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "url": "https://github.com/cwoodrow",
+      "commits_count": 9,
+      "projects": [
+        "otoroshi",
+        "nio",
+        "melusine"
+      ]
+    },
     "desmfr": {
       "name": "desmfr",
       "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
@@ -1234,17 +1245,6 @@
         "melusine",
         "izanami",
         "cards"
-      ]
-    },
-    "cwoodrow": {
-      "name": "cwoodrow",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-      "url": "https://github.com/cwoodrow",
-      "commits_count": 9,
-      "projects": [
-        "otoroshi",
-        "nio",
-        "melusine"
       ]
     },
     "Fraer": {
@@ -1564,10 +1564,10 @@
         "izanami"
       ]
     },
-    "cbois": {
-      "name": "cbois",
-      "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
-      "url": "https://github.com/cbois",
+    "charlyx": {
+      "name": "charlyx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/481446?v=4",
+      "url": "https://github.com/charlyx",
       "commits_count": 1,
       "projects": [
         "izanami"
@@ -1582,19 +1582,19 @@
         "izanami"
       ]
     },
-    "farnulfo": {
-      "name": "farnulfo",
-      "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
-      "url": "https://github.com/farnulfo",
+    "cbois": {
+      "name": "cbois",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
+      "url": "https://github.com/cbois",
       "commits_count": 1,
       "projects": [
         "izanami"
       ]
     },
-    "charlyx": {
-      "name": "charlyx",
-      "avatar_url": "https://avatars.githubusercontent.com/u/481446?v=4",
-      "url": "https://github.com/charlyx",
+    "cdrikd": {
+      "name": "cdrikd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
+      "url": "https://github.com/cdrikd",
       "commits_count": 1,
       "projects": [
         "izanami"
@@ -1609,10 +1609,10 @@
         "izanami"
       ]
     },
-    "cdrikd": {
-      "name": "cdrikd",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
-      "url": "https://github.com/cdrikd",
+    "farnulfo": {
+      "name": "farnulfo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
+      "url": "https://github.com/farnulfo",
       "commits_count": 1,
       "projects": [
         "izanami"
@@ -1698,12 +1698,12 @@
     "amorea04",
     "gotson",
     "wikijm",
-    "cdrikd",
-    "hamish-omny",
-    "charlyx",
     "farnulfo",
-    "SoerenSilkjaer",
+    "hamish-omny",
+    "cdrikd",
     "cbois",
+    "SoerenSilkjaer",
+    "charlyx",
     "fsamin",
     "cbm-lcoatanlem",
     "ybasket",
