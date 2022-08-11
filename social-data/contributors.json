@@ -279,8 +279,8 @@
         "larousso",
         "cwoodrow",
         "marclaporte",
-        "frinyvonnick",
-        "oltruong"
+        "oltruong",
+        "frinyvonnick"
       ],
       "commits_count": 110,
       "commits_per_contributor": [
@@ -327,15 +327,15 @@
           "commits_count": 1
         },
         {
-          "name": "frinyvonnick",
-          "avatar_url": "https://avatars.githubusercontent.com/u/13099512?v=4",
-          "url": "https://github.com/frinyvonnick",
-          "commits_count": 1
-        },
-        {
           "name": "oltruong",
           "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
           "url": "https://github.com/oltruong",
+          "commits_count": 1
+        },
+        {
+          "name": "frinyvonnick",
+          "avatar_url": "https://avatars.githubusercontent.com/u/13099512?v=4",
+          "url": "https://github.com/frinyvonnick",
           "commits_count": 1
         }
       ]
@@ -1223,15 +1223,6 @@
         "nio"
       ]
     },
-    "frinyvonnick": {
-      "name": "frinyvonnick",
-      "avatar_url": "https://avatars.githubusercontent.com/u/13099512?v=4",
-      "url": "https://github.com/frinyvonnick",
-      "commits_count": 1,
-      "projects": [
-        "nio"
-      ]
-    },
     "oltruong": {
       "name": "oltruong",
       "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
@@ -1240,6 +1231,15 @@
       "projects": [
         "nio",
         "izanami"
+      ]
+    },
+    "frinyvonnick": {
+      "name": "frinyvonnick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13099512?v=4",
+      "url": "https://github.com/frinyvonnick",
+      "commits_count": 1,
+      "projects": [
+        "nio"
       ]
     },
     "hugo-quantmetry": {
