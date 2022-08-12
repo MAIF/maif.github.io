@@ -828,25 +828,9 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "contributors": [
-        "ThomasBouche",
-        "githubyako"
-      ],
-      "commits_count": 32,
-      "commits_per_contributor": [
-        {
-          "name": "ThomasBouche",
-          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
-          "url": "https://github.com/ThomasBouche",
-          "commits_count": 22
-        },
-        {
-          "name": "githubyako",
-          "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
-          "url": "https://github.com/githubyako",
-          "commits_count": 10
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "daikoku": {
       "name": "daikoku",
@@ -975,10 +959,9 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 103,
+      "commits_count": 81,
       "projects": [
-        "shapash",
-        "eurybia"
+        "shapash"
       ]
     },
     "ThibaudReal": {
@@ -1048,10 +1031,9 @@
       "name": "githubyako",
       "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
       "url": "https://github.com/githubyako",
-      "commits_count": 14,
+      "commits_count": 4,
       "projects": [
-        "shapash",
-        "eurybia"
+        "shapash"
       ]
     },
     "YL79": {
@@ -1653,8 +1635,8 @@
     "Zwiterrion",
     "baudelotphilippe",
     "pierrebruninmaif",
-    "ThomasBouche",
     "hugo-quantmetry",
+    "ThomasBouche",
     "ptitFicus",
     "farthur",
     "ThibaudReal",
@@ -1667,7 +1649,6 @@
     "Fraer",
     "milidris",
     "benoitLebreton-perso",
-    "githubyako",
     "GAP01",
     "gpoulet",
     "guillaumesolderaserli",
@@ -1681,6 +1662,7 @@
     "victorBigand",
     "desmfr",
     "sebprunierserli",
+    "githubyako",
     "kefranabg",
     "quentinproust",
     "sguiheux",
