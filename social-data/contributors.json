@@ -44,8 +44,8 @@
         "MaxGdr",
         "yg79",
         "GAP01",
-        "blanoe",
         "mathisbarthere",
+        "blanoe",
         "githubyako",
         "YL79",
         "amorea04",
@@ -95,15 +95,15 @@
           "commits_count": 14
         },
         {
-          "name": "blanoe",
-          "avatar_url": "https://avatars.githubusercontent.com/u/45815264?v=4",
-          "url": "https://github.com/blanoe",
-          "commits_count": 8
-        },
-        {
           "name": "mathisbarthere",
           "avatar_url": "https://avatars.githubusercontent.com/u/25695519?v=4",
           "url": "https://github.com/mathisbarthere",
+          "commits_count": 8
+        },
+        {
+          "name": "blanoe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/45815264?v=4",
+          "url": "https://github.com/blanoe",
           "commits_count": 8
         },
         {
@@ -222,8 +222,8 @@
         "guillaumesolderaserli",
         "fedysalahserli",
         "sebprunierserli",
-        "larousso",
         "tristan-chauveau",
+        "larousso",
         "cwoodrow",
         "desmfr"
       ],
@@ -278,15 +278,15 @@
           "commits_count": 3
         },
         {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 3
-        },
-        {
           "name": "tristan-chauveau",
           "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
           "url": "https://github.com/tristan-chauveau",
+          "commits_count": 3
+        },
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
           "commits_count": 3
         },
         {
@@ -1026,19 +1026,19 @@
         "shapash"
       ]
     },
-    "blanoe": {
-      "name": "blanoe",
-      "avatar_url": "https://avatars.githubusercontent.com/u/45815264?v=4",
-      "url": "https://github.com/blanoe",
+    "mathisbarthere": {
+      "name": "mathisbarthere",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25695519?v=4",
+      "url": "https://github.com/mathisbarthere",
       "commits_count": 8,
       "projects": [
         "shapash"
       ]
     },
-    "mathisbarthere": {
-      "name": "mathisbarthere",
-      "avatar_url": "https://avatars.githubusercontent.com/u/25695519?v=4",
-      "url": "https://github.com/mathisbarthere",
+    "blanoe": {
+      "name": "blanoe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45815264?v=4",
+      "url": "https://github.com/blanoe",
       "commits_count": 8,
       "projects": [
         "shapash"
@@ -1673,8 +1673,8 @@
     "guillaumesolderaserli",
     "cwoodrow",
     "fedysalahserli",
-    "mathisbarthere",
     "blanoe",
+    "mathisbarthere",
     "jtanguy",
     "adam-benjellounSG",
     "sachasamama",
