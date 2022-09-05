@@ -88,9 +88,10 @@ function getRepos() {
                   url: task.html_url,
                   description: task.description,
                   homepage: task.homepage,
+                  pushed_at: task.pushed_at,
                   contributors: commits.map(c => c.name),
                   commits_count: commits.map(c => c.commits_count).reduce((a, b) => a + b, 0),
-                  commits_per_contributor: commits
+                  commits_per_contributor: commits,
                 };
                 commits.map(commit => {
                   const gcommit = global[commit.name];
