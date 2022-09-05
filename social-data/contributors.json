@@ -38,7 +38,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash makes Machine Learning models transparent and understandable by everyone",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2022-09-05T09:19:34Z",
+      "pushed_at": "2022-09-05T14:18:45Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -46,14 +46,14 @@
         "MaxGdr",
         "yg79",
         "GAP01",
-        "blanoe",
         "mathisbarthere",
+        "blanoe",
         "githubyako",
         "YL79",
         "amorea04",
         "SebastienBidault",
-        "amnaabbassi",
         "peterdhansen",
+        "amnaabbassi",
         "susmitpy",
         "DragonWarrior15",
         "yvanzubro"
@@ -97,15 +97,15 @@
           "commits_count": 14
         },
         {
-          "name": "blanoe",
-          "avatar_url": "https://avatars.githubusercontent.com/u/45815264?v=4",
-          "url": "https://github.com/blanoe",
-          "commits_count": 8
-        },
-        {
           "name": "mathisbarthere",
           "avatar_url": "https://avatars.githubusercontent.com/u/25695519?v=4",
           "url": "https://github.com/mathisbarthere",
+          "commits_count": 8
+        },
+        {
+          "name": "blanoe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/45815264?v=4",
+          "url": "https://github.com/blanoe",
           "commits_count": 8
         },
         {
@@ -133,15 +133,15 @@
           "commits_count": 2
         },
         {
-          "name": "amnaabbassi",
-          "avatar_url": "https://avatars.githubusercontent.com/u/22617297?v=4",
-          "url": "https://github.com/amnaabbassi",
-          "commits_count": 2
-        },
-        {
           "name": "peterdhansen",
           "avatar_url": "https://avatars.githubusercontent.com/u/19173854?v=4",
           "url": "https://github.com/peterdhansen",
+          "commits_count": 2
+        },
+        {
+          "name": "amnaabbassi",
+          "avatar_url": "https://avatars.githubusercontent.com/u/22617297?v=4",
+          "url": "https://github.com/amnaabbassi",
           "commits_count": 2
         },
         {
@@ -404,11 +404,11 @@
         "desmfr",
         "DataFactory-Verlingue",
         "PerrierRemi",
+        "remiadon",
         "Maxime-POULAIN-Verlingue",
         "cwoodrow",
         "CRGONCALVES",
         "ggirou",
-        "remiadon",
         "nicolaspte"
       ],
       "commits_count": 361,
@@ -504,6 +504,12 @@
           "commits_count": 1
         },
         {
+          "name": "remiadon",
+          "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
+          "url": "https://github.com/remiadon",
+          "commits_count": 1
+        },
+        {
           "name": "Maxime-POULAIN-Verlingue",
           "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
           "url": "https://github.com/Maxime-POULAIN-Verlingue",
@@ -528,12 +534,6 @@
           "commits_count": 1
         },
         {
-          "name": "remiadon",
-          "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
-          "url": "https://github.com/remiadon",
-          "commits_count": 1
-        },
-        {
           "name": "nicolaspte",
           "avatar_url": "https://avatars.githubusercontent.com/u/55386851?v=4",
           "url": "https://github.com/nicolaspte",
@@ -546,7 +546,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-09-05T14:08:33Z",
+      "pushed_at": "2022-09-05T14:08:58Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -1041,19 +1041,19 @@
         "shapash"
       ]
     },
-    "blanoe": {
-      "name": "blanoe",
-      "avatar_url": "https://avatars.githubusercontent.com/u/45815264?v=4",
-      "url": "https://github.com/blanoe",
+    "mathisbarthere": {
+      "name": "mathisbarthere",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25695519?v=4",
+      "url": "https://github.com/mathisbarthere",
       "commits_count": 8,
       "projects": [
         "shapash"
       ]
     },
-    "mathisbarthere": {
-      "name": "mathisbarthere",
-      "avatar_url": "https://avatars.githubusercontent.com/u/25695519?v=4",
-      "url": "https://github.com/mathisbarthere",
+    "blanoe": {
+      "name": "blanoe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45815264?v=4",
+      "url": "https://github.com/blanoe",
       "commits_count": 8,
       "projects": [
         "shapash"
@@ -1096,19 +1096,19 @@
         "shapash"
       ]
     },
-    "amnaabbassi": {
-      "name": "amnaabbassi",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22617297?v=4",
-      "url": "https://github.com/amnaabbassi",
+    "peterdhansen": {
+      "name": "peterdhansen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19173854?v=4",
+      "url": "https://github.com/peterdhansen",
       "commits_count": 2,
       "projects": [
         "shapash"
       ]
     },
-    "peterdhansen": {
-      "name": "peterdhansen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/19173854?v=4",
-      "url": "https://github.com/peterdhansen",
+    "amnaabbassi": {
+      "name": "amnaabbassi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22617297?v=4",
+      "url": "https://github.com/amnaabbassi",
       "commits_count": 2,
       "projects": [
         "shapash"
@@ -1416,6 +1416,15 @@
         "melusine"
       ]
     },
+    "remiadon": {
+      "name": "remiadon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
+      "url": "https://github.com/remiadon",
+      "commits_count": 1,
+      "projects": [
+        "melusine"
+      ]
+    },
     "Maxime-POULAIN-Verlingue": {
       "name": "Maxime-POULAIN-Verlingue",
       "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
@@ -1438,15 +1447,6 @@
       "name": "ggirou",
       "avatar_url": "https://avatars.githubusercontent.com/u/739916?v=4",
       "url": "https://github.com/ggirou",
-      "commits_count": 1,
-      "projects": [
-        "melusine"
-      ]
-    },
-    "remiadon": {
-      "name": "remiadon",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
-      "url": "https://github.com/remiadon",
       "commits_count": 1,
       "projects": [
         "melusine"
@@ -1688,8 +1688,8 @@
     "guillaumesolderaserli",
     "cwoodrow",
     "fedysalahserli",
-    "mathisbarthere",
     "blanoe",
+    "mathisbarthere",
     "jtanguy",
     "adam-benjellounSG",
     "sachasamama",
@@ -1707,8 +1707,8 @@
     "YL79",
     "mbaechler",
     "jabby",
-    "peterdhansen",
     "amnaabbassi",
+    "peterdhansen",
     "SebastienBidault",
     "amorea04",
     "gotson",
@@ -1725,10 +1725,10 @@
     "Freyskeyd",
     "romaindso",
     "nicolaspte",
-    "remiadon",
     "ggirou",
     "CRGONCALVES",
     "Maxime-POULAIN-Verlingue",
+    "remiadon",
     "PerrierRemi",
     "DataFactory-Verlingue",
     "frinyvonnick",
