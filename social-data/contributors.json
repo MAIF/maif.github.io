@@ -404,11 +404,11 @@
         "desmfr",
         "DataFactory-Verlingue",
         "PerrierRemi",
-        "remiadon",
         "Maxime-POULAIN-Verlingue",
+        "cwoodrow",
         "CRGONCALVES",
         "ggirou",
-        "cwoodrow",
+        "remiadon",
         "nicolaspte"
       ],
       "commits_count": 361,
@@ -504,15 +504,15 @@
           "commits_count": 1
         },
         {
-          "name": "remiadon",
-          "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
-          "url": "https://github.com/remiadon",
-          "commits_count": 1
-        },
-        {
           "name": "Maxime-POULAIN-Verlingue",
           "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
           "url": "https://github.com/Maxime-POULAIN-Verlingue",
+          "commits_count": 1
+        },
+        {
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
           "commits_count": 1
         },
         {
@@ -528,9 +528,9 @@
           "commits_count": 1
         },
         {
-          "name": "cwoodrow",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-          "url": "https://github.com/cwoodrow",
+          "name": "remiadon",
+          "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
+          "url": "https://github.com/remiadon",
           "commits_count": 1
         },
         {
@@ -546,7 +546,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-09-06T22:04:52Z",
+      "pushed_at": "2022-09-06T23:04:56Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -1416,15 +1416,6 @@
         "melusine"
       ]
     },
-    "remiadon": {
-      "name": "remiadon",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
-      "url": "https://github.com/remiadon",
-      "commits_count": 1,
-      "projects": [
-        "melusine"
-      ]
-    },
     "Maxime-POULAIN-Verlingue": {
       "name": "Maxime-POULAIN-Verlingue",
       "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
@@ -1447,6 +1438,15 @@
       "name": "ggirou",
       "avatar_url": "https://avatars.githubusercontent.com/u/739916?v=4",
       "url": "https://github.com/ggirou",
+      "commits_count": 1,
+      "projects": [
+        "melusine"
+      ]
+    },
+    "remiadon": {
+      "name": "remiadon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
+      "url": "https://github.com/remiadon",
       "commits_count": 1,
       "projects": [
         "melusine"
@@ -1725,10 +1725,10 @@
     "Freyskeyd",
     "romaindso",
     "nicolaspte",
+    "remiadon",
     "ggirou",
     "CRGONCALVES",
     "Maxime-POULAIN-Verlingue",
-    "remiadon",
     "PerrierRemi",
     "DataFactory-Verlingue",
     "frinyvonnick",
