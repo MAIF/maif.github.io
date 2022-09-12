@@ -1,100 +1,71 @@
 <!DOCTYPE html>
 <html lang="fr">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Accueil - OSS by MAIF</title>
-    <meta name="description" content="OSS By Maif">
-    <script
-      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-      crossorigin="anonymous"
-    ></script>
 
-    <script src="https://masonry.desandro.com/masonry.pkgd.js"></script>
-	    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.pkgd.min.js"></script>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Accueil - OSS by MAIF</title>
+  <meta name="description" content="OSS By Maif">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
 
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
-      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
-      crossorigin="anonymous"
-    />
+  <script src="https://masonry.desandro.com/masonry.pkgd.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.pkgd.min.js"></script>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
 
 
-    <link
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
-      rel="stylesheet"
-    />
-    <link href="css/style.css" rel="stylesheet" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet" />
+  <link href="css/style.css" rel="stylesheet" />
 
-    <link rel="icon" type="image/png" href="img/favicon.ico" />
-    <script
-      type="text/javascript"
-      src="js/tarteaucitron/tarteaucitron.js"
-    ></script>
+  <link rel="icon" type="image/png" href="img/favicon.ico" />
+  <script type="text/javascript" src="js/tarteaucitron/tarteaucitron.js"></script>
 
-    <script type="text/javascript">
-      tarteaucitron.init({
-        hashtag:
-          "#tarteaucitron" /* Ouverture automatique du panel avec le hashtag */,
-        DenyAllCta: true /* Show the deny all button */,
-        AcceptAllCta: true /* Show the accept all button when highPrivacy on */,
-        highPrivacy: true /* HIGHLY RECOMMANDED Disable auto consent */,
-        orientation:
-          "top" /* le bandeau doit être en haut (top) ou en bas (bottom) ? */,
-        adblocker: false /* Afficher un message si un adblocker est détecté */,
-        showAlertSmall: false /* afficher le petit bandeau en bas à droite ? */,
-        cookieslist: true /* Afficher la liste des cookies installés ? */,
-        removeCredit: false /* supprimer le lien vers la source ? */,
-      });
-    </script>
-  </head>
-  <body class="home">
-    <nav class="navbar navbar-expand-sm fixed-top navbar-light bg-light">
-      <div class="container-fluid">
-        <a class="navbar-brand flex-grow-1" href="index.html"
-          ><img
-            alt="logo MAIF"
-            src="https://static.maif.fr/resources/img/logo-maif.svg"
-          />
-          <span id="slogan" style="opacity: 0;">#OSSbyMAIF</span></a
-        >
-        <button
-          class="navbar-toggler me-2"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div
-          class="collapse navbar-collapse order-2 order-sm-0"
-          id="navbarSupportedContent"
-        >
-          <ul class="navbar-nav ms-auto">
-            <li class="nav-item">
-              <a class="nav-link active" href="index.html"
-                ><i class="fas fa-home"></i></a
-              >
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="projets.html"
-                >PROJETS</a
-              >
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="contributeurs.html"
-                >CONTRIBUTIONS</a
-              >
-            </li>
-          </ul>
-        </div>
-        <!--<select
+  <script type="text/javascript">
+    tarteaucitron.init({
+      hashtag:
+        "#tarteaucitron" /* Ouverture automatique du panel avec le hashtag */,
+      DenyAllCta: true /* Show the deny all button */,
+      AcceptAllCta: true /* Show the accept all button when highPrivacy on */,
+      highPrivacy: true /* HIGHLY RECOMMANDED Disable auto consent */,
+      orientation:
+        "top" /* le bandeau doit être en haut (top) ou en bas (bottom) ? */,
+      adblocker: false /* Afficher un message si un adblocker est détecté */,
+      showAlertSmall: false /* afficher le petit bandeau en bas à droite ? */,
+      cookieslist: true /* Afficher la liste des cookies installés ? */,
+      removeCredit: false /* supprimer le lien vers la source ? */,
+    });
+  </script>
+</head>
+
+<body class="home">
+  <nav class="navbar navbar-expand-sm fixed-top navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand flex-grow-1" href="index.html"><img alt="logo MAIF"
+          src="https://static.maif.fr/resources/img/logo-maif.svg" />
+        <span id="slogan" style="opacity: 0;">#OSSbyMAIF</span></a>
+      <button class="navbar-toggler me-2" type="button" data-bs-toggle="collapse"
+        data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+        aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse order-2 order-sm-0" id="navbarSupportedContent">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link active" href="index.html"><i class="fas fa-home"></i></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="projets.html">PROJETS</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="contributeurs.html">CONTRIBUTEURS</a>
+          </li>
+        </ul>
+      </div>
+      <!--<select
           id="language"
           class="form-select"
           aria-label="Default select example"
@@ -102,122 +73,140 @@
           <option value="English">English</option>
           <option value="Francais" selected>Français</option>
         </select>-->
-      </div>
-    </nav>
-    <div class="bg-blue">
-      <section class="container">
-        <div class="d-flex justify-content-center align-items-center p-4">
-          <img
-            class="w-10"
-            alt="logo MAIF"
-            src="https://static.maif.fr/resources/img/logo-maif.svg"
-          />
-          <div class="text-white ms-4">
-            <h1>#OSSbyMAIF</h1>
-            <h2>
-              Designing & building <strong>commons</strong><br />since
-              <strong>1934</strong>
-            </h2>
-          </div>
-        </div>
-      </section>
     </div>
-    <div class="container-fluid intro">
+  </nav>
+  <div class="bg-blue">
+    <section class="container">
+      <div class="d-flex justify-content-center align-items-center p-4">
+        <img class="w-10" alt="logo MAIF" src="https://static.maif.fr/resources/img/logo-maif.svg" />
+        <div class="text-white ms-4">
+          <h1>#OSSbyMAIF</h1>
+          <h2>
+            Designing & building <strong>commons</strong><br />since
+            <strong>1934</strong>
+          </h2>
+        </div>
+      </div>
+    </section>
+  </div>
+  <div class="container-fluid intro">
+    <div class="row">
+      <div class="col-3 d-none d-sm-flex justify-content-center">
+        <img alt="personnage filaire" src="img/filaire-4.svg">
+      </div>
+      <div class="col-12 col-sm-9 p-4 anim_text">
+        <p>
+          Parce qu’elles permettent la diffusion et le partage des
+          connaissances et qu’elles facilitent la coopération avec ses
+          partenaires, la MAIF privilégie les technologies de l'open source.
+          Elle a même fait de ce principe un pilier de sa charte numérique. En
+          retour, notre mutuelle d'assurance propose en libre accès le code
+          source d'outils informatiques qu’elle a conçus. En décembre 2018, le
+          Conseil national du logiciel libre lui a décerné le prix du «
+          Meilleur projet open source de l’année » pour cette initiative.
+        </p>
+        <p>
+          <a href="https://entreprise.maif.fr/engagements/economie-responsable/numerique-au-service-de-lhumain"
+            class="external-link" target="_blank">→ Open source : l'engagement MAIF</a>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="">
+    <div class="container p-4">
+      <div class="row projets">
+        <div class="col-12 mb-4">
+          <h2>Projets mis à jour récemment</h2>
+        </div>
+        <div class="row justify-content-center" id="load_projets">
+          <img class="img-fluid col-2" src="img/loading.gif" alt="loader">
+        </div>
+        <div class="row" id="projets"></div>
+        <div class="col-12 p-4 d-flex justify-content-end"><a href="projets.html"
+            class="text-decoration-none txt-dark"><button class="btn btn-secondary">Voir tous les projets</button></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="bg-light">
+    <div class="container p-4">
       <div class="row">
-        <div class="col-3 d-none d-sm-flex justify-content-center">
-          <img alt="personnage filaire" src="img/filaire-4.svg">
+        <div class="col-12 ">
+          <h2>Publications récentes</h2>
         </div>
-        <div class="col-12 col-sm-9 p-4">
-          <p>
-            Parce qu’elles permettent la diffusion et le partage des
-            connaissances et qu’elles facilitent la coopération avec ses
-            partenaires, la MAIF privilégie les technologies de l'open source.
-            Elle a même fait de ce principe un pilier de sa charte numérique. En
-            retour, notre mutuelle d'assurance propose en libre accès le code
-            source d'outils informatiques qu’elle a conçus. En décembre 2018, le
-            Conseil national du logiciel libre lui a décerné le prix du «
-            Meilleur projet open source de l’année » pour cette initiative.
-          </p>
-          <p>
-            <a href="https://entreprise.maif.fr/entreprise/pour-une-societe-de-partage/decouvrir-nos-actions/open-source" class="external-link" target="_blank">→ Open source : notre savoir-faire en partage</a><br><a href="https://entreprise.maif.fr/entreprise/pour-une-societe-de-partage/decouvrir-nos-actions/maitriser-les-enjeux-du-numerique/charte-numerique-maif" class="external-link" target="_blank">→ Charte Numérique MAIF</a>
-          </p>
+        <div class="row justify-content-center" id="load_wall">
+          <img class="img-fluid col-2" src="img/loading.gif" alt="loader">
         </div>
       </div>
     </div>
-    <div class="bg-light">
-      <div class="container grid p-4" id="actus"></div>
-      <div class="container p-4 d-flex justify-content-center" id="more"><button class="btn btn-secondary">Voir plus</button></div>
-    </div>
+    <div class="container grid p-4" id="actus"></div>
+    <div class="container p-4 d-flex justify-content-center" id="more"><button class="btn btn-secondary">Voir
+        plus</button></div>
+  </div>
 
-    <footer>
-      <div class="container">
-        <div class="row">
-          <div class="col">
-            <div class="footer-content">
-              <a href="mailto:oss@maif.fr"
-                ><span class="fa fa-envelope me-2"></span>oss@maif.fr</a
-              >
-              <span>|</span>
-              <a href="https://github.com/MAIF"
-                ><span class="fab fa-github me-2"></span>github.com/MAIF</a
-              >
-              <span>|</span>
-              <a href="https://medium.com/oss-by-maif"
-                ><span class="fab fa-medium me-2"></span
-                >medium.com/oss-by-maif</a
-              >
-              <span>|</span>
-              made with <span class="fa fa-heart"></span>
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <div class="footer-content">
+            <a href="mailto:oss@maif.fr"><span class="fa fa-envelope me-2"></span>oss@maif.fr</a>
+            <span>|</span>
+            <a href="https://github.com/MAIF"><span class="fab fa-github me-2"></span>github.com/MAIF</a>
+            <span>|</span>
+            <a href="https://medium.com/oss-by-maif"><span class="fab fa-medium me-2"></span>medium.com/oss-by-maif</a>
+            <span>|</span>
+            made with <span class="fa fa-heart"></span>
 
-              <span>|</span>
-              <a href="https://maif.fr"
-                ><img
-                  alt="logo MAIF"
-                  src="https://static.maif.fr/resources/img/logo-maif.svg"
-                  width="40"
-              /></a>
-            </div>
+            <span>|</span>
+            <a href="https://maif.fr"><img alt="logo MAIF" src="https://static.maif.fr/resources/img/logo-maif.svg"
+                width="40" /></a>
           </div>
         </div>
       </div>
-    </footer>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    </div>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 
-   
-    <!--
+
+  <!--
       <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.14.0-beta2/dist/js/bootstrap-select.min.js"></script>
 
     <script src="js/select.js"></script>
     -->
-    <script>
-      let actus = document.getElementById("actus");
-      let cardsDisplay = 0;
+  <script>
+    let actus = document.getElementById("actus");
+    let cardsDisplay = 0;
 
-      const createCards = (infos, target) => {
-        // console.log(infos)
-        let card = document.createElement("div");
-        let newDate = "";
-        card.className = "grid-item";
+    const createCards = (infos, target) => {
+      // console.log(infos)
+      let card = document.createElement("div");
+      let newDate = "";
+      card.className = "grid-item";
 
-        switch (target) {
-          case "Youtube":
-            card.innerHTML = `<div class="card m-2 shadow"><div class="card-body"><img class="card-img-top" src="${infos.thumbnail}" alt="Youtube thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">#OssByMaif</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="https://www.youtube.com/playlist?list=PLHWGfQmqyWtZuFKhNMseGODfsO0LJBp2a" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Youtube.png" alt="Youtube logo"></a> <span class="footer_date">${infos.datePublished}</span></div></div>`;
-            break;
+      switch (target) {
+        case "Youtube":
+          card.innerHTML = `<div class="card m-2 shadow" data-type="youtube"><div class="card-body"><img class="card-img-top" src="${infos.thumbnail}" alt="Youtube thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">#OssByMaif</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="https://www.youtube.com/playlist?list=PLHWGfQmqyWtZuFKhNMseGODfsO0LJBp2a" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Youtube.png" alt="Youtube logo"></a> <span class="footer_date">${infos.datePublished}</span></div></div>`;
+          break;
 
-          case "Twitter":
-            newDate = infos.created_at.split("T")[0];
-            card.innerHTML = `<div class="card m-2 shadow"><div class="card-body"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center mt-4">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="https://twitter.com/${infos.author_username}/status/${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Twitter.svg" alt="Twitter logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
-            break;
-          case "Medium":
-            newDate = infos.created_at.split(" ")[0];
-            card.innerHTML = `<div class="card m-2 shadow"><div class="card-body"><img class="card-img-top" src="${infos.thumbnail}" alt="Medium thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Medium.svg" alt="Medium logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
-            break;
-        }
+        case "Twitter":
+          newDate = infos.created_at.split("T")[0];
+          let imgEmbed = ""
+          if (infos.media_urls.length) {
+            infos.media_urls.forEach(image => {
+              imgEmbed += `<img class="img-fluid" src="${image}">`
+            })
+          }
+          card.innerHTML = `<div class="card m-2 shadow" data-type="twitter"><div class="card-body"><h5 class="card-title">${infos.text}${imgEmbed}</h5><div class="card-text text-center mt-4">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="https://twitter.com/${infos.author_username}/status/${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Twitter.svg" alt="Twitter logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
+          break;
+        case "Medium":
+          newDate = infos.created_at.split(" ")[0];
+          card.innerHTML = `<div class="card m-2 shadow" data-type="medium"><div class="card-body"><img src="" class="card-img-top" data-src="${infos.thumbnail}" alt="Medium thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Medium.svg" alt="Medium logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
+          break;
+      }
+      actus.appendChild(card);
+    };
 
-        actus.appendChild(card);
-      };
-
-      Promise.all([
+    Promise.all([
       fetch("social-data/tweets.json").then((response) => response.json()),
       fetch("social-data/mediums.json").then((response) => response.json()),
       fetch("social-data/youtube.json").then((response) => response.json())
@@ -248,51 +237,88 @@
           .reverse()
 
         posts.forEach(p => createCards(p, p.type))
-
-        initMsnry();
+  
+        document.getElementById("load_wall").style.display="none"
+        displayMore('init')
       })
 
-      function initMsnry() {
-        imagesLoaded(document.querySelector(".grid"), function (instance) {
-          console.log("all images are loaded");
-          displayMore('init')
-        });
-      }
-      function launchMsnry() {
-        var elem = document.querySelector(".grid");
-        elem.style.display = "block";
-        var msnry = new Masonry(elem, {
-          // options
-          itemSelector: ".grid-item",
-          columnWidth: 400,
-        });
-      }
-      
-      function displayMore(setup) {
-        let cardsDisplayIncrement = setup=="init" ? 9 : 3
-        for (let index = cardsDisplay; index < cardsDisplay+cardsDisplayIncrement; index++) {
-          actus.childNodes[index].childNodes[0].style.display="block"
-          actus.childNodes[index].childNodes[0].classList.add("animCard")
+    function launchMsnry() {
+      var elem = document.querySelector(".grid");
+      elem.style.display = "block";
+      var msnry = new Masonry(elem, {
+        // options
+        itemSelector: ".grid-item",
+        columnWidth: 400,
+      });
+    }
+
+    function displayMore(setup) {
+      let cardsDisplayIncrement = setup == "init" ? 3 : 3
+      for (let index = cardsDisplay; index < cardsDisplay + cardsDisplayIncrement; index++) {
+        const el=actus.childNodes[index].childNodes[0];
+        el.style.display = "block"
+        el.classList.add("animCard")
+        if (el.dataset.type=="medium"){
+          el.childNodes[0].childNodes[0].src = el.childNodes[0].childNodes[0].dataset.src;
         }
+      }
+      imagesLoaded(document.querySelector(".grid"), function (instance) {        
         launchMsnry();
-        cardsDisplay+=cardsDisplayIncrement
+        });
 
+      cardsDisplay += cardsDisplayIncrement
+
+    }
+  </script>
+
+  <script src="js/sticky.js"></script>
+  <script src="js/infos.js"></script>
+  <script>
+    let projets = document.getElementById("projets");
+    const createProject = (projet) => {
+      let newDate = projet.date_pushed.split("T")[0];
+      const date1 = new Date(newDate);
+      const date2 = new Date();
+      const joursDepuisLastPush = (date2.getTime() - date1.getTime()) / (1000 * 3600 * 24);
+      newDate = Math.round(joursDepuisLastPush)
+
+      let containerProjet = document.createElement("div");
+      containerProjet.className = "col-12 col-sm-6 col-md-4";
+      containerProjet.innerHTML = `<div class="card m-2 shadow">
+            <div class="card-body">
+              <img class="logo " src="./img/${infosRepos[projet.title].img}" alt="logo ${projet.title}">
+              <h5 class="mt-2 product_title text-center">${projet.title}</h5>
+            </div>
+            <div class="card-footer">
+              <a href="projets.html#melusine" class="stretched-link text-decoration-none txt-dark">
+                <i class="fab fa-github fa-lg me-2" aria-hidden="true"></i>Mis à jour il y a ${newDate} jours
+              </a>
+            </div>
+          </div>`;
+
+      document.getElementById("load_projets").style.display="none"
+      projets.appendChild(containerProjet);
+    }
+
+    fetch("social-data/contributors.json")
+      .then((response) => response.json())
+      .then((contribs) => {
+        let recents = [];
+        Object.values(contribs.projects).forEach(val => {
+          if (val.name in infosRepos) {
+            recents.push({ date_pushed: val.pushed_at, title: val.name });
+          }
+        });
+        recents.sort((a, b) => new Date(b.date_pushed) - new Date(a.date_pushed));
+        const threeRecents = recents.slice(0, 3);
+        threeRecents.forEach(project => createProject(project))
       }
-    </script>
+      );
+  </script>
+  <script>
+    const btnMore = document.getElementById("more")
+    btnMore.addEventListener("click", displayMore)
+  </script>
+</body>
 
-    <script>
-      const slogan = document.querySelector("#slogan");
-      function stickyNavigation() {
-        if (window.scrollY >= 200) {
-          slogan.style.opacity = 1;
-        } else {
-          slogan.style.opacity = window.scrollY /200;
-        }
-      }
-      window.addEventListener("scroll", stickyNavigation);
-
-      const btnMore=document.getElementById("more")
-      btnMore.addEventListener("click", displayMore)
-    </script>
-  </body>
 </html>

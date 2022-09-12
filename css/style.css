@@ -121,6 +121,13 @@ h2 {
 .bg-light {
   background-color: rgb(246, 243, 241);
 }
+.bg-darkest{
+  background-color: #343736;
+}
+
+.txt-dark, .txt-dark:hover{
+  color:#2E404F;
+}
 
 .w-10 {
   width: 10%;
@@ -217,7 +224,35 @@ footer {
 }
 .home .grid-item .card {
   display: none;
-  /* opacity: 0; */
+}
+
+.home .projets .card, .projects .card {
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12); 
+}
+
+.home .projets .card:hover, .projects .card:hover{
+   transform: scale(1.02);
+}
+
+.anim_text{    
+  opacity: 0;
+  transform: translateX(-100px);
+  animation-name: moveRight;
+  animation-duration: 1.5s;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-delay: 0.3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes moveRight {
+  50% {
+    opacity: 1;
+  }
+  100%{
+    opacity: 1;
+    transform: translateX(0px);
+  }
 }
 
 .thanks .card-footer{
@@ -230,6 +265,9 @@ footer {
  color:#2e404f;
 }
 /* projects */
+.projects .card{
+  min-height: 400px;
+}
 .projects .grid-item .card {
   background-color: rgb(246, 243, 241);
   max-height: 200px;
@@ -243,7 +281,7 @@ footer {
 
 .projects .grid-item {
   float: left;
-  height: 600px;
+  height: 640px;
 }
 .projects .grid-item-content {
   width: 100%;
@@ -263,6 +301,10 @@ footer {
   z-index: 2;
 }
 
+.projects .border-card{
+  border: 1px solid #34373614;
+}
+
 .story-telling {
   display: none;
 }
@@ -273,7 +315,7 @@ a .product {
 .product {
   padding: 5px;
   background-color: #fff;
-  min-height: 460px;
+  /* min-height: 460px; */
   position: relative;
   display: flex;
   flex-direction: column;
@@ -292,15 +334,15 @@ a .product {
 .repo {
   border-radius: 50%;
   width: 40px;
-  height: 40px;
+  /* height: 40px; */
   display: block;
   margin: auto;
   color: #c62222;
 }
-.repo i {
+.repo i, .link i {
   transition: all 0.2s;
 }
-.repo i:hover {
+.repo i:hover, .link i:hover {
   transform: scale(1.1);
 }
 .read-more {
@@ -308,11 +350,11 @@ a .product {
 }
 .link {
   font-size: 14px;
-  color: #8b8b8a;
+  color: #c62222;
   text-align: center;
 }
 .link a {
-  color: #8b8b8a;
+  color: #c62222;
   word-break: break-all;
   text-decoration: none;
 }
@@ -326,7 +368,7 @@ a .product {
     width: 100%;
   }
   .projects .grid-item {
-    height: 550px;
+    height: auto;
   }
   .projects .grid-item.is-expanded {
     width: 100%;

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Contributeurs - OSS by MAIF</title>
-    <meta name="description" content="OSS By Maif" />
+    <meta name="description" content="Les contributeurs OSS By Maif" />
     <script
       src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
       integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
@@ -91,7 +91,7 @@
                 class="nav-link active"
                 aria-current="page"
                 href="contributeurs.html"
-                >CONTRIBUTIONS</a
+                >CONTRIBUTEURS</a
               >
             </li>
           </ul>
@@ -194,36 +194,12 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 
+    <script src="js/sticky.js"></script>
+    <script src="js/infos.js"></script>
     <script>
-      const slogan = document.querySelector("#slogan");
-      function stickyNavigation() {
-        if (window.scrollY >= 200) {
-          slogan.style.opacity = 1;
-        } else {
-          slogan.style.opacity = window.scrollY / 200;
-        }
-      }
-
-      window.addEventListener("scroll", stickyNavigation);
 
       let repo = document.getElementById("contribs");
-      let infosRepos = {
-        otoroshi: {
-          url: "https://github.com/MAIF/otoroshi",
-          img: "otoroshi.svg",
-        },
-        eurybia: { url: "https://github.com/maif/eurybia", img: "eurybia.svg" },
-        thoth: { url: "https://github.com/MAIF/thoth", img: "thoth.svg" },
-        nio: { url: "https://github.com/maif/nio", img: "nio.svg" },
-        izanami: { url: "https://github.com/maif/izanami", img: "izanami.svg" },
-        daikoku: { url: "https://github.com/maif/daikoku", img: "daikoku.svg" },
-        cards: { url: "https://github.com/maif/cards", img: "cards.svg" },
-        melusine: {
-          url: "https://github.com/maif/melusine",
-          img: "melusine.svg",
-        },
-        shapash: { url: "https://github.com/maif/shapash", img: "shapash.svg" },
-      };
+
 
       const createContib = (infos) => {
         let contrib = document.createElement("div");
