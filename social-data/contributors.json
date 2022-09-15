@@ -6,9 +6,32 @@
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
       "pushed_at": "2022-09-15T09:45:11Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "larousso",
+        "ptitFicus",
+        "Gregnarok"
+      ],
+      "commits_count": 93,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 53
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 39
+        },
+        {
+          "name": "Gregnarok",
+          "avatar_url": "https://avatars.githubusercontent.com/u/23338347?v=4",
+          "url": "https://github.com/Gregnarok",
+          "commits_count": 1
+        }
+      ]
     },
     "shapash": {
       "name": "shapash",
@@ -26,9 +49,53 @@
       "description": "Fully managed react forms builder",
       "homepage": "https://maif.github.io/react-forms",
       "pushed_at": "2022-08-11T13:20:34Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "quentinovega",
+        "github-actions",
+        "Zwiterrion",
+        "ptitFicus",
+        "baudelotphilippe",
+        "mathieuancelin"
+      ],
+      "commits_count": 426,
+      "commits_per_contributor": [
+        {
+          "name": "quentinovega",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+          "url": "https://github.com/quentinovega",
+          "commits_count": 183
+        },
+        {
+          "name": "github-actions",
+          "avatar_url": "https://avatars.githubusercontent.com/u/44210433?v=4",
+          "url": "https://github.com/github-actions",
+          "commits_count": 134
+        },
+        {
+          "name": "Zwiterrion",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+          "url": "https://github.com/Zwiterrion",
+          "commits_count": 59
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 34
+        },
+        {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 15
+        },
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
+          "commits_count": 1
+        }
+      ]
     },
     "otoroshi": {
       "name": "otoroshi",
@@ -279,7 +346,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-09-15T12:08:50Z",
+      "pushed_at": "2022-09-15T13:20:00Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -330,18 +397,9 @@
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
       "pushed_at": "2022-04-04T12:54:54Z",
-      "contributors": [
-        "larousso"
-      ],
-      "commits_count": 32,
-      "commits_per_contributor": [
-        {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 32
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "izanami": {
       "name": "izanami",
@@ -681,13 +739,93 @@
     }
   },
   "contributors": {
+    "larousso": {
+      "name": "larousso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+      "url": "https://github.com/larousso",
+      "commits_count": 827,
+      "projects": [
+        "thoth",
+        "nio",
+        "lets-automate",
+        "izanami",
+        "functional-validation",
+        "functional-json"
+      ]
+    },
+    "ptitFicus": {
+      "name": "ptitFicus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+      "url": "https://github.com/ptitFicus",
+      "commits_count": 79,
+      "projects": [
+        "thoth",
+        "react-forms",
+        "izanami",
+        "functional-json"
+      ]
+    },
+    "Gregnarok": {
+      "name": "Gregnarok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23338347?v=4",
+      "url": "https://github.com/Gregnarok",
+      "commits_count": 1,
+      "projects": [
+        "thoth"
+      ]
+    },
     "quentinovega": {
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 38,
+      "commits_count": 221,
       "projects": [
+        "react-forms",
         "nio"
+      ]
+    },
+    "github-actions": {
+      "name": "github-actions",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44210433?v=4",
+      "url": "https://github.com/github-actions",
+      "commits_count": 134,
+      "projects": [
+        "react-forms"
+      ]
+    },
+    "Zwiterrion": {
+      "name": "Zwiterrion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+      "url": "https://github.com/Zwiterrion",
+      "commits_count": 59,
+      "projects": [
+        "react-forms"
+      ]
+    },
+    "baudelotphilippe": {
+      "name": "baudelotphilippe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+      "url": "https://github.com/baudelotphilippe",
+      "commits_count": 202,
+      "projects": [
+        "react-forms",
+        "nio",
+        "melusine",
+        "lets-automate",
+        "izanami",
+        "cards"
+      ]
+    },
+    "mathieuancelin": {
+      "name": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "url": "https://github.com/mathieuancelin",
+      "commits_count": 129,
+      "projects": [
+        "react-forms",
+        "nio",
+        "izanami",
+        "cards"
       ]
     },
     "Fraer": {
@@ -697,44 +835,6 @@
       "commits_count": 22,
       "projects": [
         "nio"
-      ]
-    },
-    "mathieuancelin": {
-      "name": "mathieuancelin",
-      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-      "url": "https://github.com/mathieuancelin",
-      "commits_count": 128,
-      "projects": [
-        "nio",
-        "izanami",
-        "cards"
-      ]
-    },
-    "baudelotphilippe": {
-      "name": "baudelotphilippe",
-      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
-      "url": "https://github.com/baudelotphilippe",
-      "commits_count": 187,
-      "projects": [
-        "nio",
-        "melusine",
-        "lets-automate",
-        "izanami",
-        "cards"
-      ]
-    },
-    "larousso": {
-      "name": "larousso",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-      "url": "https://github.com/larousso",
-      "commits_count": 806,
-      "projects": [
-        "nio",
-        "lets-automate",
-        "jooq-async",
-        "izanami",
-        "functional-validation",
-        "functional-json"
       ]
     },
     "cwoodrow": {
@@ -1058,16 +1158,6 @@
         "izanami"
       ]
     },
-    "ptitFicus": {
-      "name": "ptitFicus",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-      "url": "https://github.com/ptitFicus",
-      "commits_count": 6,
-      "projects": [
-        "izanami",
-        "functional-json"
-      ]
-    },
     "SoerenSilkjaer": {
       "name": "SoerenSilkjaer",
       "avatar_url": "https://avatars.githubusercontent.com/u/25299535?v=4",
@@ -1197,14 +1287,17 @@
   },
   "commits_per_contributor_sorted": [
     "larousso",
-    "pierrebruninmaif",
+    "quentinovega",
     "baudelotphilippe",
+    "pierrebruninmaif",
+    "github-actions",
     "mathieuancelin",
     "hugo-quantmetry",
+    "ptitFicus",
     "farthur",
     "TFA-MAIF",
+    "Zwiterrion",
     "tstringerquantmetry",
-    "quentinovega",
     "ThomasBouche",
     "Fraer",
     "milidris",
@@ -1214,7 +1307,6 @@
     "cwoodrow",
     "jtanguy",
     "adam-benjellounSG",
-    "ptitFicus",
     "victorBigand",
     "sachasamama",
     "desmfr",
@@ -1250,6 +1342,7 @@
     "ggirou",
     "remiadon",
     "marclaporte",
-    "frinyvonnick"
+    "frinyvonnick",
+    "Gregnarok"
   ]
 }
