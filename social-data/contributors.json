@@ -346,7 +346,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-09-15T17:09:45Z",
+      "pushed_at": "2022-09-15T18:05:21Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -396,7 +396,7 @@
       "url": "https://github.com/MAIF/jooq-async",
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
-      "pushed_at": "2022-09-15T14:58:16Z",
+      "pushed_at": "2022-09-15T19:02:57Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -660,9 +660,25 @@
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
       "pushed_at": "2022-08-23T09:30:56Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "ThomasBouche",
+        "githubyako"
+      ],
+      "commits_count": 37,
+      "commits_per_contributor": [
+        {
+          "name": "ThomasBouche",
+          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+          "url": "https://github.com/ThomasBouche",
+          "commits_count": 25
+        },
+        {
+          "name": "githubyako",
+          "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
+          "url": "https://github.com/githubyako",
+          "commits_count": 12
+        }
+      ]
     },
     "daikoku": {
       "name": "daikoku",
@@ -1232,6 +1248,24 @@
         "functional-json"
       ]
     },
+    "ThomasBouche": {
+      "name": "ThomasBouche",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+      "url": "https://github.com/ThomasBouche",
+      "commits_count": 25,
+      "projects": [
+        "eurybia"
+      ]
+    },
+    "githubyako": {
+      "name": "githubyako",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
+      "url": "https://github.com/githubyako",
+      "commits_count": 12,
+      "projects": [
+        "eurybia"
+      ]
+    },
     "gotson": {
       "name": "gotson",
       "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
@@ -1264,10 +1298,12 @@
     "TFA-MAIF",
     "Zwiterrion",
     "tstringerquantmetry",
+    "ThomasBouche",
     "Fraer",
     "milidris",
     "benoitLebreton-perso",
     "gpoulet",
+    "githubyako",
     "cwoodrow",
     "jtanguy",
     "adam-benjellounSG",
