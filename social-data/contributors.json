@@ -6,9 +6,32 @@
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
       "pushed_at": "2022-09-15T14:19:46Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "larousso",
+        "ptitFicus",
+        "Gregnarok"
+      ],
+      "commits_count": 93,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 53
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 39
+        },
+        {
+          "name": "Gregnarok",
+          "avatar_url": "https://avatars.githubusercontent.com/u/23338347?v=4",
+          "url": "https://github.com/Gregnarok",
+          "commits_count": 1
+        }
+      ]
     },
     "shapash": {
       "name": "shapash",
@@ -530,7 +553,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-09-18T07:05:38Z",
+      "pushed_at": "2022-09-18T08:05:38Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -962,6 +985,43 @@
     }
   },
   "contributors": {
+    "larousso": {
+      "name": "larousso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+      "url": "https://github.com/larousso",
+      "commits_count": 867,
+      "projects": [
+        "thoth",
+        "otoroshi",
+        "nio",
+        "lets-automate",
+        "jooq-async",
+        "izanami",
+        "functional-validation",
+        "functional-json"
+      ]
+    },
+    "ptitFicus": {
+      "name": "ptitFicus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+      "url": "https://github.com/ptitFicus",
+      "commits_count": 79,
+      "projects": [
+        "thoth",
+        "react-forms",
+        "izanami",
+        "functional-json"
+      ]
+    },
+    "Gregnarok": {
+      "name": "Gregnarok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23338347?v=4",
+      "url": "https://github.com/Gregnarok",
+      "commits_count": 1,
+      "projects": [
+        "thoth"
+      ]
+    },
     "ThomasBouche": {
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
@@ -1149,17 +1209,6 @@
         "daikoku"
       ]
     },
-    "ptitFicus": {
-      "name": "ptitFicus",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-      "url": "https://github.com/ptitFicus",
-      "commits_count": 40,
-      "projects": [
-        "react-forms",
-        "izanami",
-        "functional-json"
-      ]
-    },
     "baudelotphilippe": {
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
@@ -1225,21 +1274,6 @@
       "projects": [
         "otoroshi",
         "izanami"
-      ]
-    },
-    "larousso": {
-      "name": "larousso",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-      "url": "https://github.com/larousso",
-      "commits_count": 814,
-      "projects": [
-        "otoroshi",
-        "nio",
-        "lets-automate",
-        "jooq-async",
-        "izanami",
-        "functional-validation",
-        "functional-json"
       ]
     },
     "tristan-chauveau": {
@@ -1685,20 +1719,20 @@
   },
   "commits_per_contributor_sorted": [
     "mathieuancelin",
-    "quentinovega",
     "larousso",
+    "quentinovega",
     "Zwiterrion",
     "baudelotphilippe",
     "pierrebruninmaif",
     "ThomasBouche",
     "github-actions",
     "hugo-quantmetry",
+    "ptitFicus",
     "farthur",
     "ThibaudReal",
     "TFA-MAIF",
     "Francesco-Marini",
     "tstringerquantmetry",
-    "ptitFicus",
     "MaxGdr",
     "mathieuancelinserli",
     "yg79",
@@ -1759,6 +1793,7 @@
     "frinyvonnick",
     "yvanzubro",
     "susmitpy",
-    "DragonWarrior15"
+    "DragonWarrior15",
+    "Gregnarok"
   ]
 }
