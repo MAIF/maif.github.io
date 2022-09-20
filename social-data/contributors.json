@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/thoth",
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2022-09-15T14:19:46Z",
+      "pushed_at": "2022-09-20T14:45:34Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -444,7 +444,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-09-20T13:19:44Z",
+      "pushed_at": "2022-09-20T14:14:06Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -494,7 +494,7 @@
       "url": "https://github.com/MAIF/jooq-async",
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
-      "pushed_at": "2022-09-20T14:12:41Z",
+      "pushed_at": "2022-09-20T14:23:23Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -758,9 +758,25 @@
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
       "pushed_at": "2022-08-23T09:30:56Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "ThomasBouche",
+        "githubyako"
+      ],
+      "commits_count": 37,
+      "commits_per_contributor": [
+        {
+          "name": "ThomasBouche",
+          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+          "url": "https://github.com/ThomasBouche",
+          "commits_count": 25
+        },
+        {
+          "name": "githubyako",
+          "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
+          "url": "https://github.com/githubyako",
+          "commits_count": 12
+        }
+      ]
     },
     "daikoku": {
       "name": "daikoku",
@@ -825,9 +841,10 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 122,
+      "commits_count": 147,
       "projects": [
-        "shapash"
+        "shapash",
+        "eurybia"
       ]
     },
     "ThibaudReal": {
@@ -897,9 +914,10 @@
       "name": "githubyako",
       "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
       "url": "https://github.com/githubyako",
-      "commits_count": 4,
+      "commits_count": 16,
       "projects": [
-        "shapash"
+        "shapash",
+        "eurybia"
       ]
     },
     "YL79": {
@@ -1496,9 +1514,9 @@
     "quentinovega",
     "baudelotphilippe",
     "pierrebruninmaif",
+    "ThomasBouche",
     "github-actions",
     "mathieuancelin",
-    "ThomasBouche",
     "hugo-quantmetry",
     "farthur",
     "ThibaudReal",
@@ -1511,6 +1529,7 @@
     "yg79",
     "Fraer",
     "milidris",
+    "githubyako",
     "benoitLebreton-perso",
     "GAP01",
     "gpoulet",
@@ -1522,7 +1541,6 @@
     "victorBigand",
     "sachasamama",
     "desmfr",
-    "githubyako",
     "quentinproust",
     "kefranabg",
     "gmembre-zenika",
