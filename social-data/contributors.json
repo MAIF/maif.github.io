@@ -530,7 +530,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-09-25T22:04:58Z",
+      "pushed_at": "2022-09-25T23:05:06Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -801,18 +801,9 @@
       "description": "A lib to validate data and stack errors ",
       "homepage": "",
       "pushed_at": "2021-03-23T09:00:13Z",
-      "contributors": [
-        "larousso"
-      ],
-      "commits_count": 11,
-      "commits_per_contributor": [
-        {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 11
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "functional-json": {
       "name": "functional-json",
@@ -1238,14 +1229,13 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 831,
+      "commits_count": 820,
       "projects": [
         "otoroshi",
         "nio",
         "lets-automate",
         "jooq-async",
         "izanami",
-        "functional-validation",
         "functional-json"
       ]
     },
@@ -1702,8 +1692,8 @@
   "commits_per_contributor_sorted": [
     "mathieuancelin",
     "quentinovega",
-    "larousso",
     "Zwiterrion",
+    "larousso",
     "baudelotphilippe",
     "pierrebruninmaif",
     "ThomasBouche",
