@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/thoth",
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2022-09-27T15:01:09Z",
+      "pushed_at": "2022-09-27T16:02:39Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -400,7 +400,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-09-27T14:15:57Z",
+      "pushed_at": "2022-09-27T15:06:30Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -451,9 +451,18 @@
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
       "pushed_at": "2022-09-27T13:56:26Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "larousso"
+      ],
+      "commits_count": 56,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 56
+        }
+      ]
     },
     "izanami": {
       "name": "izanami",
@@ -1034,10 +1043,11 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 774,
+      "commits_count": 830,
       "projects": [
         "nio",
         "lets-automate",
+        "jooq-async",
         "izanami",
         "functional-validation",
         "functional-json"
