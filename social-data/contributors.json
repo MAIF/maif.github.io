@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/thoth",
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2022-09-27T14:14:25Z",
+      "pushed_at": "2022-09-27T15:01:09Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -156,7 +156,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2022-09-27T14:08:02Z",
+      "pushed_at": "2022-09-27T15:01:19Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -400,7 +400,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-09-27T13:21:46Z",
+      "pushed_at": "2022-09-27T14:15:57Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
