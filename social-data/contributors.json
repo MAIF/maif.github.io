@@ -509,7 +509,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-01T15:05:04Z",
+      "pushed_at": "2022-10-01T16:05:19Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -875,9 +875,46 @@
       "description": "A deck of cards enumerating simple rules to design all new digital products at MAIF",
       "homepage": "https://maif.github.io/cards/",
       "pushed_at": "2022-04-28T20:30:37Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "mathieuancelin",
+        "baudelotphilippe",
+        "gotson",
+        "desmfr",
+        "wikijm"
+      ],
+      "commits_count": 124,
+      "commits_per_contributor": [
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
+          "commits_count": 96
+        },
+        {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 25
+        },
+        {
+          "name": "gotson",
+          "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
+          "url": "https://github.com/gotson",
+          "commits_count": 1
+        },
+        {
+          "name": "desmfr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+          "url": "https://github.com/desmfr",
+          "commits_count": 1
+        },
+        {
+          "name": "wikijm",
+          "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
+          "url": "https://github.com/wikijm",
+          "commits_count": 1
+        }
+      ]
     }
   },
   "contributors": {
@@ -1076,11 +1113,12 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 4111,
+      "commits_count": 4207,
       "projects": [
         "otoroshi",
         "nio",
-        "izanami"
+        "izanami",
+        "cards"
       ]
     },
     "Zwiterrion": {
@@ -1096,13 +1134,14 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 366,
+      "commits_count": 391,
       "projects": [
         "otoroshi",
         "nio",
         "melusine",
         "lets-automate",
-        "izanami"
+        "izanami",
+        "cards"
       ]
     },
     "quentinovega": {
@@ -1177,11 +1216,12 @@
       "name": "desmfr",
       "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
       "url": "https://github.com/desmfr",
-      "commits_count": 5,
+      "commits_count": 6,
       "projects": [
         "otoroshi",
         "melusine",
-        "izanami"
+        "izanami",
+        "cards"
       ]
     },
     "Fraer": {
@@ -1581,6 +1621,24 @@
       "projects": [
         "eurybia"
       ]
+    },
+    "gotson": {
+      "name": "gotson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
+      "url": "https://github.com/gotson",
+      "commits_count": 1,
+      "projects": [
+        "cards"
+      ]
+    },
+    "wikijm": {
+      "name": "wikijm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
+      "url": "https://github.com/wikijm",
+      "commits_count": 1,
+      "projects": [
+        "cards"
+      ]
     }
   },
   "commits_per_contributor_sorted": [
@@ -1634,6 +1692,8 @@
     "amnaabbassi",
     "SebastienBidault",
     "peterdhansen",
+    "wikijm",
+    "gotson",
     "ybasket",
     "cbois",
     "hamish-omny",
