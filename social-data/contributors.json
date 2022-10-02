@@ -509,10 +509,54 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-02T01:36:23Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "pushed_at": "2022-10-02T03:02:43Z",
+      "contributors": [
+        "baudelotphilippe",
+        "mathieuancelin",
+        "desmfr",
+        "Zwiterrion",
+        "cwoodrow",
+        "ThomasBouche"
+      ],
+      "commits_count": 146,
+      "commits_per_contributor": [
+        {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 71
+        },
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
+          "commits_count": 45
+        },
+        {
+          "name": "desmfr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+          "url": "https://github.com/desmfr",
+          "commits_count": 26
+        },
+        {
+          "name": "Zwiterrion",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+          "url": "https://github.com/Zwiterrion",
+          "commits_count": 2
+        },
+        {
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
+          "commits_count": 1
+        },
+        {
+          "name": "ThomasBouche",
+          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+          "url": "https://github.com/ThomasBouche",
+          "commits_count": 1
+        }
+      ]
     },
     "lets-automate": {
       "name": "lets-automate",
@@ -988,9 +1032,10 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 147,
+      "commits_count": 148,
       "projects": [
         "shapash",
+        "maif.github.io",
         "eurybia"
       ]
     },
@@ -1143,10 +1188,11 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 4306,
+      "commits_count": 4351,
       "projects": [
         "otoroshi",
         "nio",
+        "maif.github.io",
         "izanami",
         "daikoku",
         "cards"
@@ -1156,9 +1202,10 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 803,
+      "commits_count": 805,
       "projects": [
         "otoroshi",
+        "maif.github.io",
         "daikoku"
       ]
     },
@@ -1166,11 +1213,12 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 461,
+      "commits_count": 532,
       "projects": [
         "otoroshi",
         "nio",
         "melusine",
+        "maif.github.io",
         "lets-automate",
         "izanami",
         "daikoku",
@@ -1238,11 +1286,12 @@
       "name": "cwoodrow",
       "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
       "url": "https://github.com/cwoodrow",
-      "commits_count": 10,
+      "commits_count": 11,
       "projects": [
         "otoroshi",
         "nio",
         "melusine",
+        "maif.github.io",
         "lets-automate"
       ]
     },
@@ -1250,10 +1299,11 @@
       "name": "desmfr",
       "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
       "url": "https://github.com/desmfr",
-      "commits_count": 6,
+      "commits_count": 32,
       "projects": [
         "otoroshi",
         "melusine",
+        "maif.github.io",
         "izanami",
         "cards"
       ]
@@ -1692,6 +1742,7 @@
     "ptitFicus",
     "MaxGdr",
     "mathieuancelinserli",
+    "desmfr",
     "yg79",
     "Fraer",
     "milidris",
@@ -1708,7 +1759,6 @@
     "adam-benjellounSG",
     "victorBigand",
     "sachasamama",
-    "desmfr",
     "sebprunierserli",
     "armgilles",
     "quentinproust",
