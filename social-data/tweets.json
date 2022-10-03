@@ -386,5 +386,32 @@
     "author_username": "OSXP_Paris",
     "author_name": "Open Source Experience",
     "author_avatar": "https://pbs.twimg.com/profile_images/1374642692899151876/VOYauDHY_normal.jpg"
+  },
+  {
+    "id": "1576872258194518016",
+    "text": "RT @desmfr: #OSSbyMAIF :)",
+    "created_at": "2022-10-03T09:50:17.000Z",
+    "author_id": "807175588444250112",
+    "edit_history_tweet_ids": [
+      "1576872258194518016"
+    ],
+    "author_username": "benjamin_cavy",
+    "author_name": "Benjamin Cavy",
+    "author_avatar": "https://pbs.twimg.com/profile_images/957758108151046144/7_vexJ7i_normal.jpg"
+  },
+  {
+    "id": "1576871417324240898",
+    "text": "#OSSbyMAIF :) https://t.co/k0poKEggib",
+    "created_at": "2022-10-03T09:46:57.000Z",
+    "author_id": "31137997",
+    "edit_history_tweet_ids": [
+      "1576871417324240898"
+    ],
+    "author_username": "desmfr",
+    "author_name": "𝗙𝗿𝗮𝗻𝗰𝗼𝗶𝘀 𝗗𝗲𝘀𝗺𝗶𝗲𝗿",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1536716036510208000/-dlSwIHY_normal.jpg",
+    "media_urls": [
+      "twitter.com/OSXP_Paris/sta…"
+    ]
   }
 ]
