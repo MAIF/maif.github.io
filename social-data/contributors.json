@@ -553,7 +553,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-04T03:35:02Z",
+      "pushed_at": "2022-10-04T04:27:32Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -876,9 +876,32 @@
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
       "pushed_at": "2022-09-23T09:34:27Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "ThomasBouche",
+        "githubyako",
+        "armgilles"
+      ],
+      "commits_count": 40,
+      "commits_per_contributor": [
+        {
+          "name": "ThomasBouche",
+          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+          "url": "https://github.com/ThomasBouche",
+          "commits_count": 25
+        },
+        {
+          "name": "githubyako",
+          "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
+          "url": "https://github.com/githubyako",
+          "commits_count": 12
+        },
+        {
+          "name": "armgilles",
+          "avatar_url": "https://avatars.githubusercontent.com/u/8374843?v=4",
+          "url": "https://github.com/armgilles",
+          "commits_count": 3
+        }
+      ]
     },
     "daikoku": {
       "name": "daikoku",
@@ -886,9 +909,39 @@
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
       "pushed_at": "2022-10-03T14:50:12Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "quentinovega",
+        "Zwiterrion",
+        "mathieuancelin",
+        "baudelotphilippe"
+      ],
+      "commits_count": 1142,
+      "commits_per_contributor": [
+        {
+          "name": "quentinovega",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+          "url": "https://github.com/quentinovega",
+          "commits_count": 568
+        },
+        {
+          "name": "Zwiterrion",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+          "url": "https://github.com/Zwiterrion",
+          "commits_count": 405
+        },
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
+          "commits_count": 99
+        },
+        {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 70
+        }
+      ]
     },
     "cards": {
       "name": "cards",
@@ -980,9 +1033,10 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 122,
+      "commits_count": 147,
       "projects": [
-        "shapash"
+        "shapash",
+        "eurybia"
       ]
     },
     "ThibaudReal": {
@@ -1052,9 +1106,10 @@
       "name": "githubyako",
       "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
       "url": "https://github.com/githubyako",
-      "commits_count": 4,
+      "commits_count": 16,
       "projects": [
-        "shapash"
+        "shapash",
+        "eurybia"
       ]
     },
     "YL79": {
@@ -1133,11 +1188,12 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 276,
+      "commits_count": 844,
       "projects": [
         "react-forms",
         "otoroshi",
-        "nio"
+        "nio",
+        "daikoku"
       ]
     },
     "github-actions": {
@@ -1153,17 +1209,18 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 457,
+      "commits_count": 862,
       "projects": [
         "react-forms",
-        "otoroshi"
+        "otoroshi",
+        "daikoku"
       ]
     },
     "baudelotphilippe": {
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 406,
+      "commits_count": 476,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1171,6 +1228,7 @@
         "melusine",
         "lets-automate",
         "izanami",
+        "daikoku",
         "cards"
       ]
     },
@@ -1178,12 +1236,13 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 4209,
+      "commits_count": 4308,
       "projects": [
         "react-forms",
         "otoroshi",
         "nio",
         "izanami",
+        "daikoku",
         "cards"
       ]
     },
@@ -1646,6 +1705,15 @@
         "functional-json"
       ]
     },
+    "armgilles": {
+      "name": "armgilles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374843?v=4",
+      "url": "https://github.com/armgilles",
+      "commits_count": 3,
+      "projects": [
+        "eurybia"
+      ]
+    },
     "gotson": {
       "name": "gotson",
       "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
@@ -1669,11 +1737,11 @@
     "mathieuancelin",
     "larousso",
     "Zwiterrion",
-    "baudelotphilippe",
     "quentinovega",
+    "baudelotphilippe",
     "pierrebruninmaif",
-    "github-actions",
     "ThomasBouche",
+    "github-actions",
     "hugo-quantmetry",
     "ptitFicus",
     "farthur",
@@ -1686,6 +1754,7 @@
     "yg79",
     "Fraer",
     "milidris",
+    "githubyako",
     "benoitLebreton-perso",
     "GAP01",
     "gpoulet",
@@ -1700,7 +1769,7 @@
     "sachasamama",
     "desmfr",
     "sebprunierserli",
-    "githubyako",
+    "armgilles",
     "quentinproust",
     "kefranabg",
     "gmembre-zenika",
