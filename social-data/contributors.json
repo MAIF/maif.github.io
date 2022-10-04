@@ -223,7 +223,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2022-10-04T12:49:27Z",
+      "pushed_at": "2022-10-04T13:47:58Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -467,7 +467,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-04T12:08:25Z",
+      "pushed_at": "2022-10-04T13:21:55Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -517,7 +517,7 @@
       "url": "https://github.com/MAIF/jooq-async",
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
-      "pushed_at": "2022-09-27T13:56:26Z",
+      "pushed_at": "2022-10-04T14:11:52Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -729,18 +729,9 @@
       "description": "A lib to validate data and stack errors ",
       "homepage": "",
       "pushed_at": "2021-03-23T09:00:13Z",
-      "contributors": [
-        "larousso"
-      ],
-      "commits_count": 11,
-      "commits_per_contributor": [
-        {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 11
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "functional-json": {
       "name": "functional-json",
@@ -791,39 +782,9 @@
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
       "pushed_at": "2022-10-03T14:50:12Z",
-      "contributors": [
-        "quentinovega",
-        "Zwiterrion",
-        "mathieuancelin",
-        "baudelotphilippe"
-      ],
-      "commits_count": 1142,
-      "commits_per_contributor": [
-        {
-          "name": "quentinovega",
-          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
-          "url": "https://github.com/quentinovega",
-          "commits_count": 568
-        },
-        {
-          "name": "Zwiterrion",
-          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
-          "url": "https://github.com/Zwiterrion",
-          "commits_count": 405
-        },
-        {
-          "name": "mathieuancelin",
-          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-          "url": "https://github.com/mathieuancelin",
-          "commits_count": 99
-        },
-        {
-          "name": "baudelotphilippe",
-          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
-          "url": "https://github.com/baudelotphilippe",
-          "commits_count": 70
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "cards": {
       "name": "cards",
@@ -831,46 +792,9 @@
       "description": "A deck of cards enumerating simple rules to design all new digital products at MAIF",
       "homepage": "https://maif.github.io/cards/",
       "pushed_at": "2022-04-28T20:30:37Z",
-      "contributors": [
-        "mathieuancelin",
-        "baudelotphilippe",
-        "gotson",
-        "desmfr",
-        "wikijm"
-      ],
-      "commits_count": 124,
-      "commits_per_contributor": [
-        {
-          "name": "mathieuancelin",
-          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-          "url": "https://github.com/mathieuancelin",
-          "commits_count": 96
-        },
-        {
-          "name": "baudelotphilippe",
-          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
-          "url": "https://github.com/baudelotphilippe",
-          "commits_count": 25
-        },
-        {
-          "name": "gotson",
-          "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
-          "url": "https://github.com/gotson",
-          "commits_count": 1
-        },
-        {
-          "name": "desmfr",
-          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
-          "url": "https://github.com/desmfr",
-          "commits_count": 1
-        },
-        {
-          "name": "wikijm",
-          "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
-          "url": "https://github.com/wikijm",
-          "commits_count": 1
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     }
   },
   "contributors": {
@@ -878,13 +802,12 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 845,
+      "commits_count": 834,
       "projects": [
         "thoth",
         "nio",
         "lets-automate",
         "izanami",
-        "functional-validation",
         "functional-json"
       ]
     },
@@ -1066,11 +989,10 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 795,
+      "commits_count": 227,
       "projects": [
         "react-forms",
-        "nio",
-        "daikoku"
+        "nio"
       ]
     },
     "github-actions": {
@@ -1086,38 +1008,33 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 464,
+      "commits_count": 59,
       "projects": [
-        "react-forms",
-        "daikoku"
+        "react-forms"
       ]
     },
     "baudelotphilippe": {
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 272,
+      "commits_count": 177,
       "projects": [
         "react-forms",
         "nio",
         "melusine",
         "lets-automate",
-        "izanami",
-        "daikoku",
-        "cards"
+        "izanami"
       ]
     },
     "mathieuancelin": {
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 228,
+      "commits_count": 33,
       "projects": [
         "react-forms",
         "nio",
-        "izanami",
-        "daikoku",
-        "cards"
+        "izanami"
       ]
     },
     "Fraer": {
@@ -1271,11 +1188,10 @@
       "name": "desmfr",
       "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
       "url": "https://github.com/desmfr",
-      "commits_count": 5,
+      "commits_count": 4,
       "projects": [
         "melusine",
-        "izanami",
-        "cards"
+        "izanami"
       ]
     },
     "remiadon": {
@@ -1539,33 +1455,13 @@
       "projects": [
         "functional-json"
       ]
-    },
-    "gotson": {
-      "name": "gotson",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
-      "url": "https://github.com/gotson",
-      "commits_count": 1,
-      "projects": [
-        "cards"
-      ]
-    },
-    "wikijm": {
-      "name": "wikijm",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
-      "url": "https://github.com/wikijm",
-      "commits_count": 1,
-      "projects": [
-        "cards"
-      ]
     }
   },
   "commits_per_contributor_sorted": [
     "larousso",
     "quentinovega",
-    "Zwiterrion",
-    "baudelotphilippe",
-    "mathieuancelin",
     "pierrebruninmaif",
+    "baudelotphilippe",
     "github-actions",
     "ThomasBouche",
     "hugo-quantmetry",
@@ -1573,9 +1469,11 @@
     "farthur",
     "ThibaudReal",
     "TFA-MAIF",
+    "Zwiterrion",
     "Francesco-Marini",
     "tstringerquantmetry",
     "MaxGdr",
+    "mathieuancelin",
     "yg79",
     "Fraer",
     "milidris",
@@ -1605,8 +1503,6 @@
     "amnaabbassi",
     "SebastienBidault",
     "peterdhansen",
-    "wikijm",
-    "gotson",
     "ybasket",
     "cbois",
     "hamish-omny",
