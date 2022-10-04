@@ -223,7 +223,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2022-10-04T08:02:03Z",
+      "pushed_at": "2022-10-04T08:40:36Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -553,7 +553,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-04T07:12:11Z",
+      "pushed_at": "2022-10-04T08:07:02Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -843,9 +843,32 @@
       "description": "Parse and write json the functional way",
       "homepage": "",
       "pushed_at": "2021-12-03T14:59:03Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "larousso",
+        "ptitFicus",
+        "mbaechler"
+      ],
+      "commits_count": 31,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 24
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 5
+        },
+        {
+          "name": "mbaechler",
+          "avatar_url": "https://avatars.githubusercontent.com/u/708318?v=4",
+          "url": "https://github.com/mbaechler",
+          "commits_count": 2
+        }
+      ]
     },
     "eurybia": {
       "name": "eurybia",
@@ -973,7 +996,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 880,
+      "commits_count": 904,
       "projects": [
         "thoth",
         "otoroshi",
@@ -981,18 +1004,20 @@
         "lets-automate",
         "jooq-async",
         "izanami",
-        "functional-validation"
+        "functional-validation",
+        "functional-json"
       ]
     },
     "ptitFicus": {
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 74,
+      "commits_count": 79,
       "projects": [
         "thoth",
         "react-forms",
-        "izanami"
+        "izanami",
+        "functional-json"
       ]
     },
     "Gregnarok": {
@@ -1671,6 +1696,15 @@
         "izanami"
       ]
     },
+    "mbaechler": {
+      "name": "mbaechler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/708318?v=4",
+      "url": "https://github.com/mbaechler",
+      "commits_count": 2,
+      "projects": [
+        "functional-json"
+      ]
+    },
     "armgilles": {
       "name": "armgilles",
       "avatar_url": "https://avatars.githubusercontent.com/u/8374843?v=4",
@@ -1709,8 +1743,8 @@
     "ThomasBouche",
     "github-actions",
     "hugo-quantmetry",
-    "farthur",
     "ptitFicus",
+    "farthur",
     "ThibaudReal",
     "TFA-MAIF",
     "Francesco-Marini",
@@ -1745,6 +1779,7 @@
     "oltruong",
     "tristan-chauveau",
     "YL79",
+    "mbaechler",
     "jabby",
     "amorea04",
     "amnaabbassi",
