@@ -146,7 +146,7 @@
       "url": "https://github.com/MAIF/react-forms",
       "description": "Fully managed react forms builder",
       "homepage": "https://maif.github.io/react-forms",
-      "pushed_at": "2022-09-29T08:35:19Z",
+      "pushed_at": "2022-10-05T15:02:27Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -156,7 +156,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2022-10-05T14:01:00Z",
+      "pushed_at": "2022-10-05T14:55:02Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -400,7 +400,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-05T13:25:23Z",
+      "pushed_at": "2022-10-05T14:29:56Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -451,18 +451,9 @@
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
       "pushed_at": "2022-10-04T14:24:28Z",
-      "contributors": [
-        "larousso"
-      ],
-      "commits_count": 57,
-      "commits_per_contributor": [
-        {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 57
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "izanami": {
       "name": "izanami",
@@ -1043,11 +1034,10 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 831,
+      "commits_count": 774,
       "projects": [
         "nio",
         "lets-automate",
-        "jooq-async",
         "izanami",
         "functional-validation",
         "functional-json"
