@@ -486,7 +486,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-06T22:04:58Z",
+      "pushed_at": "2022-10-06T23:05:23Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -585,9 +585,32 @@
       "description": "Parse and write json the functional way",
       "homepage": "",
       "pushed_at": "2021-12-03T14:59:03Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "larousso",
+        "ptitFicus",
+        "mbaechler"
+      ],
+      "commits_count": 31,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 24
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 5
+        },
+        {
+          "name": "mbaechler",
+          "avatar_url": "https://avatars.githubusercontent.com/u/708318?v=4",
+          "url": "https://github.com/mbaechler",
+          "commits_count": 2
+        }
+      ]
     },
     "eurybia": {
       "name": "eurybia",
@@ -953,13 +976,14 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 95,
+      "commits_count": 119,
       "projects": [
         "otoroshi",
         "nio",
         "lets-automate",
         "jooq-async",
-        "functional-validation"
+        "functional-validation",
+        "functional-json"
       ]
     },
     "tristan-chauveau": {
@@ -1201,6 +1225,24 @@
         "lets-automate"
       ]
     },
+    "ptitFicus": {
+      "name": "ptitFicus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+      "url": "https://github.com/ptitFicus",
+      "commits_count": 5,
+      "projects": [
+        "functional-json"
+      ]
+    },
+    "mbaechler": {
+      "name": "mbaechler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/708318?v=4",
+      "url": "https://github.com/mbaechler",
+      "commits_count": 2,
+      "projects": [
+        "functional-json"
+      ]
+    },
     "armgilles": {
       "name": "armgilles",
       "avatar_url": "https://avatars.githubusercontent.com/u/8374843?v=4",
@@ -1235,8 +1277,8 @@
     "quentinovega",
     "baudelotphilippe",
     "ThomasBouche",
-    "hugo-quantmetry",
     "larousso",
+    "hugo-quantmetry",
     "farthur",
     "ThibaudReal",
     "TFA-MAIF",
@@ -1258,6 +1300,7 @@
     "adam-benjellounSG",
     "victorBigand",
     "sachasamama",
+    "ptitFicus",
     "armgilles",
     "AntoineSimoulin",
     "FDJFDJ",
@@ -1265,6 +1308,7 @@
     "tristan-chauveau",
     "sebprunierserli",
     "YL79",
+    "mbaechler",
     "pierrebruninmaif",
     "amorea04",
     "amnaabbassi",
