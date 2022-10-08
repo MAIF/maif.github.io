@@ -170,9 +170,53 @@
       "description": "Fully managed react forms builder",
       "homepage": "https://maif.github.io/react-forms",
       "pushed_at": "2022-10-05T15:02:27Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "quentinovega",
+        "github-actions",
+        "Zwiterrion",
+        "ptitFicus",
+        "baudelotphilippe",
+        "mathieuancelin"
+      ],
+      "commits_count": 445,
+      "commits_per_contributor": [
+        {
+          "name": "quentinovega",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+          "url": "https://github.com/quentinovega",
+          "commits_count": 190
+        },
+        {
+          "name": "github-actions",
+          "avatar_url": "https://avatars.githubusercontent.com/u/44210433?v=4",
+          "url": "https://github.com/github-actions",
+          "commits_count": 146
+        },
+        {
+          "name": "Zwiterrion",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+          "url": "https://github.com/Zwiterrion",
+          "commits_count": 59
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 34
+        },
+        {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 15
+        },
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
+          "commits_count": 1
+        }
+      ]
     },
     "otoroshi": {
       "name": "otoroshi",
@@ -423,7 +467,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-08T00:24:41Z",
+      "pushed_at": "2022-10-08T02:46:24Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -434,39 +478,9 @@
       "description": "Automate Let's Encrypt certificate issuance, renewal and synchronize with CleverCloud.",
       "homepage": "https://maif.github.io",
       "pushed_at": "2022-08-01T15:34:00Z",
-      "contributors": [
-        "larousso",
-        "pierrebruninmaif",
-        "cwoodrow",
-        "baudelotphilippe"
-      ],
-      "commits_count": 19,
-      "commits_per_contributor": [
-        {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 15
-        },
-        {
-          "name": "pierrebruninmaif",
-          "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
-          "url": "https://github.com/pierrebruninmaif",
-          "commits_count": 2
-        },
-        {
-          "name": "cwoodrow",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-          "url": "https://github.com/cwoodrow",
-          "commits_count": 1
-        },
-        {
-          "name": "baudelotphilippe",
-          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
-          "url": "https://github.com/baudelotphilippe",
-          "commits_count": 1
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "jooq-async": {
       "name": "jooq-async",
@@ -522,9 +536,32 @@
       "description": "Parse and write json the functional way",
       "homepage": "",
       "pushed_at": "2021-12-03T14:59:03Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "larousso",
+        "ptitFicus",
+        "mbaechler"
+      ],
+      "commits_count": 31,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 24
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 5
+        },
+        {
+          "name": "mbaechler",
+          "avatar_url": "https://avatars.githubusercontent.com/u/708318?v=4",
+          "url": "https://github.com/mbaechler",
+          "commits_count": 2
+        }
+      ]
     },
     "eurybia": {
       "name": "eurybia",
@@ -565,9 +602,39 @@
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
       "pushed_at": "2022-10-06T14:26:38Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "quentinovega",
+        "Zwiterrion",
+        "mathieuancelin",
+        "baudelotphilippe"
+      ],
+      "commits_count": 1142,
+      "commits_per_contributor": [
+        {
+          "name": "quentinovega",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+          "url": "https://github.com/quentinovega",
+          "commits_count": 568
+        },
+        {
+          "name": "Zwiterrion",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+          "url": "https://github.com/Zwiterrion",
+          "commits_count": 405
+        },
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
+          "commits_count": 99
+        },
+        {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 70
+        }
+      ]
     },
     "cards": {
       "name": "cards",
@@ -585,22 +652,24 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 165,
+      "commits_count": 174,
       "projects": [
         "thoth",
         "nio",
-        "lets-automate",
         "jooq-async",
-        "functional-validation"
+        "functional-validation",
+        "functional-json"
       ]
     },
     "ptitFicus": {
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 39,
+      "commits_count": 78,
       "projects": [
-        "thoth"
+        "thoth",
+        "react-forms",
+        "functional-json"
       ]
     },
     "Gregnarok": {
@@ -771,9 +840,53 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 38,
+      "commits_count": 796,
       "projects": [
-        "nio"
+        "react-forms",
+        "nio",
+        "daikoku"
+      ]
+    },
+    "github-actions": {
+      "name": "github-actions",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44210433?v=4",
+      "url": "https://github.com/github-actions",
+      "commits_count": 146,
+      "projects": [
+        "react-forms"
+      ]
+    },
+    "Zwiterrion": {
+      "name": "Zwiterrion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+      "url": "https://github.com/Zwiterrion",
+      "commits_count": 464,
+      "projects": [
+        "react-forms",
+        "daikoku"
+      ]
+    },
+    "baudelotphilippe": {
+      "name": "baudelotphilippe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+      "url": "https://github.com/baudelotphilippe",
+      "commits_count": 98,
+      "projects": [
+        "react-forms",
+        "nio",
+        "melusine",
+        "daikoku"
+      ]
+    },
+    "mathieuancelin": {
+      "name": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "url": "https://github.com/mathieuancelin",
+      "commits_count": 120,
+      "projects": [
+        "react-forms",
+        "nio",
+        "daikoku"
       ]
     },
     "Fraer": {
@@ -785,35 +898,14 @@
         "nio"
       ]
     },
-    "mathieuancelin": {
-      "name": "mathieuancelin",
-      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-      "url": "https://github.com/mathieuancelin",
-      "commits_count": 20,
-      "projects": [
-        "nio"
-      ]
-    },
-    "baudelotphilippe": {
-      "name": "baudelotphilippe",
-      "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
-      "url": "https://github.com/baudelotphilippe",
-      "commits_count": 14,
-      "projects": [
-        "nio",
-        "melusine",
-        "lets-automate"
-      ]
-    },
     "cwoodrow": {
       "name": "cwoodrow",
       "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
       "url": "https://github.com/cwoodrow",
-      "commits_count": 9,
+      "commits_count": 8,
       "projects": [
         "nio",
-        "melusine",
-        "lets-automate"
+        "melusine"
       ]
     },
     "frinyvonnick": {
@@ -1014,13 +1106,13 @@
         "melusine"
       ]
     },
-    "pierrebruninmaif": {
-      "name": "pierrebruninmaif",
-      "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
-      "url": "https://github.com/pierrebruninmaif",
+    "mbaechler": {
+      "name": "mbaechler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/708318?v=4",
+      "url": "https://github.com/mbaechler",
       "commits_count": 2,
       "projects": [
-        "lets-automate"
+        "functional-json"
       ]
     },
     "armgilles": {
@@ -1034,24 +1126,26 @@
     }
   },
   "commits_per_contributor_sorted": [
+    "quentinovega",
+    "Zwiterrion",
     "larousso",
     "ThomasBouche",
+    "github-actions",
+    "mathieuancelin",
     "hugo-quantmetry",
+    "baudelotphilippe",
     "farthur",
+    "ptitFicus",
     "ThibaudReal",
     "TFA-MAIF",
     "Francesco-Marini",
     "tstringerquantmetry",
-    "ptitFicus",
-    "quentinovega",
     "MaxGdr",
     "yg79",
     "Fraer",
     "milidris",
-    "mathieuancelin",
     "githubyako",
     "benoitLebreton-perso",
-    "baudelotphilippe",
     "GAP01",
     "cwoodrow",
     "blanoe",
@@ -1063,7 +1157,7 @@
     "AntoineSimoulin",
     "FDJFDJ",
     "YL79",
-    "pierrebruninmaif",
+    "mbaechler",
     "amorea04",
     "amnaabbassi",
     "SebastienBidault",
