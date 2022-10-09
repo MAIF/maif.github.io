@@ -413,5 +413,17 @@
     "media_urls": [
       "twitter.com/OSXP_Paris/sta…"
     ]
+  },
+  {
+    "created_at": "2022-10-09T07:59:49.000Z",
+    "text": "RT @daniel1bartolo: Et ça y est ! @MAIF a libéré sa nouvelle brique #OpenSource #Eurybia, toujours pour une IA maîtrisée chez @NiortTech !…",
+    "author_id": "1894643486",
+    "id": "1579018782223519744",
+    "edit_history_tweet_ids": [
+      "1579018782223519744"
+    ],
+    "author_username": "SieglerNicolas",
+    "author_name": "Nicolas Siegler",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1319029735549210635/PRlOE4H5_normal.jpg"
   }
 ]
