@@ -553,7 +553,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-10T10:05:13Z",
+      "pushed_at": "2022-10-10T11:05:07Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -908,7 +908,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2022-10-06T14:26:38Z",
+      "pushed_at": "2022-10-10T12:04:59Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
