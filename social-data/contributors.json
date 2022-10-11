@@ -467,7 +467,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-11T08:10:34Z",
+      "pushed_at": "2022-10-11T09:08:19Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -800,9 +800,39 @@
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
       "pushed_at": "2022-10-10T13:15:46Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "quentinovega",
+        "Zwiterrion",
+        "mathieuancelin",
+        "baudelotphilippe"
+      ],
+      "commits_count": 1142,
+      "commits_per_contributor": [
+        {
+          "name": "quentinovega",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+          "url": "https://github.com/quentinovega",
+          "commits_count": 568
+        },
+        {
+          "name": "Zwiterrion",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+          "url": "https://github.com/Zwiterrion",
+          "commits_count": 405
+        },
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
+          "commits_count": 99
+        },
+        {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 70
+        }
+      ]
     },
     "cards": {
       "name": "cards",
@@ -1046,10 +1076,11 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 228,
+      "commits_count": 796,
       "projects": [
         "react-forms",
-        "nio"
+        "nio",
+        "daikoku"
       ]
     },
     "github-actions": {
@@ -1065,22 +1096,24 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 59,
+      "commits_count": 464,
       "projects": [
-        "react-forms"
+        "react-forms",
+        "daikoku"
       ]
     },
     "baudelotphilippe": {
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 202,
+      "commits_count": 272,
       "projects": [
         "react-forms",
         "nio",
         "melusine",
         "lets-automate",
         "izanami",
+        "daikoku",
         "cards"
       ]
     },
@@ -1088,11 +1121,12 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 130,
+      "commits_count": 229,
       "projects": [
         "react-forms",
         "nio",
         "izanami",
+        "daikoku",
         "cards"
       ]
     },
@@ -1538,17 +1572,17 @@
   "commits_per_contributor_sorted": [
     "larousso",
     "quentinovega",
+    "Zwiterrion",
     "baudelotphilippe",
+    "mathieuancelin",
     "pierrebruninmaif",
     "ThomasBouche",
     "github-actions",
-    "mathieuancelin",
     "hugo-quantmetry",
     "farthur",
     "ptitFicus",
     "ThibaudReal",
     "TFA-MAIF",
-    "Zwiterrion",
     "Francesco-Marini",
     "tstringerquantmetry",
     "MaxGdr",
