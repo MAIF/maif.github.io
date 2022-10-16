@@ -553,7 +553,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-16T18:05:41Z",
+      "pushed_at": "2022-10-16T19:06:31Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -604,9 +604,18 @@
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
       "pushed_at": "2022-10-13T07:24:28Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "larousso"
+      ],
+      "commits_count": 59,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 59
+        }
+      ]
     },
     "izanami": {
       "name": "izanami",
@@ -867,9 +876,32 @@
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
       "pushed_at": "2022-10-14T16:47:09Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "ThomasBouche",
+        "githubyako",
+        "armgilles"
+      ],
+      "commits_count": 41,
+      "commits_per_contributor": [
+        {
+          "name": "ThomasBouche",
+          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+          "url": "https://github.com/ThomasBouche",
+          "commits_count": 25
+        },
+        {
+          "name": "githubyako",
+          "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
+          "url": "https://github.com/githubyako",
+          "commits_count": 12
+        },
+        {
+          "name": "armgilles",
+          "avatar_url": "https://avatars.githubusercontent.com/u/8374843?v=4",
+          "url": "https://github.com/armgilles",
+          "commits_count": 4
+        }
+      ]
     },
     "daikoku": {
       "name": "daikoku",
@@ -964,12 +996,13 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 851,
+      "commits_count": 910,
       "projects": [
         "thoth",
         "otoroshi",
         "nio",
         "lets-automate",
+        "jooq-async",
         "izanami",
         "functional-validation",
         "functional-json"
@@ -1000,9 +1033,10 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 122,
+      "commits_count": 147,
       "projects": [
-        "shapash"
+        "shapash",
+        "eurybia"
       ]
     },
     "ThibaudReal": {
@@ -1072,9 +1106,10 @@
       "name": "githubyako",
       "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
       "url": "https://github.com/githubyako",
-      "commits_count": 4,
+      "commits_count": 16,
       "projects": [
-        "shapash"
+        "shapash",
+        "eurybia"
       ]
     },
     "YL79": {
@@ -1670,6 +1705,15 @@
         "functional-json"
       ]
     },
+    "armgilles": {
+      "name": "armgilles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374843?v=4",
+      "url": "https://github.com/armgilles",
+      "commits_count": 4,
+      "projects": [
+        "eurybia"
+      ]
+    },
     "gotson": {
       "name": "gotson",
       "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
@@ -1691,13 +1735,13 @@
   },
   "commits_per_contributor_sorted": [
     "mathieuancelin",
+    "larousso",
     "Zwiterrion",
     "quentinovega",
-    "larousso",
     "baudelotphilippe",
     "pierrebruninmaif",
-    "github-actions",
     "ThomasBouche",
+    "github-actions",
     "hugo-quantmetry",
     "ptitFicus",
     "farthur",
@@ -1710,6 +1754,7 @@
     "yg79",
     "Fraer",
     "milidris",
+    "githubyako",
     "benoitLebreton-perso",
     "GAP01",
     "gpoulet",
@@ -1723,8 +1768,8 @@
     "victorBigand",
     "sachasamama",
     "desmfr",
+    "armgilles",
     "sebprunierserli",
-    "githubyako",
     "quentinproust",
     "kefranabg",
     "gmembre-zenika",
