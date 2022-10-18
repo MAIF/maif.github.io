@@ -467,7 +467,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-18T16:09:00Z",
+      "pushed_at": "2022-10-18T17:17:34Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -478,9 +478,39 @@
       "description": "Automate Let's Encrypt certificate issuance, renewal and synchronize with CleverCloud.",
       "homepage": "https://maif.github.io",
       "pushed_at": "2022-08-01T15:34:00Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "larousso",
+        "pierrebruninmaif",
+        "cwoodrow",
+        "baudelotphilippe"
+      ],
+      "commits_count": 19,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 15
+        },
+        {
+          "name": "pierrebruninmaif",
+          "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
+          "url": "https://github.com/pierrebruninmaif",
+          "commits_count": 2
+        },
+        {
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
+          "commits_count": 1
+        },
+        {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 1
+        }
+      ]
     },
     "jooq-async": {
       "name": "jooq-async",
@@ -862,10 +892,11 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 822,
+      "commits_count": 837,
       "projects": [
         "thoth",
         "nio",
+        "lets-automate",
         "izanami",
         "functional-json"
       ]
@@ -1080,11 +1111,12 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 271,
+      "commits_count": 272,
       "projects": [
         "react-forms",
         "nio",
         "melusine",
+        "lets-automate",
         "izanami",
         "daikoku",
         "cards"
@@ -1116,10 +1148,11 @@
       "name": "cwoodrow",
       "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
       "url": "https://github.com/cwoodrow",
-      "commits_count": 8,
+      "commits_count": 9,
       "projects": [
         "nio",
-        "melusine"
+        "melusine",
+        "lets-automate"
       ]
     },
     "frinyvonnick": {
@@ -1327,8 +1360,9 @@
       "name": "pierrebruninmaif",
       "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
       "url": "https://github.com/pierrebruninmaif",
-      "commits_count": 198,
+      "commits_count": 200,
       "projects": [
+        "lets-automate",
         "izanami"
       ]
     },
