@@ -465,5 +465,29 @@
       "newsroom.eclipse.org/events/maif-op…",
       "https://pbs.twimg.com/media/FfcI_sbWIAobZSj.png"
     ]
+  },
+  {
+    "id": "1582795550440574976",
+    "created_at": "2022-10-19T18:07:20.000Z",
+    "author_id": "31137997",
+    "edit_history_tweet_ids": [
+      "1582795550440574976"
+    ],
+    "text": "RT @OSPOAlliance: Next #OSPOAlliance #OnRamp session  will feature a @MAIF about their #OpenSource Strategy by @FredericPied &amp; @desmfr #OSS…",
+    "author_username": "desmfr",
+    "author_name": "𝗙𝗿𝗮𝗻𝗰𝗼𝗶𝘀 𝗗𝗲𝘀𝗺𝗶𝗲𝗿",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1536716036510208000/-dlSwIHY_normal.jpg"
+  },
+  {
+    "id": "1582794327956156417",
+    "created_at": "2022-10-19T18:02:29.000Z",
+    "author_id": "162321873",
+    "edit_history_tweet_ids": [
+      "1582794327956156417"
+    ],
+    "text": "RT @OSPOAlliance: Next #OSPOAlliance #OnRamp session  will feature a @MAIF about their #OpenSource Strategy by @FredericPied &amp; @desmfr #OSS…",
+    "author_username": "faatz",
+    "author_name": "Frederic Aatz",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1036865410560405504/3EG_gXXe_normal.jpg"
   }
 ]
