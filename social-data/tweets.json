@@ -425,5 +425,45 @@
     "author_username": "SieglerNicolas",
     "author_name": "Nicolas Siegler",
     "author_avatar": "https://pbs.twimg.com/profile_images/1319029735549210635/PRlOE4H5_normal.jpg"
+  },
+  {
+    "text": "RT @OSPOAlliance: Next #OSPOAlliance #OnRamp session  will feature a @MAIF about their #OpenSource Strategy by @FredericPied &amp; @desmfr #OSS…",
+    "created_at": "2022-10-19T16:05:35.000Z",
+    "author_id": "18636447",
+    "id": "1582764911343853570",
+    "edit_history_tweet_ids": [
+      "1582764911343853570"
+    ],
+    "author_username": "gblondelle",
+    "author_name": "Gaël Blondelle",
+    "author_avatar": "https://pbs.twimg.com/profile_images/777926456890494976/k1B2ahJ2_normal.jpg"
+  },
+  {
+    "text": "RT @OSPOAlliance: Next #OSPOAlliance #OnRamp session  will feature a @MAIF about their #OpenSource Strategy by @FredericPied &amp; @desmfr #OSS…",
+    "created_at": "2022-10-19T14:50:36.000Z",
+    "author_id": "6440602",
+    "id": "1582746038363832322",
+    "edit_history_tweet_ids": [
+      "1582746038363832322"
+    ],
+    "author_username": "jsmanrique",
+    "author_name": "Manrique 🖖🤙",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1488098581072470017/YUnWlr6T_normal.jpg"
+  },
+  {
+    "text": "Next #OSPOAlliance #OnRamp session  will feature a @MAIF about their #OpenSource Strategy by @FredericPied &amp; @desmfr #OSSbyMAIF\n\n📅 Oct 21st, 2022\n⏰ 10:30-12:00 CEST\n🔗 https://t.co/evYpenAqtt\n\nDon't miss it! https://t.co/E9qodOzAXj",
+    "created_at": "2022-10-19T14:46:30.000Z",
+    "author_id": "1407672023187341325",
+    "id": "1582745005764276224",
+    "edit_history_tweet_ids": [
+      "1582745005764276224"
+    ],
+    "author_username": "OSPOAlliance",
+    "author_name": "OSPO Alliance",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1582746570390372353/971bNVjB_normal.jpg",
+    "media_urls": [
+      "newsroom.eclipse.org/events/maif-op…",
+      "https://pbs.twimg.com/media/FfcI_sbWIAobZSj.png"
+    ]
   }
 ]
