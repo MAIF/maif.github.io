@@ -42,7 +42,16 @@ function fetchLastMediums() {
             ];
           }
         })
-        console.log(`saving ${new_mediums_for_file.length} mediums !`)
+        console.log(`saving ${new_mediums_for_file.length} mediums !`)        
+        // new_mediums_for_file.sort((a,b) =>  a.created_at-b.created_at )
+        new_mediums_for_file.sort(function(a, b) {
+          var keyA = new Date(a.created_at),
+            keyB = new Date(b.created_at);
+          // Compare the 2 dates
+          if (keyA < keyB) return -1;
+          if (keyA > keyB) return 1;
+          return 0;
+        });
         fs.writeFileSync(mediums_file, JSON.stringify(new_mediums_for_file, null, 2));
       })
     } else {
