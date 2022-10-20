@@ -489,5 +489,35 @@
     "author_username": "faatz",
     "author_name": "Frederic Aatz",
     "author_avatar": "https://pbs.twimg.com/profile_images/1036865410560405504/3EG_gXXe_normal.jpg"
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1583137918591246337"
+    ],
+    "created_at": "2022-10-20T16:47:47.000Z",
+    "text": "RT @jeromepetit: Au @poitoujug pour écouter @desmfr sur l’agilité at scale; un petit slide sur #ossbymaif @NiortTech https://t.co/v2KcE83QGu",
+    "id": "1583137918591246337",
+    "author_id": "113509415",
+    "author_username": "poitoujug",
+    "author_name": "Poitou-Charentes Jug",
+    "author_avatar": "https://pbs.twimg.com/profile_images/690531273/poitoucharentesjug201201_normal.png",
+    "media_urls": [
+      "https://pbs.twimg.com/media/FfhvZOiWYAQkw8G.jpg"
+    ]
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1583137755848409088"
+    ],
+    "created_at": "2022-10-20T16:47:08.000Z",
+    "text": "Au @poitoujug pour écouter @desmfr sur l’agilité at scale; un petit slide sur #ossbymaif @NiortTech https://t.co/v2KcE83QGu",
+    "id": "1583137755848409088",
+    "author_id": "55227488",
+    "author_username": "jeromepetit",
+    "author_name": "Jérôme Petit",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1567142155512152066/Aa27qdYN_normal.jpg",
+    "media_urls": [
+      "https://pbs.twimg.com/media/FfhvZOiWYAQkw8G.jpg"
+    ]
   }
 ]
