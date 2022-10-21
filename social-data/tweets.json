@@ -534,5 +534,17 @@
     "media_urls": [
       "https://pbs.twimg.com/media/FfhvZOiWYAQkw8G.jpg"
     ]
+  },
+  {
+    "author_id": "120016058",
+    "text": "RT @OSPOAlliance: Next #OSPOAlliance #OnRamp session  will feature a @MAIF about their #OpenSource Strategy by @FredericPied &amp; @desmfr #OSS…",
+    "id": "1583571843247898625",
+    "created_at": "2022-10-21T21:32:03.000Z",
+    "edit_history_tweet_ids": [
+      "1583571843247898625"
+    ],
+    "author_username": "FredericPied",
+    "author_name": "Frederic Pied",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1034064051545022465/iYSBrvce_normal.jpg"
   }
 ]
