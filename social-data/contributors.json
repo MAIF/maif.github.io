@@ -537,7 +537,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-20T22:05:08Z",
+      "pushed_at": "2022-10-21T00:25:30Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -588,18 +588,9 @@
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
       "pushed_at": "2022-10-13T07:24:28Z",
-      "contributors": [
-        "larousso"
-      ],
-      "commits_count": 59,
-      "commits_per_contributor": [
-        {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 59
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "izanami": {
       "name": "izanami",
@@ -1035,12 +1026,11 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 97,
+      "commits_count": 38,
       "projects": [
         "otoroshi",
         "nio",
         "lets-automate",
-        "jooq-async",
         "functional-validation"
       ]
     },
@@ -1319,12 +1309,12 @@
     "ThomasBouche",
     "github-actions",
     "hugo-quantmetry",
-    "larousso",
     "farthur",
     "ThibaudReal",
     "TFA-MAIF",
     "Francesco-Marini",
     "tstringerquantmetry",
+    "larousso",
     "MaxGdr",
     "mathieuancelinserli",
     "ptitFicus",
