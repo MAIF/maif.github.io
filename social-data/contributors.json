@@ -560,7 +560,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-24T03:02:49Z",
+      "pushed_at": "2022-10-24T04:45:53Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -611,18 +611,9 @@
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
       "pushed_at": "2022-10-13T07:24:28Z",
-      "contributors": [
-        "larousso"
-      ],
-      "commits_count": 59,
-      "commits_per_contributor": [
-        {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 59
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "izanami": {
       "name": "izanami",
@@ -831,9 +822,18 @@
       "description": "A lib to validate data and stack errors ",
       "homepage": "",
       "pushed_at": "2021-03-23T09:00:13Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "larousso"
+      ],
+      "commits_count": 11,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 11
+        }
+      ]
     },
     "functional-json": {
       "name": "functional-json",
@@ -994,14 +994,14 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 899,
+      "commits_count": 851,
       "projects": [
         "thoth",
         "otoroshi",
         "nio",
         "lets-automate",
-        "jooq-async",
         "izanami",
+        "functional-validation",
         "functional-json"
       ]
     },
@@ -1742,8 +1742,8 @@
   "commits_per_contributor_sorted": [
     "mathieuancelin",
     "quentinovega",
-    "larousso",
     "Zwiterrion",
+    "larousso",
     "baudelotphilippe",
     "pierrebruninmaif",
     "ThomasBouche",
