@@ -6,32 +6,9 @@
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
       "pushed_at": "2022-10-27T18:54:30Z",
-      "contributors": [
-        "larousso",
-        "ptitFicus",
-        "Gregnarok"
-      ],
-      "commits_count": 115,
-      "commits_per_contributor": [
-        {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 75
-        },
-        {
-          "name": "ptitFicus",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-          "url": "https://github.com/ptitFicus",
-          "commits_count": 39
-        },
-        {
-          "name": "Gregnarok",
-          "avatar_url": "https://avatars.githubusercontent.com/u/23338347?v=4",
-          "url": "https://github.com/Gregnarok",
-          "commits_count": 1
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "shapash": {
       "name": "shapash",
@@ -241,9 +218,74 @@
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
       "pushed_at": "2022-07-08T00:38:08Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "quentinovega",
+        "Fraer",
+        "mathieuancelin",
+        "baudelotphilippe",
+        "larousso",
+        "cwoodrow",
+        "frinyvonnick",
+        "oltruong",
+        "marclaporte"
+      ],
+      "commits_count": 110,
+      "commits_per_contributor": [
+        {
+          "name": "quentinovega",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+          "url": "https://github.com/quentinovega",
+          "commits_count": 38
+        },
+        {
+          "name": "Fraer",
+          "avatar_url": "https://avatars.githubusercontent.com/u/976420?v=4",
+          "url": "https://github.com/Fraer",
+          "commits_count": 22
+        },
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
+          "commits_count": 20
+        },
+        {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 11
+        },
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 9
+        },
+        {
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
+          "commits_count": 7
+        },
+        {
+          "name": "frinyvonnick",
+          "avatar_url": "https://avatars.githubusercontent.com/u/13099512?v=4",
+          "url": "https://github.com/frinyvonnick",
+          "commits_count": 1
+        },
+        {
+          "name": "oltruong",
+          "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
+          "url": "https://github.com/oltruong",
+          "commits_count": 1
+        },
+        {
+          "name": "marclaporte",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1004261?v=4",
+          "url": "https://github.com/marclaporte",
+          "commits_count": 1
+        }
+      ]
     },
     "melusine": {
       "name": "melusine",
@@ -409,7 +451,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-10-28T22:05:07Z",
+      "pushed_at": "2022-10-28T23:05:19Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -460,9 +502,18 @@
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
       "pushed_at": "2022-10-13T07:24:28Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "larousso"
+      ],
+      "commits_count": 59,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 59
+        }
+      ]
     },
     "izanami": {
       "name": "izanami",
@@ -723,9 +774,32 @@
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
       "pushed_at": "2022-10-17T08:13:10Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "ThomasBouche",
+        "githubyako",
+        "armgilles"
+      ],
+      "commits_count": 46,
+      "commits_per_contributor": [
+        {
+          "name": "ThomasBouche",
+          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+          "url": "https://github.com/ThomasBouche",
+          "commits_count": 25
+        },
+        {
+          "name": "githubyako",
+          "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
+          "url": "https://github.com/githubyako",
+          "commits_count": 12
+        },
+        {
+          "name": "armgilles",
+          "avatar_url": "https://avatars.githubusercontent.com/u/8374843?v=4",
+          "url": "https://github.com/armgilles",
+          "commits_count": 9
+        }
+      ]
     },
     "daikoku": {
       "name": "daikoku",
@@ -823,47 +897,14 @@
     }
   },
   "contributors": {
-    "larousso": {
-      "name": "larousso",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-      "url": "https://github.com/larousso",
-      "commits_count": 840,
-      "projects": [
-        "thoth",
-        "lets-automate",
-        "izanami",
-        "functional-validation",
-        "functional-json"
-      ]
-    },
-    "ptitFicus": {
-      "name": "ptitFicus",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-      "url": "https://github.com/ptitFicus",
-      "commits_count": 79,
-      "projects": [
-        "thoth",
-        "react-forms",
-        "izanami",
-        "functional-json"
-      ]
-    },
-    "Gregnarok": {
-      "name": "Gregnarok",
-      "avatar_url": "https://avatars.githubusercontent.com/u/23338347?v=4",
-      "url": "https://github.com/Gregnarok",
-      "commits_count": 1,
-      "projects": [
-        "thoth"
-      ]
-    },
     "ThomasBouche": {
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 175,
+      "commits_count": 200,
       "projects": [
-        "shapash"
+        "shapash",
+        "eurybia"
       ]
     },
     "ThibaudReal": {
@@ -942,9 +983,10 @@
       "name": "githubyako",
       "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
       "url": "https://github.com/githubyako",
-      "commits_count": 4,
+      "commits_count": 16,
       "projects": [
-        "shapash"
+        "shapash",
+        "eurybia"
       ]
     },
     "YL79": {
@@ -1023,9 +1065,10 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 823,
+      "commits_count": 861,
       "projects": [
         "react-forms",
+        "nio",
         "daikoku"
       ]
     },
@@ -1048,13 +1091,25 @@
         "daikoku"
       ]
     },
+    "ptitFicus": {
+      "name": "ptitFicus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+      "url": "https://github.com/ptitFicus",
+      "commits_count": 40,
+      "projects": [
+        "react-forms",
+        "izanami",
+        "functional-json"
+      ]
+    },
     "baudelotphilippe": {
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 261,
+      "commits_count": 272,
       "projects": [
         "react-forms",
+        "nio",
         "melusine",
         "lets-automate",
         "izanami",
@@ -1066,12 +1121,75 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 209,
+      "commits_count": 229,
       "projects": [
         "react-forms",
+        "nio",
         "izanami",
         "daikoku",
         "cards"
+      ]
+    },
+    "Fraer": {
+      "name": "Fraer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/976420?v=4",
+      "url": "https://github.com/Fraer",
+      "commits_count": 22,
+      "projects": [
+        "nio"
+      ]
+    },
+    "larousso": {
+      "name": "larousso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+      "url": "https://github.com/larousso",
+      "commits_count": 833,
+      "projects": [
+        "nio",
+        "lets-automate",
+        "jooq-async",
+        "izanami",
+        "functional-validation",
+        "functional-json"
+      ]
+    },
+    "cwoodrow": {
+      "name": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "url": "https://github.com/cwoodrow",
+      "commits_count": 9,
+      "projects": [
+        "nio",
+        "melusine",
+        "lets-automate"
+      ]
+    },
+    "frinyvonnick": {
+      "name": "frinyvonnick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13099512?v=4",
+      "url": "https://github.com/frinyvonnick",
+      "commits_count": 1,
+      "projects": [
+        "nio"
+      ]
+    },
+    "oltruong": {
+      "name": "oltruong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
+      "url": "https://github.com/oltruong",
+      "commits_count": 3,
+      "projects": [
+        "nio",
+        "izanami"
+      ]
+    },
+    "marclaporte": {
+      "name": "marclaporte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1004261?v=4",
+      "url": "https://github.com/marclaporte",
+      "commits_count": 1,
+      "projects": [
+        "nio"
       ]
     },
     "hugo-quantmetry": {
@@ -1182,16 +1300,6 @@
         "melusine",
         "izanami",
         "cards"
-      ]
-    },
-    "cwoodrow": {
-      "name": "cwoodrow",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-      "url": "https://github.com/cwoodrow",
-      "commits_count": 2,
-      "projects": [
-        "melusine",
-        "lets-automate"
       ]
     },
     "remiadon": {
@@ -1330,15 +1438,6 @@
         "izanami"
       ]
     },
-    "oltruong": {
-      "name": "oltruong",
-      "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
-      "url": "https://github.com/oltruong",
-      "commits_count": 2,
-      "projects": [
-        "izanami"
-      ]
-    },
     "romaindso": {
       "name": "romaindso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1172281?v=4",
@@ -1465,6 +1564,15 @@
         "functional-json"
       ]
     },
+    "armgilles": {
+      "name": "armgilles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374843?v=4",
+      "url": "https://github.com/armgilles",
+      "commits_count": 9,
+      "projects": [
+        "eurybia"
+      ]
+    },
     "Btxgear": {
       "name": "Btxgear",
       "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
@@ -1494,8 +1602,8 @@
     }
   },
   "commits_per_contributor_sorted": [
-    "larousso",
     "quentinovega",
+    "larousso",
     "Zwiterrion",
     "baudelotphilippe",
     "mathieuancelin",
@@ -1503,19 +1611,23 @@
     "ThomasBouche",
     "github-actions",
     "hugo-quantmetry",
-    "ptitFicus",
     "farthur",
     "ThibaudReal",
     "TFA-MAIF",
     "Francesco-Marini",
     "tstringerquantmetry",
+    "ptitFicus",
     "MaxGdr",
     "FlorineGreciet",
     "yg79",
+    "Fraer",
     "milidris",
+    "githubyako",
     "benoitLebreton-perso",
     "GAP01",
     "gpoulet",
+    "armgilles",
+    "cwoodrow",
     "blanoe",
     "mathisbarthere",
     "jtanguy",
@@ -1523,19 +1635,17 @@
     "victorBigand",
     "sachasamama",
     "desmfr",
-    "githubyako",
     "quentinproust",
     "kefranabg",
     "gmembre-zenika",
     "sguiheux",
     "AntoineSimoulin",
     "FDJFDJ",
+    "oltruong",
     "YL79",
     "Btxgear",
     "mbaechler",
-    "oltruong",
     "jabby",
-    "cwoodrow",
     "amorea04",
     "amnaabbassi",
     "SebastienBidault",
@@ -1562,9 +1672,10 @@
     "nicolaspte",
     "ggirou",
     "remiadon",
+    "marclaporte",
+    "frinyvonnick",
     "yvanzubro",
     "susmitpy",
-    "DragonWarrior15",
-    "Gregnarok"
+    "DragonWarrior15"
   ]
 }
