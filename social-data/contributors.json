@@ -409,7 +409,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-11-05T09:05:08Z",
+      "pushed_at": "2022-11-05T10:05:35Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -680,9 +680,18 @@
       "description": "A lib to validate data and stack errors ",
       "homepage": "",
       "pushed_at": "2021-03-23T09:00:13Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "larousso"
+      ],
+      "commits_count": 11,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 11
+        }
+      ]
     },
     "functional-json": {
       "name": "functional-json",
@@ -700,9 +709,32 @@
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
       "pushed_at": "2022-10-17T08:13:10Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "ThomasBouche",
+        "githubyako",
+        "armgilles"
+      ],
+      "commits_count": 46,
+      "commits_per_contributor": [
+        {
+          "name": "ThomasBouche",
+          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+          "url": "https://github.com/ThomasBouche",
+          "commits_count": 25
+        },
+        {
+          "name": "githubyako",
+          "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
+          "url": "https://github.com/githubyako",
+          "commits_count": 12
+        },
+        {
+          "name": "armgilles",
+          "avatar_url": "https://avatars.githubusercontent.com/u/8374843?v=4",
+          "url": "https://github.com/armgilles",
+          "commits_count": 9
+        }
+      ]
     },
     "daikoku": {
       "name": "daikoku",
@@ -767,12 +799,13 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 864,
+      "commits_count": 875,
       "projects": [
         "thoth",
         "lets-automate",
         "jooq-async",
-        "izanami"
+        "izanami",
+        "functional-validation"
       ]
     },
     "ptitFicus": {
@@ -799,9 +832,10 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 175,
+      "commits_count": 200,
       "projects": [
-        "shapash"
+        "shapash",
+        "eurybia"
       ]
     },
     "ThibaudReal": {
@@ -880,9 +914,10 @@
       "name": "githubyako",
       "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
       "url": "https://github.com/githubyako",
-      "commits_count": 4,
+      "commits_count": 16,
       "projects": [
-        "shapash"
+        "shapash",
+        "eurybia"
       ]
     },
     "YL79": {
@@ -1391,6 +1426,15 @@
         "izanami"
       ]
     },
+    "armgilles": {
+      "name": "armgilles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8374843?v=4",
+      "url": "https://github.com/armgilles",
+      "commits_count": 9,
+      "projects": [
+        "eurybia"
+      ]
+    },
     "Btxgear": {
       "name": "Btxgear",
       "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
@@ -1421,9 +1465,11 @@
     "FlorineGreciet",
     "yg79",
     "milidris",
+    "githubyako",
     "benoitLebreton-perso",
     "GAP01",
     "gpoulet",
+    "armgilles",
     "blanoe",
     "mathisbarthere",
     "jtanguy",
@@ -1431,7 +1477,6 @@
     "victorBigand",
     "sachasamama",
     "desmfr",
-    "githubyako",
     "quentinproust",
     "kefranabg",
     "gmembre-zenika",
