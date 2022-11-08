@@ -688,5 +688,17 @@
     "media_urls": [
       "maif.github.io"
     ]
+  },
+  {
+    "text": "RT @OSXP_Paris: 💡\"Comment devenir éditeur open-source\" avec François Desmier @desmfr #OSSbyMAIF en direct de #OSXP2022\nComment ma DSI peut…",
+    "id": "1590076163686543360",
+    "created_at": "2022-11-08T20:17:54.000Z",
+    "author_id": "3253284538",
+    "edit_history_tweet_ids": [
+      "1590076163686543360"
+    ],
+    "author_username": "MmeSoetaert",
+    "author_name": "Nathalie Soetaert",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1510873167501406209/gM6AIIDu_normal.jpg"
   }
 ]
