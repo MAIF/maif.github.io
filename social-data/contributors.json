@@ -53,9 +53,46 @@
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
       "pushed_at": "2022-11-08T10:55:32Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "quentinovega",
+        "Zwiterrion",
+        "mathieuancelin",
+        "baudelotphilippe",
+        "Btxgear"
+      ],
+      "commits_count": 1210,
+      "commits_per_contributor": [
+        {
+          "name": "quentinovega",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+          "url": "https://github.com/quentinovega",
+          "commits_count": 633
+        },
+        {
+          "name": "Zwiterrion",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+          "url": "https://github.com/Zwiterrion",
+          "commits_count": 405
+        },
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
+          "commits_count": 99
+        },
+        {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 70
+        },
+        {
+          "name": "Btxgear",
+          "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
+          "url": "https://github.com/Btxgear",
+          "commits_count": 3
+        }
+      ]
     },
     "eurybia": {
       "name": "eurybia",
@@ -407,7 +444,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-11-08T12:56:48Z",
+      "pushed_at": "2022-11-08T13:08:09Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -748,53 +785,9 @@
       "description": "Fully managed react forms builder",
       "homepage": "https://maif.github.io/react-forms",
       "pushed_at": "2022-10-05T15:02:27Z",
-      "contributors": [
-        "quentinovega",
-        "github-actions",
-        "Zwiterrion",
-        "ptitFicus",
-        "baudelotphilippe",
-        "mathieuancelin"
-      ],
-      "commits_count": 445,
-      "commits_per_contributor": [
-        {
-          "name": "quentinovega",
-          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
-          "url": "https://github.com/quentinovega",
-          "commits_count": 190
-        },
-        {
-          "name": "github-actions",
-          "avatar_url": "https://avatars.githubusercontent.com/u/44210433?v=4",
-          "url": "https://github.com/github-actions",
-          "commits_count": 146
-        },
-        {
-          "name": "Zwiterrion",
-          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
-          "url": "https://github.com/Zwiterrion",
-          "commits_count": 59
-        },
-        {
-          "name": "ptitFicus",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-          "url": "https://github.com/ptitFicus",
-          "commits_count": 34
-        },
-        {
-          "name": "baudelotphilippe",
-          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
-          "url": "https://github.com/baudelotphilippe",
-          "commits_count": 15
-        },
-        {
-          "name": "mathieuancelin",
-          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-          "url": "https://github.com/mathieuancelin",
-          "commits_count": 1
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "shapash": {
       "name": "shapash",
@@ -939,10 +932,33 @@
       "url": "https://github.com/MAIF/thoth",
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2022-11-08T10:53:43Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "pushed_at": "2022-11-08T13:06:21Z",
+      "contributors": [
+        "larousso",
+        "ptitFicus",
+        "Gregnarok"
+      ],
+      "commits_count": 121,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 81
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 39
+        },
+        {
+          "name": "Gregnarok",
+          "avatar_url": "https://avatars.githubusercontent.com/u/23338347?v=4",
+          "url": "https://github.com/Gregnarok",
+          "commits_count": 1
+        }
+      ]
     }
   },
   "contributors": {
@@ -950,12 +966,12 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 4245,
+      "commits_count": 4343,
       "projects": [
         "cards",
-        "react-forms",
-        "otoroshi",
+        "daikoku",
         "nio",
+        "otoroshi",
         "izanami"
       ]
     },
@@ -963,14 +979,14 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 434,
+      "commits_count": 489,
       "projects": [
         "cards",
+        "daikoku",
         "lets-automate",
-        "react-forms",
         "melusine",
-        "otoroshi",
         "nio",
+        "otoroshi",
         "izanami"
       ]
     },
@@ -1002,6 +1018,36 @@
       "commits_count": 1,
       "projects": [
         "cards"
+      ]
+    },
+    "quentinovega": {
+      "name": "quentinovega",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+      "url": "https://github.com/quentinovega",
+      "commits_count": 720,
+      "projects": [
+        "daikoku",
+        "nio",
+        "otoroshi"
+      ]
+    },
+    "Zwiterrion": {
+      "name": "Zwiterrion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+      "url": "https://github.com/Zwiterrion",
+      "commits_count": 863,
+      "projects": [
+        "daikoku",
+        "otoroshi"
+      ]
+    },
+    "Btxgear": {
+      "name": "Btxgear",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
+      "url": "https://github.com/Btxgear",
+      "commits_count": 3,
+      "projects": [
+        "daikoku"
       ]
     },
     "ThomasBouche": {
@@ -1037,14 +1083,15 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 836,
+      "commits_count": 917,
       "projects": [
-        "jooq-async",
-        "functional-json",
         "functional-validation",
+        "jooq-async",
+        "thoth",
         "lets-automate",
-        "otoroshi",
         "nio",
+        "functional-json",
+        "otoroshi",
         "izanami"
       ]
     },
@@ -1052,10 +1099,10 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 40,
+      "commits_count": 45,
       "projects": [
+        "thoth",
         "functional-json",
-        "react-forms",
         "izanami"
       ]
     },
@@ -1277,8 +1324,8 @@
       "projects": [
         "lets-automate",
         "melusine",
-        "otoroshi",
-        "nio"
+        "nio",
+        "otoroshi"
       ]
     },
     "hugo-quantmetry": {
@@ -1443,17 +1490,6 @@
         "melusine"
       ]
     },
-    "quentinovega": {
-      "name": "quentinovega",
-      "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
-      "url": "https://github.com/quentinovega",
-      "commits_count": 277,
-      "projects": [
-        "react-forms",
-        "otoroshi",
-        "nio"
-      ]
-    },
     "Fraer": {
       "name": "Fraer",
       "avatar_url": "https://avatars.githubusercontent.com/u/976420?v=4",
@@ -1479,16 +1515,6 @@
       "commits_count": 1,
       "projects": [
         "nio"
-      ]
-    },
-    "Zwiterrion": {
-      "name": "Zwiterrion",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
-      "url": "https://github.com/Zwiterrion",
-      "commits_count": 517,
-      "projects": [
-        "react-forms",
-        "otoroshi"
       ]
     },
     "mathieuancelinserli": {
@@ -1525,15 +1551,6 @@
       "commits_count": 3,
       "projects": [
         "otoroshi"
-      ]
-    },
-    "github-actions": {
-      "name": "github-actions",
-      "avatar_url": "https://avatars.githubusercontent.com/u/44210433?v=4",
-      "url": "https://github.com/github-actions",
-      "commits_count": 146,
-      "projects": [
-        "react-forms"
       ]
     },
     "ThibaudReal": {
@@ -1679,17 +1696,25 @@
       "projects": [
         "shapash"
       ]
+    },
+    "Gregnarok": {
+      "name": "Gregnarok",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23338347?v=4",
+      "url": "https://github.com/Gregnarok",
+      "commits_count": 1,
+      "projects": [
+        "thoth"
+      ]
     }
   },
   "commits_per_contributor_sorted": [
     "mathieuancelin",
     "larousso",
     "Zwiterrion",
-    "baudelotphilippe",
     "quentinovega",
+    "baudelotphilippe",
     "pierrebruninmaif",
     "ThomasBouche",
-    "github-actions",
     "hugo-quantmetry",
     "farthur",
     "ThibaudReal",
@@ -1728,12 +1753,14 @@
     "kefranabg",
     "gmembre-zenika",
     "sguiheux",
+    "Btxgear",
     "amorea04",
     "amnaabbassi",
     "SebastienBidault",
     "peterdhansen",
     "jabby",
     "mbaechler",
+    "Gregnarok",
     "yvanzubro",
     "susmitpy",
     "DragonWarrior15",
