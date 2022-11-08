@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Projets - OSS by MAIF</title>
+    <meta name="description" content="Les projets OSS By Maif">
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"
+    ></script>
+
+    <script src="https://masonry.desandro.com/masonry.pkgd.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link href="css/style.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="img/favicon.ico" />
+    <script
+      type="text/javascript"
+      src="js/tarteaucitron/tarteaucitron.js"
+    ></script>
+
+    <script type="text/javascript">
+      tarteaucitron.init({
+        hashtag:
+          "#tarteaucitron" /* Ouverture automatique du panel avec le hashtag */,
+        DenyAllCta: true /* Show the deny all button */,
+        AcceptAllCta: true /* Show the accept all button when highPrivacy on */,
+        highPrivacy: true /* HIGHLY RECOMMANDED Disable auto consent */,
+        orientation:
+          "top" /* le bandeau doit être en haut (top) ou en bas (bottom) ? */,
+        adblocker: false /* Afficher un message si un adblocker est détecté */,
+        showAlertSmall: false /* afficher le petit bandeau en bas à droite ? */,
+        cookieslist: true /* Afficher la liste des cookies installés ? */,
+        removeCredit: false /* supprimer le lien vers la source ? */,
+      });
+    </script>
+  </head>
+  <body class="projects">
+    <nav class="navbar navbar-expand-sm fixed-top navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand flex-grow-1" href="index.html"
+          ><img
+            alt="logo MAIF"
+            src="https://static.maif.fr/resources/img/logo-maif.svg"
+          />
+          <span id="slogan" style="opacity: 0;">#OSSbyMAIF</span></a
+        >
+        <button
+          class="navbar-toggler me-2"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+          class="collapse navbar-collapse order-2 order-sm-0"
+          id="navbarSupportedContent"
+        >
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html"
+                ><i class="fas fa-home"></i></a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="projets.html"
+                >PROJETS</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="contributeurs.html"
+                >CONTRIBUTEURS</a
+              >
+            </li>
+          </ul>
+        </div>
+        <!--<select
+          id="language"
+          class="form-select"
+          aria-label="Default select example"
+        >
+          <option value="English">English</option>
+          <option value="Francais" selected>Français</option>
+        </select>-->
+      </div>
+    </nav>
+    <div class="bg-blue">
+      <section class="container">
+        <div class="d-flex justify-content-center align-items-center p-4">
+          <img
+            class="w-10"
+            alt="logo MAIF"
+            src="https://static.maif.fr/resources/img/logo-maif.svg"
+          />
+          <div class="text-white ms-4">
+            <h1>#OSSbyMAIF</h1>
+            <h2>
+              Designing & building <strong>commons</strong><br />since
+              <strong>1934</strong>
+            </h2>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="container mt-3">
+      <div class="row">
+      <div class="col-12 col-sm-6 col-md-4" id="melusine">
+
+        <div class="card m-2 shadow">
+          <div class="card-img-top bg-darkest">
+            <img class="offset-4 col-4" src="img/eurybia.svg" alt="logo melusine">
+
+          </div>
+          <div class="card-body">
+            <h5 class=" product_title text-center">eurybia</h5>
+            <p>
+              Eurybia monitor model drift over time and securize model deployment with data validation. 
+            </p>
+          </div>
+          <div class="card-footer d-flex justify-content-end p-3">
+            <span class="link me-3">
+              <a href="https://github.com/maif/eurybia"
+            >
+              <i
+                class="fab fa-github fa-lg"
+                aria-hidden="true"
+              ></i></a>
+              </span>
+            <span class="link">
+              <a
+                href="https://maif.github.io/eurybia"
+                title="See more details about the project"
+                ><i class="fas fa-external-link-alt fa-lg"></i></a>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-4" id="thoth">
+
+        <div class="card m-2 shadow">
+          <div class="card-img-top bg-darkest">
+            <img class="offset-4 col-4" src="img/thoth.svg" alt="logo thoth">
+
+          </div>
+          <div class="card-body">
+            <h5 class=" product_title text-center">thoth</h5>
+            <p>
+              Power your Java Apps with Event Sourcing. 
+            </p>
+          </div>
+          <div class="card-footer d-flex justify-content-end p-3">
+            <span class="link me-3">
+              <a href="https://github.com/maif/thoth"
+            >
+              <i
+                class="fab fa-github fa-lg"
+                aria-hidden="true"
+              ></i></a>
+              </span>
+            <span class="link">
+              <a
+                href="https://maif.github.io/thoth"
+                title="See more details about the project"
+                ><i class="fas fa-external-link-alt fa-lg"></i></a>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-4" id="shapash">
+
+        <div class="card m-2 shadow">
+          <div class="card-img-top bg-darkest">
+            <img class="offset-4 col-4" src="img/shapash.png" alt="logo shapash">
+
+          </div>
+          <div class="card-body">
+            <h5 class=" product_title text-center">shapash</h5>
+            <p>
+              Make Machine Learning models transparent and understandable by everyone. 
+            </p>
+          </div>
+          <div class="card-footer d-flex justify-content-end p-3">
+            <span class="link me-3">
+              <a href="https://github.com/maif/shapash"
+            >
+              <i
+                class="fab fa-github fa-lg"
+                aria-hidden="true"
+              ></i></a>
+              </span>
+            <span class="link">
+              <a
+                href="https://maif.github.io/shapash"
+                title="See more details about the project"
+                ><i class="fas fa-external-link-alt fa-lg"></i></a>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-4" id="daikoku">
+
+        <div class="card m-2 shadow">
+          <div class="card-img-top bg-darkest">
+            <img class="offset-4 col-4" src="img/daikoku.svg" alt="logo daikoku">
+
+          </div>
+          <div class="card-body">
+            <h5 class=" product_title text-center">daikoku</h5>
+            <p>
+              The missing developer portal for your apis served by Otoroshi. 
+            </p>
+          </div>
+          <div class="card-footer d-flex justify-content-end p-3">
+            <span class="link me-3">
+              <a href="https://github.com/maif/daikoku"
+            >
+              <i
+                class="fab fa-github fa-lg"
+                aria-hidden="true"
+              ></i></a>
+              </span>
+            <span class="link">
+              <a
+                href="https://maif.github.io/daikoku"
+                title="See more details about the project"
+                ><i class="fas fa-external-link-alt fa-lg"></i></a>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-4" id="melusine">
+
+        <div class="card m-2 shadow">
+          <div class="card-img-top bg-darkest">
+            <img class="offset-4 col-4" src="img/melusine.svg" alt="logo melusine">
+
+          </div>
+          <div class="card-body">
+            <h5 class=" product_title text-center">melusine</h5>
+            <p>
+              Melusine is a high-level library for emails classification and feature extraction "dédiée aux courriels français". 
+            </p>
+          </div>
+          <div class="card-footer d-flex justify-content-end p-3">
+            <span class="link me-3">
+              <a href="https://github.com/maif/melusine"
+            >
+              <i
+                class="fab fa-github fa-lg"
+                aria-hidden="true"
+              ></i></a>
+              </span>
+            <span class="link">
+              <a
+                href="https://maif.github.io/melusine"
+                title="See more details about the project"
+                ><i class="fas fa-external-link-alt fa-lg"></i></a>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-4" id="otoroshi">
+
+        <div class="card m-2 shadow">
+          <div class="card-img-top bg-darkest">
+            <img class="offset-4 col-4" src="img/otoroshi.svg" alt="logo otoroshi">
+
+          </div>
+          <div class="card-body">
+            <h5 class=" product_title text-center">otoroshi</h5>
+            <p>
+              Reverse proxy that handles traffic from and to your micro-services, with API management. 
+            </p>
+          </div>
+          <div class="card-footer d-flex justify-content-end p-3">
+            <span class="link me-3">
+              <a href="https://github.com/maif/otoroshi"
+            >
+              <i
+                class="fab fa-github fa-lg"
+                aria-hidden="true"
+              ></i></a>
+              </span>
+            <span class="link">
+              <a
+                href="https://maif.github.io/otoroshi"
+                title="See more details about the project"
+                ><i class="fas fa-external-link-alt fa-lg"></i></a>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-4" id="izanami">
+
+        <div class="card m-2 shadow">
+          <div class="card-img-top bg-darkest">
+            <img class="offset-4 col-4" src="img/izanami.svg" alt="logo izanami">
+
+          </div>
+          <div class="card-body">
+            <h5 class=" product_title text-center">izanami</h5>
+            <p>
+              Shared configuration service for micro-services, provides feature flipping and A/B Testing. 
+            </p>
+          </div>
+          <div class="card-footer d-flex justify-content-end p-3">
+            <span class="link me-3">
+              <a href="https://github.com/maif/izanami"
+            >
+              <i
+                class="fab fa-github fa-lg"
+                aria-hidden="true"
+              ></i></a>
+              </span>
+            <span class="link">
+              <a
+                href="https://maif.github.io/izanami"
+                title="See more details about the project"
+                ><i class="fas fa-external-link-alt fa-lg"></i></a>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-4" id="nio">
+
+        <div class="card m-2 shadow">
+          <div class="card-img-top bg-darkest">
+            <img class="offset-4 col-4" src="img/nio.svg" alt="logo nio">
+
+          </div>
+          <div class="card-body">
+            <h5 class=" product_title text-center">nio</h5>
+            <p>
+              Privacy management toolbox. It provides an API to manage persons' privacy. 
+            </p>
+          </div>
+          <div class="card-footer d-flex justify-content-end p-3">
+            <span class="link me-3">
+              <a href="https://github.com/maif/nio"
+            >
+              <i
+                class="fab fa-github fa-lg"
+                aria-hidden="true"
+              ></i></a>
+              </span>
+            <span class="link">
+              <a
+                href="https://maif.github.io/nio"
+                title="See more details about the project"
+                ><i class="fas fa-external-link-alt fa-lg"></i></a>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-4" id="cards">
+
+        <div class="card m-2 shadow">
+          <div class="card-img-top bg-darkest">
+            <img class="offset-4 col-4" src="img/cards.svg" alt="logo cards">
+
+          </div>
+          <div class="card-body">
+            <h5 class=" product_title text-center">cards</h5>
+            <p>
+              A deck of cards enumerating simple rules to design all new digital products at MAIF.
+            </p>
+          </div>
+          <div class="card-footer d-flex justify-content-end p-3">
+            <span class="link me-3">
+              <a href="https://github.com/maif/cards"
+            >
+              <i
+                class="fab fa-github fa-lg"
+                aria-hidden="true"
+              ></i></a>
+              </span>
+            <span class="link">
+              <a
+                href="https://maif.github.io/cards"
+                title="See more details about the project"
+                ><i class="fas fa-external-link-alt fa-lg"></i></a>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-sm-6 col-md-4" id="lets">
+
+        <div class="card m-2 shadow">
+          <div class="card-img-top bg-darkest">
+            <img class="offset-4 col-4" src="img/lets.svg" alt="logo let's automate">
+
+          </div>
+          <div class="card-body">
+            <h5 class=" product_title text-center">let's automate</h5>
+            <p>
+              Reverse proxy that handles traffic from and to your micro-services, with API management. 
+            </p>
+          </div>
+          <div class="card-footer d-flex justify-content-end p-3">
+            <span class="link me-3">
+              <a href="https://github.com/maif/lets-automate"
+            >
+              <i
+                class="fab fa-github fa-lg"
+                aria-hidden="true"
+              ></i></a>
+              </span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    </div>
+    <div>
+      
+      <footer>
+        <div class="container">
+          <div class="row">
+            <div class="col">
+              <div class="footer-content">
+                <a href="mailto:oss@maif.fr"
+                  ><span class="fa fa-envelope me-2"></span>oss@maif.fr</a
+                >
+                <span>|</span>
+                <a href="https://github.com/MAIF"
+                  ><span class="fab fa-github me-2"></span>github.com/MAIF</a
+                >
+                <span>|</span>
+                <a href="https://medium.com/oss-by-maif"
+                  ><span class="fab fa-medium me-2"></span
+                  >medium.com/oss-by-maif</a
+                >
+                <span>|</span>
+                made with <span class="fa fa-heart"></span>
+
+                <span>|</span>
+                <a href="https://maif.fr"
+                  ><img
+                    alt="logo MAIF"
+                    src="https://static.maif.fr/resources/img/logo-maif.svg"
+                    width="40"
+                /></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+<!--
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.14.0-beta2/dist/js/bootstrap-select.min.js"></script>
+
+    <script src="js/select.js"></script>
+    -->
+    <script>
+      var $grid = $(".grid").masonry({
+        itemSelector: ".grid-item",
+        columnWidth: ".grid-sizer",
+        percentPosition: true,
+      });
+
+      $grid.on("click", ".grid-item-content", function () {
+        var itemContent = this;
+        setItemContentPixelSize(itemContent);
+
+        var itemElem = itemContent.parentNode;
+        if (!itemElem.classList.contains("is-expanded")) {
+          //remove all expanded
+          document.querySelectorAll(".is-expanded").forEach((item) => {
+            item.classList.remove("is-expanded");
+            item.querySelector(".story-telling").classList.remove("d-flex");
+            var redraw = itemContent.children[0].offsetWidth;
+          });
+        }
+        itemElem.classList.toggle("is-expanded");
+        itemContent.querySelector(".story-telling").classList.toggle('d-flex');
+        // force redraw
+        var redraw = itemContent.offsetWidth;
+        // renable default transition
+        itemContent.style[transitionProp] = "";
+
+        addTransitionListener(itemContent);
+        setItemContentTransitionSize(itemContent, itemElem);
+
+        $grid.masonry();
+      });
+
+      var docElem = document.documentElement;
+      var transitionProp =
+        typeof docElem.style.transition == "string"
+          ? "transition"
+          : "WebkitTransition";
+      var transitionEndEvent = {
+        WebkitTransition: "webkitTransitionEnd",
+        transition: "transitionend",
+      }[transitionProp];
+
+      function setItemContentPixelSize(itemContent) {
+        var previousContentSize = getSize(itemContent);
+        // disable transition
+        itemContent.style[transitionProp] = "none";
+        // set current size in pixels
+        itemContent.style.width = previousContentSize.width + "px";
+        itemContent.style.height = previousContentSize.height + "px";
+      }
+
+      function addTransitionListener(itemContent) {
+        // reset 100%/100% sizing after transition end
+        var onTransitionEnd = function () {
+          itemContent.style.width = "";
+          itemContent.style.height = "";
+          itemContent.removeEventListener(transitionEndEvent, onTransitionEnd);
+        };
+        itemContent.addEventListener(transitionEndEvent, onTransitionEnd);
+      }
+
+      function setItemContentTransitionSize(itemContent, itemElem) {
+        // set new size
+        var size = getSize(itemElem);
+        itemContent.style.width = size.width + "px";
+        itemContent.style.height = size.height + "px";
+      }
+    </script>
+    <script src="js/sticky.js"></script>
+  </body>
+</html>

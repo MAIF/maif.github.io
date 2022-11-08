@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contributeurs - OSS by MAIF</title>
+    <meta name="description" content="Les contributeurs OSS By Maif" />
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+      crossorigin="anonymous"
+    ></script>
+
+    <script src="https://masonry.desandro.com/masonry.pkgd.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.pkgd.min.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link href="css/style.css" rel="stylesheet" />
+
+    <link rel="icon" type="image/png" href="img/favicon.ico" />
+    <script
+      type="text/javascript"
+      src="js/tarteaucitron/tarteaucitron.js"
+    ></script>
+
+    <script type="text/javascript">
+      tarteaucitron.init({
+        hashtag:
+          "#tarteaucitron" /* Ouverture automatique du panel avec le hashtag */,
+        DenyAllCta: true /* Show the deny all button */,
+        AcceptAllCta: true /* Show the accept all button when highPrivacy on */,
+        highPrivacy: true /* HIGHLY RECOMMANDED Disable auto consent */,
+        orientation:
+          "top" /* le bandeau doit être en haut (top) ou en bas (bottom) ? */,
+        adblocker: false /* Afficher un message si un adblocker est détecté */,
+        showAlertSmall: false /* afficher le petit bandeau en bas à droite ? */,
+        cookieslist: true /* Afficher la liste des cookies installés ? */,
+        removeCredit: false /* supprimer le lien vers la source ? */,
+      });
+    </script>
+  </head>
+  <body class="thanks">
+    <nav class="navbar navbar-expand-sm fixed-top navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand flex-grow-1" href="index.html"
+          ><img
+            alt="logo MAIF"
+            src="https://static.maif.fr/resources/img/logo-maif.svg"
+          />
+          <span id="slogan" style="opacity: 0">#OSSbyMAIF</span></a
+        >
+        <button
+          class="navbar-toggler me-2"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+          class="collapse navbar-collapse order-2 order-sm-0"
+          id="navbarSupportedContent"
+        >
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html"
+                ><i class="fas fa-home"></i
+              ></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="projets.html"
+                >PROJETS</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link active"
+                aria-current="page"
+                href="contributeurs.html"
+                >CONTRIBUTEURS</a
+              >
+            </li>
+          </ul>
+        </div>
+        <!--<select
+          id="language"
+          class="form-select"
+          aria-label="Default select example"
+        >
+          <option value="English">English</option>
+          <option value="Francais" selected>Français</option>
+        </select>-->
+      </div>
+    </nav>
+    <div class="bg-blue">
+      <section class="container">
+        <div class="d-flex justify-content-center align-items-center p-4">
+          <img
+            class="w-10"
+            alt="logo MAIF"
+            src="https://static.maif.fr/resources/img/logo-maif.svg"
+          />
+          <div class="text-white ms-4">
+            <h1>#OSSbyMAIF</h1>
+            <h2>
+              Designing & building <strong>commons</strong><br />since
+              <strong>1934</strong>
+            </h2>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div class="container p-4">
+      <h2>Merci à tous les contributeurs</h2>
+      <div class="row" id="contribs"></div>
+    </div>
+
+    <div class="container intro">
+      <div class="row">
+        <div class="col-12 p-3">
+          <h2>Remerciements spéciaux</h2>
+        </div>
+        <div class="col-12 d-flex p-3 align-items-center">
+          <div class="col-1">
+            <a href="https://getbootstrap.com/"
+              ><img
+                alt="bootstrap"
+                src="./img/logo_Bootstrap.svg"
+                class="img-fluid"
+            /></a>
+          </div>
+          <div class="col-1 mx-4">
+            <a href="https://masonry.desandro.com/"
+              ><img alt="masonry" src="./img/masonry.png" class="img-fluid"
+            /></a>
+          </div>
+          <div class="col-1">
+            <a href="https://fontawesome.com/"
+              ><img
+                alt="fontawesome"
+                src="./img/logo_Fontawesome.png"
+                class="img-fluid"
+            /></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <div class="footer-content">
+              <a href="mailto:oss@maif.fr"
+                ><span class="fa fa-envelope me-2"></span>oss@maif.fr</a
+              >
+              <span>|</span>
+              <a href="https://github.com/MAIF"
+                ><span class="fab fa-github me-2"></span>github.com/MAIF</a
+              >
+              <span>|</span>
+              <a href="https://medium.com/oss-by-maif"
+                ><span class="fab fa-medium me-2"></span
+                >medium.com/oss-by-maif</a
+              >
+              <span>|</span>
+              made with <span class="fa fa-heart"></span>
+
+              <span>|</span>
+              <a href="https://maif.fr"
+                ><img
+                  alt="logo MAIF"
+                  src="https://static.maif.fr/resources/img/logo-maif.svg"
+                  width="40"
+              /></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="js/sticky.js"></script>
+    <script src="js/infos.js"></script>
+    <script>
+
+      let repo = document.getElementById("contribs");
+
+
+      const createContib = (infos) => {
+        let contrib = document.createElement("div");
+        contrib.className = "col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2";
+        let content = `<a href="${infos.url}"><div class="card m-2 shadow"><div class="card-body"><img class="card-img-top rounded-circle" src="${infos.avatar_url}" alt="contributeur thumbnail"><h5 class="mt-2 card-title fs-6 text-center">${infos.name}</h5></div>
+    <div class="card-footer d-flex align-items-center flex-wrap row">`;
+        infos.projects.forEach((project) => {
+          // console.log(project)
+          if (project in infosRepos) {
+            content += `<a href="${infosRepos[project].url}" class="col-4 "><img class="img-fluid my-1" src="./img/${infosRepos[project].img}" alt="${project} logo"></a>`;
+          } else {
+            console.log(project);
+          }
+        });
+        content += ` </div></div></a>`;
+        contrib.innerHTML = content;
+        repo.appendChild(contrib);
+      };
+
+      fetch("social-data/contributors.json")
+        .then((response) => response.json())
+        .then((contribs) =>
+          contribs.commits_per_contributor_sorted.forEach((p) =>
+            createContib(contribs.contributors[p])
+          )
+        );
+    </script>
+  </body>
+</html>
