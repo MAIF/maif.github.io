@@ -410,8 +410,7 @@
     "author_username": "desmfr",
     "author_name": "𝗙𝗿𝗮𝗻𝗰𝗼𝗶𝘀 𝗗𝗲𝘀𝗺𝗶𝗲𝗿",
     "author_avatar": "https://pbs.twimg.com/profile_images/1536716036510208000/-dlSwIHY_normal.jpg",
-    "media_urls": [
-    ]
+    "media_urls": []
   },
   {
     "created_at": "2022-10-09T07:59:49.000Z",
@@ -544,5 +543,51 @@
     "author_username": "FredericPied",
     "author_name": "Frederic Pied",
     "author_avatar": "https://pbs.twimg.com/profile_images/1034064051545022465/iYSBrvce_normal.jpg"
+  },
+  {
+    "id": "1589958446463717378",
+    "author_id": "240752950",
+    "created_at": "2022-11-08T12:30:08.000Z",
+    "text": "RT @desmfr: En marge d'#OSXP2022 on en profite pour sortir la nouvelle version de https://t.co/RBh0H7hR4Q\n\nMerci à la team @philbaudelot @T…",
+    "edit_history_tweet_ids": [
+      "1589958446463717378"
+    ],
+    "author_username": "philbaudelot",
+    "author_name": "philippe baudelot",
+    "author_avatar": "https://pbs.twimg.com/profile_images/556541606887555072/X6XASd5n_normal.jpeg",
+    "media_urls": [
+      "maif.github.io"
+    ]
+  },
+  {
+    "id": "1589957520243982336",
+    "author_id": "807175588444250112",
+    "created_at": "2022-11-08T12:26:27.000Z",
+    "text": "RT @desmfr: En marge d'#OSXP2022 on en profite pour sortir la nouvelle version de https://t.co/RBh0H7hR4Q\n\nMerci à la team @philbaudelot @T…",
+    "edit_history_tweet_ids": [
+      "1589957520243982336"
+    ],
+    "author_username": "benjamin_cavy",
+    "author_name": "Benjamin Cavy",
+    "author_avatar": "https://pbs.twimg.com/profile_images/957758108151046144/7_vexJ7i_normal.jpg",
+    "media_urls": [
+      "maif.github.io"
+    ]
+  },
+  {
+    "id": "1589943853901320192",
+    "author_id": "31137997",
+    "created_at": "2022-11-08T11:32:09.000Z",
+    "text": "En marge d'#OSXP2022 on en profite pour sortir la nouvelle version de https://t.co/RBh0H7hR4Q\n\nMerci à la team @philbaudelot @TrevorReznik @QuentinoVega @benjamin_cavy et Étienne\n\nRetrouvez dorénavant tous les contributeurs à nos projets sur https://t.co/f22iSUW5Te\n\n#OSSbyMAIF",
+    "edit_history_tweet_ids": [
+      "1589943853901320192"
+    ],
+    "author_username": "desmfr",
+    "author_name": "𝗙𝗿𝗮𝗻𝗰𝗼𝗶𝘀 𝗗𝗲𝘀𝗺𝗶𝗲𝗿",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1536716036510208000/-dlSwIHY_normal.jpg",
+    "media_urls": [
+      "maif.github.io",
+      "maif.github.io/contributeurs.…"
+    ]
   }
 ]
