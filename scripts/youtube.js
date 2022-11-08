@@ -97,7 +97,7 @@ const GetVideoDetails = async (videoId) => {
                         ? firstContent?.viewCount.videoViewCountRenderer.isLive
                         : false,
                   channel: secondContent?.owner.videoOwnerRenderer.title.runs[0].text,
-                  description: secondContent?.description.runs
+                  description: secondContent?.description?.runs
                         .map((x) => x.text)
                         .join()
                         .toString(),
