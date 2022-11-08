@@ -363,6 +363,9 @@ a .product {
 }
 
 @media (max-width: 767px) {
+  .home .grid-item {
+    width: calc(100% - 30px);
+  }
   .projects .grid-item,
   .grid-sizer {
     width: 100%;
