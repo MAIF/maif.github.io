@@ -13,6 +13,5 @@ const infosRepos = {
     url: "https://github.com/maif/melusine",
     img: "melusine.svg",
   },
-  shapash: { url: "https://github.com/maif/shapash", img: "shapash.svg" },
-  "react-forms": { url: "https://github.com/MAIF/react-forms", img: "maif.svg" },
+  shapash: { url: "https://github.com/maif/shapash", img: "shapash.svg" }
 };
