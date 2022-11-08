@@ -631,5 +631,35 @@
     "media_urls": [
       "https://pbs.twimg.com/media/FhDgN6oXkAMqxHa.jpg"
     ]
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1590034216720310273"
+    ],
+    "id": "1590034216720310273",
+    "text": "RT @MAIF: À l'occasion du salon @OSXP_Paris, les équipes MAIF dévoilent la nouvelle version du site https://t.co/jrAi4ze4aH autour de l'ini…",
+    "created_at": "2022-11-08T17:31:13.000Z",
+    "author_id": "789928242",
+    "author_username": "hamon_nathalie",
+    "author_name": "Nathalie Hamon",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1560544780282724352/M28iOsnE_normal.jpg",
+    "media_urls": [
+      "maif.github.io"
+    ]
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1590033913300197377"
+    ],
+    "id": "1590033913300197377",
+    "text": "À l'occasion du salon @OSXP_Paris, les équipes MAIF dévoilent la nouvelle version du site https://t.co/jrAi4ze4aH autour de l'initiative #OSSbyMAIF permettant la diffusion et le partage des connaissances technologiques open source.",
+    "created_at": "2022-11-08T17:30:00.000Z",
+    "author_id": "1286441377",
+    "author_username": "MAIF",
+    "author_name": "MAIF",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1218174052487049216/2Xusl0sh_normal.jpg",
+    "media_urls": [
+      "maif.github.io"
+    ]
   }
 ]
