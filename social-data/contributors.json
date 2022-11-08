@@ -241,9 +241,74 @@
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
       "pushed_at": "2022-07-08T00:38:08Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "quentinovega",
+        "Fraer",
+        "mathieuancelin",
+        "baudelotphilippe",
+        "larousso",
+        "cwoodrow",
+        "frinyvonnick",
+        "oltruong",
+        "marclaporte"
+      ],
+      "commits_count": 110,
+      "commits_per_contributor": [
+        {
+          "name": "quentinovega",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+          "url": "https://github.com/quentinovega",
+          "commits_count": 38
+        },
+        {
+          "name": "Fraer",
+          "avatar_url": "https://avatars.githubusercontent.com/u/976420?v=4",
+          "url": "https://github.com/Fraer",
+          "commits_count": 22
+        },
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
+          "commits_count": 20
+        },
+        {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 11
+        },
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 9
+        },
+        {
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
+          "commits_count": 7
+        },
+        {
+          "name": "frinyvonnick",
+          "avatar_url": "https://avatars.githubusercontent.com/u/13099512?v=4",
+          "url": "https://github.com/frinyvonnick",
+          "commits_count": 1
+        },
+        {
+          "name": "oltruong",
+          "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
+          "url": "https://github.com/oltruong",
+          "commits_count": 1
+        },
+        {
+          "name": "marclaporte",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1004261?v=4",
+          "url": "https://github.com/marclaporte",
+          "commits_count": 1
+        }
+      ]
     },
     "melusine": {
       "name": "melusine",
@@ -260,7 +325,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-11-08T00:21:53Z",
+      "pushed_at": "2022-11-08T01:34:09Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -680,9 +745,10 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 884,
+      "commits_count": 893,
       "projects": [
         "thoth",
+        "nio",
         "jooq-async",
         "izanami",
         "functional-validation",
@@ -878,9 +944,10 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 823,
+      "commits_count": 861,
       "projects": [
         "react-forms",
+        "nio",
         "daikoku"
       ]
     },
@@ -907,9 +974,10 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 258,
+      "commits_count": 269,
       "projects": [
         "react-forms",
+        "nio",
         "izanami",
         "daikoku",
         "cards"
@@ -919,12 +987,59 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 209,
+      "commits_count": 229,
       "projects": [
         "react-forms",
+        "nio",
         "izanami",
         "daikoku",
         "cards"
+      ]
+    },
+    "Fraer": {
+      "name": "Fraer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/976420?v=4",
+      "url": "https://github.com/Fraer",
+      "commits_count": 22,
+      "projects": [
+        "nio"
+      ]
+    },
+    "cwoodrow": {
+      "name": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "url": "https://github.com/cwoodrow",
+      "commits_count": 7,
+      "projects": [
+        "nio"
+      ]
+    },
+    "frinyvonnick": {
+      "name": "frinyvonnick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13099512?v=4",
+      "url": "https://github.com/frinyvonnick",
+      "commits_count": 1,
+      "projects": [
+        "nio"
+      ]
+    },
+    "oltruong": {
+      "name": "oltruong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
+      "url": "https://github.com/oltruong",
+      "commits_count": 3,
+      "projects": [
+        "nio",
+        "izanami"
+      ]
+    },
+    "marclaporte": {
+      "name": "marclaporte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1004261?v=4",
+      "url": "https://github.com/marclaporte",
+      "commits_count": 1,
+      "projects": [
+        "nio"
       ]
     },
     "pierrebruninmaif": {
@@ -1004,15 +1119,6 @@
       "name": "jabby",
       "avatar_url": "https://avatars.githubusercontent.com/u/1883932?v=4",
       "url": "https://github.com/jabby",
-      "commits_count": 2,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "oltruong": {
-      "name": "oltruong",
-      "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
-      "url": "https://github.com/oltruong",
       "commits_count": 2,
       "projects": [
         "izanami"
@@ -1196,6 +1302,7 @@
     "MaxGdr",
     "FlorineGreciet",
     "yg79",
+    "Fraer",
     "githubyako",
     "GAP01",
     "gpoulet",
@@ -1203,15 +1310,16 @@
     "blanoe",
     "mathisbarthere",
     "jtanguy",
+    "cwoodrow",
     "desmfr",
     "Btxgear",
     "quentinproust",
     "kefranabg",
     "gmembre-zenika",
     "sguiheux",
+    "oltruong",
     "YL79",
     "mbaechler",
-    "oltruong",
     "jabby",
     "amorea04",
     "amnaabbassi",
@@ -1232,6 +1340,8 @@
     "Freyskeyd",
     "fsamin",
     "romaindso",
+    "marclaporte",
+    "frinyvonnick",
     "yvanzubro",
     "susmitpy",
     "DragonWarrior15",
