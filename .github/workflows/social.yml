@@ -6,7 +6,6 @@ on:
       - 'scripts/**'
     branches:
       - master
-      - v2
   schedule:
     - cron:  '0 * * * *'
 
