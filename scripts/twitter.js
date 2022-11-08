@@ -45,6 +45,7 @@ function fetchLastTweets() {
               };
               if (new_tweet.entities && new_tweet.entities.urls) {
                 new_tweet.media_urls = [ ...new_tweet.entities.urls.map(u => {
+                  console.log(u);
                   if (u.media_key) {
                     const med = media_by_id[u.media_key];
                     if (med) {
