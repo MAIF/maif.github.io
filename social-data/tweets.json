@@ -589,5 +589,47 @@
       "maif.github.io",
       "maif.github.io/contributeurs.…"
     ]
+  },
+  {
+    "text": "Retour d’expérience OSPO de ⁦⁦@MAIF⁩ #OSSbyMAIF C’était dans leur ADN. Leurs succès les ont amenés à poser des règles et une gouvernance. https://t.co/kfhVP3z6aa",
+    "edit_history_tweet_ids": [
+      "1590025228553490432"
+    ],
+    "created_at": "2022-11-08T16:55:30.000Z",
+    "id": "1590025228553490432",
+    "author_id": "1221887450",
+    "author_username": "StephaneRou",
+    "author_name": "Stéphane Rousseau",
+    "author_avatar": "https://pbs.twimg.com/profile_images/876072708076916737/Sdn8-Kfq_normal.jpg",
+    "media_urls": [
+      "https://pbs.twimg.com/media/FhDng_1WAAAAk99.jpg"
+    ]
+  },
+  {
+    "text": "RT @OSXP_Paris: 💡\"Comment devenir éditeur open-source\" avec François Desmier @desmfr #OSSbyMAIF en direct de #OSXP2022\nComment ma DSI peut…",
+    "edit_history_tweet_ids": [
+      "1590018211818655746"
+    ],
+    "created_at": "2022-11-08T16:27:37.000Z",
+    "id": "1590018211818655746",
+    "author_id": "19625747",
+    "author_username": "jak78",
+    "author_name": "Julien Jakubowski 🥑",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1526299139612499970/10p-1Ayd_normal.jpg"
+  },
+  {
+    "text": "💡\"Comment devenir éditeur open-source\" avec François Desmier @desmfr #OSSbyMAIF en direct de #OSXP2022\nComment ma DSI peut elle se transformer pour devenir éditrice de logciels open-source, et quel est l’intérêt. https://t.co/wQryGUKB0V",
+    "edit_history_tweet_ids": [
+      "1590017813326233600"
+    ],
+    "created_at": "2022-11-08T16:26:02.000Z",
+    "id": "1590017813326233600",
+    "author_id": "1374637739853893634",
+    "author_username": "OSXP_Paris",
+    "author_name": "Open Source Experience",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1374642692899151876/VOYauDHY_normal.jpg",
+    "media_urls": [
+      "https://pbs.twimg.com/media/FhDgN6oXkAMqxHa.jpg"
+    ]
   }
 ]
