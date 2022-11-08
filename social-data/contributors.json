@@ -5,19 +5,19 @@
       "url": "https://github.com/MAIF/thoth",
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2022-11-08T13:38:13Z",
+      "pushed_at": "2022-11-08T14:00:08Z",
       "contributors": [
         "larousso",
         "ptitFicus",
         "Gregnarok"
       ],
-      "commits_count": 122,
+      "commits_count": 123,
       "commits_per_contributor": [
         {
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 82
+          "commits_count": 83
         },
         {
           "name": "ptitFicus",
@@ -560,7 +560,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-11-08T13:38:35Z",
+      "pushed_at": "2022-11-08T13:39:09Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -959,7 +959,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2022-11-08T10:55:32Z",
+      "pushed_at": "2022-11-08T13:41:39Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1054,7 +1054,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 918,
+      "commits_count": 919,
       "projects": [
         "thoth",
         "otoroshi",
