@@ -742,5 +742,20 @@
     "author_username": "CMatheCathala",
     "author_name": "Ch Mathe-Cathala",
     "author_avatar": "https://pbs.twimg.com/profile_images/1313798636069847040/jqQUOOnv_normal.jpg"
+  },
+  {
+    "text": "RT @MAIF: À l'occasion du salon @OSXP_Paris, les équipes MAIF dévoilent la nouvelle version du site https://t.co/jrAi4ze4aH autour de l'ini…",
+    "author_id": "807175588444250112",
+    "edit_history_tweet_ids": [
+      "1590279563996585984"
+    ],
+    "created_at": "2022-11-09T09:46:08.000Z",
+    "id": "1590279563996585984",
+    "author_username": "benjamin_cavy",
+    "author_name": "Benjamin Cavy",
+    "author_avatar": "https://pbs.twimg.com/profile_images/957758108151046144/7_vexJ7i_normal.jpg",
+    "media_urls": [
+      "maif.github.io"
+    ]
   }
 ]
