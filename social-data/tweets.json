@@ -715,5 +715,32 @@
     "media_urls": [
       "maif.github.io"
     ]
+  },
+  {
+    "text": "RT @MAIF: À l'occasion du salon @OSXP_Paris, les équipes MAIF dévoilent la nouvelle version du site https://t.co/jrAi4ze4aH autour de l'ini…",
+    "author_id": "628303180",
+    "created_at": "2022-11-09T08:31:30.000Z",
+    "id": "1590260780918005761",
+    "edit_history_tweet_ids": [
+      "1590260780918005761"
+    ],
+    "author_username": "EveLlauroBarres",
+    "author_name": "Evelyne Llauro Barrès",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1323638363858096129/3m2D7cBl_normal.jpg",
+    "media_urls": [
+      "maif.github.io"
+    ]
+  },
+  {
+    "text": "RT @StephaneRou: Retour d’expérience OSPO de ⁦⁦@MAIF⁩ #OSSbyMAIF C’était dans leur ADN. Leurs succès les ont amenés à poser des règles et u…",
+    "author_id": "3937686621",
+    "created_at": "2022-11-09T08:28:32.000Z",
+    "id": "1590260035677888513",
+    "edit_history_tweet_ids": [
+      "1590260035677888513"
+    ],
+    "author_username": "CMatheCathala",
+    "author_name": "Ch Mathe-Cathala",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1313798636069847040/jqQUOOnv_normal.jpg"
   }
 ]
