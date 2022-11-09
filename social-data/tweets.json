@@ -700,5 +700,20 @@
     "author_username": "MmeSoetaert",
     "author_name": "Nathalie Soetaert",
     "author_avatar": "https://pbs.twimg.com/profile_images/1510873167501406209/gM6AIIDu_normal.jpg"
+  },
+  {
+    "id": "1590239866868367360",
+    "author_id": "31137997",
+    "edit_history_tweet_ids": [
+      "1590239866868367360"
+    ],
+    "text": "RT @MAIF: À l'occasion du salon @OSXP_Paris, les équipes MAIF dévoilent la nouvelle version du site https://t.co/jrAi4ze4aH autour de l'ini…",
+    "created_at": "2022-11-09T07:08:24.000Z",
+    "author_username": "desmfr",
+    "author_name": "𝗙𝗿𝗮𝗻𝗰𝗼𝗶𝘀 𝗗𝗲𝘀𝗺𝗶𝗲𝗿",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1536716036510208000/-dlSwIHY_normal.jpg",
+    "media_urls": [
+      "maif.github.io"
+    ]
   }
 ]
