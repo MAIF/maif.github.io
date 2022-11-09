@@ -757,5 +757,17 @@
     "media_urls": [
       "maif.github.io"
     ]
+  },
+  {
+    "text": "RT @StephaneRou: Retour d’expérience OSPO de ⁦⁦@MAIF⁩ #OSSbyMAIF C’était dans leur ADN. Leurs succès les ont amenés à poser des règles et u…",
+    "id": "1590358913282514945",
+    "author_id": "2154487868",
+    "created_at": "2022-11-09T15:01:27.000Z",
+    "edit_history_tweet_ids": [
+      "1590358913282514945"
+    ],
+    "author_username": "vetorner",
+    "author_name": "veronique torner",
+    "author_avatar": "https://pbs.twimg.com/profile_images/545253735199285248/kC7lRghR_normal.jpeg"
   }
 ]
