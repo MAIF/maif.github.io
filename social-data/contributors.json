@@ -560,7 +560,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2022-11-10T16:05:41Z",
+      "pushed_at": "2022-11-10T17:08:06Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -959,7 +959,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2022-11-10T15:02:02Z",
+      "pushed_at": "2022-11-10T17:50:34Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -967,13 +967,13 @@
         "baudelotphilippe",
         "Btxgear"
       ],
-      "commits_count": 1215,
+      "commits_count": 1219,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 636
+          "commits_count": 639
         },
         {
           "name": "Zwiterrion",
@@ -997,7 +997,7 @@
           "name": "Btxgear",
           "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
           "url": "https://github.com/Btxgear",
-          "commits_count": 5
+          "commits_count": 6
         }
       ]
     },
@@ -1256,7 +1256,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 913,
+      "commits_count": 916,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1791,7 +1791,7 @@
       "name": "Btxgear",
       "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
       "url": "https://github.com/Btxgear",
-      "commits_count": 5,
+      "commits_count": 6,
       "projects": [
         "daikoku"
       ]
@@ -1850,9 +1850,9 @@
     "mathisbarthere",
     "jtanguy",
     "adam-benjellounSG",
+    "Btxgear",
     "victorBigand",
     "sachasamama",
-    "Btxgear",
     "sebprunierserli",
     "quentinproust",
     "kefranabg",
