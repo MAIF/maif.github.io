@@ -784,5 +784,20 @@
     "media_urls": [
       "maif.github.io"
     ]
+  },
+  {
+    "edit_history_tweet_ids": [
+      "1591186525555150848"
+    ],
+    "author_id": "4490866816",
+    "id": "1591186525555150848",
+    "text": "RT @MAIF: À l'occasion du salon @OSXP_Paris, les équipes MAIF dévoilent la nouvelle version du site https://t.co/jrAi4ze4aH autour de l'ini…",
+    "created_at": "2022-11-11T21:50:05.000Z",
+    "author_username": "AnneRussac",
+    "author_name": "anne-marie russac",
+    "author_avatar": "https://pbs.twimg.com/profile_images/867505252974702592/G9lgNpfS_normal.jpg",
+    "media_urls": [
+      "maif.github.io"
+    ]
   }
 ]
