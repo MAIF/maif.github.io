@@ -769,5 +769,20 @@
     "author_username": "vetorner",
     "author_name": "veronique torner",
     "author_avatar": "https://pbs.twimg.com/profile_images/545253735199285248/kC7lRghR_normal.jpeg"
+  },
+  {
+    "text": "RT @MAIF: À l'occasion du salon @OSXP_Paris, les équipes MAIF dévoilent la nouvelle version du site https://t.co/jrAi4ze4aH autour de l'ini…",
+    "edit_history_tweet_ids": [
+      "1591090741639802881"
+    ],
+    "created_at": "2022-11-11T15:29:28.000Z",
+    "author_id": "3055379191",
+    "id": "1591090741639802881",
+    "author_username": "ARussac",
+    "author_name": "anne-marie russac",
+    "author_avatar": "https://pbs.twimg.com/profile_images/873866996877840384/HOKPqvHs_normal.jpg",
+    "media_urls": [
+      "maif.github.io"
+    ]
   }
 ]
