@@ -9,8 +9,7 @@ const filterOut = [
   'otoroshi-jar-clevercloud-template',
   'otoroshi-clevercloud-template',
   'izanami-clevercloud-template',
-  '.github',
-  'github-actions'
+  '.github'
 ]
 
 const projectsPerUser = {};
@@ -51,6 +50,7 @@ function getCommits(repo) {
           })
             .filter(c => c.name !== 'gitter-badger')
             .filter(c => c.name !== 'snyk-bot')
+            .filter(c => c.name !== 'github-actions')
             .filter(c => c.name !== 'dependabot[bot]'), c => c.commits_count).reverse()
         })
     } else {
