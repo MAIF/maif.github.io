@@ -10,6 +10,7 @@ const filterOut = [
   'otoroshi-clevercloud-template',
   'izanami-clevercloud-template',
   '.github',
+  'github-actions'
 ]
 
 const projectsPerUser = {};
