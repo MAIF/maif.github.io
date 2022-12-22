@@ -853,5 +853,20 @@
     "media_urls": [
       "opencollective.com/playframework"
     ]
+  },
+  {
+    "text": "RT @desmfr: @MAIF just contributed to Play Framework. Proud to support the #opensource projects we use :) https://t.co/GCOMVZpWEo via @open…",
+    "id": "1605979872299323392",
+    "author_id": "807175588444250112",
+    "created_at": "2022-12-22T17:33:33.000Z",
+    "edit_history_tweet_ids": [
+      "1605979872299323392"
+    ],
+    "author_username": "benjamin_cavy",
+    "author_name": "Benjamin Cavy",
+    "author_avatar": "https://pbs.twimg.com/profile_images/957758108151046144/7_vexJ7i_normal.jpg",
+    "media_urls": [
+      "opencollective.com/playframework"
+    ]
   }
 ]
