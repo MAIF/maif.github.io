@@ -838,5 +838,20 @@
     "media_urls": [
       "opencollective.com/playframework"
     ]
+  },
+  {
+    "author_id": "88040701",
+    "id": "1605972032427921412",
+    "edit_history_tweet_ids": [
+      "1605972032427921412"
+    ],
+    "created_at": "2022-12-22T17:02:24.000Z",
+    "text": "RT @desmfr: @MAIF just contributed to Play Framework. Proud to support the #opensource projects we use :) https://t.co/GCOMVZpWEo via @open…",
+    "author_username": "gr_fr",
+    "author_name": "Guillaume Rincé",
+    "author_avatar": "https://pbs.twimg.com/profile_images/1380406163293016066/kJvshHIA_normal.jpg",
+    "media_urls": [
+      "opencollective.com/playframework"
+    ]
   }
 ]
