@@ -125,6 +125,7 @@ function getRepos() {
           next();
         })
       } else {
+        console.log("not found repo")
         return [];
       }
     });
