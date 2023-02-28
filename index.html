@@ -292,7 +292,7 @@
             <div class="card-footer">
               <a href="projets.html" class="stretched-link text-decoration-none txt-dark">
                 <i class="fab fa-github fa-lg me-2" aria-hidden="true"></i>
-                ${newDate === 0} ? "Mis à jour aujourd'hui" : Mis à jour il y a ${newDate} jour${(newDate>1)?"s":""}
+                ${newDate === 0 ? "Mis à jour aujourd'hui" : "Mis à jour il y a" + newDate + "jour" + (newDate>1)?"s":""}
               </a>
             </div>
           </div>`;
