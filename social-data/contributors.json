@@ -593,16 +593,16 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-02-28T09:23:19Z",
+      "pushed_at": "2023-02-28T09:37:54Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
-        "desmfr",
         "Zwiterrion",
+        "desmfr",
         "cwoodrow",
         "ThomasBouche"
       ],
-      "commits_count": 210,
+      "commits_count": 213,
       "commits_per_contributor": [
         {
           "name": "baudelotphilippe",
@@ -617,16 +617,16 @@
           "commits_count": 45
         },
         {
+          "name": "Zwiterrion",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+          "url": "https://github.com/Zwiterrion",
+          "commits_count": 27
+        },
+        {
           "name": "desmfr",
           "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
           "url": "https://github.com/desmfr",
           "commits_count": 26
-        },
-        {
-          "name": "Zwiterrion",
-          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
-          "url": "https://github.com/Zwiterrion",
-          "commits_count": 24
         },
         {
           "name": "cwoodrow",
@@ -999,7 +999,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-02-28T09:14:54Z",
+      "pushed_at": "2023-02-28T09:35:45Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1007,13 +1007,13 @@
         "baudelotphilippe",
         "Btxgear"
       ],
-      "commits_count": 1344,
+      "commits_count": 1345,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 729
+          "commits_count": 730
         },
         {
           "name": "Zwiterrion",
@@ -1314,7 +1314,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1009,
+      "commits_count": 1010,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1326,7 +1326,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1103,
+      "commits_count": 1106,
       "projects": [
         "react-forms",
         "otoroshi",
