@@ -68,7 +68,7 @@ function getRepos() {
       method: 'GET',
       headers: {
         accept: 'application/json',
-        authorization: `Bearer ${GITHUB_TOKEN}`
+       // authorization: `Bearer ${GITHUB_TOKEN}`
       }
     }).then(r => {
       console.log("status", r.status)
