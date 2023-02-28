@@ -38,13 +38,13 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash makes Machine Learning models transparent and understandable by everyone",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-02-28T13:07:47Z",
+      "pushed_at": "2023-02-28T13:54:06Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
         "Francesco-Marini",
-        "MaxGdr",
         "MLecardonnel",
+        "MaxGdr",
         "FlorineGreciet",
         "yg79",
         "guillaume-vignal",
@@ -61,7 +61,7 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 514,
+      "commits_count": 517,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
@@ -82,16 +82,16 @@
           "commits_count": 59
         },
         {
+          "name": "MLecardonnel",
+          "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
+          "url": "https://github.com/MLecardonnel",
+          "commits_count": 37
+        },
+        {
           "name": "MaxGdr",
           "avatar_url": "https://avatars.githubusercontent.com/u/51989635?v=4",
           "url": "https://github.com/MaxGdr",
           "commits_count": 35
-        },
-        {
-          "name": "MLecardonnel",
-          "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
-          "url": "https://github.com/MLecardonnel",
-          "commits_count": 34
         },
         {
           "name": "FlorineGreciet",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-02-28T12:07:50Z",
+      "pushed_at": "2023-02-28T13:10:36Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1156,20 +1156,20 @@
         "shapash"
       ]
     },
+    "MLecardonnel": {
+      "name": "MLecardonnel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
+      "url": "https://github.com/MLecardonnel",
+      "commits_count": 37,
+      "projects": [
+        "shapash"
+      ]
+    },
     "MaxGdr": {
       "name": "MaxGdr",
       "avatar_url": "https://avatars.githubusercontent.com/u/51989635?v=4",
       "url": "https://github.com/MaxGdr",
       "commits_count": 35,
-      "projects": [
-        "shapash"
-      ]
-    },
-    "MLecardonnel": {
-      "name": "MLecardonnel",
-      "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
-      "url": "https://github.com/MLecardonnel",
-      "commits_count": 34,
       "projects": [
         "shapash"
       ]
@@ -1907,10 +1907,10 @@
     "Francesco-Marini",
     "tstringerquantmetry",
     "benoitLebreton-perso",
+    "MLecardonnel",
     "MaxGdr",
     "Btxgear",
     "mathieuancelinserli",
-    "MLecardonnel",
     "FlorineGreciet",
     "desmfr",
     "yg79",
