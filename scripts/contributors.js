@@ -71,8 +71,10 @@ function getRepos() {
         authorization: `Bearer ${GITHUB_TOKEN}`
       }
     }).then(r => {
+      console.log("status", r.status)
       if (r.status === 200) {
         return r.json().then(repositories => {
+          console.log(repositories)
           const results = {};
           const tasks = [...repositories]
             .filter(r => r.private === false)
