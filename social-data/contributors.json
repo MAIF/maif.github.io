@@ -38,7 +38,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash makes Machine Learning models transparent and understandable by everyone",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-03-01T09:46:41Z",
+      "pushed_at": "2023-03-01T10:49:21Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -61,13 +61,13 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 517,
+      "commits_count": 520,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 191
+          "commits_count": 194
         },
         {
           "name": "ThibaudReal",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-03-01T09:05:22Z",
+      "pushed_at": "2023-03-01T10:05:36Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -966,7 +966,7 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2023-02-23T08:53:28Z",
+      "pushed_at": "2023-03-01T10:23:24Z",
       "contributors": [
         "ThomasBouche",
         "githubyako",
@@ -1131,7 +1131,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 219,
+      "commits_count": 222,
       "projects": [
         "shapash",
         "maif.github.io",
