@@ -38,7 +38,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash makes Machine Learning models transparent and understandable by everyone",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-03-01T10:49:21Z",
+      "pushed_at": "2023-03-01T13:06:17Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-03-01T11:05:14Z",
+      "pushed_at": "2023-03-01T12:07:29Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -966,7 +966,7 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2023-03-01T10:23:24Z",
+      "pushed_at": "2023-03-01T12:52:37Z",
       "contributors": [
         "ThomasBouche",
         "githubyako",
