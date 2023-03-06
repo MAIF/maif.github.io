@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-03-06T14:57:13Z",
+      "pushed_at": "2023-03-06T16:04:13Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -272,13 +272,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 5439,
+      "commits_count": 5440,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4459
+          "commits_count": 4460
         },
         {
           "name": "Zwiterrion",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-03-06T14:05:27Z",
+      "pushed_at": "2023-03-06T15:05:15Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -706,7 +706,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2023-03-06T13:21:21Z",
+      "pushed_at": "2023-03-06T15:48:44Z",
       "contributors": [
         "larousso",
         "pierrebruninmaif",
@@ -714,13 +714,13 @@
         "mathieuancelin",
         "gpoulet",
         "jtanguy",
+        "quentinovega",
         "olivierboudet",
         "desmfr",
         "sguiheux",
         "gmembre-zenika",
         "kefranabg",
         "quentinproust",
-        "quentinovega",
         "jabby",
         "oltruong",
         "romaindso",
@@ -738,7 +738,7 @@
         "cbois",
         "ybasket"
       ],
-      "commits_count": 1150,
+      "commits_count": 1152,
       "commits_per_contributor": [
         {
           "name": "larousso",
@@ -777,6 +777,12 @@
           "commits_count": 7
         },
         {
+          "name": "quentinovega",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+          "url": "https://github.com/quentinovega",
+          "commits_count": 5
+        },
+        {
           "name": "olivierboudet",
           "avatar_url": "https://avatars.githubusercontent.com/u/857205?v=4",
           "url": "https://github.com/olivierboudet",
@@ -810,12 +816,6 @@
           "name": "quentinproust",
           "avatar_url": "https://avatars.githubusercontent.com/u/355461?v=4",
           "url": "https://github.com/quentinproust",
-          "commits_count": 3
-        },
-        {
-          "name": "quentinovega",
-          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
-          "url": "https://github.com/quentinovega",
           "commits_count": 3
         },
         {
@@ -1329,7 +1329,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1013,
+      "commits_count": 1015,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1371,7 +1371,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 4741,
+      "commits_count": 4742,
       "projects": [
         "react-forms",
         "otoroshi",
