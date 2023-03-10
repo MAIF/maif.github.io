@@ -5,19 +5,19 @@
       "url": "https://github.com/MAIF/thoth",
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2023-02-27T13:44:12Z",
+      "pushed_at": "2023-03-10T15:47:40Z",
       "contributors": [
         "larousso",
         "ptitFicus",
         "Gregnarok"
       ],
-      "commits_count": 126,
+      "commits_count": 127,
       "commits_per_contributor": [
         {
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 86
+          "commits_count": 87
         },
         {
           "name": "ptitFicus",
@@ -38,7 +38,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash makes Machine Learning models transparent and understandable by everyone",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-03-09T13:22:28Z",
+      "pushed_at": "2023-03-10T14:50:39Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-03-10T11:20:18Z",
+      "pushed_at": "2023-03-10T15:29:09Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -272,13 +272,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 5476,
+      "commits_count": 5479,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4486
+          "commits_count": 4489
         },
         {
           "name": "Zwiterrion",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-03-10T13:10:40Z",
+      "pushed_at": "2023-03-10T14:05:31Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1108,7 +1108,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 928,
+      "commits_count": 929,
       "projects": [
         "thoth",
         "otoroshi",
@@ -1371,7 +1371,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 4768,
+      "commits_count": 4771,
       "projects": [
         "react-forms",
         "otoroshi",
