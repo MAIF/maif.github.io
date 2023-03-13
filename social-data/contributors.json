@@ -38,7 +38,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash makes Machine Learning models transparent and understandable by everyone",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-03-13T08:59:53Z",
+      "pushed_at": "2023-03-13T09:50:54Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -61,13 +61,13 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 523,
+      "commits_count": 528,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 196
+          "commits_count": 197
         },
         {
           "name": "ThibaudReal",
@@ -85,7 +85,7 @@
           "name": "MLecardonnel",
           "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
           "url": "https://github.com/MLecardonnel",
-          "commits_count": 38
+          "commits_count": 42
         },
         {
           "name": "MaxGdr",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-03-13T08:06:04Z",
+      "pushed_at": "2023-03-13T09:05:31Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1145,7 +1145,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 225,
+      "commits_count": 226,
       "projects": [
         "shapash",
         "maif.github.io",
@@ -1174,7 +1174,7 @@
       "name": "MLecardonnel",
       "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
       "url": "https://github.com/MLecardonnel",
-      "commits_count": 42,
+      "commits_count": 46,
       "projects": [
         "shapash",
         "eurybia"
