@@ -38,7 +38,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash makes Machine Learning models transparent and understandable by everyone",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-03-13T09:50:54Z",
+      "pushed_at": "2023-03-14T15:49:59Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -61,7 +61,7 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 528,
+      "commits_count": 529,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
@@ -85,7 +85,7 @@
           "name": "MLecardonnel",
           "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
           "url": "https://github.com/MLecardonnel",
-          "commits_count": 42
+          "commits_count": 43
         },
         {
           "name": "MaxGdr",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-03-14T14:06:58Z",
+      "pushed_at": "2023-03-14T15:05:51Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1013,7 +1013,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-03-09T15:27:35Z",
+      "pushed_at": "2023-03-14T15:59:07Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1021,13 +1021,13 @@
         "baudelotphilippe",
         "Btxgear"
       ],
-      "commits_count": 1345,
+      "commits_count": 1346,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 730
+          "commits_count": 731
         },
         {
           "name": "Zwiterrion",
@@ -1174,7 +1174,7 @@
       "name": "MLecardonnel",
       "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
       "url": "https://github.com/MLecardonnel",
-      "commits_count": 46,
+      "commits_count": 47,
       "projects": [
         "shapash",
         "eurybia"
@@ -1329,7 +1329,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1015,
+      "commits_count": 1016,
       "projects": [
         "react-forms",
         "otoroshi",
