@@ -359,7 +359,7 @@
       "url": "https://github.com/MAIF/nio",
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
-      "pushed_at": "2023-03-15T15:07:16Z",
+      "pushed_at": "2023-03-15T16:39:58Z",
       "contributors": [
         "quentinovega",
         "Fraer",
@@ -371,7 +371,7 @@
         "oltruong",
         "marclaporte"
       ],
-      "commits_count": 113,
+      "commits_count": 114,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
@@ -395,7 +395,7 @@
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 12
+          "commits_count": 13
         },
         {
           "name": "baudelotphilippe",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-03-15T15:05:33Z",
+      "pushed_at": "2023-03-15T16:06:27Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1108,7 +1108,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 929,
+      "commits_count": 930,
       "projects": [
         "thoth",
         "otoroshi",
