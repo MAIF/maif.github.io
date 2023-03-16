@@ -38,7 +38,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash makes Machine Learning models transparent and understandable by everyone",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-03-14T15:49:59Z",
+      "pushed_at": "2023-03-16T15:49:25Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -61,7 +61,7 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 529,
+      "commits_count": 530,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
@@ -85,7 +85,7 @@
           "name": "MLecardonnel",
           "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
           "url": "https://github.com/MLecardonnel",
-          "commits_count": 43
+          "commits_count": 44
         },
         {
           "name": "MaxGdr",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-03-16T14:05:37Z",
+      "pushed_at": "2023-03-16T15:05:44Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1013,7 +1013,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-03-16T11:02:52Z",
+      "pushed_at": "2023-03-16T15:52:46Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1174,7 +1174,7 @@
       "name": "MLecardonnel",
       "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
       "url": "https://github.com/MLecardonnel",
-      "commits_count": 47,
+      "commits_count": 48,
       "projects": [
         "shapash",
         "eurybia"
