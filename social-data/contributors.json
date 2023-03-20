@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-03-20T15:05:02Z",
+      "pushed_at": "2023-03-20T16:05:43Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -647,26 +647,26 @@
       "url": "https://github.com/MAIF/lets-automate",
       "description": "Automate Let's Encrypt certificate issuance, renewal and synchronize with CleverCloud.",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-03-16T23:21:00Z",
+      "pushed_at": "2023-03-20T16:38:22Z",
       "contributors": [
-        "larousso",
         "pierrebruninmaif",
+        "larousso",
         "cwoodrow",
         "baudelotphilippe"
       ],
-      "commits_count": 19,
+      "commits_count": 38,
       "commits_per_contributor": [
+        {
+          "name": "pierrebruninmaif",
+          "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
+          "url": "https://github.com/pierrebruninmaif",
+          "commits_count": 21
+        },
         {
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
           "commits_count": 15
-        },
-        {
-          "name": "pierrebruninmaif",
-          "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
-          "url": "https://github.com/pierrebruninmaif",
-          "commits_count": 2
         },
         {
           "name": "cwoodrow",
@@ -1675,7 +1675,7 @@
       "name": "pierrebruninmaif",
       "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
       "url": "https://github.com/pierrebruninmaif",
-      "commits_count": 209,
+      "commits_count": 228,
       "projects": [
         "lets-automate",
         "izanami"
@@ -1913,8 +1913,8 @@
     "quentinovega",
     "larousso",
     "baudelotphilippe",
-    "ThomasBouche",
     "pierrebruninmaif",
+    "ThomasBouche",
     "hugo-quantmetry",
     "ptitFicus",
     "farthur",
