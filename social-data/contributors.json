@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-03-21T13:34:15Z",
+      "pushed_at": "2023-03-21T15:53:11Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -272,13 +272,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 5507,
+      "commits_count": 5508,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4517
+          "commits_count": 4518
         },
         {
           "name": "Zwiterrion",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-03-21T14:06:44Z",
+      "pushed_at": "2023-03-21T15:04:56Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -647,20 +647,20 @@
       "url": "https://github.com/MAIF/lets-automate",
       "description": "Automate Let's Encrypt certificate issuance, renewal and synchronize with CleverCloud.",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-03-20T23:37:13Z",
+      "pushed_at": "2023-03-21T15:11:12Z",
       "contributors": [
         "pierrebruninmaif",
         "larousso",
         "cwoodrow",
         "baudelotphilippe"
       ],
-      "commits_count": 39,
+      "commits_count": 40,
       "commits_per_contributor": [
         {
           "name": "pierrebruninmaif",
           "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
           "url": "https://github.com/pierrebruninmaif",
-          "commits_count": 22
+          "commits_count": 23
         },
         {
           "name": "larousso",
@@ -1371,7 +1371,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 4799,
+      "commits_count": 4800,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1675,7 +1675,7 @@
       "name": "pierrebruninmaif",
       "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
       "url": "https://github.com/pierrebruninmaif",
-      "commits_count": 229,
+      "commits_count": 230,
       "projects": [
         "lets-automate",
         "izanami"
