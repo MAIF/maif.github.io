@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-04-03T09:43:52Z",
+      "pushed_at": "2023-04-03T12:52:52Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -270,21 +270,22 @@
         "tristan-chauveau",
         "cwoodrow",
         "desmfr",
-        "lucbu"
+        "lucbu",
+        "ptitFicus"
       ],
-      "commits_count": 5610,
+      "commits_count": 5621,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4578
+          "commits_count": 4587
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 679
+          "commits_count": 680
         },
         {
           "name": "baudelotphilippe",
@@ -350,6 +351,12 @@
           "name": "lucbu",
           "avatar_url": "https://avatars.githubusercontent.com/u/5434555?v=4",
           "url": "https://github.com/lucbu",
+          "commits_count": 1
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
           "commits_count": 1
         }
       ]
@@ -593,7 +600,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-04-03T10:05:34Z",
+      "pushed_at": "2023-04-03T11:05:19Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1124,10 +1131,11 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 79,
+      "commits_count": 80,
       "projects": [
         "thoth",
         "react-forms",
+        "otoroshi",
         "izanami",
         "functional-json"
       ]
@@ -1342,7 +1350,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1172,
+      "commits_count": 1173,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1371,7 +1379,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 4860,
+      "commits_count": 4869,
       "projects": [
         "react-forms",
         "otoroshi",
