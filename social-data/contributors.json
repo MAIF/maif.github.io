@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-04-03T12:52:52Z",
+      "pushed_at": "2023-04-04T14:31:26Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -273,7 +273,7 @@
         "lucbu",
         "ptitFicus"
       ],
-      "commits_count": 5621,
+      "commits_count": 5728,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -285,13 +285,13 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 680
+          "commits_count": 688
         },
         {
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 240
+          "commits_count": 339
         },
         {
           "name": "quentinovega",
@@ -452,7 +452,6 @@
         "adam-benjellounSG",
         "sachasamama",
         "victorBigand",
-        "DataFactory-Verlingue",
         "FDJFDJ",
         "AntoineSimoulin",
         "baudelotphilippe",
@@ -465,7 +464,7 @@
         "CRGONCALVES",
         "PerrierRemi"
       ],
-      "commits_count": 391,
+      "commits_count": 386,
       "commits_per_contributor": [
         {
           "name": "hugo-quantmetry",
@@ -520,12 +519,6 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/45855502?v=4",
           "url": "https://github.com/victorBigand",
           "commits_count": 6
-        },
-        {
-          "name": "DataFactory-Verlingue",
-          "avatar_url": "https://avatars.githubusercontent.com/u/86673601?v=4",
-          "url": "https://github.com/DataFactory-Verlingue",
-          "commits_count": 5
         },
         {
           "name": "FDJFDJ",
@@ -600,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-04-04T04:05:17Z",
+      "pushed_at": "2023-04-04T05:05:14Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1020,7 +1013,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-04-03T13:46:56Z",
+      "pushed_at": "2023-04-04T14:33:13Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1028,13 +1021,13 @@
         "baudelotphilippe",
         "Btxgear"
       ],
-      "commits_count": 1346,
+      "commits_count": 1357,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 731
+          "commits_count": 733
         },
         {
           "name": "Zwiterrion",
@@ -1058,7 +1051,7 @@
           "name": "Btxgear",
           "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
           "url": "https://github.com/Btxgear",
-          "commits_count": 34
+          "commits_count": 43
         }
       ]
     },
@@ -1337,7 +1330,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1016,
+      "commits_count": 1018,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1350,7 +1343,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1173,
+      "commits_count": 1181,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1362,7 +1355,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 630,
+      "commits_count": 729,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1594,15 +1587,6 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/45855502?v=4",
       "url": "https://github.com/victorBigand",
       "commits_count": 6,
-      "projects": [
-        "melusine"
-      ]
-    },
-    "DataFactory-Verlingue": {
-      "name": "DataFactory-Verlingue",
-      "avatar_url": "https://avatars.githubusercontent.com/u/86673601?v=4",
-      "url": "https://github.com/DataFactory-Verlingue",
-      "commits_count": 5,
       "projects": [
         "melusine"
       ]
@@ -1891,7 +1875,7 @@
       "name": "Btxgear",
       "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
       "url": "https://github.com/Btxgear",
-      "commits_count": 34,
+      "commits_count": 43,
       "projects": [
         "daikoku"
       ]
@@ -1931,9 +1915,9 @@
     "Francesco-Marini",
     "tstringerquantmetry",
     "MLecardonnel",
+    "Btxgear",
     "benoitLebreton-perso",
     "MaxGdr",
-    "Btxgear",
     "mathieuancelinserli",
     "FlorineGreciet",
     "desmfr",
@@ -1955,7 +1939,6 @@
     "adam-benjellounSG",
     "victorBigand",
     "sachasamama",
-    "DataFactory-Verlingue",
     "olivierboudet",
     "sebprunierserli",
     "quentinproust",
