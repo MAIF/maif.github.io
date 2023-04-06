@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-04-05T14:59:44Z",
+      "pushed_at": "2023-04-06T10:27:53Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -273,7 +273,7 @@
         "lucbu",
         "ptitFicus"
       ],
-      "commits_count": 5736,
+      "commits_count": 5747,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -285,13 +285,13 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 694
+          "commits_count": 699
         },
         {
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 339
+          "commits_count": 345
         },
         {
           "name": "quentinovega",
@@ -366,7 +366,7 @@
       "url": "https://github.com/MAIF/nio",
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
-      "pushed_at": "2023-03-15T16:39:58Z",
+      "pushed_at": "2023-04-06T09:16:47Z",
       "contributors": [
         "quentinovega",
         "Fraer",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-04-05T22:06:32Z",
+      "pushed_at": "2023-04-06T07:05:36Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1343,7 +1343,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1187,
+      "commits_count": 1192,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1355,7 +1355,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 729,
+      "commits_count": 735,
       "projects": [
         "react-forms",
         "otoroshi",
