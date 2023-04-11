@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-04-11T09:37:50Z",
+      "pushed_at": "2023-04-11T13:05:53Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -273,19 +273,19 @@
         "lucbu",
         "ptitFicus"
       ],
-      "commits_count": 5752,
+      "commits_count": 5754,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4594
+          "commits_count": 4595
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 699
+          "commits_count": 700
         },
         {
           "name": "baudelotphilippe",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-04-11T09:04:59Z",
+      "pushed_at": "2023-04-11T11:05:13Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1013,7 +1013,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-04-05T09:46:25Z",
+      "pushed_at": "2023-04-11T12:38:21Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1343,7 +1343,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1192,
+      "commits_count": 1193,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1372,7 +1372,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 4876,
+      "commits_count": 4877,
       "projects": [
         "react-forms",
         "otoroshi",
