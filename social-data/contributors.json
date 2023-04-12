@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-04-11T17:15:43Z",
+      "pushed_at": "2023-04-12T07:42:00Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -273,13 +273,13 @@
         "lucbu",
         "ptitFicus"
       ],
-      "commits_count": 5757,
+      "commits_count": 5758,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4597
+          "commits_count": 4598
         },
         {
           "name": "Zwiterrion",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-04-12T04:06:06Z",
+      "pushed_at": "2023-04-12T06:05:45Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1013,7 +1013,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-04-11T14:50:10Z",
+      "pushed_at": "2023-04-12T07:36:16Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1021,13 +1021,13 @@
         "baudelotphilippe",
         "Btxgear"
       ],
-      "commits_count": 1358,
+      "commits_count": 1359,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 734
+          "commits_count": 735
         },
         {
           "name": "Zwiterrion",
@@ -1330,7 +1330,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1019,
+      "commits_count": 1020,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1372,7 +1372,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 4879,
+      "commits_count": 4880,
       "projects": [
         "react-forms",
         "otoroshi",
