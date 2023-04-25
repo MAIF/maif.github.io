@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-04-25T11:31:23Z",
+      "pushed_at": "2023-04-25T12:55:49Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -273,13 +273,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 5830,
+      "commits_count": 5839,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4659
+          "commits_count": 4667
         },
         {
           "name": "Zwiterrion",
@@ -291,7 +291,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 349
+          "commits_count": 350
         },
         {
           "name": "quentinovega",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-04-25T11:05:03Z",
+      "pushed_at": "2023-04-25T12:06:59Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1355,7 +1355,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 741,
+      "commits_count": 742,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1372,7 +1372,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 4941,
+      "commits_count": 4949,
       "projects": [
         "react-forms",
         "otoroshi",
