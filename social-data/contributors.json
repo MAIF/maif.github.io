@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-04-26T07:05:09Z",
+      "pushed_at": "2023-04-26T08:05:53Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -706,7 +706,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2023-04-13T22:50:11Z",
+      "pushed_at": "2023-04-26T08:26:20Z",
       "contributors": [
         "larousso",
         "pierrebruninmaif",
@@ -1013,7 +1013,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-04-25T14:26:31Z",
+      "pushed_at": "2023-04-26T08:18:04Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
