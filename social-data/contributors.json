@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-05-04T12:38:55Z",
+      "pushed_at": "2023-05-04T13:35:08Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -265,15 +265,15 @@
         "mathieuancelinserli",
         "guillaumesolderaserli",
         "fedysalahserli",
+        "ptitFicus",
         "sebprunierserli",
         "larousso",
         "tristan-chauveau",
-        "ptitFicus",
         "cwoodrow",
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 5884,
+      "commits_count": 5885,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -318,6 +318,12 @@
           "commits_count": 8
         },
         {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 4
+        },
+        {
           "name": "sebprunierserli",
           "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
           "url": "https://github.com/sebprunierserli",
@@ -333,12 +339,6 @@
           "name": "tristan-chauveau",
           "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
           "url": "https://github.com/tristan-chauveau",
-          "commits_count": 3
-        },
-        {
-          "name": "ptitFicus",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-          "url": "https://github.com/ptitFicus",
           "commits_count": 3
         },
         {
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-04T12:08:07Z",
+      "pushed_at": "2023-05-04T13:06:19Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1124,7 +1124,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 82,
+      "commits_count": 83,
       "projects": [
         "thoth",
         "react-forms",
