@@ -38,7 +38,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash makes Machine Learning models transparent and understandable by everyone",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-05-09T14:57:30Z",
+      "pushed_at": "2023-05-09T15:32:32Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-09T14:05:20Z",
+      "pushed_at": "2023-05-09T15:06:49Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1013,7 +1013,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-05-09T09:53:11Z",
+      "pushed_at": "2023-05-09T15:23:31Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1021,13 +1021,13 @@
         "baudelotphilippe",
         "Btxgear"
       ],
-      "commits_count": 1370,
+      "commits_count": 1378,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 743
+          "commits_count": 744
         },
         {
           "name": "Zwiterrion",
@@ -1051,7 +1051,7 @@
           "name": "Btxgear",
           "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
           "url": "https://github.com/Btxgear",
-          "commits_count": 44
+          "commits_count": 51
         }
       ]
     },
@@ -1330,7 +1330,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1028,
+      "commits_count": 1029,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1875,7 +1875,7 @@
       "name": "Btxgear",
       "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
       "url": "https://github.com/Btxgear",
-      "commits_count": 44,
+      "commits_count": 51,
       "projects": [
         "daikoku"
       ]
