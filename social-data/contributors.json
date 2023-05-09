@@ -38,7 +38,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash makes Machine Learning models transparent and understandable by everyone",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-05-04T14:18:24Z",
+      "pushed_at": "2023-05-09T09:35:41Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-09T08:05:35Z",
+      "pushed_at": "2023-05-09T09:05:07Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1013,7 +1013,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-05-09T07:18:20Z",
+      "pushed_at": "2023-05-09T09:53:11Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
