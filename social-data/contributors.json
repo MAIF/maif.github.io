@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-05-05T13:43:33Z",
+      "pushed_at": "2023-05-09T07:30:51Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -273,7 +273,7 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 5888,
+      "commits_count": 5889,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -291,7 +291,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 358
+          "commits_count": 359
         },
         {
           "name": "quentinovega",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-09T06:05:51Z",
+      "pushed_at": "2023-05-09T07:05:09Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1013,7 +1013,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-05-04T08:07:01Z",
+      "pushed_at": "2023-05-09T07:18:20Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1355,7 +1355,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 750,
+      "commits_count": 751,
       "projects": [
         "react-forms",
         "otoroshi",
