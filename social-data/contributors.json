@@ -38,7 +38,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash makes Machine Learning models transparent and understandable by everyone",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-05-10T07:05:53Z",
+      "pushed_at": "2023-05-10T13:50:11Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-10T12:06:46Z",
+      "pushed_at": "2023-05-10T13:13:22Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1013,7 +1013,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-05-10T13:08:45Z",
+      "pushed_at": "2023-05-10T13:15:42Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1021,13 +1021,13 @@
         "baudelotphilippe",
         "Btxgear"
       ],
-      "commits_count": 1379,
+      "commits_count": 1380,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 745
+          "commits_count": 746
         },
         {
           "name": "Zwiterrion",
@@ -1330,7 +1330,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1030,
+      "commits_count": 1031,
       "projects": [
         "react-forms",
         "otoroshi",
