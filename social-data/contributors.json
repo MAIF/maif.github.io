@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-09T22:04:53Z",
+      "pushed_at": "2023-05-09T23:05:31Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -706,7 +706,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2023-05-09T22:06:46Z",
+      "pushed_at": "2023-05-09T23:08:57Z",
       "contributors": [
         "larousso",
         "pierrebruninmaif",
@@ -738,7 +738,7 @@
         "cbois",
         "ybasket"
       ],
-      "commits_count": 1152,
+      "commits_count": 1153,
       "commits_per_contributor": [
         {
           "name": "larousso",
@@ -750,7 +750,7 @@
           "name": "pierrebruninmaif",
           "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
           "url": "https://github.com/pierrebruninmaif",
-          "commits_count": 207
+          "commits_count": 208
         },
         {
           "name": "baudelotphilippe",
@@ -1667,7 +1667,7 @@
       "name": "pierrebruninmaif",
       "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
       "url": "https://github.com/pierrebruninmaif",
-      "commits_count": 230,
+      "commits_count": 231,
       "projects": [
         "lets-automate",
         "izanami"
@@ -1905,8 +1905,8 @@
     "quentinovega",
     "larousso",
     "baudelotphilippe",
-    "ThomasBouche",
     "pierrebruninmaif",
+    "ThomasBouche",
     "hugo-quantmetry",
     "ptitFicus",
     "farthur",
