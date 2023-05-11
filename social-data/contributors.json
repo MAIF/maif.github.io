@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-05-09T14:30:44Z",
+      "pushed_at": "2023-05-11T09:51:20Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -366,7 +366,7 @@
       "url": "https://github.com/MAIF/nio",
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
-      "pushed_at": "2023-05-10T15:54:37Z",
+      "pushed_at": "2023-05-11T09:42:11Z",
       "contributors": [
         "quentinovega",
         "Fraer",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-11T08:05:49Z",
+      "pushed_at": "2023-05-11T09:05:39Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -706,7 +706,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2023-05-11T08:22:18Z",
+      "pushed_at": "2023-05-11T09:50:31Z",
       "contributors": [
         "larousso",
         "pierrebruninmaif",
@@ -1013,7 +1013,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-05-11T08:46:36Z",
+      "pushed_at": "2023-05-11T09:53:24Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1021,13 +1021,13 @@
         "baudelotphilippe",
         "Btxgear"
       ],
-      "commits_count": 1382,
+      "commits_count": 1384,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 748
+          "commits_count": 750
         },
         {
           "name": "Zwiterrion",
@@ -1330,7 +1330,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1033,
+      "commits_count": 1035,
       "projects": [
         "react-forms",
         "otoroshi",
