@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-15T07:05:53Z",
+      "pushed_at": "2023-05-15T08:05:28Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1013,21 +1013,21 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-05-15T07:22:03Z",
+      "pushed_at": "2023-05-15T08:45:39Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
-        "mathieuancelin",
         "baudelotphilippe",
+        "mathieuancelin",
         "Btxgear"
       ],
-      "commits_count": 1385,
+      "commits_count": 1423,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 751
+          "commits_count": 756
         },
         {
           "name": "Zwiterrion",
@@ -1036,22 +1036,22 @@
           "commits_count": 406
         },
         {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 102
+        },
+        {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
           "commits_count": 100
         },
         {
-          "name": "baudelotphilippe",
-          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
-          "url": "https://github.com/baudelotphilippe",
-          "commits_count": 77
-        },
-        {
           "name": "Btxgear",
           "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
           "url": "https://github.com/Btxgear",
-          "commits_count": 51
+          "commits_count": 59
         }
       ]
     },
@@ -1330,7 +1330,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1036,
+      "commits_count": 1041,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1355,7 +1355,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 753,
+      "commits_count": 778,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1875,7 +1875,7 @@
       "name": "Btxgear",
       "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
       "url": "https://github.com/Btxgear",
-      "commits_count": 51,
+      "commits_count": 59,
       "projects": [
         "daikoku"
       ]
@@ -1912,10 +1912,10 @@
     "farthur",
     "ThibaudReal",
     "TFA-MAIF",
+    "Btxgear",
     "Francesco-Marini",
     "tstringerquantmetry",
     "MLecardonnel",
-    "Btxgear",
     "benoitLebreton-perso",
     "MaxGdr",
     "mathieuancelinserli",
