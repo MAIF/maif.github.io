@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-16T06:05:44Z",
+      "pushed_at": "2023-05-16T07:06:03Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -706,7 +706,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2023-05-15T22:51:02Z",
+      "pushed_at": "2023-05-16T07:47:30Z",
       "contributors": [
         "larousso",
         "pierrebruninmaif",
@@ -736,9 +736,10 @@
         "farnulfo",
         "hamish-omny",
         "cbois",
-        "ybasket"
+        "ybasket",
+        "grosa1"
       ],
-      "commits_count": 1161,
+      "commits_count": 1162,
       "commits_per_contributor": [
         {
           "name": "larousso",
@@ -912,6 +913,12 @@
           "name": "ybasket",
           "avatar_url": "https://avatars.githubusercontent.com/u/2632023?v=4",
           "url": "https://github.com/ybasket",
+          "commits_count": 1
+        },
+        {
+          "name": "grosa1",
+          "avatar_url": "https://avatars.githubusercontent.com/u/28650772?v=4",
+          "url": "https://github.com/grosa1",
           "commits_count": 1
         }
       ]
@@ -1853,6 +1860,15 @@
         "izanami"
       ]
     },
+    "grosa1": {
+      "name": "grosa1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28650772?v=4",
+      "url": "https://github.com/grosa1",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
     "mbaechler": {
       "name": "mbaechler",
       "avatar_url": "https://avatars.githubusercontent.com/u/708318?v=4",
@@ -1958,6 +1974,7 @@
     "peterdhansen",
     "wikijm",
     "gotson",
+    "grosa1",
     "ybasket",
     "cbois",
     "hamish-omny",
