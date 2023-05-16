@@ -190,7 +190,7 @@
       "url": "https://github.com/MAIF/react-forms",
       "description": "Fully managed react forms builder",
       "homepage": "https://maif.github.io/react-forms",
-      "pushed_at": "2023-02-08T14:03:19Z",
+      "pushed_at": "2023-05-16T09:03:13Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -198,13 +198,13 @@
         "baudelotphilippe",
         "mathieuancelin"
       ],
-      "commits_count": 302,
+      "commits_count": 304,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 193
+          "commits_count": 195
         },
         {
           "name": "Zwiterrion",
@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-05-15T13:52:17Z",
+      "pushed_at": "2023-05-16T08:43:17Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -273,13 +273,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 5917,
+      "commits_count": 5918,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4711
+          "commits_count": 4712
         },
         {
           "name": "Zwiterrion",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-16T07:06:03Z",
+      "pushed_at": "2023-05-16T08:06:42Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1337,7 +1337,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1041,
+      "commits_count": 1043,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1379,7 +1379,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 4993,
+      "commits_count": 4994,
       "projects": [
         "react-forms",
         "otoroshi",
