@@ -1,0 +1,23 @@
+[
+  {
+    "name": "thoth",
+    "url": "https://github.com/MAIF/otoroshi/releases/tag/v16.3.2",
+    "title": "v1.11.0",
+    "content": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
+    "pushed_at": "2023-03-10T15:47:40Z"
+  },
+  {
+    "name": "shapash",
+    "url": "https://github.com/MAIF/otoroshi/releases/tag/v16.3.2",
+    "title": "v2.11.0",
+    "content": "🔅 Shapash makes Machine Learning models transparent and understandable by everyone",
+    "pushed_at": "2023-05-10T13:50:11Z"
+  },
+  {
+    "name": "otoroshi",
+    "url": "https://github.com/MAIF/otoroshi/releases/tag/v16.3.2",
+    "title": "v3.11.0",
+    "content": "Lightweight api management on top of a modern http reverse proxy",
+    "pushed_at": "2023-05-22T20:50:59Z"
+  }
+]

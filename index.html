@@ -202,41 +202,26 @@
           newDate = infos.created_at.split(" ")[0];
           card.innerHTML = `<div class="card m-2 shadow" data-type="medium"><div class="card-body"><img src="" class="card-img-top" data-src="${infos.thumbnail}" alt="Medium thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Medium.svg" alt="Medium logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
           break;
+        case "Release":
+          newDate = infos.pushed_at.split("T")[0];
+          card.innerHTML = `<div class="card m-2 shadow" data-type="release"><div class="card-body"><h5 class="card-title">${infos.name}</h5><div class="card-text text-left mt-4"><h4>${infos.title}</h4>${infos.content}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="${infos.url}" class="stretched-link"><img class="img-fluid"  src="./img/${infosRepos[infos.name].img}" style="width:30px" alt="logo ${infos.title}"></a> <span class="footer_date">${newDate}</span></div></div>`;
+          break;
       }
       actus.appendChild(card);
     };
 
     Promise.all([
-      fetch("social-data/tweets.json").then((response) => response.json()),
-      fetch("social-data/mediums.json").then((response) => response.json()),
-      fetch("social-data/youtube.json").then((response) => response.json())
+      fetch("social-data/releases.json").then((response) => response.json())
     ])
-      .then(([tweets, mediums, youtubes]) => {
-        const posts = [
-          ...tweets
-            .map(t => ({
-              ...t,
-              type: 'Twitter',
-              createdAt: new Date(t.created_at)
-            })),
-          ...mediums
-            .map(t => ({
-              ...t,
-              type: 'Medium',
-              createdAt: new Date(t.created_at)
-            })),
-          ...youtubes
-            .map(t => ({
-              ...t,
-              type: 'Youtube',
-              createdAt: new Date(t.datePublished)
-            }))]
-
-        posts
-          .sort((a, b) => a.createdAt - b.createdAt)
-          .reverse()
-
-        posts.forEach(p => createCards(p, p.type))
+      .then(releases => {
+       
+        // releases
+        //   .sort((a, b) => a.pushed_at - b.pushed_at)
+        //   .reverse()
+          // releases.map(p => createCards(p,"Release" ))
+          releases[0].forEach( release => {
+            createCards(release,"Release" )
+          })
   
         document.getElementById("load_wall").style.display="none"
         displayMore('init')
