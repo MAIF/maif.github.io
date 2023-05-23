@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-23T15:01:26Z",
+      "pushed_at": "2023-05-23T15:05:07Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1020,7 +1020,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-05-23T08:03:29Z",
+      "pushed_at": "2023-05-23T15:09:00Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
