@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-23T13:06:41Z",
+      "pushed_at": "2023-05-23T15:01:26Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -602,13 +602,13 @@
         "cwoodrow",
         "ThomasBouche"
       ],
-      "commits_count": 214,
+      "commits_count": 219,
       "commits_per_contributor": [
         {
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 113
+          "commits_count": 118
         },
         {
           "name": "mathieuancelin",
@@ -1362,7 +1362,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 779,
+      "commits_count": 784,
       "projects": [
         "react-forms",
         "otoroshi",
