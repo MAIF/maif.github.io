@@ -5,19 +5,19 @@
       "url": "https://github.com/MAIF/thoth",
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2023-05-25T13:05:47Z",
+      "pushed_at": "2023-05-25T13:46:15Z",
       "contributors": [
         "larousso",
         "ptitFicus",
         "Gregnarok"
       ],
-      "commits_count": 129,
+      "commits_count": 130,
       "commits_per_contributor": [
         {
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 89
+          "commits_count": 90
         },
         {
           "name": "ptitFicus",
@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-05-25T13:06:38Z",
+      "pushed_at": "2023-05-25T13:38:31Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -273,13 +273,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 5959,
+      "commits_count": 5963,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4742
+          "commits_count": 4746
         },
         {
           "name": "Zwiterrion",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-05-25T12:06:42Z",
+      "pushed_at": "2023-05-25T13:07:54Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1115,7 +1115,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 935,
+      "commits_count": 936,
       "projects": [
         "thoth",
         "otoroshi",
@@ -1379,7 +1379,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5024,
+      "commits_count": 5028,
       "projects": [
         "react-forms",
         "otoroshi",
