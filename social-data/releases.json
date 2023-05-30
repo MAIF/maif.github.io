@@ -1,0 +1,22 @@
+[
+  {
+    "highlights": "<p>Major features announcements in this release are </p>\n<ul>\n<li>a brand new <a href=\"https://maif.github.io/otoroshi/manual/how-to-s/instanciate-waf-coraza.html\">WAF plugin</a> based on <a href=\"https://coraza.io/\">OWASP Coraza</a></li>\n<li>a brand new Brotli compression plugin</li>\n<li>now authentication modules are pluggable and can be deployed as third party plugins</li>\n<li>now you can write data exporter in WASM</li>\n<li>now you can write authentication modules in WASM</li>\n</ul>",
+    "date": "2023-05-25T15:37:17Z",
+    "project": "otoroshi"
+  },
+  {
+    "highlights": "<p>Major features announcements in this release are </p>\n<ul>\n<li>all legacy plugins have been migrated to the new plugin model</li>\n<li>a new kind of plugin has been introduced to extend otoroshi api easily</li>\n<li>new spring cloud config. vault backend</li>\n<li>new http vault backend</li>\n<li>new local vault backend where secrets are stored in the otoroshi global config.</li>\n</ul>",
+    "date": "2023-04-25T13:09:39Z",
+    "project": "otoroshi"
+  },
+  {
+    "highlights": "<p>Major features announcements in this release are </p>\n<ul>\n<li>new plugin kind to handle routing decisions</li>\n<li><a href=\"https://maif.github.io/otoroshi/devmanual/topics/wasm-usage.html\">WASM host functions</a></li>\n<li>new WASM plugin entities</li>\n<li>New wasm plugin kind supported (request handlers, jobs, …)</li>\n<li>Lots of improvements on the WASM manager</li>\n<li>New backup feature to improve resilience of otoroshi workers</li>\n<li>JDK20 docker images</li>\n</ul>",
+    "date": "2023-03-31T13:57:25Z",
+    "project": "otoroshi"
+  },
+  {
+    "highlights": "<p>Major features announcements in this release are </p>\n<ul>\n<li><a href=\"https://maif.github.io/otoroshi/manual/how-to-s/wasm-usage.html\">WASM plugin support in otoroshi</a></li>\n<li><a href=\"https://maif.github.io/otoroshi/manual/how-to-s/wasm-manager-installation.html\">WASM manager to help you build WASM plugins</a></li>\n<li><a href=\"https://maif.github.io/otoroshi/manual/how-to-s/tailscale-integration.html\">Tailscale integration</a></li>\n</ul>",
+    "date": "2023-02-28T15:09:26Z",
+    "project": "otoroshi"
+  }
+]
