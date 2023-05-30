@@ -22,11 +22,19 @@ function fetchReleases(repo) {
     })
     .then((releases) =>
       releases
-        .map((r) => ({ body: r.body, date: r.published_at }))
-        .map(({ body, date }) => ({
+        .map((r) => {
+          return {
+            body: r.body,
+            date: r.published_at,
+            name: r.name,
+            zip: r.zipball_url,
+            url: r.html_url,
+          };
+        })
+        .map(({ body, ...rest }) => ({
           highlights: extractReleaseThumbnail(body),
-          date,
           project: repo,
+          ...rest,
         }))
         .filter(({ highlights, date }) => Boolean(highlights))
     );
