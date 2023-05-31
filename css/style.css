@@ -234,6 +234,11 @@ footer {
    transform: scale(1.02);
 }
 
+.home .card a{
+  color: inherit;
+  text-decoration: none;
+}
+
 .anim_text{    
   opacity: 0;
   transform: translateX(-100px);
