@@ -44,8 +44,8 @@
 <body class="home">
   <nav class="navbar navbar-expand-sm fixed-top navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand flex-grow-1" href="https://maif.github.io/" id="slogan" style="opacity: 0;"><img alt="logo MAIF"
-          src="https://static.maif.fr/resources/img/logo-maif.svg" />
+      <a class="navbar-brand flex-grow-1" href="https://maif.github.io/" id="slogan" style="opacity: 0;"><img
+          alt="logo MAIF" src="https://static.maif.fr/resources/img/logo-maif.svg" />
         <span>#OSSbyMAIF</span></a>
       <button class="navbar-toggler me-2" type="button" data-bs-toggle="collapse"
         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -110,7 +110,7 @@
     <div class="container p-4">
       <div class="row">
         <div class="col-12 ">
-          <h2>Publications récentes</h2>
+          <h2>Dernières releases</h2>
         </div>
         <div class="row justify-content-center" id="load_wall">
           <img class="img-fluid col-2" src="img/loading.gif" alt="loader">
@@ -202,43 +202,23 @@
           newDate = infos.created_at.split(" ")[0];
           card.innerHTML = `<div class="card m-2 shadow" data-type="medium"><div class="card-body"><img src="" class="card-img-top" data-src="${infos.thumbnail}" alt="Medium thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Medium.svg" alt="Medium logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
           break;
+        case "Release":
+          newDate = infos.date.split("T")[0];
+          card.innerHTML = `<div class="card m-2 shadow" data-type="release"><div class="card-body"><h5 class="card-title">${infos.name}</h5><div class="card-text text-left mt-4"><h4>${infos.project}</h4>${infos.highlights}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="${infos.url}" class="stretched-link"><img class="img-fluid"  src="./img/${infosRepos[infos.project].img}" style="width:30px" alt="logo ${infos.project}"></a> <span class="footer_date">${newDate}</span></div></div>`;
+          break;
       }
       actus.appendChild(card);
     };
 
     Promise.all([
-      fetch("social-data/tweets.json").then((response) => response.json()),
-      fetch("social-data/mediums.json").then((response) => response.json()),
-      fetch("social-data/youtube.json").then((response) => response.json())
+      fetch("social-data/releases.json").then((response) => response.json())
     ])
-      .then(([tweets, mediums, youtubes]) => {
-        const posts = [
-          ...tweets
-            .map(t => ({
-              ...t,
-              type: 'Twitter',
-              createdAt: new Date(t.created_at)
-            })),
-          ...mediums
-            .map(t => ({
-              ...t,
-              type: 'Medium',
-              createdAt: new Date(t.created_at)
-            })),
-          ...youtubes
-            .map(t => ({
-              ...t,
-              type: 'Youtube',
-              createdAt: new Date(t.datePublished)
-            }))]
+      .then(releases => {
+        releases[0].forEach(release => {
+          createCards(release, "Release")
+        })
 
-        posts
-          .sort((a, b) => a.createdAt - b.createdAt)
-          .reverse()
-
-        posts.forEach(p => createCards(p, p.type))
-  
-        document.getElementById("load_wall").style.display="none"
+        document.getElementById("load_wall").style.display = "none"
         displayMore('init')
       })
 
@@ -255,16 +235,19 @@
     function displayMore(setup) {
       let cardsDisplayIncrement = setup == "init" ? 3 : 3
       for (let index = cardsDisplay; index < cardsDisplay + cardsDisplayIncrement; index++) {
-        const el=actus.childNodes[index].childNodes[0];
-        el.style.display = "block"
-        el.classList.add("animCard")
-        if (el.dataset.type=="medium"){
-          el.childNodes[0].childNodes[0].src = el.childNodes[0].childNodes[0].dataset.src;
+        if (actus.childNodes[index]) {
+          const el = actus.childNodes[index].childNodes[0];
+          el.style.display = "block"
+          el.classList.add("animCard")
+          // if (el.dataset.type=="medium"){
+          //   el.childNodes[0].childNodes[0].src = el.childNodes[0].childNodes[0].dataset.src;
+          // }
         }
       }
-      imagesLoaded(document.querySelector(".grid"), function (instance) {        
-        launchMsnry();
-        });
+      // imagesLoaded(document.querySelector(".grid"), function (instance) {        
+      //   launchMsnry();
+      // });
+      launchMsnry();
 
       cardsDisplay += cardsDisplayIncrement
 
@@ -292,12 +275,12 @@
             <div class="card-footer">
               <a href="${infosRepos[projet.title].url_project}" class="stretched-link text-decoration-none txt-dark">
                 <i class="fab fa-github fa-lg me-2" aria-hidden="true"></i>
-                ${newDate === 0 ? "Mis à jour aujourd'hui" : ("Mis à jour il y a " + newDate + " jour" + (newDate>1?"s":""))}
+                ${newDate === 0 ? "Mis à jour aujourd'hui" : ("Mis à jour il y a " + newDate + " jour" + (newDate > 1 ? "s" : ""))}
               </a>
             </div>
           </div>`;
 
-      document.getElementById("load_projets").style.display="none"
+      document.getElementById("load_projets").style.display = "none"
       projets.appendChild(containerProjet);
     }
 
@@ -321,10 +304,10 @@
     btnMore.addEventListener("click", displayMore)
   </script>
   <script type="text/javascript">
-      tarteaucitron.user.analyticsUa = "UA-112498312-1";
-      tarteaucitron.user.analyticsMore = function() {};
-      (tarteaucitron.job = tarteaucitron.job || []).push("analytics");
-    </script>
+    tarteaucitron.user.analyticsUa = "UA-112498312-1";
+    tarteaucitron.user.analyticsMore = function () { };
+    (tarteaucitron.job = tarteaucitron.job || []).push("analytics");
+  </script>
 </body>
 
 </html>
