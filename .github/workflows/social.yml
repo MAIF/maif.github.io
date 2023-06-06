@@ -19,17 +19,6 @@ jobs:
           node-version: "16"
       - name: install dependencies
         run: cd scripts; npm ci
-      - name: Search on twitter
-        id: twitter
-        run: node ./scripts/twitter.js
-        env:
-          TWITTER_BEARER: ${{ secrets.TWITTER_BEARER }}
-      - name: Search on youtube
-        id: youtube
-        run: node ./scripts/youtube.js
-      - name: Search on medium
-        id: medium
-        run: node ./scripts/medium.js
       - name: Search contributors on github
         id: github
         run: node ./scripts/contributors.js
