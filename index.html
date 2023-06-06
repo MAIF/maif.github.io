@@ -12,7 +12,6 @@
     crossorigin="anonymous"></script>
 
   <script src="https://masonry.desandro.com/masonry.pkgd.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/3.1.8/imagesloaded.pkgd.min.js"></script>
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
     integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
@@ -166,42 +165,16 @@
     </div>
   </footer>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-
-
-  <!--
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.14.0-beta2/dist/js/bootstrap-select.min.js"></script>
-
-    <script src="js/select.js"></script>
-    -->
   <script>
     let actus = document.getElementById("actus");
     let cardsDisplay = 0;
 
     const createCards = (infos, target) => {
-      // console.log(infos)
       let card = document.createElement("div");
       let newDate = "";
       card.className = "grid-item";
 
       switch (target) {
-        case "Youtube":
-          card.innerHTML = `<div class="card m-2 shadow" data-type="youtube"><div class="card-body"><img class="card-img-top" src="${infos.thumbnail}" alt="Youtube thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">#OssByMaif</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="https://www.youtube.com/playlist?list=PLHWGfQmqyWtZuFKhNMseGODfsO0LJBp2a" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Youtube.png" alt="Youtube logo"></a> <span class="footer_date">${infos.datePublished}</span></div></div>`;
-          break;
-
-        case "Twitter":
-          newDate = infos.created_at.split("T")[0];
-          let imgEmbed = ""
-          // if (infos["media_urls"]!==undefined) {
-          //   infos.media_urls.forEach(image => {
-          //     imgEmbed += `<img class="img-fluid" src="${image}">`
-          //   })
-          // }
-          card.innerHTML = `<div class="card m-2 shadow" data-type="twitter"><div class="card-body"><h5 class="card-title">${infos.text}${imgEmbed}</h5><div class="card-text text-center mt-4">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="https://twitter.com/${infos.author_username}/status/${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Twitter.svg" alt="Twitter logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
-          break;
-        case "Medium":
-          newDate = infos.created_at.split(" ")[0];
-          card.innerHTML = `<div class="card m-2 shadow" data-type="medium"><div class="card-body"><img src="" class="card-img-top" data-src="${infos.thumbnail}" alt="Medium thumbnail"><h5 class="card-title">${infos.text}</h5><div class="card-text text-center">${infos.author_name}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="${infos.id}" class="stretched-link"><img class="img-fluid" style="height:30px" src="./img/logo_Medium.svg" alt="Medium logo"></a> <span class="footer_date">${newDate}</span></div></div>`;
-          break;
         case "Release":
           newDate = infos.date.split("T")[0];
           card.innerHTML = `<div class="card m-2 shadow" data-type="release"><div class="card-body"><h5 class="card-title">${infos.name}</h5><div class="card-text text-left mt-4"><h4>${infos.project}</h4>${infos.highlights}</div></div><div class="card-footer d-flex justify-content-between align-items-center"><a href="${infos.url}" class="stretched-link"><img class="img-fluid"  src="./img/${infosRepos[infos.project].img}" style="width:30px" alt="logo ${infos.project}"></a> <span class="footer_date">${newDate}</span></div></div>`;
@@ -239,18 +212,10 @@
           const el = actus.childNodes[index].childNodes[0];
           el.style.display = "block"
           el.classList.add("animCard")
-          // if (el.dataset.type=="medium"){
-          //   el.childNodes[0].childNodes[0].src = el.childNodes[0].childNodes[0].dataset.src;
-          // }
         }
       }
-      // imagesLoaded(document.querySelector(".grid"), function (instance) {        
-      //   launchMsnry();
-      // });
       launchMsnry();
-
       cardsDisplay += cardsDisplayIncrement
-
     }
   </script>
 
