@@ -593,16 +593,17 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-06-06T06:05:28Z",
+      "pushed_at": "2023-06-06T07:11:41Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
         "Zwiterrion",
         "desmfr",
         "cwoodrow",
-        "ThomasBouche"
+        "ThomasBouche",
+        "ptitFicus"
       ],
-      "commits_count": 221,
+      "commits_count": 222,
       "commits_per_contributor": [
         {
           "name": "baudelotphilippe",
@@ -638,6 +639,12 @@
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
+          "commits_count": 1
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
           "commits_count": 1
         }
       ]
@@ -1131,11 +1138,12 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 83,
+      "commits_count": 84,
       "projects": [
         "thoth",
         "react-forms",
         "otoroshi",
+        "maif.github.io",
         "izanami",
         "functional-json"
       ]
