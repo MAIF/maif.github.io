@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/thoth",
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2023-05-26T09:24:12Z",
+      "pushed_at": "2023-06-09T00:06:12Z",
       "contributors": [
         "larousso",
         "ptitFicus",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-06-08T22:05:06Z",
+      "pushed_at": "2023-06-08T23:05:19Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
