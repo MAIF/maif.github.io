@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-06-21T08:38:02Z",
+      "pushed_at": "2023-06-21T22:55:35Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-06-21T21:05:20Z",
+      "pushed_at": "2023-06-21T22:04:58Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -713,7 +713,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2023-05-16T07:47:30Z",
+      "pushed_at": "2023-06-21T22:52:21Z",
       "contributors": [
         "larousso",
         "pierrebruninmaif",
