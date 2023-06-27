@@ -462,7 +462,7 @@
         "nicolaspte",
         "Maxime-POULAIN-Verlingue",
         "CRGONCALVES",
-        "PerrierRemi"
+        "remi-perrier"
       ],
       "commits_count": 386,
       "commits_per_contributor": [
@@ -581,9 +581,9 @@
           "commits_count": 1
         },
         {
-          "name": "PerrierRemi",
+          "name": "remi-perrier",
           "avatar_url": "https://avatars.githubusercontent.com/u/57212723?v=4",
-          "url": "https://github.com/PerrierRemi",
+          "url": "https://github.com/remi-perrier",
           "commits_count": 1
         }
       ]
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-06-23T09:05:09Z",
+      "pushed_at": "2023-06-23T10:05:22Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1669,10 +1669,10 @@
         "melusine"
       ]
     },
-    "PerrierRemi": {
-      "name": "PerrierRemi",
+    "remi-perrier": {
+      "name": "remi-perrier",
       "avatar_url": "https://avatars.githubusercontent.com/u/57212723?v=4",
-      "url": "https://github.com/PerrierRemi",
+      "url": "https://github.com/remi-perrier",
       "commits_count": 1,
       "projects": [
         "melusine"
@@ -1995,7 +1995,7 @@
     "Freyskeyd",
     "fsamin",
     "romaindso",
-    "PerrierRemi",
+    "remi-perrier",
     "CRGONCALVES",
     "Maxime-POULAIN-Verlingue",
     "nicolaspte",
