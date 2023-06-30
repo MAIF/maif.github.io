@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-06-30T16:05:15Z",
+      "pushed_at": "2023-06-30T17:05:20Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1075,46 +1075,9 @@
       "description": "A deck of cards enumerating simple rules to design all new digital products at MAIF",
       "homepage": "https://maif.github.io/cards/",
       "pushed_at": "2022-12-07T17:34:58Z",
-      "contributors": [
-        "mathieuancelin",
-        "baudelotphilippe",
-        "gotson",
-        "desmfr",
-        "wikijm"
-      ],
-      "commits_count": 124,
-      "commits_per_contributor": [
-        {
-          "name": "mathieuancelin",
-          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-          "url": "https://github.com/mathieuancelin",
-          "commits_count": 96
-        },
-        {
-          "name": "baudelotphilippe",
-          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
-          "url": "https://github.com/baudelotphilippe",
-          "commits_count": 25
-        },
-        {
-          "name": "gotson",
-          "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
-          "url": "https://github.com/gotson",
-          "commits_count": 1
-        },
-        {
-          "name": "desmfr",
-          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
-          "url": "https://github.com/desmfr",
-          "commits_count": 1
-        },
-        {
-          "name": "wikijm",
-          "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
-          "url": "https://github.com/wikijm",
-          "commits_count": 1
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     }
   },
   "contributors": {
@@ -1370,7 +1333,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 792,
+      "commits_count": 767,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1379,23 +1342,21 @@
         "maif.github.io",
         "lets-automate",
         "izanami",
-        "daikoku",
-        "cards"
+        "daikoku"
       ]
     },
     "mathieuancelin": {
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5063,
+      "commits_count": 4967,
       "projects": [
         "react-forms",
         "otoroshi",
         "nio",
         "maif.github.io",
         "izanami",
-        "daikoku",
-        "cards"
+        "daikoku"
       ]
     },
     "antoine-lecomte": {
@@ -1470,13 +1431,12 @@
       "name": "desmfr",
       "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
       "url": "https://github.com/desmfr",
-      "commits_count": 32,
+      "commits_count": 31,
       "projects": [
         "otoroshi",
         "melusine",
         "maif.github.io",
-        "izanami",
-        "cards"
+        "izanami"
       ]
     },
     "lucbu": {
@@ -1903,24 +1863,6 @@
       "projects": [
         "daikoku"
       ]
-    },
-    "gotson": {
-      "name": "gotson",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2139133?v=4",
-      "url": "https://github.com/gotson",
-      "commits_count": 1,
-      "projects": [
-        "cards"
-      ]
-    },
-    "wikijm": {
-      "name": "wikijm",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
-      "url": "https://github.com/wikijm",
-      "commits_count": 1,
-      "projects": [
-        "cards"
-      ]
     }
   },
   "commits_per_contributor_sorted": [
@@ -1980,8 +1922,6 @@
     "amnaabbassi",
     "SebastienBidault",
     "peterdhansen",
-    "wikijm",
-    "gotson",
     "grosa1",
     "ybasket",
     "cbois",
