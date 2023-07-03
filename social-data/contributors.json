@@ -256,7 +256,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-07-02T22:59:42Z",
+      "pushed_at": "2023-07-03T07:04:51Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-07-03T01:34:12Z",
+      "pushed_at": "2023-07-03T04:05:44Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
