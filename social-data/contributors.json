@@ -256,15 +256,15 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-07-04T18:54:51Z",
+      "pushed_at": "2023-07-04T19:45:24Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
         "baudelotphilippe",
         "quentinovega",
         "mathieuancelinserli",
-        "guillaumesolderaserli",
         "ptitFicus",
+        "guillaumesolderaserli",
         "fedysalahserli",
         "sebprunierserli",
         "larousso",
@@ -273,7 +273,7 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 6022,
+      "commits_count": 6023,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -306,15 +306,15 @@
           "commits_count": 34
         },
         {
-          "name": "guillaumesolderaserli",
-          "avatar_url": "https://avatars.githubusercontent.com/u/17246451?v=4",
-          "url": "https://github.com/guillaumesolderaserli",
-          "commits_count": 10
-        },
-        {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
+          "commits_count": 11
+        },
+        {
+          "name": "guillaumesolderaserli",
+          "avatar_url": "https://avatars.githubusercontent.com/u/17246451?v=4",
+          "url": "https://github.com/guillaumesolderaserli",
           "commits_count": 10
         },
         {
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-07-04T18:05:51Z",
+      "pushed_at": "2023-07-04T19:05:54Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1138,7 +1138,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 90,
+      "commits_count": 91,
       "projects": [
         "thoth",
         "react-forms",
