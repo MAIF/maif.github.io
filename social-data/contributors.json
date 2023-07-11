@@ -366,7 +366,7 @@
       "url": "https://github.com/MAIF/nio",
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
-      "pushed_at": "2023-05-15T12:35:16Z",
+      "pushed_at": "2023-07-11T21:14:53Z",
       "contributors": [
         "quentinovega",
         "Fraer",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-07-11T20:05:50Z",
+      "pushed_at": "2023-07-11T21:05:05Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1074,7 +1074,7 @@
       "url": "https://github.com/MAIF/cards",
       "description": "A deck of cards enumerating simple rules to design all new digital products at MAIF",
       "homepage": "https://maif.github.io/cards/",
-      "pushed_at": "2022-12-07T17:34:58Z",
+      "pushed_at": "2023-07-11T21:17:59Z",
       "contributors": [
         "mathieuancelin",
         "baudelotphilippe",
