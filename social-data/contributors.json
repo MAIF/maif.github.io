@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-07-18T05:05:21Z",
+      "pushed_at": "2023-07-18T06:05:48Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1035,13 +1035,13 @@
         "mathieuancelin",
         "Btxgear"
       ],
-      "commits_count": 1519,
+      "commits_count": 1520,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 851
+          "commits_count": 852
         },
         {
           "name": "Zwiterrion",
@@ -1345,7 +1345,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1138,
+      "commits_count": 1139,
       "projects": [
         "react-forms",
         "otoroshi",
