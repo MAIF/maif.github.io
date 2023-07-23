@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-07-23T03:05:14Z",
+      "pushed_at": "2023-07-23T04:05:24Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -695,18 +695,9 @@
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
       "pushed_at": "2023-01-10T10:19:09Z",
-      "contributors": [
-        "larousso"
-      ],
-      "commits_count": 59,
-      "commits_per_contributor": [
-        {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 59
-        }
-      ]
+      "contributors": [],
+      "commits_count": 0,
+      "commits_per_contributor": []
     },
     "izanami": {
       "name": "izanami",
@@ -1122,13 +1113,12 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 939,
+      "commits_count": 880,
       "projects": [
         "thoth",
         "otoroshi",
         "nio",
         "lets-automate",
-        "jooq-async",
         "izanami",
         "functional-validation",
         "functional-json"
