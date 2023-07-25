@@ -38,7 +38,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-07-25T13:04:08Z",
+      "pushed_at": "2023-07-25T13:53:12Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -61,13 +61,13 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 540,
+      "commits_count": 545,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 203
+          "commits_count": 208
         },
         {
           "name": "ThibaudReal",
@@ -190,7 +190,7 @@
       "url": "https://github.com/MAIF/react-forms",
       "description": "Fully managed react forms builder",
       "homepage": "https://maif.github.io/react-forms",
-      "pushed_at": "2023-07-25T13:01:50Z",
+      "pushed_at": "2023-07-25T13:58:22Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -198,7 +198,7 @@
         "baudelotphilippe",
         "mathieuancelin"
       ],
-      "commits_count": 305,
+      "commits_count": 307,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
@@ -222,7 +222,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 16
+          "commits_count": 18
         },
         {
           "name": "mathieuancelin",
@@ -593,7 +593,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-07-25T12:07:01Z",
+      "pushed_at": "2023-07-25T13:07:57Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1161,7 +1161,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 232,
+      "commits_count": 237,
       "projects": [
         "shapash",
         "maif.github.io",
@@ -1370,7 +1370,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 795,
+      "commits_count": 797,
       "projects": [
         "react-forms",
         "otoroshi",
