@@ -600,7 +600,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-08-22T08:06:23Z",
+      "pushed_at": "2023-08-22T09:05:02Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -720,7 +720,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2023-07-11T00:00:13Z",
+      "pushed_at": "2023-08-22T09:45:33Z",
       "contributors": [
         "larousso",
         "pierrebruninmaif",
