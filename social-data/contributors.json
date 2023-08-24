@@ -197,7 +197,7 @@
       "url": "https://github.com/MAIF/react-forms",
       "description": "Fully managed react forms builder",
       "homepage": "https://maif.github.io/react-forms",
-      "pushed_at": "2023-07-31T13:33:12Z",
+      "pushed_at": "2023-08-24T14:04:35Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -205,13 +205,13 @@
         "baudelotphilippe",
         "mathieuancelin"
       ],
-      "commits_count": 308,
+      "commits_count": 309,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 196
+          "commits_count": 197
         },
         {
           "name": "Zwiterrion",
@@ -600,7 +600,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-08-24T12:07:42Z",
+      "pushed_at": "2023-08-24T13:05:29Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1034,7 +1034,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-08-23T14:47:11Z",
+      "pushed_at": "2023-08-24T13:39:57Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1361,7 +1361,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1144,
+      "commits_count": 1145,
       "projects": [
         "react-forms",
         "otoroshi",
