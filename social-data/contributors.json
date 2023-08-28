@@ -263,7 +263,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-08-28T08:40:39Z",
+      "pushed_at": "2023-08-28T12:03:43Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -280,13 +280,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 6147,
+      "commits_count": 6149,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4883
+          "commits_count": 4885
         },
         {
           "name": "Zwiterrion",
@@ -600,7 +600,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-08-28T10:05:33Z",
+      "pushed_at": "2023-08-28T11:04:54Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -720,7 +720,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2023-08-22T09:45:33Z",
+      "pushed_at": "2023-08-28T11:29:21Z",
       "contributors": [
         "larousso",
         "pierrebruninmaif",
@@ -751,9 +751,10 @@
         "hamish-omny",
         "cbois",
         "ybasket",
-        "grosa1"
+        "grosa1",
+        "christophejan"
       ],
-      "commits_count": 1162,
+      "commits_count": 1163,
       "commits_per_contributor": [
         {
           "name": "larousso",
@@ -933,6 +934,12 @@
           "name": "grosa1",
           "avatar_url": "https://avatars.githubusercontent.com/u/28650772?v=4",
           "url": "https://github.com/grosa1",
+          "commits_count": 1
+        },
+        {
+          "name": "christophejan",
+          "avatar_url": "https://avatars.githubusercontent.com/u/69955393?v=4",
+          "url": "https://github.com/christophejan",
           "commits_count": 1
         }
       ]
@@ -1403,7 +1410,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5165,
+      "commits_count": 5167,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1893,6 +1900,15 @@
         "izanami"
       ]
     },
+    "christophejan": {
+      "name": "christophejan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69955393?v=4",
+      "url": "https://github.com/christophejan",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
     "mbaechler": {
       "name": "mbaechler",
       "avatar_url": "https://avatars.githubusercontent.com/u/708318?v=4",
@@ -1998,6 +2014,7 @@
     "peterdhansen",
     "wikijm",
     "gotson",
+    "christophejan",
     "grosa1",
     "ybasket",
     "cbois",
