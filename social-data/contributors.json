@@ -600,7 +600,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-08-31T10:05:01Z",
+      "pushed_at": "2023-08-31T11:04:34Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1001,7 +1001,7 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2023-08-30T15:29:54Z",
+      "pushed_at": "2023-08-31T12:01:12Z",
       "contributors": [
         "ThomasBouche",
         "githubyako",
