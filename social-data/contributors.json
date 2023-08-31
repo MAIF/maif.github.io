@@ -263,7 +263,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-08-31T09:02:08Z",
+      "pushed_at": "2023-08-31T14:22:57Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -280,13 +280,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 6155,
+      "commits_count": 6156,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4891
+          "commits_count": 4892
         },
         {
           "name": "Zwiterrion",
@@ -600,7 +600,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-08-31T13:07:18Z",
+      "pushed_at": "2023-08-31T14:05:11Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1001,20 +1001,20 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2023-08-31T12:01:12Z",
+      "pushed_at": "2023-08-31T14:37:12Z",
       "contributors": [
         "ThomasBouche",
         "githubyako",
         "armgilles",
         "MLecardonnel"
       ],
-      "commits_count": 53,
+      "commits_count": 57,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 28
+          "commits_count": 32
         },
         {
           "name": "githubyako",
@@ -1184,7 +1184,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 238,
+      "commits_count": 242,
       "projects": [
         "shapash",
         "maif.github.io",
@@ -1410,7 +1410,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5173,
+      "commits_count": 5174,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1961,8 +1961,8 @@
     "quentinovega",
     "larousso",
     "baudelotphilippe",
-    "pierrebruninmaif",
     "ThomasBouche",
+    "pierrebruninmaif",
     "ptitFicus",
     "hugo-quantmetry",
     "farthur",
