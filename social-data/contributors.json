@@ -45,7 +45,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-09-06T09:23:22Z",
+      "pushed_at": "2023-09-07T13:52:55Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -68,13 +68,13 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 546,
+      "commits_count": 551,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 209
+          "commits_count": 214
         },
         {
           "name": "ThibaudReal",
@@ -263,7 +263,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-09-07T12:47:48Z",
+      "pushed_at": "2023-09-07T13:32:37Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -280,13 +280,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 6169,
+      "commits_count": 6175,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4905
+          "commits_count": 4911
         },
         {
           "name": "Zwiterrion",
@@ -600,7 +600,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-09-07T12:07:42Z",
+      "pushed_at": "2023-09-07T13:06:45Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1184,7 +1184,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 242,
+      "commits_count": 247,
       "projects": [
         "shapash",
         "maif.github.io",
@@ -1410,7 +1410,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5187,
+      "commits_count": 5193,
       "projects": [
         "react-forms",
         "otoroshi",
