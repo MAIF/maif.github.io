@@ -24,19 +24,19 @@
     "url": "https://github.com/MAIF/otoroshi/releases/tag/v16.6.0"
   },
   {
-    "highlights": "<p>Major features announcements in this release are </p>\n<ul>\n<li>plugins can now ship their own UI</li>\n<li>you can add entity validators on users based on Json Path expressions</li>\n<li>new grpc plugins available</li>\n</ul>",
-    "project": "otoroshi",
-    "date": "2023-06-30T06:29:07Z",
-    "name": "16.5.0",
-    "zip": "https://api.github.com/repos/MAIF/otoroshi/zipball/v16.5.0",
-    "url": "https://github.com/MAIF/otoroshi/releases/tag/v16.5.0"
-  },
-  {
     "highlights": "<p>Major features announcements in this release are </p>\n<ul>\n<li>a brand new <a href=\"https://maif.github.io/otoroshi/manual/how-to-s/instanciate-waf-coraza.html\">WAF plugin</a> based on <a href=\"https://coraza.io/\">OWASP Coraza</a></li>\n<li>a brand new Brotli compression plugin</li>\n<li>now authentication modules are pluggable and can be deployed as third party plugins</li>\n<li>now you can write data exporter in WASM</li>\n<li>now you can write authentication modules in WASM</li>\n</ul>",
     "project": "otoroshi",
     "date": "2023-05-25T15:37:17Z",
     "name": "16.4.0",
     "zip": "https://api.github.com/repos/MAIF/otoroshi/zipball/v16.4.0",
     "url": "https://github.com/MAIF/otoroshi/releases/tag/v16.4.0"
+  },
+  {
+    "highlights": "<p>Major features announcements in this release are </p>\n<ul>\n<li>all legacy plugins have been migrated to the new plugin model</li>\n<li>a new kind of plugin has been introduced to extend otoroshi api easily</li>\n<li>new spring cloud config. vault backend</li>\n<li>new http vault backend</li>\n<li>new local vault backend where secrets are stored in the otoroshi global config.</li>\n</ul>",
+    "project": "otoroshi",
+    "date": "2023-04-25T13:09:39Z",
+    "name": "16.3.0",
+    "zip": "https://api.github.com/repos/MAIF/otoroshi/zipball/v16.3.0",
+    "url": "https://github.com/MAIF/otoroshi/releases/tag/v16.3.0"
   }
 ]
