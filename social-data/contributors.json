@@ -45,12 +45,12 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-09-12T07:51:37Z",
+      "pushed_at": "2023-09-14T12:39:49Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
-        "Francesco-Marini",
         "MLecardonnel",
+        "Francesco-Marini",
         "MaxGdr",
         "FlorineGreciet",
         "yg79",
@@ -68,13 +68,13 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 552,
+      "commits_count": 565,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 215
+          "commits_count": 216
         },
         {
           "name": "ThibaudReal",
@@ -83,16 +83,16 @@
           "commits_count": 65
         },
         {
+          "name": "MLecardonnel",
+          "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
+          "url": "https://github.com/MLecardonnel",
+          "commits_count": 60
+        },
+        {
           "name": "Francesco-Marini",
           "avatar_url": "https://avatars.githubusercontent.com/u/60148515?v=4",
           "url": "https://github.com/Francesco-Marini",
           "commits_count": 59
-        },
-        {
-          "name": "MLecardonnel",
-          "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
-          "url": "https://github.com/MLecardonnel",
-          "commits_count": 48
         },
         {
           "name": "MaxGdr",
@@ -600,7 +600,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-09-14T11:04:54Z",
+      "pushed_at": "2023-09-14T12:07:10Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1041,7 +1041,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-09-14T08:19:25Z",
+      "pushed_at": "2023-09-14T12:49:27Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1184,7 +1184,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 248,
+      "commits_count": 249,
       "projects": [
         "shapash",
         "maif.github.io",
@@ -1200,6 +1200,16 @@
         "shapash"
       ]
     },
+    "MLecardonnel": {
+      "name": "MLecardonnel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
+      "url": "https://github.com/MLecardonnel",
+      "commits_count": 64,
+      "projects": [
+        "shapash",
+        "eurybia"
+      ]
+    },
     "Francesco-Marini": {
       "name": "Francesco-Marini",
       "avatar_url": "https://avatars.githubusercontent.com/u/60148515?v=4",
@@ -1207,16 +1217,6 @@
       "commits_count": 59,
       "projects": [
         "shapash"
-      ]
-    },
-    "MLecardonnel": {
-      "name": "MLecardonnel",
-      "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
-      "url": "https://github.com/MLecardonnel",
-      "commits_count": 52,
-      "projects": [
-        "shapash",
-        "eurybia"
       ]
     },
     "MaxGdr": {
@@ -1967,11 +1967,11 @@
     "hugo-quantmetry",
     "farthur",
     "ThibaudReal",
+    "MLecardonnel",
     "TFA-MAIF",
     "Btxgear",
     "Francesco-Marini",
     "tstringerquantmetry",
-    "MLecardonnel",
     "benoitLebreton-perso",
     "MaxGdr",
     "mathieuancelinserli",
