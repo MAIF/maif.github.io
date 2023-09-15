@@ -45,7 +45,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-09-14T13:52:07Z",
+      "pushed_at": "2023-09-15T13:52:52Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -68,13 +68,13 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 565,
+      "commits_count": 566,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 216
+          "commits_count": 217
         },
         {
           "name": "ThibaudReal",
@@ -600,7 +600,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-09-15T12:07:17Z",
+      "pushed_at": "2023-09-15T13:06:00Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1184,7 +1184,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 249,
+      "commits_count": 250,
       "projects": [
         "shapash",
         "maif.github.io",
