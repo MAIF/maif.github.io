@@ -600,7 +600,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-10-02T11:04:57Z",
+      "pushed_at": "2023-10-02T12:06:55Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -701,7 +701,7 @@
       "url": "https://github.com/MAIF/jooq-async",
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
-      "pushed_at": "2023-10-02T09:14:13Z",
+      "pushed_at": "2023-10-02T12:18:44Z",
       "contributors": [
         "larousso"
       ],
