@@ -600,7 +600,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-10-02T07:05:19Z",
+      "pushed_at": "2023-10-02T08:05:52Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1041,7 +1041,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-09-28T10:09:53Z",
+      "pushed_at": "2023-10-02T08:44:45Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1049,13 +1049,13 @@
         "mathieuancelin",
         "Btxgear"
       ],
-      "commits_count": 1595,
+      "commits_count": 1596,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 908
+          "commits_count": 909
         },
         {
           "name": "Zwiterrion",
@@ -1368,7 +1368,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1197,
+      "commits_count": 1198,
       "projects": [
         "react-forms",
         "otoroshi",
