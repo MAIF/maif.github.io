@@ -45,7 +45,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-09-27T04:18:37Z",
+      "pushed_at": "2023-10-03T11:46:26Z",
       "contributors": [
         "ThomasBouche",
         "ThibaudReal",
@@ -600,7 +600,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-10-03T10:05:37Z",
+      "pushed_at": "2023-10-03T11:05:31Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
