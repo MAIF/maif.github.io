@@ -263,7 +263,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-10-05T14:58:50Z",
+      "pushed_at": "2023-10-05T15:46:43Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -273,6 +273,7 @@
         "ptitFicus",
         "guillaumesolderaserli",
         "fedysalahserli",
+        "omahs",
         "sebprunierserli",
         "larousso",
         "tristan-chauveau",
@@ -280,7 +281,7 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 6245,
+      "commits_count": 6299,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -292,7 +293,7 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 758
+          "commits_count": 807
         },
         {
           "name": "baudelotphilippe",
@@ -329,6 +330,12 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/22706239?v=4",
           "url": "https://github.com/fedysalahserli",
           "commits_count": 8
+        },
+        {
+          "name": "omahs",
+          "avatar_url": "https://avatars.githubusercontent.com/u/73983677?v=4",
+          "url": "https://github.com/omahs",
+          "commits_count": 5
         },
         {
           "name": "sebprunierserli",
@@ -600,7 +607,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-10-05T14:05:11Z",
+      "pushed_at": "2023-10-05T15:05:23Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1381,7 +1388,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1251,
+      "commits_count": 1300,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1453,6 +1460,15 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/22706239?v=4",
       "url": "https://github.com/fedysalahserli",
       "commits_count": 8,
+      "projects": [
+        "otoroshi"
+      ]
+    },
+    "omahs": {
+      "name": "omahs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73983677?v=4",
+      "url": "https://github.com/omahs",
+      "commits_count": 5,
       "projects": [
         "otoroshi"
       ]
@@ -1995,6 +2011,7 @@
     "adam-benjellounSG",
     "victorBigand",
     "sachasamama",
+    "omahs",
     "olivierboudet",
     "sebprunierserli",
     "quentinproust",
