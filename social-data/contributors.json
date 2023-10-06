@@ -263,7 +263,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-10-06T10:01:12Z",
+      "pushed_at": "2023-10-06T10:05:01Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -281,13 +281,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 6303,
+      "commits_count": 6306,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 4973
+          "commits_count": 4976
         },
         {
           "name": "Zwiterrion",
@@ -607,7 +607,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-10-06T09:05:55Z",
+      "pushed_at": "2023-10-06T10:05:25Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1417,7 +1417,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5255,
+      "commits_count": 5258,
       "projects": [
         "react-forms",
         "otoroshi",
