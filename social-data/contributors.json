@@ -45,11 +45,11 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-11-02T14:30:02Z",
+      "pushed_at": "2023-11-02T15:51:35Z",
       "contributors": [
         "ThomasBouche",
-        "ThibaudReal",
         "MLecardonnel",
+        "ThibaudReal",
         "Francesco-Marini",
         "MaxGdr",
         "FlorineGreciet",
@@ -68,7 +68,7 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 569,
+      "commits_count": 575,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
@@ -77,16 +77,16 @@
           "commits_count": 220
         },
         {
+          "name": "MLecardonnel",
+          "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
+          "url": "https://github.com/MLecardonnel",
+          "commits_count": 66
+        },
+        {
           "name": "ThibaudReal",
           "avatar_url": "https://avatars.githubusercontent.com/u/48520594?v=4",
           "url": "https://github.com/ThibaudReal",
           "commits_count": 65
-        },
-        {
-          "name": "MLecardonnel",
-          "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
-          "url": "https://github.com/MLecardonnel",
-          "commits_count": 60
         },
         {
           "name": "Francesco-Marini",
@@ -607,7 +607,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-11-02T14:04:54Z",
+      "pushed_at": "2023-11-02T15:06:38Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1198,6 +1198,16 @@
         "eurybia"
       ]
     },
+    "MLecardonnel": {
+      "name": "MLecardonnel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
+      "url": "https://github.com/MLecardonnel",
+      "commits_count": 70,
+      "projects": [
+        "shapash",
+        "eurybia"
+      ]
+    },
     "ThibaudReal": {
       "name": "ThibaudReal",
       "avatar_url": "https://avatars.githubusercontent.com/u/48520594?v=4",
@@ -1205,16 +1215,6 @@
       "commits_count": 65,
       "projects": [
         "shapash"
-      ]
-    },
-    "MLecardonnel": {
-      "name": "MLecardonnel",
-      "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
-      "url": "https://github.com/MLecardonnel",
-      "commits_count": 64,
-      "projects": [
-        "shapash",
-        "eurybia"
       ]
     },
     "Francesco-Marini": {
@@ -1982,8 +1982,8 @@
     "ptitFicus",
     "hugo-quantmetry",
     "farthur",
-    "ThibaudReal",
     "MLecardonnel",
+    "ThibaudReal",
     "TFA-MAIF",
     "Btxgear",
     "Francesco-Marini",
