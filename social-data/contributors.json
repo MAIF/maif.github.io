@@ -607,7 +607,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-11-16T12:07:38Z",
+      "pushed_at": "2023-11-16T13:06:53Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1008,20 +1008,20 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2023-11-16T13:02:59Z",
+      "pushed_at": "2023-11-16T13:32:36Z",
       "contributors": [
         "ThomasBouche",
         "githubyako",
         "armgilles",
         "MLecardonnel"
       ],
-      "commits_count": 59,
+      "commits_count": 60,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 34
+          "commits_count": 35
         },
         {
           "name": "githubyako",
@@ -1048,7 +1048,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-11-16T09:29:51Z",
+      "pushed_at": "2023-11-16T13:33:33Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1056,13 +1056,13 @@
         "mathieuancelin",
         "Btxgear"
       ],
-      "commits_count": 1642,
+      "commits_count": 1643,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 955
+          "commits_count": 956
         },
         {
           "name": "Zwiterrion",
@@ -1191,7 +1191,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 267,
+      "commits_count": 268,
       "projects": [
         "shapash",
         "maif.github.io",
@@ -1375,7 +1375,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1246,
+      "commits_count": 1247,
       "projects": [
         "react-forms",
         "otoroshi",
