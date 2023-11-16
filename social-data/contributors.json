@@ -45,7 +45,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-11-16T09:53:56Z",
+      "pushed_at": "2023-11-16T10:44:15Z",
       "contributors": [
         "ThomasBouche",
         "MLecardonnel",
@@ -53,8 +53,8 @@
         "Francesco-Marini",
         "MaxGdr",
         "FlorineGreciet",
-        "yg79",
         "guillaume-vignal",
+        "yg79",
         "GAP01",
         "mathisbarthere",
         "blanoe",
@@ -68,13 +68,13 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 577,
+      "commits_count": 595,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 222
+          "commits_count": 232
         },
         {
           "name": "MLecardonnel",
@@ -107,16 +107,16 @@
           "commits_count": 33
         },
         {
+          "name": "guillaume-vignal",
+          "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
+          "url": "https://github.com/guillaume-vignal",
+          "commits_count": 31
+        },
+        {
           "name": "yg79",
           "avatar_url": "https://avatars.githubusercontent.com/u/41585787?v=4",
           "url": "https://github.com/yg79",
           "commits_count": 26
-        },
-        {
-          "name": "guillaume-vignal",
-          "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
-          "url": "https://github.com/guillaume-vignal",
-          "commits_count": 23
         },
         {
           "name": "GAP01",
@@ -197,7 +197,7 @@
       "url": "https://github.com/MAIF/react-forms",
       "description": "Fully managed react forms builder",
       "homepage": "https://maif.github.io/react-forms",
-      "pushed_at": "2023-10-18T09:55:23Z",
+      "pushed_at": "2023-11-16T10:57:51Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -205,13 +205,13 @@
         "baudelotphilippe",
         "mathieuancelin"
       ],
-      "commits_count": 309,
+      "commits_count": 311,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 197
+          "commits_count": 199
         },
         {
           "name": "Zwiterrion",
@@ -607,7 +607,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-11-16T09:06:11Z",
+      "pushed_at": "2023-11-16T10:05:12Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1008,20 +1008,20 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2023-09-26T19:40:30Z",
+      "pushed_at": "2023-11-16T10:44:49Z",
       "contributors": [
         "ThomasBouche",
         "githubyako",
         "armgilles",
         "MLecardonnel"
       ],
-      "commits_count": 57,
+      "commits_count": 59,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 32
+          "commits_count": 34
         },
         {
           "name": "githubyako",
@@ -1191,7 +1191,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 255,
+      "commits_count": 267,
       "projects": [
         "shapash",
         "maif.github.io",
@@ -1244,20 +1244,20 @@
         "shapash"
       ]
     },
+    "guillaume-vignal": {
+      "name": "guillaume-vignal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
+      "url": "https://github.com/guillaume-vignal",
+      "commits_count": 31,
+      "projects": [
+        "shapash"
+      ]
+    },
     "yg79": {
       "name": "yg79",
       "avatar_url": "https://avatars.githubusercontent.com/u/41585787?v=4",
       "url": "https://github.com/yg79",
       "commits_count": 26,
-      "projects": [
-        "shapash"
-      ]
-    },
-    "guillaume-vignal": {
-      "name": "guillaume-vignal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
-      "url": "https://github.com/guillaume-vignal",
-      "commits_count": 23,
       "projects": [
         "shapash"
       ]
@@ -1375,7 +1375,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1244,
+      "commits_count": 1246,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1993,8 +1993,8 @@
     "mathieuancelinserli",
     "FlorineGreciet",
     "desmfr",
-    "yg79",
     "guillaume-vignal",
+    "yg79",
     "Fraer",
     "milidris",
     "antoine-lecomte",
