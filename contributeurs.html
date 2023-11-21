@@ -189,7 +189,7 @@
         infos.projects.forEach((project) => {
           // console.log(project)
           if (project in infosRepos) {
-            content += `<a href="${infosRepos[project].url}" class="col-4 "><img class="img-fluid my-1" src="./img/${infosRepos[project].img}" alt="${project} logo"></a>`;
+            content += `<a href="${infosRepos[project].url}" class="col-4 "><img class="img-fluid my-1" style="filter: grayscale(100%);" src="./img/${infosRepos[project].img}" alt="${project} logo"></a>`;
           } else {
             console.log(project);
           }
