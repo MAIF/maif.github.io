@@ -1,5 +1,24 @@
 {
   "projects": {
+    "wasm4s": {
+      "name": "wasm4s",
+      "url": "https://github.com/MAIF/wasm4s",
+      "description": "A library to easily run WASM vms from inside your scala project",
+      "homepage": "",
+      "pushed_at": "2023-11-21T13:05:35Z",
+      "contributors": [
+        "mathieuancelin"
+      ],
+      "commits_count": 17,
+      "commits_per_contributor": [
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
+          "commits_count": 17
+        }
+      ]
+    },
     "thoth": {
       "name": "thoth",
       "url": "https://github.com/MAIF/thoth",
@@ -607,7 +626,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-11-21T11:05:35Z",
+      "pushed_at": "2023-11-21T12:06:59Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1139,6 +1158,22 @@
     }
   },
   "contributors": {
+    "mathieuancelin": {
+      "name": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "url": "https://github.com/mathieuancelin",
+      "commits_count": 5392,
+      "projects": [
+        "wasm4s",
+        "react-forms",
+        "otoroshi",
+        "nio",
+        "maif.github.io",
+        "izanami",
+        "daikoku",
+        "cards"
+      ]
+    },
     "larousso": {
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
@@ -1408,21 +1443,6 @@
         "melusine",
         "maif.github.io",
         "lets-automate",
-        "izanami",
-        "daikoku",
-        "cards"
-      ]
-    },
-    "mathieuancelin": {
-      "name": "mathieuancelin",
-      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-      "url": "https://github.com/mathieuancelin",
-      "commits_count": 5375,
-      "projects": [
-        "react-forms",
-        "otoroshi",
-        "nio",
-        "maif.github.io",
         "izanami",
         "daikoku",
         "cards"
