@@ -59,6 +59,7 @@ Promise.all(
     "otoroshi",
     "izanami",
     "daikoku",
+    "wasm4s",
     "thoth",
     "nio",
     "shapash",

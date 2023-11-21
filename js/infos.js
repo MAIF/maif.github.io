@@ -54,4 +54,9 @@ const infosRepos = {
     img: "wasmo.png",
     url_project: "https://maif.github.io/wasmo",
   },
+  wasm4s: {
+    url: "https://github.com/maif/wasm4s",
+    img: "https://raw.githubusercontent.com/MAIF/wasm4s/main/resource/wasm4s-logo-transparent.png",
+    url_project: "https://github.com/maif/wasm4s",
+  }
 };
