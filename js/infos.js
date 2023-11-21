@@ -49,4 +49,9 @@ const infosRepos = {
     img: "lets.svg",
     url_project: "https://maif.github.io/nio",
   },
+  "wasmo": {
+    url: "https://github.com/maif/wasmo",
+    img: "lets.svg",
+    url_project: "https://maif.github.io/wasmo",
+  },
 };
