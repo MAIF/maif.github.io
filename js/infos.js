@@ -51,7 +51,7 @@ const infosRepos = {
   },
   "wasmo": {
     url: "https://github.com/maif/wasmo",
-    img: "wasmo.svg",
+    img: "wasmo.png",
     url_project: "https://maif.github.io/wasmo",
   },
 };
