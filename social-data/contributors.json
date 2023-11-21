@@ -1,24 +1,5 @@
 {
   "projects": {
-    "wasm4s": {
-      "name": "wasm4s",
-      "url": "https://github.com/MAIF/wasm4s",
-      "description": "A library to easily run WASM vms from inside your scala project",
-      "homepage": "",
-      "pushed_at": "2023-11-21T13:58:34Z",
-      "contributors": [
-        "mathieuancelin"
-      ],
-      "commits_count": 19,
-      "commits_per_contributor": [
-        {
-          "name": "mathieuancelin",
-          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-          "url": "https://github.com/mathieuancelin",
-          "commits_count": 19
-        }
-      ]
-    },
     "thoth": {
       "name": "thoth",
       "url": "https://github.com/MAIF/thoth",
@@ -282,7 +263,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-11-21T10:34:38Z",
+      "pushed_at": "2023-11-21T14:17:46Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -300,13 +281,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 6468,
+      "commits_count": 6470,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5093
+          "commits_count": 5094
         },
         {
           "name": "Zwiterrion",
@@ -318,7 +299,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 383
+          "commits_count": 384
         },
         {
           "name": "quentinovega",
@@ -626,7 +607,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-11-21T13:07:47Z",
+      "pushed_at": "2023-11-21T14:05:17Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -970,6 +951,25 @@
         }
       ]
     },
+    "homebrew-wasmo": {
+      "name": "homebrew-wasmo",
+      "url": "https://github.com/MAIF/homebrew-wasmo",
+      "description": null,
+      "homepage": null,
+      "pushed_at": "2023-11-21T14:39:37Z",
+      "contributors": [
+        "Zwiterrion"
+      ],
+      "commits_count": 2,
+      "commits_per_contributor": [
+        {
+          "name": "Zwiterrion",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+          "url": "https://github.com/Zwiterrion",
+          "commits_count": 2
+        }
+      ]
+    },
     "functional-validation": {
       "name": "functional-validation",
       "url": "https://github.com/MAIF/functional-validation",
@@ -1158,22 +1158,6 @@
     }
   },
   "contributors": {
-    "mathieuancelin": {
-      "name": "mathieuancelin",
-      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-      "url": "https://github.com/mathieuancelin",
-      "commits_count": 5394,
-      "projects": [
-        "wasm4s",
-        "react-forms",
-        "otoroshi",
-        "nio",
-        "maif.github.io",
-        "izanami",
-        "daikoku",
-        "cards"
-      ]
-    },
     "larousso": {
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
@@ -1423,11 +1407,12 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1333,
+      "commits_count": 1335,
       "projects": [
         "react-forms",
         "otoroshi",
         "maif.github.io",
+        "homebrew-wasmo",
         "daikoku"
       ]
     },
@@ -1435,7 +1420,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 832,
+      "commits_count": 833,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1443,6 +1428,21 @@
         "melusine",
         "maif.github.io",
         "lets-automate",
+        "izanami",
+        "daikoku",
+        "cards"
+      ]
+    },
+    "mathieuancelin": {
+      "name": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "url": "https://github.com/mathieuancelin",
+      "commits_count": 5376,
+      "projects": [
+        "react-forms",
+        "otoroshi",
+        "nio",
+        "maif.github.io",
         "izanami",
         "daikoku",
         "cards"
