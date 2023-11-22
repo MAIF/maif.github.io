@@ -607,7 +607,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-11-22T12:07:25Z",
+      "pushed_at": "2023-11-22T13:07:35Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -956,17 +956,17 @@
       "url": "https://github.com/MAIF/homebrew-wasmo",
       "description": null,
       "homepage": null,
-      "pushed_at": "2023-11-22T12:59:26Z",
+      "pushed_at": "2023-11-22T13:32:28Z",
       "contributors": [
         "Zwiterrion"
       ],
-      "commits_count": 5,
+      "commits_count": 13,
       "commits_per_contributor": [
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 5
+          "commits_count": 13
         }
       ]
     },
@@ -1407,7 +1407,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1345,
+      "commits_count": 1353,
       "projects": [
         "react-forms",
         "otoroshi",
