@@ -607,7 +607,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-11-22T07:05:11Z",
+      "pushed_at": "2023-11-22T08:53:38Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -617,7 +617,7 @@
         "ThomasBouche",
         "ptitFicus"
       ],
-      "commits_count": 233,
+      "commits_count": 238,
       "commits_per_contributor": [
         {
           "name": "baudelotphilippe",
@@ -629,13 +629,13 @@
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 51
+          "commits_count": 52
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 31
+          "commits_count": 35
         },
         {
           "name": "desmfr",
@@ -1407,7 +1407,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1339,
+      "commits_count": 1343,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1437,7 +1437,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5382,
+      "commits_count": 5383,
       "projects": [
         "react-forms",
         "otoroshi",
