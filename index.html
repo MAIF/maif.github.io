@@ -170,7 +170,12 @@
       fetch("social-data/releases.json").then((response) => response.json())
     ])
       .then(releases => {
-        releases[0].forEach(release => {
+        sorties=releases[0]
+        sorties.sort((a, b) => {
+          return new Date(b.date) - new Date(a.date);
+        })
+
+        sorties.forEach(release => {
           createCards(release, "Release")
         })
 
