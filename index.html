@@ -166,16 +166,13 @@
       actus.appendChild(card);
     };
 
-    Promise.all([
-      fetch("social-data/releases.json").then((response) => response.json())
-    ])
+    fetch("social-data/releases.json").then((response) => response.json())
       .then(releases => {
-        sorties=releases[0]
-        sorties.sort((a, b) => {
+        releases.sort((a, b) => {
           return new Date(b.date) - new Date(a.date);
         })
 
-        sorties.forEach(release => {
+        releases.forEach(release => {
           createCards(release, "Release")
         })
 
