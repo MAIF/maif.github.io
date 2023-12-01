@@ -45,7 +45,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-11-30T16:46:30Z",
+      "pushed_at": "2023-12-01T07:54:23Z",
       "contributors": [
         "ThomasBouche",
         "MLecardonnel",
@@ -68,13 +68,13 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 595,
+      "commits_count": 597,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 232
+          "commits_count": 234
         },
         {
           "name": "MLecardonnel",
@@ -607,14 +607,14 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-01T06:06:09Z",
+      "pushed_at": "2023-12-01T07:04:58Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
         "Zwiterrion",
         "desmfr",
-        "ThomasBouche",
         "cwoodrow",
+        "ThomasBouche",
         "ptitFicus"
       ],
       "commits_count": 240,
@@ -644,15 +644,15 @@
           "commits_count": 26
         },
         {
-          "name": "ThomasBouche",
-          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
-          "url": "https://github.com/ThomasBouche",
-          "commits_count": 1
-        },
-        {
           "name": "cwoodrow",
           "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
           "url": "https://github.com/cwoodrow",
+          "commits_count": 1
+        },
+        {
+          "name": "ThomasBouche",
+          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+          "url": "https://github.com/ThomasBouche",
           "commits_count": 1
         },
         {
@@ -1210,7 +1210,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 268,
+      "commits_count": 270,
       "projects": [
         "shapash",
         "maif.github.io",
