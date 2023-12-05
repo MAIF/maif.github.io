@@ -263,7 +263,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-12-05T14:02:45Z",
+      "pushed_at": "2023-12-05T15:59:30Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -281,19 +281,19 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 6507,
+      "commits_count": 6513,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5127
+          "commits_count": 5132
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 841
+          "commits_count": 842
         },
         {
           "name": "baudelotphilippe",
@@ -607,14 +607,14 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-05T14:05:50Z",
+      "pushed_at": "2023-12-05T15:05:48Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
         "Zwiterrion",
         "desmfr",
-        "cwoodrow",
         "ThomasBouche",
+        "cwoodrow",
         "ptitFicus"
       ],
       "commits_count": 240,
@@ -644,15 +644,15 @@
           "commits_count": 26
         },
         {
-          "name": "cwoodrow",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-          "url": "https://github.com/cwoodrow",
-          "commits_count": 1
-        },
-        {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
+          "commits_count": 1
+        },
+        {
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
           "commits_count": 1
         },
         {
@@ -1407,7 +1407,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1355,
+      "commits_count": 1356,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1437,7 +1437,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5416,
+      "commits_count": 5421,
       "projects": [
         "react-forms",
         "otoroshi",
