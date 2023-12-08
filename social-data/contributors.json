@@ -45,7 +45,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2023-12-08T09:49:44Z",
+      "pushed_at": "2023-12-08T10:22:58Z",
       "contributors": [
         "ThomasBouche",
         "MLecardonnel",
@@ -68,7 +68,7 @@
         "susmitpy",
         "yvanzubro"
       ],
-      "commits_count": 599,
+      "commits_count": 600,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
@@ -110,7 +110,7 @@
           "name": "guillaume-vignal",
           "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
           "url": "https://github.com/guillaume-vignal",
-          "commits_count": 32
+          "commits_count": 33
         },
         {
           "name": "yg79",
@@ -607,7 +607,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-08T09:05:05Z",
+      "pushed_at": "2023-12-08T10:05:36Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1267,7 +1267,7 @@
       "name": "guillaume-vignal",
       "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
       "url": "https://github.com/guillaume-vignal",
-      "commits_count": 32,
+      "commits_count": 33,
       "projects": [
         "shapash"
       ]
@@ -2011,9 +2011,9 @@
     "benoitLebreton-perso",
     "MaxGdr",
     "mathieuancelinserli",
+    "guillaume-vignal",
     "FlorineGreciet",
     "desmfr",
-    "guillaume-vignal",
     "yg79",
     "Fraer",
     "milidris",
