@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/thoth",
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2023-12-08T14:41:02Z",
+      "pushed_at": "2023-12-08T16:03:08Z",
       "contributors": [
         "larousso",
         "ptitFicus",
@@ -607,7 +607,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-08T14:05:21Z",
+      "pushed_at": "2023-12-08T15:04:54Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -668,20 +668,20 @@
       "url": "https://github.com/MAIF/lets-automate",
       "description": "Automate Let's Encrypt certificate issuance, renewal and synchronize with CleverCloud.",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-10-07T14:15:31Z",
+      "pushed_at": "2023-12-08T15:17:30Z",
       "contributors": [
         "pierrebruninmaif",
         "larousso",
         "cwoodrow",
         "baudelotphilippe"
       ],
-      "commits_count": 40,
+      "commits_count": 44,
       "commits_per_contributor": [
         {
           "name": "pierrebruninmaif",
           "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
           "url": "https://github.com/pierrebruninmaif",
-          "commits_count": 23
+          "commits_count": 27
         },
         {
           "name": "larousso",
@@ -1741,7 +1741,7 @@
       "name": "pierrebruninmaif",
       "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
       "url": "https://github.com/pierrebruninmaif",
-      "commits_count": 241,
+      "commits_count": 245,
       "projects": [
         "lets-automate",
         "izanami"
