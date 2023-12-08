@@ -5,20 +5,20 @@
       "url": "https://github.com/MAIF/thoth",
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2023-12-08T16:03:08Z",
+      "pushed_at": "2023-12-08T16:13:32Z",
       "contributors": [
         "larousso",
         "ptitFicus",
         "Gregnarok",
         "HoussSak"
       ],
-      "commits_count": 140,
+      "commits_count": 141,
       "commits_per_contributor": [
         {
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 99
+          "commits_count": 100
         },
         {
           "name": "ptitFicus",
@@ -607,7 +607,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-08T15:04:54Z",
+      "pushed_at": "2023-12-08T16:06:19Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1162,7 +1162,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 946,
+      "commits_count": 947,
       "projects": [
         "thoth",
         "otoroshi",
