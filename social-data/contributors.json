@@ -607,14 +607,14 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-10T13:05:00Z",
+      "pushed_at": "2023-12-10T14:04:44Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
         "Zwiterrion",
         "desmfr",
-        "ThomasBouche",
         "cwoodrow",
+        "ThomasBouche",
         "ptitFicus"
       ],
       "commits_count": 240,
@@ -644,15 +644,15 @@
           "commits_count": 26
         },
         {
-          "name": "ThomasBouche",
-          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
-          "url": "https://github.com/ThomasBouche",
-          "commits_count": 1
-        },
-        {
           "name": "cwoodrow",
           "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
           "url": "https://github.com/cwoodrow",
+          "commits_count": 1
+        },
+        {
+          "name": "ThomasBouche",
+          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+          "url": "https://github.com/ThomasBouche",
           "commits_count": 1
         },
         {
