@@ -607,14 +607,14 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-11T14:05:42Z",
+      "pushed_at": "2023-12-11T15:05:55Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
         "Zwiterrion",
         "desmfr",
-        "cwoodrow",
         "ThomasBouche",
+        "cwoodrow",
         "ptitFicus"
       ],
       "commits_count": 240,
@@ -644,15 +644,15 @@
           "commits_count": 26
         },
         {
-          "name": "cwoodrow",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-          "url": "https://github.com/cwoodrow",
-          "commits_count": 1
-        },
-        {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
+          "commits_count": 1
+        },
+        {
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
           "commits_count": 1
         },
         {
@@ -956,17 +956,17 @@
       "url": "https://github.com/MAIF/homebrew-wasmo",
       "description": null,
       "homepage": null,
-      "pushed_at": "2023-11-30T10:01:00Z",
+      "pushed_at": "2023-12-11T15:18:33Z",
       "contributors": [
         "Zwiterrion"
       ],
-      "commits_count": 14,
+      "commits_count": 20,
       "commits_per_contributor": [
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 14
+          "commits_count": 20
         }
       ]
     },
@@ -1067,7 +1067,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-12-11T10:44:07Z",
+      "pushed_at": "2023-12-11T15:19:27Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1407,7 +1407,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1356,
+      "commits_count": 1362,
       "projects": [
         "react-forms",
         "otoroshi",
