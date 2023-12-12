@@ -455,7 +455,7 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "Melusine is a high-level library for emails classification and feature extraction \"dédiée aux courriels français\".",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2023-12-12T11:26:50Z",
+      "pushed_at": "2023-12-12T14:46:08Z",
       "contributors": [
         "hugo-quantmetry",
         "farthur",
@@ -463,6 +463,7 @@
         "tstringerquantmetry",
         "benoitLebreton-perso",
         "milidris",
+        "HugoPerrier",
         "adam-benjellounSG",
         "sachasamama",
         "victorBigand",
@@ -478,7 +479,7 @@
         "CRGONCALVES",
         "remi-perrier"
       ],
-      "commits_count": 386,
+      "commits_count": 401,
       "commits_per_contributor": [
         {
           "name": "hugo-quantmetry",
@@ -515,6 +516,12 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/25296515?v=4",
           "url": "https://github.com/milidris",
           "commits_count": 20
+        },
+        {
+          "name": "HugoPerrier",
+          "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
+          "url": "https://github.com/HugoPerrier",
+          "commits_count": 15
         },
         {
           "name": "adam-benjellounSG",
@@ -607,7 +614,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-12T13:07:57Z",
+      "pushed_at": "2023-12-12T14:04:53Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1067,7 +1074,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-12-12T10:55:05Z",
+      "pushed_at": "2023-12-12T14:13:37Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1075,13 +1082,13 @@
         "mathieuancelin",
         "Btxgear"
       ],
-      "commits_count": 1676,
+      "commits_count": 1677,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 989
+          "commits_count": 990
         },
         {
           "name": "Zwiterrion",
@@ -1394,7 +1401,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1280,
+      "commits_count": 1281,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1634,6 +1641,15 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/25296515?v=4",
       "url": "https://github.com/milidris",
       "commits_count": 20,
+      "projects": [
+        "melusine"
+      ]
+    },
+    "HugoPerrier": {
+      "name": "HugoPerrier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
+      "url": "https://github.com/HugoPerrier",
+      "commits_count": 15,
       "projects": [
         "melusine"
       ]
@@ -2019,6 +2035,7 @@
     "milidris",
     "antoine-lecomte",
     "githubyako",
+    "HugoPerrier",
     "GAP01",
     "gpoulet",
     "cwoodrow",
