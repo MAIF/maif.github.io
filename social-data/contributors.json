@@ -455,7 +455,7 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "Melusine is a high-level library for emails classification and feature extraction \"dédiée aux courriels français\".",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2023-06-12T21:30:00Z",
+      "pushed_at": "2023-12-12T11:26:50Z",
       "contributors": [
         "hugo-quantmetry",
         "farthur",
@@ -607,7 +607,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-12T10:05:56Z",
+      "pushed_at": "2023-12-12T11:05:08Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
