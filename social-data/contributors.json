@@ -263,7 +263,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-12-18T09:22:43Z",
+      "pushed_at": "2023-12-18T10:33:52Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -281,13 +281,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 6556,
+      "commits_count": 6557,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5145
+          "commits_count": 5146
         },
         {
           "name": "Zwiterrion",
@@ -455,13 +455,13 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "Melusine is a high-level library for emails classification and feature extraction \"dédiée aux courriels français\".",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2023-12-13T12:41:25Z",
+      "pushed_at": "2023-12-18T10:42:25Z",
       "contributors": [
         "hugo-quantmetry",
         "farthur",
         "TFA-MAIF",
-        "tstringerquantmetry",
         "HugoPerrier",
+        "tstringerquantmetry",
         "benoitLebreton-perso",
         "milidris",
         "adam-benjellounSG",
@@ -479,7 +479,7 @@
         "CRGONCALVES",
         "remi-perrier"
       ],
-      "commits_count": 438,
+      "commits_count": 439,
       "commits_per_contributor": [
         {
           "name": "hugo-quantmetry",
@@ -500,15 +500,15 @@
           "commits_count": 62
         },
         {
-          "name": "tstringerquantmetry",
-          "avatar_url": "https://avatars.githubusercontent.com/u/47748543?v=4",
-          "url": "https://github.com/tstringerquantmetry",
-          "commits_count": 52
-        },
-        {
           "name": "HugoPerrier",
           "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
           "url": "https://github.com/HugoPerrier",
+          "commits_count": 53
+        },
+        {
+          "name": "tstringerquantmetry",
+          "avatar_url": "https://avatars.githubusercontent.com/u/47748543?v=4",
+          "url": "https://github.com/tstringerquantmetry",
           "commits_count": 52
         },
         {
@@ -614,7 +614,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-18T09:06:08Z",
+      "pushed_at": "2023-12-18T10:05:09Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1444,7 +1444,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5434,
+      "commits_count": 5435,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1618,19 +1618,19 @@
         "melusine"
       ]
     },
-    "tstringerquantmetry": {
-      "name": "tstringerquantmetry",
-      "avatar_url": "https://avatars.githubusercontent.com/u/47748543?v=4",
-      "url": "https://github.com/tstringerquantmetry",
-      "commits_count": 52,
-      "projects": [
-        "melusine"
-      ]
-    },
     "HugoPerrier": {
       "name": "HugoPerrier",
       "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
       "url": "https://github.com/HugoPerrier",
+      "commits_count": 53,
+      "projects": [
+        "melusine"
+      ]
+    },
+    "tstringerquantmetry": {
+      "name": "tstringerquantmetry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47748543?v=4",
+      "url": "https://github.com/tstringerquantmetry",
       "commits_count": 52,
       "projects": [
         "melusine"
