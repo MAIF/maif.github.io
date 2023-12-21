@@ -614,14 +614,14 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-21T11:05:24Z",
+      "pushed_at": "2023-12-21T12:07:13Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
         "Zwiterrion",
         "desmfr",
-        "cwoodrow",
         "ThomasBouche",
+        "cwoodrow",
         "ptitFicus"
       ],
       "commits_count": 240,
@@ -651,15 +651,15 @@
           "commits_count": 26
         },
         {
-          "name": "cwoodrow",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-          "url": "https://github.com/cwoodrow",
-          "commits_count": 1
-        },
-        {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
+          "commits_count": 1
+        },
+        {
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
           "commits_count": 1
         },
         {
@@ -675,20 +675,20 @@
       "url": "https://github.com/MAIF/lets-automate",
       "description": "Automate Let's Encrypt certificate issuance, renewal and synchronize with CleverCloud.",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-08T15:17:30Z",
+      "pushed_at": "2023-12-21T12:59:32Z",
       "contributors": [
         "pierrebruninmaif",
         "larousso",
         "cwoodrow",
         "baudelotphilippe"
       ],
-      "commits_count": 44,
+      "commits_count": 46,
       "commits_per_contributor": [
         {
           "name": "pierrebruninmaif",
           "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
           "url": "https://github.com/pierrebruninmaif",
-          "commits_count": 27
+          "commits_count": 29
         },
         {
           "name": "larousso",
@@ -1757,7 +1757,7 @@
       "name": "pierrebruninmaif",
       "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
       "url": "https://github.com/pierrebruninmaif",
-      "commits_count": 245,
+      "commits_count": 247,
       "projects": [
         "lets-automate",
         "izanami"
