@@ -614,7 +614,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-22T14:05:46Z",
+      "pushed_at": "2023-12-22T15:05:04Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -675,7 +675,7 @@
       "url": "https://github.com/MAIF/lets-automate",
       "description": "Automate Let's Encrypt certificate issuance, renewal and synchronize with CleverCloud.",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-21T15:22:09Z",
+      "pushed_at": "2023-12-22T15:32:24Z",
       "contributors": [
         "pierrebruninmaif",
         "larousso",
