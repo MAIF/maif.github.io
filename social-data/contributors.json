@@ -263,7 +263,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2023-12-20T15:13:38Z",
+      "pushed_at": "2023-12-22T11:01:13Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -281,13 +281,13 @@
         "desmfr",
         "lucbu"
       ],
-      "commits_count": 6599,
+      "commits_count": 6600,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5170
+          "commits_count": 5171
         },
         {
           "name": "Zwiterrion",
@@ -614,14 +614,14 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2023-12-22T09:05:19Z",
+      "pushed_at": "2023-12-22T10:05:11Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
         "Zwiterrion",
         "desmfr",
-        "cwoodrow",
         "ThomasBouche",
+        "cwoodrow",
         "ptitFicus"
       ],
       "commits_count": 240,
@@ -651,15 +651,15 @@
           "commits_count": 26
         },
         {
-          "name": "cwoodrow",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-          "url": "https://github.com/cwoodrow",
-          "commits_count": 1
-        },
-        {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
+          "commits_count": 1
+        },
+        {
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
           "commits_count": 1
         },
         {
@@ -1074,7 +1074,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2023-12-22T08:58:30Z",
+      "pushed_at": "2023-12-22T10:59:34Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1082,13 +1082,13 @@
         "mathieuancelin",
         "Btxgear"
       ],
-      "commits_count": 1684,
+      "commits_count": 1686,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 997
+          "commits_count": 999
         },
         {
           "name": "Zwiterrion",
@@ -1401,7 +1401,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1288,
+      "commits_count": 1290,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1444,7 +1444,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5459,
+      "commits_count": 5460,
       "projects": [
         "react-forms",
         "otoroshi",
