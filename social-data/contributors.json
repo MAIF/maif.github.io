@@ -269,17 +269,17 @@
         "Zwiterrion",
         "baudelotphilippe",
         "quentinovega",
-        "mathieuancelinserli",
         "ptitFicus",
+        "mathieuancelinserli",
         "guillaumesolderaserli",
         "fedysalahserli",
         "omahs",
-        "sebprunierserli",
-        "larousso",
         "tristan-chauveau",
-        "cwoodrow",
+        "larousso",
+        "sebprunierserli",
+        "lucbu",
         "desmfr",
-        "lucbu"
+        "cwoodrow"
       ],
       "commits_count": 6606,
       "commits_per_contributor": [
@@ -308,15 +308,15 @@
           "commits_count": 49
         },
         {
-          "name": "mathieuancelinserli",
-          "avatar_url": "https://avatars.githubusercontent.com/u/18695639?v=4",
-          "url": "https://github.com/mathieuancelinserli",
-          "commits_count": 34
-        },
-        {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
+          "commits_count": 34
+        },
+        {
+          "name": "mathieuancelinserli",
+          "avatar_url": "https://avatars.githubusercontent.com/u/18695639?v=4",
+          "url": "https://github.com/mathieuancelinserli",
           "commits_count": 34
         },
         {
@@ -338,9 +338,9 @@
           "commits_count": 5
         },
         {
-          "name": "sebprunierserli",
-          "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
-          "url": "https://github.com/sebprunierserli",
+          "name": "tristan-chauveau",
+          "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
+          "url": "https://github.com/tristan-chauveau",
           "commits_count": 3
         },
         {
@@ -350,15 +350,15 @@
           "commits_count": 3
         },
         {
-          "name": "tristan-chauveau",
-          "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
-          "url": "https://github.com/tristan-chauveau",
+          "name": "sebprunierserli",
+          "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
+          "url": "https://github.com/sebprunierserli",
           "commits_count": 3
         },
         {
-          "name": "cwoodrow",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-          "url": "https://github.com/cwoodrow",
+          "name": "lucbu",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5434555?v=4",
+          "url": "https://github.com/lucbu",
           "commits_count": 1
         },
         {
@@ -368,9 +368,9 @@
           "commits_count": 1
         },
         {
-          "name": "lucbu",
-          "avatar_url": "https://avatars.githubusercontent.com/u/5434555?v=4",
-          "url": "https://github.com/lucbu",
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
           "commits_count": 1
         }
       ]
@@ -614,7 +614,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-01-02T20:05:29Z",
+      "pushed_at": "2024-01-02T21:04:43Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1500,6 +1500,15 @@
         "otoroshi"
       ]
     },
+    "tristan-chauveau": {
+      "name": "tristan-chauveau",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
+      "url": "https://github.com/tristan-chauveau",
+      "commits_count": 3,
+      "projects": [
+        "otoroshi"
+      ]
+    },
     "sebprunierserli": {
       "name": "sebprunierserli",
       "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
@@ -1510,26 +1519,13 @@
         "izanami"
       ]
     },
-    "tristan-chauveau": {
-      "name": "tristan-chauveau",
-      "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
-      "url": "https://github.com/tristan-chauveau",
-      "commits_count": 3,
+    "lucbu": {
+      "name": "lucbu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5434555?v=4",
+      "url": "https://github.com/lucbu",
+      "commits_count": 1,
       "projects": [
         "otoroshi"
-      ]
-    },
-    "cwoodrow": {
-      "name": "cwoodrow",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-      "url": "https://github.com/cwoodrow",
-      "commits_count": 11,
-      "projects": [
-        "otoroshi",
-        "nio",
-        "melusine",
-        "maif.github.io",
-        "lets-automate"
       ]
     },
     "desmfr": {
@@ -1545,13 +1541,17 @@
         "cards"
       ]
     },
-    "lucbu": {
-      "name": "lucbu",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5434555?v=4",
-      "url": "https://github.com/lucbu",
-      "commits_count": 1,
+    "cwoodrow": {
+      "name": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "url": "https://github.com/cwoodrow",
+      "commits_count": 11,
       "projects": [
-        "otoroshi"
+        "otoroshi",
+        "nio",
+        "melusine",
+        "maif.github.io",
+        "lets-automate"
       ]
     },
     "Fraer": {
