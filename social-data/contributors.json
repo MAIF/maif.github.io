@@ -455,7 +455,7 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "Melusine is a high-level library for emails classification and feature extraction \"dédiée aux courriels français\".",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2023-12-20T08:42:52Z",
+      "pushed_at": "2024-01-03T09:58:25Z",
       "contributors": [
         "hugo-quantmetry",
         "farthur",
@@ -470,16 +470,16 @@
         "FDJFDJ",
         "AntoineSimoulin",
         "baudelotphilippe",
-        "desmfr",
-        "cwoodrow",
-        "remiadon",
-        "ggirou",
-        "nicolaspte",
-        "Maxime-POULAIN-Verlingue",
+        "remi-perrier",
         "CRGONCALVES",
-        "remi-perrier"
+        "Maxime-POULAIN-Verlingue",
+        "nicolaspte",
+        "ggirou",
+        "remiadon",
+        "cwoodrow",
+        "desmfr"
       ],
-      "commits_count": 450,
+      "commits_count": 451,
       "commits_per_contributor": [
         {
           "name": "hugo-quantmetry",
@@ -497,7 +497,7 @@
           "name": "HugoPerrier",
           "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
           "url": "https://github.com/HugoPerrier",
-          "commits_count": 64
+          "commits_count": 65
         },
         {
           "name": "TFA-MAIF",
@@ -560,39 +560,9 @@
           "commits_count": 2
         },
         {
-          "name": "desmfr",
-          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
-          "url": "https://github.com/desmfr",
-          "commits_count": 1
-        },
-        {
-          "name": "cwoodrow",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-          "url": "https://github.com/cwoodrow",
-          "commits_count": 1
-        },
-        {
-          "name": "remiadon",
-          "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
-          "url": "https://github.com/remiadon",
-          "commits_count": 1
-        },
-        {
-          "name": "ggirou",
-          "avatar_url": "https://avatars.githubusercontent.com/u/739916?v=4",
-          "url": "https://github.com/ggirou",
-          "commits_count": 1
-        },
-        {
-          "name": "nicolaspte",
-          "avatar_url": "https://avatars.githubusercontent.com/u/55386851?v=4",
-          "url": "https://github.com/nicolaspte",
-          "commits_count": 1
-        },
-        {
-          "name": "Maxime-POULAIN-Verlingue",
-          "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
-          "url": "https://github.com/Maxime-POULAIN-Verlingue",
+          "name": "remi-perrier",
+          "avatar_url": "https://avatars.githubusercontent.com/u/57212723?v=4",
+          "url": "https://github.com/remi-perrier",
           "commits_count": 1
         },
         {
@@ -602,9 +572,39 @@
           "commits_count": 1
         },
         {
-          "name": "remi-perrier",
-          "avatar_url": "https://avatars.githubusercontent.com/u/57212723?v=4",
-          "url": "https://github.com/remi-perrier",
+          "name": "Maxime-POULAIN-Verlingue",
+          "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
+          "url": "https://github.com/Maxime-POULAIN-Verlingue",
+          "commits_count": 1
+        },
+        {
+          "name": "nicolaspte",
+          "avatar_url": "https://avatars.githubusercontent.com/u/55386851?v=4",
+          "url": "https://github.com/nicolaspte",
+          "commits_count": 1
+        },
+        {
+          "name": "ggirou",
+          "avatar_url": "https://avatars.githubusercontent.com/u/739916?v=4",
+          "url": "https://github.com/ggirou",
+          "commits_count": 1
+        },
+        {
+          "name": "remiadon",
+          "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
+          "url": "https://github.com/remiadon",
+          "commits_count": 1
+        },
+        {
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
+          "commits_count": 1
+        },
+        {
+          "name": "desmfr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+          "url": "https://github.com/desmfr",
           "commits_count": 1
         }
       ]
@@ -614,7 +614,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-01-03T08:05:51Z",
+      "pushed_at": "2024-01-03T09:05:29Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1613,7 +1613,7 @@
       "name": "HugoPerrier",
       "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
       "url": "https://github.com/HugoPerrier",
-      "commits_count": 64,
+      "commits_count": 65,
       "projects": [
         "melusine"
       ]
@@ -1699,37 +1699,10 @@
         "melusine"
       ]
     },
-    "remiadon": {
-      "name": "remiadon",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
-      "url": "https://github.com/remiadon",
-      "commits_count": 1,
-      "projects": [
-        "melusine"
-      ]
-    },
-    "ggirou": {
-      "name": "ggirou",
-      "avatar_url": "https://avatars.githubusercontent.com/u/739916?v=4",
-      "url": "https://github.com/ggirou",
-      "commits_count": 1,
-      "projects": [
-        "melusine"
-      ]
-    },
-    "nicolaspte": {
-      "name": "nicolaspte",
-      "avatar_url": "https://avatars.githubusercontent.com/u/55386851?v=4",
-      "url": "https://github.com/nicolaspte",
-      "commits_count": 1,
-      "projects": [
-        "melusine"
-      ]
-    },
-    "Maxime-POULAIN-Verlingue": {
-      "name": "Maxime-POULAIN-Verlingue",
-      "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
-      "url": "https://github.com/Maxime-POULAIN-Verlingue",
+    "remi-perrier": {
+      "name": "remi-perrier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57212723?v=4",
+      "url": "https://github.com/remi-perrier",
       "commits_count": 1,
       "projects": [
         "melusine"
@@ -1744,10 +1717,37 @@
         "melusine"
       ]
     },
-    "remi-perrier": {
-      "name": "remi-perrier",
-      "avatar_url": "https://avatars.githubusercontent.com/u/57212723?v=4",
-      "url": "https://github.com/remi-perrier",
+    "Maxime-POULAIN-Verlingue": {
+      "name": "Maxime-POULAIN-Verlingue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94903022?v=4",
+      "url": "https://github.com/Maxime-POULAIN-Verlingue",
+      "commits_count": 1,
+      "projects": [
+        "melusine"
+      ]
+    },
+    "nicolaspte": {
+      "name": "nicolaspte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55386851?v=4",
+      "url": "https://github.com/nicolaspte",
+      "commits_count": 1,
+      "projects": [
+        "melusine"
+      ]
+    },
+    "ggirou": {
+      "name": "ggirou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/739916?v=4",
+      "url": "https://github.com/ggirou",
+      "commits_count": 1,
+      "projects": [
+        "melusine"
+      ]
+    },
+    "remiadon": {
+      "name": "remiadon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2931080?v=4",
+      "url": "https://github.com/remiadon",
       "commits_count": 1,
       "projects": [
         "melusine"
@@ -2019,8 +2019,8 @@
     "hugo-quantmetry",
     "farthur",
     "MLecardonnel",
-    "ThibaudReal",
     "HugoPerrier",
+    "ThibaudReal",
     "TFA-MAIF",
     "Btxgear",
     "Francesco-Marini",
@@ -2082,12 +2082,12 @@
     "Freyskeyd",
     "fsamin",
     "romaindso",
-    "remi-perrier",
-    "CRGONCALVES",
-    "Maxime-POULAIN-Verlingue",
-    "nicolaspte",
-    "ggirou",
     "remiadon",
+    "ggirou",
+    "nicolaspte",
+    "Maxime-POULAIN-Verlingue",
+    "CRGONCALVES",
+    "remi-perrier",
     "marclaporte",
     "frinyvonnick",
     "lucbu",
