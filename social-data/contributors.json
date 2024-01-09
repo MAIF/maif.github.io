@@ -614,23 +614,23 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-01-08T23:05:19Z",
+      "pushed_at": "2024-01-09T00:19:15Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
         "Zwiterrion",
         "desmfr",
+        "ptitFicus",
         "cwoodrow",
-        "ThomasBouche",
-        "ptitFicus"
+        "ThomasBouche"
       ],
-      "commits_count": 240,
+      "commits_count": 259,
       "commits_per_contributor": [
         {
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 124
+          "commits_count": 141
         },
         {
           "name": "mathieuancelin",
@@ -642,13 +642,19 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 35
+          "commits_count": 36
         },
         {
           "name": "desmfr",
           "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
           "url": "https://github.com/desmfr",
           "commits_count": 26
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 2
         },
         {
           "name": "cwoodrow",
@@ -660,12 +666,6 @@
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 1
-        },
-        {
-          "name": "ptitFicus",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-          "url": "https://github.com/ptitFicus",
           "commits_count": 1
         }
       ]
@@ -1185,7 +1185,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 114,
+      "commits_count": 115,
       "projects": [
         "thoth",
         "react-forms",
@@ -1414,7 +1414,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1392,
+      "commits_count": 1393,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1427,7 +1427,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 859,
+      "commits_count": 876,
       "projects": [
         "react-forms",
         "otoroshi",
