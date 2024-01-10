@@ -52,21 +52,21 @@
         "ThibaudReal",
         "Francesco-Marini",
         "MaxGdr",
-        "FlorineGreciet",
         "guillaume-vignal",
+        "FlorineGreciet",
         "yg79",
         "GAP01",
         "mathisbarthere",
         "blanoe",
         "githubyako",
         "YL79",
-        "peterdhansen",
-        "SebastienBidault",
         "amnaabbassi",
         "amorea04",
-        "DragonWarrior15",
+        "SebastienBidault",
+        "peterdhansen",
+        "yvanzubro",
         "susmitpy",
-        "yvanzubro"
+        "DragonWarrior15"
       ],
       "commits_count": 600,
       "commits_per_contributor": [
@@ -101,15 +101,15 @@
           "commits_count": 35
         },
         {
-          "name": "FlorineGreciet",
-          "avatar_url": "https://avatars.githubusercontent.com/u/113047009?v=4",
-          "url": "https://github.com/FlorineGreciet",
-          "commits_count": 33
-        },
-        {
           "name": "guillaume-vignal",
           "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
           "url": "https://github.com/guillaume-vignal",
+          "commits_count": 33
+        },
+        {
+          "name": "FlorineGreciet",
+          "avatar_url": "https://avatars.githubusercontent.com/u/113047009?v=4",
+          "url": "https://github.com/FlorineGreciet",
           "commits_count": 33
         },
         {
@@ -149,18 +149,6 @@
           "commits_count": 3
         },
         {
-          "name": "peterdhansen",
-          "avatar_url": "https://avatars.githubusercontent.com/u/19173854?v=4",
-          "url": "https://github.com/peterdhansen",
-          "commits_count": 2
-        },
-        {
-          "name": "SebastienBidault",
-          "avatar_url": "https://avatars.githubusercontent.com/u/57792044?v=4",
-          "url": "https://github.com/SebastienBidault",
-          "commits_count": 2
-        },
-        {
           "name": "amnaabbassi",
           "avatar_url": "https://avatars.githubusercontent.com/u/22617297?v=4",
           "url": "https://github.com/amnaabbassi",
@@ -173,9 +161,21 @@
           "commits_count": 2
         },
         {
-          "name": "DragonWarrior15",
-          "avatar_url": "https://avatars.githubusercontent.com/u/13030337?v=4",
-          "url": "https://github.com/DragonWarrior15",
+          "name": "SebastienBidault",
+          "avatar_url": "https://avatars.githubusercontent.com/u/57792044?v=4",
+          "url": "https://github.com/SebastienBidault",
+          "commits_count": 2
+        },
+        {
+          "name": "peterdhansen",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19173854?v=4",
+          "url": "https://github.com/peterdhansen",
+          "commits_count": 2
+        },
+        {
+          "name": "yvanzubro",
+          "avatar_url": "https://avatars.githubusercontent.com/u/78306037?v=4",
+          "url": "https://github.com/yvanzubro",
           "commits_count": 1
         },
         {
@@ -185,9 +185,9 @@
           "commits_count": 1
         },
         {
-          "name": "yvanzubro",
-          "avatar_url": "https://avatars.githubusercontent.com/u/78306037?v=4",
-          "url": "https://github.com/yvanzubro",
+          "name": "DragonWarrior15",
+          "avatar_url": "https://avatars.githubusercontent.com/u/13030337?v=4",
+          "url": "https://github.com/DragonWarrior15",
           "commits_count": 1
         }
       ]
@@ -621,7 +621,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-01-10T04:05:24Z",
+      "pushed_at": "2024-01-10T05:05:08Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1268,19 +1268,19 @@
         "shapash"
       ]
     },
-    "FlorineGreciet": {
-      "name": "FlorineGreciet",
-      "avatar_url": "https://avatars.githubusercontent.com/u/113047009?v=4",
-      "url": "https://github.com/FlorineGreciet",
+    "guillaume-vignal": {
+      "name": "guillaume-vignal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
+      "url": "https://github.com/guillaume-vignal",
       "commits_count": 33,
       "projects": [
         "shapash"
       ]
     },
-    "guillaume-vignal": {
-      "name": "guillaume-vignal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
-      "url": "https://github.com/guillaume-vignal",
+    "FlorineGreciet": {
+      "name": "FlorineGreciet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113047009?v=4",
+      "url": "https://github.com/FlorineGreciet",
       "commits_count": 33,
       "projects": [
         "shapash"
@@ -1341,24 +1341,6 @@
         "shapash"
       ]
     },
-    "peterdhansen": {
-      "name": "peterdhansen",
-      "avatar_url": "https://avatars.githubusercontent.com/u/19173854?v=4",
-      "url": "https://github.com/peterdhansen",
-      "commits_count": 2,
-      "projects": [
-        "shapash"
-      ]
-    },
-    "SebastienBidault": {
-      "name": "SebastienBidault",
-      "avatar_url": "https://avatars.githubusercontent.com/u/57792044?v=4",
-      "url": "https://github.com/SebastienBidault",
-      "commits_count": 2,
-      "projects": [
-        "shapash"
-      ]
-    },
     "amnaabbassi": {
       "name": "amnaabbassi",
       "avatar_url": "https://avatars.githubusercontent.com/u/22617297?v=4",
@@ -1377,10 +1359,28 @@
         "shapash"
       ]
     },
-    "DragonWarrior15": {
-      "name": "DragonWarrior15",
-      "avatar_url": "https://avatars.githubusercontent.com/u/13030337?v=4",
-      "url": "https://github.com/DragonWarrior15",
+    "SebastienBidault": {
+      "name": "SebastienBidault",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57792044?v=4",
+      "url": "https://github.com/SebastienBidault",
+      "commits_count": 2,
+      "projects": [
+        "shapash"
+      ]
+    },
+    "peterdhansen": {
+      "name": "peterdhansen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19173854?v=4",
+      "url": "https://github.com/peterdhansen",
+      "commits_count": 2,
+      "projects": [
+        "shapash"
+      ]
+    },
+    "yvanzubro": {
+      "name": "yvanzubro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78306037?v=4",
+      "url": "https://github.com/yvanzubro",
       "commits_count": 1,
       "projects": [
         "shapash"
@@ -1395,10 +1395,10 @@
         "shapash"
       ]
     },
-    "yvanzubro": {
-      "name": "yvanzubro",
-      "avatar_url": "https://avatars.githubusercontent.com/u/78306037?v=4",
-      "url": "https://github.com/yvanzubro",
+    "DragonWarrior15": {
+      "name": "DragonWarrior15",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13030337?v=4",
+      "url": "https://github.com/DragonWarrior15",
       "commits_count": 1,
       "projects": [
         "shapash"
@@ -2044,8 +2044,8 @@
     "benoitLebreton-perso",
     "MaxGdr",
     "mathieuancelinserli",
-    "guillaume-vignal",
     "FlorineGreciet",
+    "guillaume-vignal",
     "desmfr",
     "yg79",
     "Fraer",
@@ -2079,10 +2079,10 @@
     "YL79",
     "mbaechler",
     "jabby",
+    "peterdhansen",
+    "SebastienBidault",
     "amorea04",
     "amnaabbassi",
-    "SebastienBidault",
-    "peterdhansen",
     "wikijm",
     "gotson",
     "charlyx",
@@ -2108,9 +2108,9 @@
     "marclaporte",
     "frinyvonnick",
     "lucbu",
-    "yvanzubro",
-    "susmitpy",
     "DragonWarrior15",
+    "susmitpy",
+    "yvanzubro",
     "HoussSak",
     "Gregnarok"
   ]
