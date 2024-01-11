@@ -263,7 +263,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-01-10T01:01:54Z",
+      "pushed_at": "2024-01-11T15:32:37Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -281,13 +281,13 @@
         "desmfr",
         "cwoodrow"
       ],
-      "commits_count": 6618,
+      "commits_count": 6619,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5182
+          "commits_count": 5183
         },
         {
           "name": "Zwiterrion",
@@ -455,7 +455,7 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "Melusine is a high-level library for emails classification and feature extraction \"dédiée aux courriels français\".",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2024-01-11T12:23:46Z",
+      "pushed_at": "2024-01-11T15:14:19Z",
       "contributors": [
         "hugo-quantmetry",
         "HugoPerrier",
@@ -464,8 +464,8 @@
         "tstringerquantmetry",
         "benoitLebreton-perso",
         "milidris",
-        "adam-benjellounSG",
         "guilieb",
+        "adam-benjellounSG",
         "victorBigand",
         "sachasamama",
         "AntoineSimoulin",
@@ -480,7 +480,7 @@
         "cwoodrow",
         "desmfr"
       ],
-      "commits_count": 471,
+      "commits_count": 472,
       "commits_per_contributor": [
         {
           "name": "hugo-quantmetry",
@@ -525,16 +525,16 @@
           "commits_count": 20
         },
         {
+          "name": "guilieb",
+          "avatar_url": "https://avatars.githubusercontent.com/u/49333734?v=4",
+          "url": "https://github.com/guilieb",
+          "commits_count": 7
+        },
+        {
           "name": "adam-benjellounSG",
           "avatar_url": "https://avatars.githubusercontent.com/u/97891573?v=4",
           "url": "https://github.com/adam-benjellounSG",
           "commits_count": 7
-        },
-        {
-          "name": "guilieb",
-          "avatar_url": "https://avatars.githubusercontent.com/u/49333734?v=4",
-          "url": "https://github.com/guilieb",
-          "commits_count": 6
         },
         {
           "name": "victorBigand",
@@ -621,7 +621,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-01-11T14:05:43Z",
+      "pushed_at": "2024-01-11T15:05:38Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1451,7 +1451,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5471,
+      "commits_count": 5472,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1661,20 +1661,20 @@
         "melusine"
       ]
     },
-    "adam-benjellounSG": {
-      "name": "adam-benjellounSG",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97891573?v=4",
-      "url": "https://github.com/adam-benjellounSG",
+    "guilieb": {
+      "name": "guilieb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49333734?v=4",
+      "url": "https://github.com/guilieb",
       "commits_count": 7,
       "projects": [
         "melusine"
       ]
     },
-    "guilieb": {
-      "name": "guilieb",
-      "avatar_url": "https://avatars.githubusercontent.com/u/49333734?v=4",
-      "url": "https://github.com/guilieb",
-      "commits_count": 6,
+    "adam-benjellounSG": {
+      "name": "adam-benjellounSG",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97891573?v=4",
+      "url": "https://github.com/adam-benjellounSG",
+      "commits_count": 7,
       "projects": [
         "melusine"
       ]
@@ -2062,9 +2062,9 @@
     "mathisbarthere",
     "jtanguy",
     "adam-benjellounSG",
+    "guilieb",
     "sachasamama",
     "victorBigand",
-    "guilieb",
     "omahs",
     "olivierboudet",
     "sebprunierserli",
