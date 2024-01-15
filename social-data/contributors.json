@@ -455,7 +455,7 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "Melusine is a high-level library for emails classification and feature extraction \"dédiée aux courriels français\".",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2024-01-15T17:04:50Z",
+      "pushed_at": "2024-01-15T17:31:19Z",
       "contributors": [
         "hugo-quantmetry",
         "HugoPerrier",
@@ -480,7 +480,7 @@
         "cwoodrow",
         "desmfr"
       ],
-      "commits_count": 490,
+      "commits_count": 492,
       "commits_per_contributor": [
         {
           "name": "hugo-quantmetry",
@@ -492,7 +492,7 @@
           "name": "HugoPerrier",
           "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
           "url": "https://github.com/HugoPerrier",
-          "commits_count": 90
+          "commits_count": 92
         },
         {
           "name": "farthur",
@@ -621,7 +621,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-01-15T16:05:39Z",
+      "pushed_at": "2024-01-15T17:05:27Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1611,7 +1611,7 @@
       "name": "HugoPerrier",
       "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
       "url": "https://github.com/HugoPerrier",
-      "commits_count": 90,
+      "commits_count": 92,
       "projects": [
         "melusine"
       ]
