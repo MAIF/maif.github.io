@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/thoth",
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2023-12-08T16:13:32Z",
+      "pushed_at": "2024-01-25T11:09:57Z",
       "contributors": [
         "larousso",
         "ptitFicus",
@@ -45,7 +45,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2024-01-25T09:56:00Z",
+      "pushed_at": "2024-01-25T11:47:48Z",
       "contributors": [
         "ThomasBouche",
         "MLecardonnel",
@@ -621,7 +621,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-01-25T10:05:26Z",
+      "pushed_at": "2024-01-25T11:04:50Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
