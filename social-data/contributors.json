@@ -5,14 +5,15 @@
       "url": "https://github.com/MAIF/thoth",
       "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
       "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2024-01-25T11:09:57Z",
+      "pushed_at": "2024-01-29T15:49:31Z",
       "contributors": [
         "larousso",
         "ptitFicus",
         "Gregnarok",
-        "HoussSak"
+        "HoussSak",
+        "florian-tirard"
       ],
-      "commits_count": 141,
+      "commits_count": 142,
       "commits_per_contributor": [
         {
           "name": "larousso",
@@ -36,6 +37,12 @@
           "name": "HoussSak",
           "avatar_url": "https://avatars.githubusercontent.com/u/99645587?v=4",
           "url": "https://github.com/HoussSak",
+          "commits_count": 1
+        },
+        {
+          "name": "florian-tirard",
+          "avatar_url": "https://avatars.githubusercontent.com/u/150662252?v=4",
+          "url": "https://github.com/florian-tirard",
           "commits_count": 1
         }
       ]
@@ -270,7 +277,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-01-29T14:04:01Z",
+      "pushed_at": "2024-01-29T15:12:58Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -628,7 +635,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-01-29T14:05:13Z",
+      "pushed_at": "2024-01-29T15:05:03Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1222,6 +1229,15 @@
       "name": "HoussSak",
       "avatar_url": "https://avatars.githubusercontent.com/u/99645587?v=4",
       "url": "https://github.com/HoussSak",
+      "commits_count": 1,
+      "projects": [
+        "thoth"
+      ]
+    },
+    "florian-tirard": {
+      "name": "florian-tirard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150662252?v=4",
+      "url": "https://github.com/florian-tirard",
       "commits_count": 1,
       "projects": [
         "thoth"
@@ -2128,6 +2144,7 @@
     "DragonWarrior15",
     "susmitpy",
     "yvanzubro",
+    "florian-tirard",
     "HoussSak",
     "Gregnarok"
   ]
