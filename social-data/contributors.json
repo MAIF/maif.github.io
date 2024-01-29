@@ -45,7 +45,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2024-01-25T11:47:48Z",
+      "pushed_at": "2024-01-29T09:07:41Z",
       "contributors": [
         "ThomasBouche",
         "MLecardonnel",
@@ -55,20 +55,21 @@
         "guillaume-vignal",
         "FlorineGreciet",
         "yg79",
+        "guerinclement",
         "GAP01",
         "mathisbarthere",
         "blanoe",
         "githubyako",
         "YL79",
-        "amnaabbassi",
         "amorea04",
+        "amnaabbassi",
         "SebastienBidault",
         "peterdhansen",
         "yvanzubro",
         "susmitpy",
         "DragonWarrior15"
       ],
-      "commits_count": 600,
+      "commits_count": 614,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
@@ -119,6 +120,12 @@
           "commits_count": 26
         },
         {
+          "name": "guerinclement",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5967752?v=4",
+          "url": "https://github.com/guerinclement",
+          "commits_count": 14
+        },
+        {
           "name": "GAP01",
           "avatar_url": "https://avatars.githubusercontent.com/u/43179647?v=4",
           "url": "https://github.com/GAP01",
@@ -149,15 +156,15 @@
           "commits_count": 3
         },
         {
-          "name": "amnaabbassi",
-          "avatar_url": "https://avatars.githubusercontent.com/u/22617297?v=4",
-          "url": "https://github.com/amnaabbassi",
-          "commits_count": 2
-        },
-        {
           "name": "amorea04",
           "avatar_url": "https://avatars.githubusercontent.com/u/36231668?v=4",
           "url": "https://github.com/amorea04",
+          "commits_count": 2
+        },
+        {
+          "name": "amnaabbassi",
+          "avatar_url": "https://avatars.githubusercontent.com/u/22617297?v=4",
+          "url": "https://github.com/amnaabbassi",
           "commits_count": 2
         },
         {
@@ -621,7 +628,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-01-29T08:06:24Z",
+      "pushed_at": "2024-01-29T09:05:21Z",
       "contributors": [
         "baudelotphilippe",
         "mathieuancelin",
@@ -1295,6 +1302,15 @@
         "shapash"
       ]
     },
+    "guerinclement": {
+      "name": "guerinclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5967752?v=4",
+      "url": "https://github.com/guerinclement",
+      "commits_count": 14,
+      "projects": [
+        "shapash"
+      ]
+    },
     "GAP01": {
       "name": "GAP01",
       "avatar_url": "https://avatars.githubusercontent.com/u/43179647?v=4",
@@ -1341,19 +1357,19 @@
         "shapash"
       ]
     },
-    "amnaabbassi": {
-      "name": "amnaabbassi",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22617297?v=4",
-      "url": "https://github.com/amnaabbassi",
+    "amorea04": {
+      "name": "amorea04",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36231668?v=4",
+      "url": "https://github.com/amorea04",
       "commits_count": 2,
       "projects": [
         "shapash"
       ]
     },
-    "amorea04": {
-      "name": "amorea04",
-      "avatar_url": "https://avatars.githubusercontent.com/u/36231668?v=4",
-      "url": "https://github.com/amorea04",
+    "amnaabbassi": {
+      "name": "amnaabbassi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22617297?v=4",
+      "url": "https://github.com/amnaabbassi",
       "commits_count": 2,
       "projects": [
         "shapash"
@@ -2054,6 +2070,7 @@
     "githubyako",
     "guilieb",
     "GAP01",
+    "guerinclement",
     "gpoulet",
     "cwoodrow",
     "guillaumesolderaserli",
@@ -2081,8 +2098,8 @@
     "jabby",
     "peterdhansen",
     "SebastienBidault",
-    "amorea04",
     "amnaabbassi",
+    "amorea04",
     "wikijm",
     "gotson",
     "charlyx",
