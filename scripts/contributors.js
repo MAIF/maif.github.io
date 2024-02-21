@@ -14,7 +14,11 @@ const filterOut = [
 
 const projectsPerUser = {};
 
-function getCommits(repo) {
+function getCommits(repo, attempts) {
+  if (attempts <= 0) {
+    return Promise.resolve([])
+  }
+
   return fetch(`https://api.github.com/repos/MAIF/${repo}/stats/contributors`, {
     method: 'GET',
     headers: {
@@ -27,8 +31,8 @@ function getCommits(repo) {
       return new Promise(resolve => {
         console.log(repo, 'retry')
         setTimeout(() => {
-          resolve(getCommits(repo))
-        }, 2500)
+          resolve(getCommits(repo, attempts - 1))
+        }, 5000)
       });
     }
     else if (r.status === 200) {
@@ -97,7 +101,7 @@ function getRepos() {
               })
             } else {
               const task = tasks.pop();
-              getCommits(task.name)
+              getCommits(task.name, 10)
                 .then(commits => {
                   results[task.name] = {
                     name: task.name,
