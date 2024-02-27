@@ -487,7 +487,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-02-27T02:22:08Z",
+      "pushed_at": "2024-02-27T03:17:41Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -518,9 +518,228 @@
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
       "pushed_at": "2023-08-29T08:01:10Z",
-      "contributors": [],
-      "commits_count": 0,
-      "commits_per_contributor": []
+      "contributors": [
+        "larousso",
+        "pierrebruninmaif",
+        "baudelotphilippe",
+        "mathieuancelin",
+        "gpoulet",
+        "jtanguy",
+        "quentinovega",
+        "olivierboudet",
+        "desmfr",
+        "sguiheux",
+        "quentinproust",
+        "kefranabg",
+        "gmembre-zenika",
+        "oltruong",
+        "jabby",
+        "christophejan",
+        "grosa1",
+        "romaindso",
+        "fsamin",
+        "Freyskeyd",
+        "cdrikd",
+        "ptitFicus",
+        "ybasket",
+        "cbois",
+        "hamish-omny",
+        "SoerenSilkjaer",
+        "farnulfo",
+        "glc-gplassard",
+        "cbm-lcoatanlem",
+        "sebprunierserli",
+        "charlyx"
+      ],
+      "commits_count": 1165,
+      "commits_per_contributor": [
+        {
+          "name": "larousso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+          "url": "https://github.com/larousso",
+          "commits_count": 715
+        },
+        {
+          "name": "pierrebruninmaif",
+          "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
+          "url": "https://github.com/pierrebruninmaif",
+          "commits_count": 218
+        },
+        {
+          "name": "baudelotphilippe",
+          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
+          "url": "https://github.com/baudelotphilippe",
+          "commits_count": 148
+        },
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
+          "commits_count": 20
+        },
+        {
+          "name": "gpoulet",
+          "avatar_url": "https://avatars.githubusercontent.com/u/10268774?v=4",
+          "url": "https://github.com/gpoulet",
+          "commits_count": 13
+        },
+        {
+          "name": "jtanguy",
+          "avatar_url": "https://avatars.githubusercontent.com/u/551107?v=4",
+          "url": "https://github.com/jtanguy",
+          "commits_count": 7
+        },
+        {
+          "name": "quentinovega",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
+          "url": "https://github.com/quentinovega",
+          "commits_count": 5
+        },
+        {
+          "name": "olivierboudet",
+          "avatar_url": "https://avatars.githubusercontent.com/u/857205?v=4",
+          "url": "https://github.com/olivierboudet",
+          "commits_count": 4
+        },
+        {
+          "name": "desmfr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+          "url": "https://github.com/desmfr",
+          "commits_count": 3
+        },
+        {
+          "name": "sguiheux",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1478025?v=4",
+          "url": "https://github.com/sguiheux",
+          "commits_count": 3
+        },
+        {
+          "name": "quentinproust",
+          "avatar_url": "https://avatars.githubusercontent.com/u/355461?v=4",
+          "url": "https://github.com/quentinproust",
+          "commits_count": 3
+        },
+        {
+          "name": "kefranabg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9840435?v=4",
+          "url": "https://github.com/kefranabg",
+          "commits_count": 3
+        },
+        {
+          "name": "gmembre-zenika",
+          "avatar_url": "https://avatars.githubusercontent.com/u/7294764?v=4",
+          "url": "https://github.com/gmembre-zenika",
+          "commits_count": 3
+        },
+        {
+          "name": "oltruong",
+          "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
+          "url": "https://github.com/oltruong",
+          "commits_count": 2
+        },
+        {
+          "name": "jabby",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1883932?v=4",
+          "url": "https://github.com/jabby",
+          "commits_count": 2
+        },
+        {
+          "name": "christophejan",
+          "avatar_url": "https://avatars.githubusercontent.com/u/69955393?v=4",
+          "url": "https://github.com/christophejan",
+          "commits_count": 1
+        },
+        {
+          "name": "grosa1",
+          "avatar_url": "https://avatars.githubusercontent.com/u/28650772?v=4",
+          "url": "https://github.com/grosa1",
+          "commits_count": 1
+        },
+        {
+          "name": "romaindso",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1172281?v=4",
+          "url": "https://github.com/romaindso",
+          "commits_count": 1
+        },
+        {
+          "name": "fsamin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/684151?v=4",
+          "url": "https://github.com/fsamin",
+          "commits_count": 1
+        },
+        {
+          "name": "Freyskeyd",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1394604?v=4",
+          "url": "https://github.com/Freyskeyd",
+          "commits_count": 1
+        },
+        {
+          "name": "cdrikd",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
+          "url": "https://github.com/cdrikd",
+          "commits_count": 1
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 1
+        },
+        {
+          "name": "ybasket",
+          "avatar_url": "https://avatars.githubusercontent.com/u/2632023?v=4",
+          "url": "https://github.com/ybasket",
+          "commits_count": 1
+        },
+        {
+          "name": "cbois",
+          "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
+          "url": "https://github.com/cbois",
+          "commits_count": 1
+        },
+        {
+          "name": "hamish-omny",
+          "avatar_url": "https://avatars.githubusercontent.com/u/54782479?v=4",
+          "url": "https://github.com/hamish-omny",
+          "commits_count": 1
+        },
+        {
+          "name": "SoerenSilkjaer",
+          "avatar_url": "https://avatars.githubusercontent.com/u/25299535?v=4",
+          "url": "https://github.com/SoerenSilkjaer",
+          "commits_count": 1
+        },
+        {
+          "name": "farnulfo",
+          "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
+          "url": "https://github.com/farnulfo",
+          "commits_count": 1
+        },
+        {
+          "name": "glc-gplassard",
+          "avatar_url": "https://avatars.githubusercontent.com/u/40664314?v=4",
+          "url": "https://github.com/glc-gplassard",
+          "commits_count": 1
+        },
+        {
+          "name": "cbm-lcoatanlem",
+          "avatar_url": "https://avatars.githubusercontent.com/u/42838836?v=4",
+          "url": "https://github.com/cbm-lcoatanlem",
+          "commits_count": 1
+        },
+        {
+          "name": "sebprunierserli",
+          "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
+          "url": "https://github.com/sebprunierserli",
+          "commits_count": 1
+        },
+        {
+          "name": "charlyx",
+          "avatar_url": "https://avatars.githubusercontent.com/u/481446?v=4",
+          "url": "https://github.com/charlyx",
+          "commits_count": 1
+        }
+      ]
     },
     "homebrew-wasmo": {
       "name": "homebrew-wasmo",
@@ -777,9 +996,10 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5219,
+      "commits_count": 5239,
       "projects": [
-        "otoroshi"
+        "otoroshi",
+        "izanami"
       ]
     },
     "Zwiterrion": {
@@ -795,28 +1015,31 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 415,
+      "commits_count": 563,
       "projects": [
         "otoroshi",
-        "melusine"
+        "melusine",
+        "izanami"
       ]
     },
     "quentinovega": {
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 49,
+      "commits_count": 54,
       "projects": [
-        "otoroshi"
+        "otoroshi",
+        "izanami"
       ]
     },
     "ptitFicus": {
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 34,
+      "commits_count": 35,
       "projects": [
-        "otoroshi"
+        "otoroshi",
+        "izanami"
       ]
     },
     "mathieuancelinserli": {
@@ -868,18 +1091,20 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 3,
+      "commits_count": 718,
       "projects": [
-        "otoroshi"
+        "otoroshi",
+        "izanami"
       ]
     },
     "sebprunierserli": {
       "name": "sebprunierserli",
       "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
       "url": "https://github.com/sebprunierserli",
-      "commits_count": 3,
+      "commits_count": 4,
       "projects": [
-        "otoroshi"
+        "otoroshi",
+        "izanami"
       ]
     },
     "lucbu": {
@@ -895,10 +1120,11 @@
       "name": "desmfr",
       "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
       "url": "https://github.com/desmfr",
-      "commits_count": 2,
+      "commits_count": 5,
       "projects": [
         "otoroshi",
-        "melusine"
+        "melusine",
+        "izanami"
       ]
     },
     "cwoodrow": {
@@ -1081,13 +1307,231 @@
       "projects": [
         "melusine"
       ]
+    },
+    "pierrebruninmaif": {
+      "name": "pierrebruninmaif",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
+      "url": "https://github.com/pierrebruninmaif",
+      "commits_count": 218,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "gpoulet": {
+      "name": "gpoulet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10268774?v=4",
+      "url": "https://github.com/gpoulet",
+      "commits_count": 13,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "jtanguy": {
+      "name": "jtanguy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/551107?v=4",
+      "url": "https://github.com/jtanguy",
+      "commits_count": 7,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "olivierboudet": {
+      "name": "olivierboudet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/857205?v=4",
+      "url": "https://github.com/olivierboudet",
+      "commits_count": 4,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "sguiheux": {
+      "name": "sguiheux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1478025?v=4",
+      "url": "https://github.com/sguiheux",
+      "commits_count": 3,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "quentinproust": {
+      "name": "quentinproust",
+      "avatar_url": "https://avatars.githubusercontent.com/u/355461?v=4",
+      "url": "https://github.com/quentinproust",
+      "commits_count": 3,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "kefranabg": {
+      "name": "kefranabg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9840435?v=4",
+      "url": "https://github.com/kefranabg",
+      "commits_count": 3,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "gmembre-zenika": {
+      "name": "gmembre-zenika",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7294764?v=4",
+      "url": "https://github.com/gmembre-zenika",
+      "commits_count": 3,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "oltruong": {
+      "name": "oltruong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
+      "url": "https://github.com/oltruong",
+      "commits_count": 2,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "jabby": {
+      "name": "jabby",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1883932?v=4",
+      "url": "https://github.com/jabby",
+      "commits_count": 2,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "christophejan": {
+      "name": "christophejan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69955393?v=4",
+      "url": "https://github.com/christophejan",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "grosa1": {
+      "name": "grosa1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28650772?v=4",
+      "url": "https://github.com/grosa1",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "romaindso": {
+      "name": "romaindso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1172281?v=4",
+      "url": "https://github.com/romaindso",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "fsamin": {
+      "name": "fsamin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/684151?v=4",
+      "url": "https://github.com/fsamin",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "Freyskeyd": {
+      "name": "Freyskeyd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1394604?v=4",
+      "url": "https://github.com/Freyskeyd",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "cdrikd": {
+      "name": "cdrikd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
+      "url": "https://github.com/cdrikd",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "ybasket": {
+      "name": "ybasket",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2632023?v=4",
+      "url": "https://github.com/ybasket",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "cbois": {
+      "name": "cbois",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
+      "url": "https://github.com/cbois",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "hamish-omny": {
+      "name": "hamish-omny",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54782479?v=4",
+      "url": "https://github.com/hamish-omny",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "SoerenSilkjaer": {
+      "name": "SoerenSilkjaer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25299535?v=4",
+      "url": "https://github.com/SoerenSilkjaer",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "farnulfo": {
+      "name": "farnulfo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
+      "url": "https://github.com/farnulfo",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "glc-gplassard": {
+      "name": "glc-gplassard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40664314?v=4",
+      "url": "https://github.com/glc-gplassard",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "cbm-lcoatanlem": {
+      "name": "cbm-lcoatanlem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42838836?v=4",
+      "url": "https://github.com/cbm-lcoatanlem",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
+    "charlyx": {
+      "name": "charlyx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/481446?v=4",
+      "url": "https://github.com/charlyx",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
     }
   },
   "commits_per_contributor_sorted": [
     "mathieuancelin",
     "Zwiterrion",
+    "larousso",
     "baudelotphilippe",
     "ThomasBouche",
+    "pierrebruninmaif",
     "hugo-quantmetry",
     "HugoPerrier",
     "farthur",
@@ -1095,12 +1539,12 @@
     "ThibaudReal",
     "TFA-MAIF",
     "Francesco-Marini",
-    "tstringerquantmetry",
     "quentinovega",
+    "tstringerquantmetry",
     "benoitLebreton-perso",
+    "ptitFicus",
     "MaxGdr",
     "mathieuancelinserli",
-    "ptitFicus",
     "FlorineGreciet",
     "guillaume-vignal",
     "yg79",
@@ -1108,27 +1552,49 @@
     "guerinclement",
     "guilieb",
     "GAP01",
+    "gpoulet",
     "guillaumesolderaserli",
     "fedysalahserli",
     "blanoe",
     "mathisbarthere",
+    "jtanguy",
     "adam-benjellounSG",
     "sachasamama",
     "victorBigand",
+    "desmfr",
     "omahs",
+    "olivierboudet",
+    "sebprunierserli",
+    "gmembre-zenika",
+    "kefranabg",
+    "quentinproust",
+    "sguiheux",
     "FDJFDJ",
     "AntoineSimoulin",
-    "sebprunierserli",
-    "larousso",
     "tristan-chauveau",
     "YL79",
+    "jabby",
+    "oltruong",
     "cwoodrow",
-    "desmfr",
     "peterdhansen",
     "githubyako",
     "SebastienBidault",
     "amorea04",
     "amnaabbassi",
+    "charlyx",
+    "cbm-lcoatanlem",
+    "glc-gplassard",
+    "farnulfo",
+    "SoerenSilkjaer",
+    "hamish-omny",
+    "cbois",
+    "ybasket",
+    "cdrikd",
+    "Freyskeyd",
+    "fsamin",
+    "romaindso",
+    "grosa1",
+    "christophejan",
     "remiadon",
     "ggirou",
     "remi-perrier",
