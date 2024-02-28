@@ -194,7 +194,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-02-27T13:42:14Z",
+      "pushed_at": "2024-02-28T11:01:35Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -380,7 +380,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-02-28T09:18:34Z",
+      "pushed_at": "2024-02-28T10:16:46Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
@@ -400,7 +400,7 @@
       "url": "https://github.com/MAIF/jooq-async",
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
-      "pushed_at": "2023-12-11T17:20:47Z",
+      "pushed_at": "2024-02-28T10:52:34Z",
       "contributors": [],
       "commits_count": 0,
       "commits_per_contributor": []
