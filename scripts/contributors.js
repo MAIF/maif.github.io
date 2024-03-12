@@ -19,7 +19,7 @@ function getCommits(repo, attempts) {
     return Promise.resolve([])
   }
 
-  return fetch(`https://api.github.com/repos/MAIF/${repo}/stats/contributors`, {
+  return fetch(`https://api.github.com/repos/MAIF/${repo}/contributors?anon=1`, {
     method: 'GET',
     headers: {
       Accept: 'application/vnd.github+json',
