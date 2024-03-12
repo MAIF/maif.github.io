@@ -32,7 +32,7 @@ function getCommits(repo, attempts) {
         console.log(repo, 'retry')
         setTimeout(() => {
           resolve(getCommits(repo, attempts - 1))
-        }, 30000)
+        }, 10000)
       });
     }
     else if (r.status === 200) {
