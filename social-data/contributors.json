@@ -84,7 +84,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2024-03-11T10:30:08Z",
+      "pushed_at": "2024-03-12T10:53:41Z",
       "contributors": [
         "ThomasBouche",
         null,
@@ -116,7 +116,7 @@
         "yvanzubro",
         null
       ],
-      "commits_count": 1537,
+      "commits_count": 1538,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
@@ -152,7 +152,7 @@
           "name": "guillaume-vignal",
           "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
           "url": "https://github.com/guillaume-vignal",
-          "commits_count": 65
+          "commits_count": 66
         },
         {
           "name": "Francesco-Marini",
@@ -794,7 +794,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-03-12T10:10:02Z",
+      "pushed_at": "2024-03-12T12:17:51Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -811,10 +811,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12030,
+      "commits_count": 12033,
       "commits_per_contributor": [
         {
-          "commits_count": 11745
+          "commits_count": 11746
         },
         {
           "name": "baudelotphilippe",
@@ -832,7 +832,7 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 48
+          "commits_count": 50
         },
         {
           "name": "desmfr",
@@ -1431,7 +1431,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14363,
+      "commits_count": 14364,
       "projects": [
         "thoth",
         "thoth",
@@ -1597,7 +1597,7 @@
       "name": "guillaume-vignal",
       "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
       "url": "https://github.com/guillaume-vignal",
-      "commits_count": 69,
+      "commits_count": 70,
       "projects": [
         "shapash",
         "eurybia"
@@ -1757,7 +1757,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1683,
+      "commits_count": 1685,
       "projects": [
         "react-forms",
         "otoroshi",

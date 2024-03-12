@@ -1,10 +1,13 @@
 [
-  {
-    "highlights": "<p>Major announcements in this release are :<br /></p>\n<ul>\n<li>Shapash support Python 3.11 <br /></li>\n<li>Shapash can compute Shapeley values through Shap for any model supported by Shap</li>\n</ul>",
-    "project": "shapash",
-    "date": "2023-12-01T08:36:46Z",
-    "name": "v2.4.0: ⬆️ Support for Python 3.11",
-    "zip": "https://api.github.com/repos/MAIF/shapash/zipball/v2.4.0",
-    "url": "https://github.com/MAIF/shapash/releases/tag/v2.4.0"
-  }
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
 ]
