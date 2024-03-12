@@ -26,7 +26,7 @@ function getCommits(repo, attempts) {
       Authorization: `Bearer ${GITHUB_TOKEN}`
     }
   }).then(r => {
-    console.log(`https://api.github.com/repos/MAIF/${repo}/contributors?anon=1`, r)
+    console.log(`https://api.github.com/repos/MAIF/${repo}/contributors?anon=1`, r.headers)
     if (r.status === 202) {
       return new Promise(resolve => {
         console.log(repo, 'retry')
