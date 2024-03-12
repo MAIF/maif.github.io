@@ -16,6 +16,7 @@ function fetchReleases(repo) {
     },
   })
     .then((response) => {
+      console.log(`https://api.github.com/repos/maif/${repo}/releases?per_page=10`, response.status)
       return response.json();
     })
     .then((releases) => {
