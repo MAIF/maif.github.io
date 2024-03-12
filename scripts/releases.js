@@ -7,20 +7,19 @@ const output_file = "./social-data/releases.json";
 const converter = new showdown.Converter();
 
 function fetchReleases(repo) {
-  return fetch(
-    `https://api.github.com/repos/maif/${repo}/releases?per_page=10`,
-    {
-      method: "GET",
-      headers: {
-        accept: "application/json",
-        authorization: `Bearer ${GITHUB_TOKEN}`,
-      },
-    }
-  )
+  console.log(`https://api.github.com/repos/maif/${repo}/releases?per_page=10`)
+  return fetch(`https://api.github.com/repos/maif/${repo}/releases?per_page=10`, {
+    method: "GET",
+    headers: {
+      accept: "application/json",
+      authorization: `Bearer ${GITHUB_TOKEN}`,
+    },
+  })
     .then((response) => {
       return response.json();
     })
-    .then((releases) =>
+    .then((releases) => {
+      console.log(releases)
       releases
         .map((r) => {
           return {
@@ -37,7 +36,7 @@ function fetchReleases(repo) {
           ...rest,
         }))
         .filter(({ highlights, date }) => Boolean(highlights))
-    );
+    });
 }
 
 function extractReleaseThumbnail(body) {
