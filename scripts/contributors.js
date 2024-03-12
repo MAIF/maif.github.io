@@ -26,7 +26,7 @@ function getCommits(repo, attempts) {
       Authorization: `Bearer ${GITHUB_TOKEN}`
     }
   }).then(r => {
-    console.log(`https://api.github.com/repos/MAIF/${repo}/stats/contributors`, r.status)
+    console.log(`https://api.github.com/repos/MAIF/${repo}/contributors?anon=1`, r.status)
     if (r.status === 202) {
       return new Promise(resolve => {
         console.log(repo, 'retry')
@@ -40,16 +40,16 @@ function getCommits(repo, attempts) {
         .then(contributors => {
           console.log(repo, contributors.length)
           return _.sortBy(contributors.map(contributor => {
-            let login = contributor.author.login;
+            let login = contributor.login;
             if (!projectsPerUser[login]) {
               projectsPerUser[login] = []
             }
             projectsPerUser[login].push(repo);
             return {
-              name: contributor.author.login,
-              avatar_url: contributor.author.avatar_url,
-              url: contributor.author.html_url,
-              commits_count: contributor.total,
+              name: contributor.login,
+              avatar_url: contributor.avatar_url,
+              url: contributor.html_url,
+              commits_count: contributor.contributions,
             }
           })
             .filter(c => c.name !== 'gitter-badger')
