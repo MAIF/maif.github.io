@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 const fs = require('fs-extra');
 const _ = require('lodash');
 
-const GITHUB_TOKEN = process.env.FIFI_TOKEN // || process.argv[2] || 'secret';
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN // || process.argv[2] || 'secret';
 const contributors_file = './social-data/contributors.json';
 const filterOut = [
   'project-template',
@@ -71,8 +71,8 @@ function getRepos() {
     return fetch(`https://api.github.com/users/MAIF/repos`, {
       method: 'GET',
       headers: {
-        accept: 'application/json',
-        authorization: `Bearer ${GITHUB_TOKEN}`
+        Accept: 'application/vnd.github+json',
+        Authorization: `Bearer ${GITHUB_TOKEN}`
       }
     }).then(r => {
       console.log("status", r.status)
