@@ -84,7 +84,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2024-03-12T10:53:41Z",
+      "pushed_at": "2024-03-15T14:03:50Z",
       "contributors": [
         "ThomasBouche",
         null,
@@ -354,14 +354,14 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-03-14T14:47:22Z",
+      "pushed_at": "2024-03-15T16:42:35Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
         null,
         "baudelotphilippe",
-        "quentinovega",
         null,
+        "quentinovega",
         "ptitFicus",
         "mathieuancelinserli",
         "guillaumesolderaserli",
@@ -383,19 +383,19 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 7943,
+      "commits_count": 7963,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5639
+          "commits_count": 5644
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1075
+          "commits_count": 1076
         },
         {
           "commits_count": 532
@@ -407,13 +407,13 @@
           "commits_count": 451
         },
         {
+          "commits_count": 63
+        },
+        {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
           "commits_count": 50
-        },
-        {
-          "commits_count": 49
         },
         {
           "name": "ptitFicus",
@@ -794,7 +794,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-03-14T00:06:48Z",
+      "pushed_at": "2024-03-15T00:06:22Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -811,10 +811,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12039,
+      "commits_count": 12040,
       "commits_per_contributor": [
         {
-          "commits_count": 11750
+          "commits_count": 11751
         },
         {
           "name": "baudelotphilippe",
@@ -1315,7 +1315,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-03-14T07:48:58Z",
+      "pushed_at": "2024-03-15T15:40:04Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1431,7 +1431,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14369,
+      "commits_count": 14384,
       "projects": [
         "thoth",
         "thoth",
@@ -1757,7 +1757,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1687,
+      "commits_count": 1688,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1787,7 +1787,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5936,
+      "commits_count": 5941,
       "projects": [
         "react-forms",
         "otoroshi",
