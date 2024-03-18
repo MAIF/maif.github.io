@@ -170,7 +170,7 @@
     fetch("social-data/releases.json").then((response) => response.json())
       .then(releases => {
         releases.sort((a, b) => {
-          return new Date(b.date) - new Date(a.date);
+          return new Date(b?.date) - new Date(a?.date);
         })
 
         releases.forEach(release => {
