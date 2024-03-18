@@ -794,7 +794,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-03-17T00:07:10Z",
+      "pushed_at": "2024-03-18T14:05:37Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -811,10 +811,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12042,
+      "commits_count": 12044,
       "commits_per_contributor": [
         {
-          "commits_count": 11753
+          "commits_count": 11754
         },
         {
           "name": "baudelotphilippe",
@@ -832,7 +832,7 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 51
+          "commits_count": 52
         },
         {
           "name": "desmfr",
@@ -1315,7 +1315,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-03-17T00:22:29Z",
+      "pushed_at": "2024-03-18T10:19:26Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1431,7 +1431,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14386,
+      "commits_count": 14387,
       "projects": [
         "thoth",
         "thoth",
@@ -1757,7 +1757,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1688,
+      "commits_count": 1689,
       "projects": [
         "react-forms",
         "otoroshi",
