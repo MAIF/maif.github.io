@@ -41,12 +41,13 @@ function fetchReleases(repo) {
 }
 
 function extractReleaseThumbnail(body) {
-  if (!body.includes(`<div id="release-thumbnail">`)) {
-    return undefined;
-  }
+  // if (!body.includes(`<div id="release-thumbnail">`)) {
+  //   return undefined;
+  // }
+  // const goodPart = body
+  //   .split(`<div id="release-thumbnail">`)[1]
+  //   .split("</div>")[0];
   const goodPart = body
-    .split(`<div id="release-thumbnail">`)[1]
-    .split("</div>")[0];
   try {
     return converter.makeHtml(goodPart);
   } catch {
