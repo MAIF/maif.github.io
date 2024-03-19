@@ -84,7 +84,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2024-03-15T14:03:50Z",
+      "pushed_at": "2024-03-18T16:07:22Z",
       "contributors": [
         "ThomasBouche",
         null,
@@ -116,7 +116,7 @@
         "yvanzubro",
         null
       ],
-      "commits_count": 1538,
+      "commits_count": 1543,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
@@ -146,13 +146,13 @@
           "name": "MLecardonnel",
           "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
           "url": "https://github.com/MLecardonnel",
-          "commits_count": 80
+          "commits_count": 84
         },
         {
           "name": "guillaume-vignal",
           "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
           "url": "https://github.com/guillaume-vignal",
-          "commits_count": 66
+          "commits_count": 67
         },
         {
           "name": "Francesco-Marini",
@@ -794,7 +794,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-03-18T14:05:37Z",
+      "pushed_at": "2024-03-18T14:06:19Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -811,10 +811,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12044,
+      "commits_count": 12046,
       "commits_per_contributor": [
         {
-          "commits_count": 11754
+          "commits_count": 11755
         },
         {
           "name": "baudelotphilippe",
@@ -832,7 +832,7 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 52
+          "commits_count": 53
         },
         {
           "name": "desmfr",
@@ -1431,7 +1431,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14387,
+      "commits_count": 14388,
       "projects": [
         "thoth",
         "thoth",
@@ -1587,7 +1587,7 @@
       "name": "MLecardonnel",
       "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
       "url": "https://github.com/MLecardonnel",
-      "commits_count": 84,
+      "commits_count": 88,
       "projects": [
         "shapash",
         "eurybia"
@@ -1597,7 +1597,7 @@
       "name": "guillaume-vignal",
       "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
       "url": "https://github.com/guillaume-vignal",
-      "commits_count": 70,
+      "commits_count": 71,
       "projects": [
         "shapash",
         "eurybia"
@@ -1757,7 +1757,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1689,
+      "commits_count": 1690,
       "projects": [
         "react-forms",
         "otoroshi",
