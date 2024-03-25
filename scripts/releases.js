@@ -16,13 +16,13 @@ function fetchReleases(repo) {
     },
   })
     .then((response) => {
-      console.log(`https://api.github.com/repos/maif/${repo}/releases?per_page=20`, response.status)
+      //console.log(`https://api.github.com/repos/maif/${repo}/releases?per_page=20`, response.status)
       return response.json();
     })
     .then((releases) => {
-      console.log(releases)
       releases
         .map((r) => {
+          console.log(r)
           return {
             body: r.body,
             date: r.published_at,
