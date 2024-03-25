@@ -1,84 +1,5 @@
 {
   "projects": {
-    "thoth": {
-      "name": "thoth",
-      "url": "https://github.com/MAIF/thoth",
-      "description": "Event sourcing in java with vavr, akka stream and vertx reactive PG driver",
-      "homepage": "https://MAIF.github.io/thoth/",
-      "pushed_at": "2024-02-21T15:48:19Z",
-      "contributors": [
-        "larousso",
-        null,
-        "ptitFicus",
-        null,
-        null,
-        null,
-        null,
-        null,
-        "florian-tirard",
-        "HoussSak",
-        "Gregnarok",
-        null,
-        null
-      ],
-      "commits_count": 263,
-      "commits_per_contributor": [
-        {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 103
-        },
-        {
-          "commits_count": 72
-        },
-        {
-          "name": "ptitFicus",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-          "url": "https://github.com/ptitFicus",
-          "commits_count": 40
-        },
-        {
-          "commits_count": 21
-        },
-        {
-          "commits_count": 15
-        },
-        {
-          "commits_count": 3
-        },
-        {
-          "commits_count": 2
-        },
-        {
-          "commits_count": 2
-        },
-        {
-          "name": "florian-tirard",
-          "avatar_url": "https://avatars.githubusercontent.com/u/150662252?v=4",
-          "url": "https://github.com/florian-tirard",
-          "commits_count": 1
-        },
-        {
-          "name": "HoussSak",
-          "avatar_url": "https://avatars.githubusercontent.com/u/99645587?v=4",
-          "url": "https://github.com/HoussSak",
-          "commits_count": 1
-        },
-        {
-          "name": "Gregnarok",
-          "avatar_url": "https://avatars.githubusercontent.com/u/23338347?v=4",
-          "url": "https://github.com/Gregnarok",
-          "commits_count": 1
-        },
-        {
-          "commits_count": 1
-        },
-        {
-          "commits_count": 1
-        }
-      ]
-    },
     "shapash": {
       "name": "shapash",
       "url": "https://github.com/MAIF/shapash",
@@ -794,12 +715,12 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-03-24T00:08:00Z",
+      "pushed_at": "2024-03-25T10:23:22Z",
       "contributors": [
         null,
         "baudelotphilippe",
-        "mathieuancelin",
         "Zwiterrion",
+        "mathieuancelin",
         "desmfr",
         null,
         null,
@@ -811,10 +732,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12052,
+      "commits_count": 12054,
       "commits_per_contributor": [
         {
-          "commits_count": 11761
+          "commits_count": 11762
         },
         {
           "name": "baudelotphilippe",
@@ -823,15 +744,15 @@
           "commits_count": 142
         },
         {
-          "name": "mathieuancelin",
-          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-          "url": "https://github.com/mathieuancelin",
-          "commits_count": 53
-        },
-        {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
+          "commits_count": 54
+        },
+        {
+          "name": "mathieuancelin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+          "url": "https://github.com/mathieuancelin",
           "commits_count": 53
         },
         {
@@ -961,182 +882,55 @@
         }
       ]
     },
-    "izanami": {
-      "name": "izanami",
-      "url": "https://github.com/MAIF/izanami",
-      "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
-      "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2023-08-29T08:01:10Z",
+    "izanami-java-client": {
+      "name": "izanami-java-client",
+      "url": "https://github.com/MAIF/izanami-java-client",
+      "description": "Java Client for Izanami V2",
+      "homepage": null,
+      "pushed_at": "2024-03-25T09:39:59Z",
       "contributors": [
-        "larousso",
-        "pierrebruninmaif",
         null,
-        "baudelotphilippe",
-        null,
-        "mathieuancelin",
-        "gpoulet",
-        "jtanguy",
-        null,
-        null,
-        "quentinovega",
-        null,
-        "olivierboudet",
-        "kefranabg",
-        "desmfr",
-        "quentinproust",
-        "ptitFicus",
-        "gmembre-zenika",
-        "sguiheux",
-        "oltruong",
-        "jabby",
-        "farnulfo",
-        null,
-        "ybasket",
-        "cdrikd",
-        "christophejan",
-        null
+        "ptitFicus"
       ],
-      "commits_count": 1746,
+      "commits_count": 3,
       "commits_per_contributor": [
         {
-          "name": "larousso",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-          "url": "https://github.com/larousso",
-          "commits_count": 889
-        },
-        {
-          "name": "pierrebruninmaif",
-          "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
-          "url": "https://github.com/pierrebruninmaif",
-          "commits_count": 333
-        },
-        {
-          "commits_count": 192
-        },
-        {
-          "name": "baudelotphilippe",
-          "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
-          "url": "https://github.com/baudelotphilippe",
-          "commits_count": 163
-        },
-        {
-          "commits_count": 70
-        },
-        {
-          "name": "mathieuancelin",
-          "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-          "url": "https://github.com/mathieuancelin",
-          "commits_count": 22
-        },
-        {
-          "name": "gpoulet",
-          "avatar_url": "https://avatars.githubusercontent.com/u/10268774?v=4",
-          "url": "https://github.com/gpoulet",
-          "commits_count": 13
-        },
-        {
-          "name": "jtanguy",
-          "avatar_url": "https://avatars.githubusercontent.com/u/551107?v=4",
-          "url": "https://github.com/jtanguy",
-          "commits_count": 7
-        },
-        {
-          "commits_count": 7
-        },
-        {
-          "commits_count": 6
-        },
-        {
-          "name": "quentinovega",
-          "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
-          "url": "https://github.com/quentinovega",
-          "commits_count": 5
-        },
-        {
-          "commits_count": 5
-        },
-        {
-          "name": "olivierboudet",
-          "avatar_url": "https://avatars.githubusercontent.com/u/857205?v=4",
-          "url": "https://github.com/olivierboudet",
-          "commits_count": 4
-        },
-        {
-          "name": "kefranabg",
-          "avatar_url": "https://avatars.githubusercontent.com/u/9840435?v=4",
-          "url": "https://github.com/kefranabg",
-          "commits_count": 3
-        },
-        {
-          "name": "desmfr",
-          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
-          "url": "https://github.com/desmfr",
-          "commits_count": 3
-        },
-        {
-          "name": "quentinproust",
-          "avatar_url": "https://avatars.githubusercontent.com/u/355461?v=4",
-          "url": "https://github.com/quentinproust",
-          "commits_count": 3
+          "commits_count": 2
         },
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 3
-        },
+          "commits_count": 1
+        }
+      ]
+    },
+    "izanami": {
+      "name": "izanami",
+      "url": "https://github.com/MAIF/izanami",
+      "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
+      "homepage": "https://maif.github.io/izanami/",
+      "pushed_at": "2024-03-25T09:02:39Z",
+      "contributors": [
+        "Izanami",
+        null,
+        "ptitFicus"
+      ],
+      "commits_count": 4,
+      "commits_per_contributor": [
         {
-          "name": "gmembre-zenika",
-          "avatar_url": "https://avatars.githubusercontent.com/u/7294764?v=4",
-          "url": "https://github.com/gmembre-zenika",
-          "commits_count": 3
-        },
-        {
-          "name": "sguiheux",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1478025?v=4",
-          "url": "https://github.com/sguiheux",
-          "commits_count": 3
-        },
-        {
-          "name": "oltruong",
-          "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
-          "url": "https://github.com/oltruong",
+          "name": "Izanami",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1369122?v=4",
+          "url": "https://github.com/Izanami",
           "commits_count": 2
         },
         {
-          "name": "jabby",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1883932?v=4",
-          "url": "https://github.com/jabby",
-          "commits_count": 2
-        },
-        {
-          "name": "farnulfo",
-          "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
-          "url": "https://github.com/farnulfo",
-          "commits_count": 2
-        },
-        {
-          "commits_count": 2
-        },
-        {
-          "name": "ybasket",
-          "avatar_url": "https://avatars.githubusercontent.com/u/2632023?v=4",
-          "url": "https://github.com/ybasket",
           "commits_count": 1
         },
         {
-          "name": "cdrikd",
-          "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
-          "url": "https://github.com/cdrikd",
-          "commits_count": 1
-        },
-        {
-          "name": "christophejan",
-          "avatar_url": "https://avatars.githubusercontent.com/u/69955393?v=4",
-          "url": "https://github.com/christophejan",
-          "commits_count": 1
-        },
-        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
           "commits_count": 1
         }
       ]
@@ -1315,7 +1109,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-03-23T22:58:10Z",
+      "pushed_at": "2024-03-25T09:10:34Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1414,33 +1208,20 @@
     }
   },
   "contributors": {
-    "larousso": {
-      "name": "larousso",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
-      "url": "https://github.com/larousso",
-      "commits_count": 1153,
+    "ThomasBouche": {
+      "name": "ThomasBouche",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+      "url": "https://github.com/ThomasBouche",
+      "commits_count": 432,
       "projects": [
-        "thoth",
-        "otoroshi",
-        "nio",
-        "lets-automate",
-        "jooq-async",
-        "izanami",
-        "functional-validation",
-        "functional-json"
+        "shapash",
+        "maif.github.io",
+        "eurybia"
       ]
     },
     "undefined": {
-      "commits_count": 14401,
+      "commits_count": 14005,
       "projects": [
-        "thoth",
-        "thoth",
-        "thoth",
-        "thoth",
-        "thoth",
-        "thoth",
-        "thoth",
-        "thoth",
         "shapash",
         "shapash",
         "shapash",
@@ -1491,12 +1272,7 @@
         "jooq-async",
         "jooq-async",
         "jooq-async",
-        "izanami",
-        "izanami",
-        "izanami",
-        "izanami",
-        "izanami",
-        "izanami",
+        "izanami-java-client",
         "izanami",
         "functional-validation",
         "functional-validation",
@@ -1511,58 +1287,6 @@
         "eurybia",
         "daikoku",
         "daikoku"
-      ]
-    },
-    "ptitFicus": {
-      "name": "ptitFicus",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-      "url": "https://github.com/ptitFicus",
-      "commits_count": 122,
-      "projects": [
-        "thoth",
-        "react-forms",
-        "otoroshi",
-        "maif.github.io",
-        "izanami",
-        "functional-json"
-      ]
-    },
-    "florian-tirard": {
-      "name": "florian-tirard",
-      "avatar_url": "https://avatars.githubusercontent.com/u/150662252?v=4",
-      "url": "https://github.com/florian-tirard",
-      "commits_count": 1,
-      "projects": [
-        "thoth"
-      ]
-    },
-    "HoussSak": {
-      "name": "HoussSak",
-      "avatar_url": "https://avatars.githubusercontent.com/u/99645587?v=4",
-      "url": "https://github.com/HoussSak",
-      "commits_count": 1,
-      "projects": [
-        "thoth"
-      ]
-    },
-    "Gregnarok": {
-      "name": "Gregnarok",
-      "avatar_url": "https://avatars.githubusercontent.com/u/23338347?v=4",
-      "url": "https://github.com/Gregnarok",
-      "commits_count": 1,
-      "projects": [
-        "thoth"
-      ]
-    },
-    "ThomasBouche": {
-      "name": "ThomasBouche",
-      "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
-      "url": "https://github.com/ThomasBouche",
-      "commits_count": 432,
-      "projects": [
-        "shapash",
-        "maif.github.io",
-        "eurybia"
       ]
     },
     "ThibaudReal": {
@@ -1744,12 +1468,11 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1444,
+      "commits_count": 1439,
       "projects": [
         "react-forms",
         "otoroshi",
         "nio",
-        "izanami",
         "daikoku"
       ]
     },
@@ -1757,7 +1480,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1690,
+      "commits_count": 1691,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1766,11 +1489,25 @@
         "daikoku"
       ]
     },
+    "ptitFicus": {
+      "name": "ptitFicus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+      "url": "https://github.com/ptitFicus",
+      "commits_count": 81,
+      "projects": [
+        "react-forms",
+        "otoroshi",
+        "maif.github.io",
+        "izanami-java-client",
+        "izanami",
+        "functional-json"
+      ]
+    },
     "baudelotphilippe": {
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 954,
+      "commits_count": 791,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1778,7 +1515,6 @@
         "melusine",
         "maif.github.io",
         "lets-automate",
-        "izanami",
         "daikoku",
         "cards"
       ]
@@ -1787,13 +1523,12 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5943,
+      "commits_count": 5921,
       "projects": [
         "react-forms",
         "otoroshi",
         "nio",
         "maif.github.io",
-        "izanami",
         "daikoku",
         "cards"
       ]
@@ -1843,6 +1578,20 @@
         "otoroshi"
       ]
     },
+    "larousso": {
+      "name": "larousso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
+      "url": "https://github.com/larousso",
+      "commits_count": 161,
+      "projects": [
+        "otoroshi",
+        "nio",
+        "lets-automate",
+        "jooq-async",
+        "functional-validation",
+        "functional-json"
+      ]
+    },
     "tristan-chauveau": {
       "name": "tristan-chauveau",
       "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
@@ -1874,12 +1623,11 @@
       "name": "desmfr",
       "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
       "url": "https://github.com/desmfr",
-      "commits_count": 34,
+      "commits_count": 31,
       "projects": [
         "otoroshi",
         "melusine",
         "maif.github.io",
-        "izanami",
         "cards"
       ]
     },
@@ -1908,10 +1656,9 @@
       "name": "oltruong",
       "avatar_url": "https://avatars.githubusercontent.com/u/666942?v=4",
       "url": "https://github.com/oltruong",
-      "commits_count": 3,
+      "commits_count": 1,
       "projects": [
-        "nio",
-        "izanami"
+        "nio"
       ]
     },
     "marclaporte": {
@@ -2098,116 +1845,16 @@
       "name": "pierrebruninmaif",
       "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
       "url": "https://github.com/pierrebruninmaif",
-      "commits_count": 371,
+      "commits_count": 38,
       "projects": [
-        "lets-automate",
-        "izanami"
+        "lets-automate"
       ]
     },
-    "gpoulet": {
-      "name": "gpoulet",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10268774?v=4",
-      "url": "https://github.com/gpoulet",
-      "commits_count": 13,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "jtanguy": {
-      "name": "jtanguy",
-      "avatar_url": "https://avatars.githubusercontent.com/u/551107?v=4",
-      "url": "https://github.com/jtanguy",
-      "commits_count": 7,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "olivierboudet": {
-      "name": "olivierboudet",
-      "avatar_url": "https://avatars.githubusercontent.com/u/857205?v=4",
-      "url": "https://github.com/olivierboudet",
-      "commits_count": 4,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "kefranabg": {
-      "name": "kefranabg",
-      "avatar_url": "https://avatars.githubusercontent.com/u/9840435?v=4",
-      "url": "https://github.com/kefranabg",
-      "commits_count": 3,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "quentinproust": {
-      "name": "quentinproust",
-      "avatar_url": "https://avatars.githubusercontent.com/u/355461?v=4",
-      "url": "https://github.com/quentinproust",
-      "commits_count": 3,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "gmembre-zenika": {
-      "name": "gmembre-zenika",
-      "avatar_url": "https://avatars.githubusercontent.com/u/7294764?v=4",
-      "url": "https://github.com/gmembre-zenika",
-      "commits_count": 3,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "sguiheux": {
-      "name": "sguiheux",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1478025?v=4",
-      "url": "https://github.com/sguiheux",
-      "commits_count": 3,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "jabby": {
-      "name": "jabby",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1883932?v=4",
-      "url": "https://github.com/jabby",
+    "Izanami": {
+      "name": "Izanami",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1369122?v=4",
+      "url": "https://github.com/Izanami",
       "commits_count": 2,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "farnulfo": {
-      "name": "farnulfo",
-      "avatar_url": "https://avatars.githubusercontent.com/u/79908?v=4",
-      "url": "https://github.com/farnulfo",
-      "commits_count": 2,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "ybasket": {
-      "name": "ybasket",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2632023?v=4",
-      "url": "https://github.com/ybasket",
-      "commits_count": 1,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "cdrikd": {
-      "name": "cdrikd",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5230135?v=4",
-      "url": "https://github.com/cdrikd",
-      "commits_count": 1,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "christophejan": {
-      "name": "christophejan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/69955393?v=4",
-      "url": "https://github.com/christophejan",
-      "commits_count": 1,
       "projects": [
         "izanami"
       ]
@@ -2263,24 +1910,24 @@
     "mathieuancelin",
     "Zwiterrion",
     "quentinovega",
-    "larousso",
     "baudelotphilippe",
     "ThomasBouche",
-    "pierrebruninmaif",
+    "larousso",
     "hugo-quantmetry",
     "ThibaudReal",
-    "ptitFicus",
     "HugoPerrier",
     "farthur",
     "yg79",
     "TFA-MAIF",
     "MLecardonnel",
+    "ptitFicus",
     "guillaume-vignal",
     "Btxgear",
     "Francesco-Marini",
     "tstringerquantmetry",
     "MaxGdr",
     "benoitLebreton-perso",
+    "pierrebruninmaif",
     "mathieuancelinserli",
     "FlorineGreciet",
     "desmfr",
@@ -2291,7 +1938,6 @@
     "SebastienBidault",
     "GAP01",
     "guilieb",
-    "gpoulet",
     "sachasamama",
     "victorBigand",
     "cwoodrow",
@@ -2301,32 +1947,21 @@
     "mathisbarthere",
     "blanoe",
     "githubyako",
-    "jtanguy",
     "adam-benjellounSG",
     "FDJFDJ",
     "omahs",
-    "olivierboudet",
-    "sguiheux",
-    "gmembre-zenika",
-    "quentinproust",
-    "kefranabg",
     "AntoineSimoulin",
-    "oltruong",
     "sebprunierserli",
     "tristan-chauveau",
     "johannmartin95",
     "YL79",
     "mbaechler",
-    "farnulfo",
-    "jabby",
+    "Izanami",
     "peterdhansen",
     "amnaabbassi",
     "amorea04",
     "gotson",
     "wikijm",
-    "christophejan",
-    "cdrikd",
-    "ybasket",
     "remi-perrier",
     "nicolaspte",
     "remiadon",
@@ -2334,10 +1969,8 @@
     "ggirou",
     "frinyvonnick",
     "marclaporte",
+    "oltruong",
     "lucbu",
-    "yvanzubro",
-    "Gregnarok",
-    "HoussSak",
-    "florian-tirard"
+    "yvanzubro"
   ]
 }
