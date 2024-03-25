@@ -7,8 +7,8 @@ const output_file = "./social-data/releases.json";
 const converter = new showdown.Converter();
 
 function fetchReleases(repo) {
-  console.log(`https://api.github.com/repos/maif/${repo}/releases?per_page=10`)
-  return fetch(`https://api.github.com/repos/maif/${repo}/releases?per_page=10`, {
+  console.log(`https://api.github.com/repos/maif/${repo}/releases?per_page=20`)
+  return fetch(`https://api.github.com/repos/maif/${repo}/releases?per_page=20`, {
     method: "GET",
     headers: {
       accept: "application/json",
@@ -16,7 +16,7 @@ function fetchReleases(repo) {
     },
   })
     .then((response) => {
-      console.log(`https://api.github.com/repos/maif/${repo}/releases?per_page=10`, response.status)
+      console.log(`https://api.github.com/repos/maif/${repo}/releases?per_page=20`, response.status)
       return response.json();
     })
     .then((releases) => {
@@ -41,13 +41,12 @@ function fetchReleases(repo) {
 }
 
 function extractReleaseThumbnail(body) {
-  // if (!body.includes(`<div id="release-thumbnail">`)) {
-  //   return undefined;
-  // }
-  // const goodPart = body
-  //   .split(`<div id="release-thumbnail">`)[1]
-  //   .split("</div>")[0];
+  if (!body.includes(`<div id="release-thumbnail">`)) {
+    return undefined;
+  }
   const goodPart = body
+    .split(`<div id="release-thumbnail">`)[1]
+    .split("</div>")[0];
   try {
     return converter.makeHtml(goodPart);
   } catch {
