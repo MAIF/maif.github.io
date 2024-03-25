@@ -69,5 +69,5 @@ Promise.all(
     "melusine",
   ].map((name) => fetchReleases(name))
 ).then((bodies) =>
-  fs.writeFileSync(output_file, JSON.stringify(bodies.flat(), null, 2))
+  fs.writeFileSync(output_file, JSON.stringify(bodies.flat().filter(r => r), null, 2))
 );
