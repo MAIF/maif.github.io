@@ -20,9 +20,8 @@ function fetchReleases(repo) {
       return response.json();
     })
     .then((releases) => {
-      releases
+      return releases
         .map((r) => {
-          console.log(r)
           return {
             body: r.body,
             date: r.published_at,
