@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-03-25T10:32:02Z",
+      "pushed_at": "2024-03-25T10:32:21Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -732,10 +732,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12059,
+      "commits_count": 12062,
       "commits_per_contributor": [
         {
-          "commits_count": 11764
+          "commits_count": 11766
         },
         {
           "name": "baudelotphilippe",
@@ -747,7 +747,7 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 57
+          "commits_count": 58
         },
         {
           "name": "mathieuancelin",
@@ -910,14 +910,20 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-03-25T09:02:39Z",
+      "pushed_at": "2024-03-25T22:51:21Z",
       "contributors": [
+        "ptitFicus",
         "Izanami",
-        null,
-        "ptitFicus"
+        null
       ],
-      "commits_count": 4,
+      "commits_count": 7,
       "commits_per_contributor": [
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 3
+        },
         {
           "name": "Izanami",
           "avatar_url": "https://avatars.githubusercontent.com/u/1369122?v=4",
@@ -925,13 +931,7 @@
           "commits_count": 2
         },
         {
-          "commits_count": 1
-        },
-        {
-          "name": "ptitFicus",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-          "url": "https://github.com/ptitFicus",
-          "commits_count": 1
+          "commits_count": 2
         }
       ]
     },
@@ -1109,7 +1109,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-03-25T09:10:34Z",
+      "pushed_at": "2024-03-25T15:45:36Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1117,15 +1117,16 @@
         "baudelotphilippe",
         "mathieuancelin",
         "Btxgear",
+        "helakaraa",
         null
       ],
-      "commits_count": 2259,
+      "commits_count": 2264,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1140
+          "commits_count": 1141
         },
         {
           "name": "Zwiterrion",
@@ -1153,6 +1154,12 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
           "url": "https://github.com/Btxgear",
           "commits_count": 66
+        },
+        {
+          "name": "helakaraa",
+          "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
+          "url": "https://github.com/helakaraa",
+          "commits_count": 4
         },
         {
           "commits_count": 2
@@ -1220,7 +1227,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14007,
+      "commits_count": 14010,
       "projects": [
         "shapash",
         "shapash",
@@ -1468,7 +1475,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1439,
+      "commits_count": 1440,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1480,7 +1487,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1694,
+      "commits_count": 1695,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1493,7 +1500,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 81,
+      "commits_count": 83,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1886,6 +1893,15 @@
         "daikoku"
       ]
     },
+    "helakaraa": {
+      "name": "helakaraa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
+      "url": "https://github.com/helakaraa",
+      "commits_count": 4,
+      "projects": [
+        "daikoku"
+      ]
+    },
     "wikijm": {
       "name": "wikijm",
       "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
@@ -1950,6 +1966,7 @@
     "adam-benjellounSG",
     "FDJFDJ",
     "omahs",
+    "helakaraa",
     "AntoineSimoulin",
     "sebprunierserli",
     "tristan-chauveau",
