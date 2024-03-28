@@ -275,7 +275,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-03-23T07:32:45Z",
+      "pushed_at": "2024-03-27T13:31:53Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -304,19 +304,19 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 7972,
+      "commits_count": 7978,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5646
+          "commits_count": 5650
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1076
+          "commits_count": 1078
         },
         {
           "commits_count": 532
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-03-26T00:06:27Z",
+      "pushed_at": "2024-03-27T00:06:34Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -732,10 +732,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12063,
+      "commits_count": 12064,
       "commits_per_contributor": [
         {
-          "commits_count": 11767
+          "commits_count": 11768
         },
         {
           "name": "baudelotphilippe",
@@ -910,19 +910,20 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-03-26T14:29:04Z",
+      "pushed_at": "2024-03-27T00:39:30Z",
       "contributors": [
         "ptitFicus",
         "Izanami",
+        null,
         null
       ],
-      "commits_count": 9,
+      "commits_count": 11,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 5
+          "commits_count": 6
         },
         {
           "name": "Izanami",
@@ -932,6 +933,9 @@
         },
         {
           "commits_count": 2
+        },
+        {
+          "commits_count": 1
         }
       ]
     },
@@ -1109,7 +1113,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-03-26T14:31:50Z",
+      "pushed_at": "2024-03-27T09:59:57Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1120,13 +1124,13 @@
         "helakaraa",
         null
       ],
-      "commits_count": 2362,
+      "commits_count": 2373,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1181
+          "commits_count": 1187
         },
         {
           "name": "Zwiterrion",
@@ -1135,7 +1139,7 @@
           "commits_count": 505
         },
         {
-          "commits_count": 366
+          "commits_count": 371
         },
         {
           "name": "baudelotphilippe",
@@ -1227,7 +1231,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14012,
+      "commits_count": 14019,
       "projects": [
         "shapash",
         "shapash",
@@ -1280,6 +1284,7 @@
         "jooq-async",
         "jooq-async",
         "izanami-java-client",
+        "izanami",
         "izanami",
         "functional-validation",
         "functional-validation",
@@ -1475,7 +1480,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1480,
+      "commits_count": 1486,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1487,7 +1492,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1751,
+      "commits_count": 1753,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1500,7 +1505,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 85,
+      "commits_count": 86,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1530,7 +1535,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5921,
+      "commits_count": 5925,
       "projects": [
         "react-forms",
         "otoroshi",
