@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/shapash",
       "description": "🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models",
       "homepage": "https://maif.github.io/shapash/",
-      "pushed_at": "2024-03-22T15:52:07Z",
+      "pushed_at": "2024-03-28T13:33:26Z",
       "contributors": [
         "ThomasBouche",
         null,
@@ -37,7 +37,7 @@
         "yvanzubro",
         null
       ],
-      "commits_count": 1548,
+      "commits_count": 1558,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
@@ -67,13 +67,13 @@
           "name": "MLecardonnel",
           "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
           "url": "https://github.com/MLecardonnel",
-          "commits_count": 87
+          "commits_count": 89
         },
         {
           "name": "guillaume-vignal",
           "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
           "url": "https://github.com/guillaume-vignal",
-          "commits_count": 67
+          "commits_count": 75
         },
         {
           "name": "Francesco-Marini",
@@ -275,7 +275,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-03-27T13:31:53Z",
+      "pushed_at": "2024-03-28T09:26:47Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -304,13 +304,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 7978,
+      "commits_count": 7997,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5650
+          "commits_count": 5669
         },
         {
           "name": "Zwiterrion",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-03-27T00:06:34Z",
+      "pushed_at": "2024-03-28T00:07:08Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -732,10 +732,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12064,
+      "commits_count": 12065,
       "commits_per_contributor": [
         {
-          "commits_count": 11768
+          "commits_count": 11769
         },
         {
           "name": "baudelotphilippe",
@@ -910,7 +910,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-03-27T00:39:30Z",
+      "pushed_at": "2024-03-28T23:12:26Z",
       "contributors": [
         "ptitFicus",
         "Izanami",
@@ -1231,7 +1231,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14019,
+      "commits_count": 14020,
       "projects": [
         "shapash",
         "shapash",
@@ -1323,7 +1323,7 @@
       "name": "MLecardonnel",
       "avatar_url": "https://avatars.githubusercontent.com/u/50659492?v=4",
       "url": "https://github.com/MLecardonnel",
-      "commits_count": 93,
+      "commits_count": 95,
       "projects": [
         "shapash",
         "eurybia"
@@ -1333,7 +1333,7 @@
       "name": "guillaume-vignal",
       "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
       "url": "https://github.com/guillaume-vignal",
-      "commits_count": 71,
+      "commits_count": 79,
       "projects": [
         "shapash",
         "eurybia"
@@ -1535,7 +1535,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5925,
+      "commits_count": 5944,
       "projects": [
         "react-forms",
         "otoroshi",
