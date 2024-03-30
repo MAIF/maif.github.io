@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-03-28T00:07:08Z",
+      "pushed_at": "2024-03-29T00:06:54Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -732,10 +732,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12065,
+      "commits_count": 12066,
       "commits_per_contributor": [
         {
-          "commits_count": 11769
+          "commits_count": 11770
         },
         {
           "name": "baudelotphilippe",
@@ -910,7 +910,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-03-28T23:12:26Z",
+      "pushed_at": "2024-03-29T10:43:41Z",
       "contributors": [
         "ptitFicus",
         "Izanami",
@@ -1231,7 +1231,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14020,
+      "commits_count": 14021,
       "projects": [
         "shapash",
         "shapash",
