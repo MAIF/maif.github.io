@@ -275,7 +275,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-03-28T09:26:47Z",
+      "pushed_at": "2024-03-31T06:37:02Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -304,7 +304,7 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 7997,
+      "commits_count": 8004,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -328,7 +328,7 @@
           "commits_count": 451
         },
         {
-          "commits_count": 70
+          "commits_count": 77
         },
         {
           "name": "quentinovega",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-03-30T00:06:29Z",
+      "pushed_at": "2024-03-31T00:08:11Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -732,10 +732,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12067,
+      "commits_count": 12068,
       "commits_per_contributor": [
         {
-          "commits_count": 11771
+          "commits_count": 11772
         },
         {
           "name": "baudelotphilippe",
@@ -908,7 +908,7 @@
     "izanami": {
       "name": "izanami",
       "url": "https://github.com/MAIF/izanami",
-      "description": "Izanami is a shared configuration, feature flipping and A/B testing server well-suited for micro-service architecture implementation.",
+      "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
       "pushed_at": "2024-03-29T10:43:41Z",
       "contributors": [
@@ -1231,7 +1231,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14022,
+      "commits_count": 14030,
       "projects": [
         "shapash",
         "shapash",
