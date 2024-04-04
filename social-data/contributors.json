@@ -275,7 +275,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-04-02T19:37:49Z",
+      "pushed_at": "2024-04-03T21:06:10Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -304,13 +304,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8006,
+      "commits_count": 8017,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5671
+          "commits_count": 5674
         },
         {
           "name": "Zwiterrion",
@@ -319,7 +319,7 @@
           "commits_count": 1078
         },
         {
-          "commits_count": 532
+          "commits_count": 533
         },
         {
           "name": "baudelotphilippe",
@@ -328,7 +328,7 @@
           "commits_count": 451
         },
         {
-          "commits_count": 77
+          "commits_count": 84
         },
         {
           "name": "quentinovega",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-04-02T00:06:53Z",
+      "pushed_at": "2024-04-03T00:06:55Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -732,10 +732,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12070,
+      "commits_count": 12071,
       "commits_per_contributor": [
         {
-          "commits_count": 11774
+          "commits_count": 11775
         },
         {
           "name": "baudelotphilippe",
@@ -910,7 +910,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-04-02T21:48:53Z",
+      "pushed_at": "2024-04-03T21:36:19Z",
       "contributors": [
         "ptitFicus",
         "Izanami",
@@ -1231,7 +1231,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14032,
+      "commits_count": 14041,
       "projects": [
         "shapash",
         "shapash",
@@ -1535,7 +1535,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5946,
+      "commits_count": 5949,
       "projects": [
         "react-forms",
         "otoroshi",
