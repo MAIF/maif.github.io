@@ -275,7 +275,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-04-03T21:06:10Z",
+      "pushed_at": "2024-04-04T17:40:23Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -304,7 +304,7 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8017,
+      "commits_count": 8018,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -325,7 +325,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 451
+          "commits_count": 452
         },
         {
           "commits_count": 84
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-04-03T00:06:55Z",
+      "pushed_at": "2024-04-04T00:07:49Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -732,10 +732,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12071,
+      "commits_count": 12072,
       "commits_per_contributor": [
         {
-          "commits_count": 11775
+          "commits_count": 11776
         },
         {
           "name": "baudelotphilippe",
@@ -910,7 +910,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-04-03T21:36:19Z",
+      "pushed_at": "2024-04-04T15:57:34Z",
       "contributors": [
         "ptitFicus",
         "Izanami",
@@ -1113,7 +1113,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-04-02T13:59:20Z",
+      "pushed_at": "2024-04-04T15:00:25Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1124,13 +1124,13 @@
         "helakaraa",
         null
       ],
-      "commits_count": 2373,
+      "commits_count": 2385,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1187
+          "commits_count": 1190
         },
         {
           "name": "Zwiterrion",
@@ -1139,13 +1139,13 @@
           "commits_count": 505
         },
         {
-          "commits_count": 371
+          "commits_count": 376
         },
         {
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 135
+          "commits_count": 139
         },
         {
           "name": "mathieuancelin",
@@ -1231,7 +1231,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14041,
+      "commits_count": 14047,
       "projects": [
         "shapash",
         "shapash",
@@ -1480,7 +1480,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1486,
+      "commits_count": 1489,
       "projects": [
         "react-forms",
         "otoroshi",
@@ -1519,7 +1519,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 792,
+      "commits_count": 797,
       "projects": [
         "react-forms",
         "otoroshi",
