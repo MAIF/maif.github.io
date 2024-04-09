@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-04-07T00:08:16Z",
+      "pushed_at": "2024-04-08T00:06:55Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -732,10 +732,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12075,
+      "commits_count": 12076,
       "commits_per_contributor": [
         {
-          "commits_count": 11779
+          "commits_count": 11780
         },
         {
           "name": "baudelotphilippe",
@@ -887,7 +887,7 @@
       "url": "https://github.com/MAIF/izanami-java-client",
       "description": "Java Client for Izanami V2",
       "homepage": null,
-      "pushed_at": "2024-04-07T23:45:52Z",
+      "pushed_at": "2024-04-08T09:24:32Z",
       "contributors": [
         null,
         "ptitFicus"
@@ -910,20 +910,23 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-04-07T23:25:13Z",
+      "pushed_at": "2024-04-08T22:23:11Z",
       "contributors": [
         "ptitFicus",
-        "Izanami",
         null,
+        "Izanami",
         null
       ],
-      "commits_count": 12,
+      "commits_count": 14,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 7
+          "commits_count": 8
+        },
+        {
+          "commits_count": 2
         },
         {
           "name": "Izanami",
@@ -933,9 +936,6 @@
         },
         {
           "commits_count": 2
-        },
-        {
-          "commits_count": 1
         }
       ]
     },
@@ -1231,7 +1231,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14050,
+      "commits_count": 14052,
       "projects": [
         "shapash",
         "shapash",
@@ -1505,7 +1505,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 87,
+      "commits_count": 88,
       "projects": [
         "react-forms",
         "otoroshi",
