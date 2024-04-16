@@ -521,7 +521,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-04-14T00:11:08Z",
+      "pushed_at": "2024-04-15T01:20:43Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -538,10 +538,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12082,
+      "commits_count": 12083,
       "commits_per_contributor": [
         {
-          "commits_count": 11786
+          "commits_count": 11787
         },
         {
           "name": "baudelotphilippe",
@@ -693,7 +693,7 @@
       "url": "https://github.com/MAIF/izanami-java-client",
       "description": "Java Client for Izanami V2",
       "homepage": null,
-      "pushed_at": "2024-04-08T09:24:32Z",
+      "pushed_at": "2024-04-15T23:09:11Z",
       "contributors": [
         null,
         "ptitFicus"
@@ -716,21 +716,28 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-04-12T15:42:40Z",
+      "pushed_at": "2024-04-15T15:37:20Z",
       "contributors": [
         "ptitFicus",
+        "helakaraa",
         "baudelotphilippe",
         null,
         "Izanami",
         null
       ],
-      "commits_count": 33,
+      "commits_count": 63,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 16
+          "commits_count": 26
+        },
+        {
+          "name": "helakaraa",
+          "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
+          "url": "https://github.com/helakaraa",
+          "commits_count": 20
         },
         {
           "name": "baudelotphilippe",
@@ -1070,7 +1077,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13326,
+      "commits_count": 13327,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1158,7 +1165,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 62,
+      "commits_count": 72,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1485,6 +1492,16 @@
         "lets-automate"
       ]
     },
+    "helakaraa": {
+      "name": "helakaraa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
+      "url": "https://github.com/helakaraa",
+      "commits_count": 24,
+      "projects": [
+        "izanami",
+        "daikoku"
+      ]
+    },
     "Izanami": {
       "name": "Izanami",
       "avatar_url": "https://avatars.githubusercontent.com/u/1369122?v=4",
@@ -1557,15 +1574,6 @@
         "daikoku"
       ]
     },
-    "helakaraa": {
-      "name": "helakaraa",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
-      "url": "https://github.com/helakaraa",
-      "commits_count": 4,
-      "projects": [
-        "daikoku"
-      ]
-    },
     "wikijm": {
       "name": "wikijm",
       "avatar_url": "https://avatars.githubusercontent.com/u/10724809?v=4",
@@ -1596,8 +1604,8 @@
     "HugoPerrier",
     "farthur",
     "TFA-MAIF",
-    "Btxgear",
     "ptitFicus",
+    "Btxgear",
     "ThomasBouche",
     "tstringerquantmetry",
     "benoitLebreton-perso",
@@ -1605,6 +1613,7 @@
     "mathieuancelinserli",
     "desmfr",
     "Fraer",
+    "helakaraa",
     "milidris",
     "antoine-lecomte",
     "guilieb",
@@ -1619,7 +1628,6 @@
     "MLecardonnel",
     "FDJFDJ",
     "omahs",
-    "helakaraa",
     "guillaume-vignal",
     "AntoineSimoulin",
     "sebprunierserli",
