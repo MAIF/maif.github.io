@@ -1,13 +1,5 @@
 [
   {
-    "highlights": "<p>Major announcements in this release are :</p>\n<ul>\n<li>support for the <a href=\"https://infisical.com/\">Infisical</a> project as secrets vault</li>\n<li>add JDK21 docker images</li>\n<li>customization of the ALPN phase to blacklist possible protocols</li>\n<li>split WASM specific code into a separate library</li>\n</ul>",
-    "project": "otoroshi",
-    "date": "2023-09-29T10:17:05Z",
-    "name": "16.9.0",
-    "zip": "https://api.github.com/repos/MAIF/otoroshi/zipball/v16.9.0",
-    "url": "https://github.com/MAIF/otoroshi/releases/tag/v16.9.0"
-  },
-  {
     "highlights": "<p>Complete rewrite of Izanami that focuses on feature flags.</p>\n<ul>\n<li>✨ Multi-tenant support</li>\n<li>🗄️ Feature organization by projects and tags</li>\n<li>🔧 WASM for custom scripts</li>\n<li>👷‍♀️ Compatibility with existing clients is preserved</li>\n</ul>",
     "project": "izanami",
     "date": "2024-03-25T09:02:36Z",
