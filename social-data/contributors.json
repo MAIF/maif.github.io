@@ -337,7 +337,7 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "📧 Melusine: Use python to automatize your email processing workflow",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2024-01-17T16:10:26Z",
+      "pushed_at": "2024-05-03T14:59:36Z",
       "contributors": [
         "hugo-quantmetry",
         "HugoPerrier",
@@ -525,7 +525,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-05-02T00:07:03Z",
+      "pushed_at": "2024-05-03T00:07:21Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12100,
+      "commits_count": 12101,
       "commits_per_contributor": [
         {
-          "commits_count": 11804
+          "commits_count": 11805
         },
         {
           "name": "baudelotphilippe",
@@ -879,7 +879,7 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2024-05-02T14:36:35Z",
+      "pushed_at": "2024-05-03T07:43:59Z",
       "contributors": [
         "ThomasBouche",
         null,
@@ -1068,7 +1068,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13357,
+      "commits_count": 13358,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
