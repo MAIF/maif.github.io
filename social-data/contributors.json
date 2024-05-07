@@ -85,7 +85,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-04-29T14:37:06Z",
+      "pushed_at": "2024-05-06T12:26:32Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -114,7 +114,7 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8050,
+      "commits_count": 8051,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -126,7 +126,7 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1078
+          "commits_count": 1079
         },
         {
           "commits_count": 533
@@ -525,7 +525,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-05-05T00:07:34Z",
+      "pushed_at": "2024-05-06T00:07:15Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12103,
+      "commits_count": 12104,
       "commits_per_contributor": [
         {
-          "commits_count": 11807
+          "commits_count": 11808
         },
         {
           "name": "baudelotphilippe",
@@ -720,7 +720,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-05-02T09:57:04Z",
+      "pushed_at": "2024-05-06T12:43:18Z",
       "contributors": [
         "ptitFicus",
         "helakaraa",
@@ -1056,7 +1056,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1691,
+      "commits_count": 1692,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi-rust-types",
@@ -1068,7 +1068,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13360,
+      "commits_count": 13361,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
