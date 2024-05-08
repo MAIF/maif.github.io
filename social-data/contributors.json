@@ -85,7 +85,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-05-06T12:26:32Z",
+      "pushed_at": "2024-05-07T20:33:43Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -114,13 +114,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8051,
+      "commits_count": 8056,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5698
+          "commits_count": 5703
         },
         {
           "name": "Zwiterrion",
@@ -525,7 +525,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-05-06T00:07:15Z",
+      "pushed_at": "2024-05-07T00:06:52Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12104,
+      "commits_count": 12105,
       "commits_per_contributor": [
         {
-          "commits_count": 11808
+          "commits_count": 11809
         },
         {
           "name": "baudelotphilippe",
@@ -937,7 +937,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-05-02T15:47:33Z",
+      "pushed_at": "2024-05-07T15:37:59Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -946,15 +946,16 @@
         "mathieuancelin",
         "Btxgear",
         "helakaraa",
+        null,
         null
       ],
-      "commits_count": 2440,
+      "commits_count": 2450,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1221
+          "commits_count": 1225
         },
         {
           "name": "Zwiterrion",
@@ -981,13 +982,16 @@
           "name": "Btxgear",
           "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
           "url": "https://github.com/Btxgear",
-          "commits_count": 70
+          "commits_count": 72
         },
         {
           "name": "helakaraa",
           "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
           "url": "https://github.com/helakaraa",
           "commits_count": 10
+        },
+        {
+          "commits_count": 4
         },
         {
           "commits_count": 2
@@ -1068,7 +1072,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13361,
+      "commits_count": 13366,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1123,6 +1127,7 @@
         "functional-json",
         "eurybia",
         "daikoku",
+        "daikoku",
         "daikoku"
       ]
     },
@@ -1130,7 +1135,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5972,
+      "commits_count": 5977,
       "projects": [
         "otoroshi",
         "nio",
@@ -1159,7 +1164,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1309,
+      "commits_count": 1313,
       "projects": [
         "otoroshi",
         "nio",
@@ -1574,7 +1579,7 @@
       "name": "Btxgear",
       "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
       "url": "https://github.com/Btxgear",
-      "commits_count": 70,
+      "commits_count": 72,
       "projects": [
         "daikoku"
       ]
