@@ -85,7 +85,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-05-08T19:53:26Z",
+      "pushed_at": "2024-05-12T21:14:37Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -114,13 +114,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8061,
+      "commits_count": 8075,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5708
+          "commits_count": 5721
         },
         {
           "name": "Zwiterrion",
@@ -129,7 +129,7 @@
           "commits_count": 1079
         },
         {
-          "commits_count": 533
+          "commits_count": 534
         },
         {
           "name": "baudelotphilippe",
@@ -525,7 +525,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-05-11T00:07:08Z",
+      "pushed_at": "2024-05-12T00:07:50Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12109,
+      "commits_count": 12110,
       "commits_per_contributor": [
         {
-          "commits_count": 11813
+          "commits_count": 11814
         },
         {
           "name": "baudelotphilippe",
@@ -1072,7 +1072,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13370,
+      "commits_count": 13372,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1135,7 +1135,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 5982,
+      "commits_count": 5995,
       "projects": [
         "otoroshi",
         "nio",
