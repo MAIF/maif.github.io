@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<ul>\n<li>📬 server sent events</li>\n<li>🏷️ label management screen</li>\n<li>🚚 bulk feature tagging</li>\n<li>📖 swagger for v2</li>\n</ul>",
+    "project": "izanami",
+    "date": "2024-05-14T22:36:05Z",
+    "name": "v2.1.0",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.1.0",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.1.0"
+  },
+  {
     "highlights": "<p>Complete rewrite of Izanami that focuses on feature flags.</p>\n<ul>\n<li>✨ Multi-tenant support</li>\n<li>🗄️ Feature organization by projects and tags</li>\n<li>🔧 WASM for custom scripts</li>\n<li>👷‍♀️ Compatibility with existing clients is preserved</li>\n</ul>",
     "project": "izanami",
     "date": "2024-03-25T09:02:36Z",
