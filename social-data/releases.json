@@ -1,6 +1,6 @@
 [
   {
-    "highlights": "<ul>\n<li>📬 server sent events</li>\n<li>🏷️ label management screen</li>\n<li>🚚 bulk feature tagging</li>\n<li>📖 swagger for v2</li>\n</ul>",
+    "highlights": "<ul>\n<li>📬 server sent events</li>\n<li>🏷️ label management screen</li>\n<li>🚚 bulk feature tagging</li>\n<li>📖 swagger for v2</li>\n<li>💡 light theme</li>\n</ul>",
     "project": "izanami",
     "date": "2024-05-14T22:36:05Z",
     "name": "v2.1.0",
