@@ -85,7 +85,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-05-24T15:00:34Z",
+      "pushed_at": "2024-05-27T15:01:34Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -114,13 +114,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8097,
+      "commits_count": 8099,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5728
+          "commits_count": 5730
         },
         {
           "name": "Zwiterrion",
@@ -525,7 +525,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-05-26T00:07:38Z",
+      "pushed_at": "2024-05-27T00:07:19Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12124,
+      "commits_count": 12125,
       "commits_per_contributor": [
         {
-          "commits_count": 11828
+          "commits_count": 11829
         },
         {
           "name": "baudelotphilippe",
@@ -720,7 +720,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-05-26T23:09:00Z",
+      "pushed_at": "2024-05-27T22:44:28Z",
       "contributors": [
         "ptitFicus",
         "helakaraa",
@@ -1072,7 +1072,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13405,
+      "commits_count": 13406,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1135,7 +1135,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6002,
+      "commits_count": 6004,
       "projects": [
         "otoroshi",
         "nio",
