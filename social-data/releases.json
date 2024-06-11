@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<ul>\n<li>🏷️ Add / remove tags from multiple features </li>\n<li>🔎 Project search bar</li>\n</ul>",
+    "project": "izanami",
+    "date": "2024-06-10T19:32:46Z",
+    "name": "v2.2.0",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.2.0",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.2.0"
+  },
+  {
     "highlights": "<ul>\n<li>📬 server sent events</li>\n<li>🏷️ label management screen</li>\n<li>🚚 bulk feature tagging</li>\n<li>📖 swagger for v2</li>\n<li>💡 light theme</li>\n</ul>",
     "project": "izanami",
     "date": "2024-05-14T22:36:05Z",
