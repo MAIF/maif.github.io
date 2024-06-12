@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-06-10T10:11:13Z",
+      "pushed_at": "2024-06-11T00:07:14Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -523,10 +523,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12139,
+      "commits_count": 12140,
       "commits_per_contributor": [
         {
-          "commits_count": 11843
+          "commits_count": 11844
         },
         {
           "name": "baudelotphilippe",
@@ -701,7 +701,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-06-10T21:49:01Z",
+      "pushed_at": "2024-06-11T14:59:26Z",
       "contributors": [
         "ptitFicus",
         "helakaraa",
@@ -710,13 +710,13 @@
         "Izanami",
         null
       ],
-      "commits_count": 161,
+      "commits_count": 165,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 59
+          "commits_count": 60
         },
         {
           "name": "helakaraa",
@@ -728,7 +728,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 35
+          "commits_count": 38
         },
         {
           "commits_count": 15
@@ -918,7 +918,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-06-10T07:39:11Z",
+      "pushed_at": "2024-06-11T14:59:17Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1031,7 +1031,7 @@
       "url": "https://github.com/MAIF/arta",
       "description": "An Open Source Rules Engine - Make rule handling simple",
       "homepage": "https://maif.github.io/arta/",
-      "pushed_at": "2024-06-10T09:58:22Z",
+      "pushed_at": "2024-06-11T13:50:58Z",
       "contributors": [
         "develop-cs"
       ],
@@ -1063,7 +1063,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13454,
+      "commits_count": 13455,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1139,7 +1139,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 828,
+      "commits_count": 831,
       "projects": [
         "otoroshi",
         "nio",
@@ -1166,7 +1166,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 107,
+      "commits_count": 108,
       "projects": [
         "otoroshi",
         "maif.github.io",
