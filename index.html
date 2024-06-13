@@ -202,6 +202,11 @@
       }
       launchMsnry();
       cardsDisplay += cardsDisplayIncrement
+
+      if (cardsDisplay>=actus.childNodes.length ) {
+        btnMore.classList.remove("d-flex")
+        btnMore.classList.add("d-none")
+      }
     }
   </script>
 
