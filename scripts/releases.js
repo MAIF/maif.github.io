@@ -66,6 +66,7 @@ Promise.all(
     "lets-automate",
     "eurybia",
     "melusine",
+    "arta",
   ].map((name) => fetchReleases(name))
 ).then((bodies) =>
   fs.writeFileSync(output_file, JSON.stringify(bodies.flat().filter(r => r), null, 2))
