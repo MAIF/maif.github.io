@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-06-13T12:28:46Z",
+      "pushed_at": "2024-06-14T18:14:27Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12150,
+      "commits_count": 12152,
       "commits_per_contributor": [
         {
-          "commits_count": 11846
+          "commits_count": 11847
         },
         {
           "name": "baudelotphilippe",
@@ -563,7 +563,7 @@
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 3
+          "commits_count": 4
         },
         {
           "commits_count": 3
@@ -1070,7 +1070,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13473,
+      "commits_count": 13474,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1173,7 +1173,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 109,
+      "commits_count": 110,
       "projects": [
         "otoroshi",
         "maif.github.io",
