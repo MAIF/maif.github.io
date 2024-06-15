@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-06-14T18:14:27Z",
+      "pushed_at": "2024-06-14T18:14:44Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12152,
+      "commits_count": 12153,
       "commits_per_contributor": [
         {
-          "commits_count": 11847
+          "commits_count": 11848
         },
         {
           "name": "baudelotphilippe",
@@ -708,7 +708,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-06-13T14:25:25Z",
+      "pushed_at": "2024-06-14T22:45:49Z",
       "contributors": [
         "ptitFicus",
         "helakaraa",
@@ -717,13 +717,13 @@
         "Izanami",
         null
       ],
-      "commits_count": 167,
+      "commits_count": 172,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 60
+          "commits_count": 64
         },
         {
           "name": "helakaraa",
@@ -738,7 +738,7 @@
           "commits_count": 40
         },
         {
-          "commits_count": 15
+          "commits_count": 16
         },
         {
           "name": "Izanami",
@@ -1070,7 +1070,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13474,
+      "commits_count": 13476,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1173,7 +1173,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 110,
+      "commits_count": 114,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1619,8 +1619,8 @@
     "baudelotphilippe",
     "larousso",
     "hugo-quantmetry",
-    "HugoPerrier",
     "ptitFicus",
+    "HugoPerrier",
     "farthur",
     "TFA-MAIF",
     "Btxgear",
