@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<ul>\n<li>🔌 Webhooks</li>\n</ul>",
+    "project": "izanami",
+    "date": "2024-06-17T11:15:44Z",
+    "name": "v2.3.0",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.3.0",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.3.0"
+  },
+  {
     "highlights": "<ul>\n<li>🏷️ Add / remove tags from multiple features </li>\n<li>🔎 Project search bar</li>\n</ul>",
     "project": "izanami",
     "date": "2024-06-10T19:32:46Z",
@@ -62,5 +70,13 @@
     "name": "v2.4.0: ⬆️ Support for Python 3.11",
     "zip": "https://api.github.com/repos/MAIF/shapash/zipball/v2.4.0",
     "url": "https://github.com/MAIF/shapash/releases/tag/v2.4.0"
+  },
+  {
+    "highlights": "<p>Features:</p>\n<ul>\n<li>Configure your rules in a YAML file or use a straightforward python dictionary.</li>\n<li>Use \"<a href=\"https://maif.github.io/arta/how_to/#standard-condition\">standard conditions</a>\" (YAML defined conditions) for flexibility.</li>\n<li>Use \"<a href=\"https://maif.github.io/arta/how_to/#simple-condition\">simple conditions</a>\" (one-liner conditions) for simplicity (beta feature).</li>\n<li>Implement your own \"<a href=\"https://maif.github.io/arta/special_conditions/#custom-condition\">custom conditions</a>\" (python classes) for adaptability.</li>\n<li>Define your own parameter's <a href=\"https://maif.github.io/arta/parameters/#parsing-error\">parsing strategy</a> (raise, ignore, default value).</li>\n<li>Use many <a href=\"https://maif.github.io/arta/rule_sets/\">rule sets</a> as you need.</li>\n</ul>",
+    "project": "arta",
+    "date": "2024-06-10T08:41:45Z",
+    "name": "0.7.0b*",
+    "zip": "https://api.github.com/repos/MAIF/arta/zipball/0.7.0b",
+    "url": "https://github.com/MAIF/arta/releases/tag/0.7.0b"
   }
 ]
