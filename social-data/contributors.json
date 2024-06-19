@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-06-17T21:59:02Z",
+      "pushed_at": "2024-06-18T08:49:10Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-06-17T00:07:39Z",
+      "pushed_at": "2024-06-18T00:07:18Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12156,
+      "commits_count": 12157,
       "commits_per_contributor": [
         {
-          "commits_count": 11851
+          "commits_count": 11852
         },
         {
           "name": "baudelotphilippe",
@@ -708,7 +708,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-06-17T21:27:37Z",
+      "pushed_at": "2024-06-18T16:03:09Z",
       "contributors": [
         "ptitFicus",
         "helakaraa",
@@ -925,7 +925,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-06-11T14:59:17Z",
+      "pushed_at": "2024-06-18T18:41:17Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1038,17 +1038,24 @@
       "url": "https://github.com/MAIF/arta",
       "description": "An Open Source Rules Engine - Make rule handling simple",
       "homepage": "https://maif.github.io/arta/",
-      "pushed_at": "2024-06-11T13:50:58Z",
+      "pushed_at": "2024-06-18T15:02:54Z",
       "contributors": [
-        "develop-cs"
+        "develop-cs",
+        "NinaPetard"
       ],
-      "commits_count": 10,
+      "commits_count": 12,
       "commits_per_contributor": [
         {
           "name": "develop-cs",
           "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
           "url": "https://github.com/develop-cs",
-          "commits_count": 10
+          "commits_count": 11
+        },
+        {
+          "name": "NinaPetard",
+          "avatar_url": "https://avatars.githubusercontent.com/u/23741953?v=4",
+          "url": "https://github.com/NinaPetard",
+          "commits_count": 1
         }
       ]
     }
@@ -1070,7 +1077,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13487,
+      "commits_count": 13488,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1485,7 +1492,7 @@
       "name": "develop-cs",
       "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
       "url": "https://github.com/develop-cs",
-      "commits_count": 16,
+      "commits_count": 17,
       "projects": [
         "maif.github.io",
         "arta"
@@ -1609,6 +1616,15 @@
       "projects": [
         "cards"
       ]
+    },
+    "NinaPetard": {
+      "name": "NinaPetard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23741953?v=4",
+      "url": "https://github.com/NinaPetard",
+      "commits_count": 1,
+      "projects": [
+        "arta"
+      ]
     }
   },
   "commits_per_contributor_sorted": [
@@ -1653,6 +1669,7 @@
     "SebastienBidault",
     "mbaechler",
     "Izanami",
+    "NinaPetard",
     "gotson",
     "wikijm",
     "remi-perrier",
