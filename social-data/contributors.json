@@ -5,21 +5,21 @@
       "url": "https://github.com/MAIF/otoroshi-ts-types",
       "description": "Types for developing Wasm plugins that are compatible with Otoroshi",
       "homepage": null,
-      "pushed_at": "2024-04-29T11:44:52Z",
+      "pushed_at": "2024-06-19T12:18:59Z",
       "contributors": [
         "Zwiterrion",
         null
       ],
-      "commits_count": 13,
+      "commits_count": 24,
       "commits_per_contributor": [
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 11
+          "commits_count": 18
         },
         {
-          "commits_count": 2
+          "commits_count": 6
         }
       ]
     },
@@ -28,17 +28,17 @@
       "url": "https://github.com/MAIF/otoroshi-rust-types",
       "description": "Types for developing Wasm plugins that are compatible with Otoroshi",
       "homepage": null,
-      "pushed_at": "2024-04-29T12:35:40Z",
+      "pushed_at": "2024-06-19T12:18:01Z",
       "contributors": [
         "Zwiterrion"
       ],
-      "commits_count": 6,
+      "commits_count": 18,
       "commits_per_contributor": [
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 6
+          "commits_count": 18
         }
       ]
     },
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-06-18T00:07:18Z",
+      "pushed_at": "2024-06-19T00:07:15Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12157,
+      "commits_count": 12158,
       "commits_per_contributor": [
         {
-          "commits_count": 11852
+          "commits_count": 11853
         },
         {
           "name": "baudelotphilippe",
@@ -708,7 +708,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-06-18T16:03:09Z",
+      "pushed_at": "2024-06-19T16:09:07Z",
       "contributors": [
         "ptitFicus",
         "helakaraa",
@@ -1038,7 +1038,7 @@
       "url": "https://github.com/MAIF/arta",
       "description": "An Open Source Rules Engine - Make rule handling simple",
       "homepage": "https://maif.github.io/arta/",
-      "pushed_at": "2024-06-18T15:02:54Z",
+      "pushed_at": "2024-06-19T07:45:47Z",
       "contributors": [
         "develop-cs",
         "NinaPetard"
@@ -1065,7 +1065,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1718,
+      "commits_count": 1737,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi-rust-types",
@@ -1077,7 +1077,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13488,
+      "commits_count": 13493,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
