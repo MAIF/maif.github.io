@@ -5,18 +5,18 @@
       "url": "https://github.com/MAIF/otoroshi-ts-types",
       "description": "Types for developing Wasm plugins that are compatible with Otoroshi",
       "homepage": null,
-      "pushed_at": "2024-06-19T12:18:59Z",
+      "pushed_at": "2024-06-20T12:55:39Z",
       "contributors": [
         "Zwiterrion",
         null
       ],
-      "commits_count": 24,
+      "commits_count": 25,
       "commits_per_contributor": [
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 18
+          "commits_count": 19
         },
         {
           "commits_count": 6
@@ -28,17 +28,17 @@
       "url": "https://github.com/MAIF/otoroshi-rust-types",
       "description": "Types for developing Wasm plugins that are compatible with Otoroshi",
       "homepage": null,
-      "pushed_at": "2024-06-19T12:18:01Z",
+      "pushed_at": "2024-06-20T12:54:45Z",
       "contributors": [
         "Zwiterrion"
       ],
-      "commits_count": 18,
+      "commits_count": 20,
       "commits_per_contributor": [
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 18
+          "commits_count": 20
         }
       ]
     },
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-06-19T00:07:15Z",
+      "pushed_at": "2024-06-20T00:07:19Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12158,
+      "commits_count": 12159,
       "commits_per_contributor": [
         {
-          "commits_count": 11853
+          "commits_count": 11854
         },
         {
           "name": "baudelotphilippe",
@@ -708,7 +708,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-06-19T16:09:07Z",
+      "pushed_at": "2024-06-20T10:43:32Z",
       "contributors": [
         "ptitFicus",
         "helakaraa",
@@ -717,7 +717,7 @@
         "Izanami",
         null
       ],
-      "commits_count": 192,
+      "commits_count": 197,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
@@ -735,7 +735,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 40
+          "commits_count": 45
         },
         {
           "commits_count": 24
@@ -1038,7 +1038,7 @@
       "url": "https://github.com/MAIF/arta",
       "description": "An Open Source Rules Engine - Make rule handling simple",
       "homepage": "https://maif.github.io/arta/",
-      "pushed_at": "2024-06-19T07:45:47Z",
+      "pushed_at": "2024-06-20T10:09:17Z",
       "contributors": [
         "develop-cs",
         "NinaPetard"
@@ -1065,7 +1065,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1737,
+      "commits_count": 1740,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi-rust-types",
@@ -1077,7 +1077,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13493,
+      "commits_count": 13494,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1153,7 +1153,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 834,
+      "commits_count": 839,
       "projects": [
         "otoroshi",
         "nio",
