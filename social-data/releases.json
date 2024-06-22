@@ -72,6 +72,14 @@
     "url": "https://github.com/MAIF/shapash/releases/tag/v2.4.0"
   },
   {
+    "highlights": "<p>Features:</p>\n<ul>\n<li>Configure your rules in a YAML file or use a straightforward python dictionary.</li>\n<li>Use \"<a href=\"https://maif.github.io/arta/how_to/#standard-condition\">standard conditions</a>\" (YAML defined conditions) for flexibility.</li>\n<li>Use \"<a href=\"https://maif.github.io/arta/how_to/#simple-condition\">simple conditions</a>\" (one-liner conditions) for simplicity (beta feature).</li>\n<li>Use <em>math expressions</em> in \"<a href=\"https://maif.github.io/arta/how_to/#simple-condition\">simple conditions</a>\" (#25).</li>\n<li>Implement your own \"<a href=\"https://maif.github.io/arta/special_conditions/#custom-condition\">custom conditions</a>\" (python classes) for adaptability.</li>\n<li>Define your own parameter's <a href=\"https://maif.github.io/arta/parameters/#parsing-error\">parsing strategy</a> (raise, ignore, default value).</li>\n<li>Use many <a href=\"https://maif.github.io/arta/rule_sets/\">rule sets</a> as you need.</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>You can now use <em>whitespaces</em> in a string within a <em>simple condition</em> (e.g., <code>input.text==\"super hero\"</code>) (#23).</li>\n</ul>",
+    "project": "arta",
+    "date": "2024-06-21T15:36:11Z",
+    "name": "0.7.1",
+    "zip": "https://api.github.com/repos/MAIF/arta/zipball/0.7.1",
+    "url": "https://github.com/MAIF/arta/releases/tag/0.7.1"
+  },
+  {
     "highlights": "<p>Features:</p>\n<ul>\n<li>Configure your rules in a YAML file or use a straightforward python dictionary.</li>\n<li>Use \"<a href=\"https://maif.github.io/arta/how_to/#standard-condition\">standard conditions</a>\" (YAML defined conditions) for flexibility.</li>\n<li>Use \"<a href=\"https://maif.github.io/arta/how_to/#simple-condition\">simple conditions</a>\" (one-liner conditions) for simplicity (beta feature).</li>\n<li>Implement your own \"<a href=\"https://maif.github.io/arta/special_conditions/#custom-condition\">custom conditions</a>\" (python classes) for adaptability.</li>\n<li>Define your own parameter's <a href=\"https://maif.github.io/arta/parameters/#parsing-error\">parsing strategy</a> (raise, ignore, default value).</li>\n<li>Use many <a href=\"https://maif.github.io/arta/rule_sets/\">rule sets</a> as you need.</li>\n</ul>",
     "project": "arta",
     "date": "2024-06-10T08:41:45Z",

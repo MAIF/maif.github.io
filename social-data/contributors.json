@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-06-20T00:07:19Z",
+      "pushed_at": "2024-06-21T00:07:08Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12159,
+      "commits_count": 12160,
       "commits_per_contributor": [
         {
-          "commits_count": 11854
+          "commits_count": 11855
         },
         {
           "name": "baudelotphilippe",
@@ -708,7 +708,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-06-20T10:43:32Z",
+      "pushed_at": "2024-06-21T22:28:28Z",
       "contributors": [
         "ptitFicus",
         "helakaraa",
@@ -717,13 +717,13 @@
         "Izanami",
         null
       ],
-      "commits_count": 197,
+      "commits_count": 200,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 76
+          "commits_count": 79
         },
         {
           "name": "helakaraa",
@@ -1038,18 +1038,18 @@
       "url": "https://github.com/MAIF/arta",
       "description": "An Open Source Rules Engine - Make rule handling simple",
       "homepage": "https://maif.github.io/arta/",
-      "pushed_at": "2024-06-20T10:09:17Z",
+      "pushed_at": "2024-06-21T15:33:54Z",
       "contributors": [
         "develop-cs",
         "NinaPetard"
       ],
-      "commits_count": 12,
+      "commits_count": 14,
       "commits_per_contributor": [
         {
           "name": "develop-cs",
           "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
           "url": "https://github.com/develop-cs",
-          "commits_count": 11
+          "commits_count": 13
         },
         {
           "name": "NinaPetard",
@@ -1077,7 +1077,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13494,
+      "commits_count": 13495,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1180,7 +1180,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 126,
+      "commits_count": 129,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1492,7 +1492,7 @@
       "name": "develop-cs",
       "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
       "url": "https://github.com/develop-cs",
-      "commits_count": 17,
+      "commits_count": 19,
       "projects": [
         "maif.github.io",
         "arta"
