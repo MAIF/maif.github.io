@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-06-18T08:49:10Z",
+      "pushed_at": "2024-06-24T08:58:09Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -95,13 +95,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8183,
+      "commits_count": 8185,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5744
+          "commits_count": 5745
         },
         {
           "name": "Zwiterrion",
@@ -110,7 +110,7 @@
           "commits_count": 1105
         },
         {
-          "commits_count": 541
+          "commits_count": 542
         },
         {
           "name": "baudelotphilippe",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-06-23T00:07:58Z",
+      "pushed_at": "2024-06-24T00:08:19Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12162,
+      "commits_count": 12163,
       "commits_per_contributor": [
         {
-          "commits_count": 11857
+          "commits_count": 11858
         },
         {
           "name": "baudelotphilippe",
@@ -708,7 +708,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-06-23T23:53:24Z",
+      "pushed_at": "2024-06-24T23:59:31Z",
       "contributors": [
         "ptitFicus",
         "helakaraa",
@@ -717,13 +717,13 @@
         "Izanami",
         null
       ],
-      "commits_count": 205,
+      "commits_count": 212,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 84
+          "commits_count": 89
         },
         {
           "name": "helakaraa",
@@ -735,7 +735,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 45
+          "commits_count": 47
         },
         {
           "commits_count": 24
@@ -1077,7 +1077,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13497,
+      "commits_count": 13499,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1140,7 +1140,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6018,
+      "commits_count": 6019,
       "projects": [
         "otoroshi",
         "nio",
@@ -1153,7 +1153,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 839,
+      "commits_count": 841,
       "projects": [
         "otoroshi",
         "nio",
@@ -1180,7 +1180,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 134,
+      "commits_count": 139,
       "projects": [
         "otoroshi",
         "maif.github.io",
