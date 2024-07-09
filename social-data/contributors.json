@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-07-05T14:25:31Z",
+      "pushed_at": "2024-07-08T09:00:27Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -95,13 +95,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8193,
+      "commits_count": 8195,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5751
+          "commits_count": 5753
         },
         {
           "name": "Zwiterrion",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-07-07T00:07:55Z",
+      "pushed_at": "2024-07-08T00:07:34Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12176,
+      "commits_count": 12177,
       "commits_per_contributor": [
         {
-          "commits_count": 11871
+          "commits_count": 11872
         },
         {
           "name": "baudelotphilippe",
@@ -708,7 +708,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-07-05T13:49:32Z",
+      "pushed_at": "2024-07-08T15:51:15Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -867,7 +867,7 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2024-05-03T07:43:59Z",
+      "pushed_at": "2024-07-08T14:44:06Z",
       "contributors": [
         "ThomasBouche",
         null,
@@ -925,7 +925,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-07-05T14:39:23Z",
+      "pushed_at": "2024-07-08T09:58:22Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -937,13 +937,13 @@
         null,
         null
       ],
-      "commits_count": 2473,
+      "commits_count": 2474,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1233
+          "commits_count": 1234
         },
         {
           "name": "Zwiterrion",
@@ -1077,7 +1077,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13519,
+      "commits_count": 13520,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1140,7 +1140,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6025,
+      "commits_count": 6027,
       "projects": [
         "otoroshi",
         "nio",
@@ -1169,7 +1169,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1339,
+      "commits_count": 1340,
       "projects": [
         "otoroshi",
         "nio",
