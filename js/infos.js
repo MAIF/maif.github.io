@@ -1,4 +1,9 @@
 const infosRepos = {
+  arta: {
+    url: "https://github.com/MAIF/arta",
+    img: "arta.svg",
+    url_project: "https://maif.github.io/arta/",
+  },
   otoroshi: {
     url: "https://github.com/MAIF/otoroshi",
     img: "otoroshi.svg",
@@ -49,7 +54,7 @@ const infosRepos = {
     img: "lets.svg",
     url_project: "https://maif.github.io/nio",
   },
-  "wasmo": {
+  wasmo: {
     url: "https://github.com/maif/wasmo",
     img: "wasmo.png",
     url_project: "https://maif.github.io/wasmo",
@@ -58,5 +63,5 @@ const infosRepos = {
     url: "https://github.com/maif/wasm4s",
     img: "wasm4s.png",
     url_project: "https://github.com/maif/wasm4s",
-  }
+  },
 };
