@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-07-22T18:10:47Z",
+      "pushed_at": "2024-07-23T08:41:09Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-07-22T00:08:01Z",
+      "pushed_at": "2024-07-23T00:07:47Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12192,
+      "commits_count": 12193,
       "commits_per_contributor": [
         {
-          "commits_count": 11886
+          "commits_count": 11887
         },
         {
           "name": "baudelotphilippe",
@@ -708,7 +708,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-07-22T23:04:01Z",
+      "pushed_at": "2024-07-23T14:51:58Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -717,13 +717,13 @@
         "Izanami",
         null
       ],
-      "commits_count": 278,
+      "commits_count": 279,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 128
+          "commits_count": 129
         },
         {
           "name": "baudelotphilippe",
@@ -1041,7 +1041,7 @@
       "pushed_at": "2024-06-21T15:33:54Z",
       "contributors": [
         "develop-cs",
-        "NinaPetard"
+        "NP4567-dev"
       ],
       "commits_count": 14,
       "commits_per_contributor": [
@@ -1052,9 +1052,9 @@
           "commits_count": 13
         },
         {
-          "name": "NinaPetard",
+          "name": "NP4567-dev",
           "avatar_url": "https://avatars.githubusercontent.com/u/23741953?v=4",
-          "url": "https://github.com/NinaPetard",
+          "url": "https://github.com/NP4567-dev",
           "commits_count": 1
         }
       ]
@@ -1077,7 +1077,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13545,
+      "commits_count": 13546,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1180,7 +1180,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 180,
+      "commits_count": 181,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1617,10 +1617,10 @@
         "cards"
       ]
     },
-    "NinaPetard": {
-      "name": "NinaPetard",
+    "NP4567-dev": {
+      "name": "NP4567-dev",
       "avatar_url": "https://avatars.githubusercontent.com/u/23741953?v=4",
-      "url": "https://github.com/NinaPetard",
+      "url": "https://github.com/NP4567-dev",
       "commits_count": 1,
       "projects": [
         "arta"
@@ -1669,7 +1669,7 @@
     "SebastienBidault",
     "mbaechler",
     "Izanami",
-    "NinaPetard",
+    "NP4567-dev",
     "gotson",
     "wikijm",
     "remi-perrier",
