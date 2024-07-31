@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-07-29T00:07:45Z",
+      "pushed_at": "2024-07-30T00:07:28Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12199,
+      "commits_count": 12200,
       "commits_per_contributor": [
         {
-          "commits_count": 11893
+          "commits_count": 11894
         },
         {
           "name": "baudelotphilippe",
@@ -708,7 +708,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-07-29T21:49:45Z",
+      "pushed_at": "2024-07-30T21:47:32Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -717,13 +717,13 @@
         "Izanami",
         null
       ],
-      "commits_count": 290,
+      "commits_count": 293,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 134
+          "commits_count": 136
         },
         {
           "name": "baudelotphilippe",
@@ -738,7 +738,7 @@
           "commits_count": 48
         },
         {
-          "commits_count": 46
+          "commits_count": 47
         },
         {
           "name": "Izanami",
@@ -1091,7 +1091,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13574,
+      "commits_count": 13576,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1194,7 +1194,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 187,
+      "commits_count": 189,
       "projects": [
         "otoroshi",
         "maif.github.io",
