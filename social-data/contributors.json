@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-08-29T13:11:48Z",
+      "pushed_at": "2024-08-30T11:16:26Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-08-29T00:07:51Z",
+      "pushed_at": "2024-08-30T00:08:07Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12230,
+      "commits_count": 12231,
       "commits_per_contributor": [
         {
-          "commits_count": 11924
+          "commits_count": 11925
         },
         {
           "name": "baudelotphilippe",
@@ -925,7 +925,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-08-29T15:41:32Z",
+      "pushed_at": "2024-08-30T08:44:42Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -938,13 +938,13 @@
         null,
         "ptitFicus"
       ],
-      "commits_count": 2610,
+      "commits_count": 2622,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1328
+          "commits_count": 1336
         },
         {
           "name": "Zwiterrion",
@@ -977,7 +977,7 @@
           "name": "helakaraa",
           "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
           "url": "https://github.com/helakaraa",
-          "commits_count": 18
+          "commits_count": 22
         },
         {
           "commits_count": 4
@@ -1091,7 +1091,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13617,
+      "commits_count": 13618,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1183,7 +1183,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1434,
+      "commits_count": 1442,
       "projects": [
         "otoroshi",
         "nio",
@@ -1537,7 +1537,7 @@
       "name": "helakaraa",
       "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
       "url": "https://github.com/helakaraa",
-      "commits_count": 66,
+      "commits_count": 70,
       "projects": [
         "izanami",
         "daikoku"
