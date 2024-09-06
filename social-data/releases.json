@@ -80,6 +80,22 @@
     "url": "https://github.com/MAIF/shapash/releases/tag/v2.4.0"
   },
   {
+    "highlights": "<p>Fixes:</p>\n<ul>\n<li><em>Simple condition:</em> an error occurs when the field is of type <code>camelCase</code> or <code>PascalCase</code> by @meriemjebali in https://github.com/MAIF/arta/pull/32</li>\n</ul>\n<p>Documentation:</p>\n<ul>\n<li>Explain how to ignore rules by @develop-cs in https://github.com/MAIF/arta/pull/30</li>\n<li>Fix some code in <a href=\"https://maif.github.io/arta/a_simple_example/\">A Simple Example</a> page by @develop-cs in https://github.com/MAIF/arta/pull/34</li>\n</ul>",
+    "project": "arta",
+    "date": "2024-09-05T14:12:29Z",
+    "name": "0.8.1",
+    "zip": "https://api.github.com/repos/MAIF/arta/zipball/0.8.1",
+    "url": "https://github.com/MAIF/arta/releases/tag/0.8.1"
+  },
+  {
+    "highlights": "<p>Features:</p>\n<ul>\n<li>Add a new parameter <code>config_dict</code> to the <code>RulesEngine</code>'s constructor. It can be used when you have already loaded the YAML configuration in a dictionary and want to use it straightforward.</li>\n<li>Add a new parameter <code>ignored_rules</code> to the <code>apply_rules()</code> method. It can be used to easily disable a rule by its id.</li>\n<li>Split a rule set in two (or more) files (keep the rules organized by their file names [alphabetically sorted]).</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li><em>Simple condition:</em> an error occurs when the right operand is an uppercase string (e.g., <code>input.text==\"LABEL\"</code>).</li>\n</ul>\n<p>Refactoring:</p>\n<ul>\n<li>Function <code>sanitize_regex()</code> is converted to an instance method <code>get_sanitized_id()</code> of <code>BaseCondition</code> class.</li>\n</ul>",
+    "project": "arta",
+    "date": "2024-07-29T14:07:03Z",
+    "name": "0.8.0",
+    "zip": "https://api.github.com/repos/MAIF/arta/zipball/0.8.0",
+    "url": "https://github.com/MAIF/arta/releases/tag/0.8.0"
+  },
+  {
     "highlights": "<p>Features:</p>\n<ul>\n<li>Configure your rules in a YAML file or use a straightforward python dictionary.</li>\n<li>Use \"<a href=\"https://maif.github.io/arta/how_to/#standard-condition\">standard conditions</a>\" (YAML defined conditions) for flexibility.</li>\n<li>Use \"<a href=\"https://maif.github.io/arta/how_to/#simple-condition\">simple conditions</a>\" (one-liner conditions) for simplicity (beta feature).</li>\n<li>Use <em>math expressions</em> in \"<a href=\"https://maif.github.io/arta/how_to/#simple-condition\">simple conditions</a>\" (#25).</li>\n<li>Implement your own \"<a href=\"https://maif.github.io/arta/special_conditions/#custom-condition\">custom conditions</a>\" (python classes) for adaptability.</li>\n<li>Define your own parameter's <a href=\"https://maif.github.io/arta/parameters/#parsing-error\">parsing strategy</a> (raise, ignore, default value).</li>\n<li>Use many <a href=\"https://maif.github.io/arta/rule_sets/\">rule sets</a> as you need.</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>You can now use <em>whitespaces</em> in a string within a <em>simple condition</em> (e.g., <code>input.text==\"super hero\"</code>) (#23).</li>\n</ul>",
     "project": "arta",
     "date": "2024-06-21T15:36:11Z",

@@ -318,7 +318,7 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "📧 Melusine: Use python to automatize your email processing workflow",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2024-08-09T10:11:12Z",
+      "pushed_at": "2024-09-05T13:51:59Z",
       "contributors": [
         "hugo-quantmetry",
         "HugoPerrier",
@@ -350,7 +350,7 @@
         "nicolaspte",
         "remi-perrier"
       ],
-      "commits_count": 754,
+      "commits_count": 759,
       "commits_per_contributor": [
         {
           "name": "hugo-quantmetry",
@@ -362,7 +362,7 @@
           "name": "HugoPerrier",
           "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
           "url": "https://github.com/HugoPerrier",
-          "commits_count": 113
+          "commits_count": 118
         },
         {
           "name": "farthur",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-09-04T00:07:57Z",
+      "pushed_at": "2024-09-05T00:07:54Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12236,
+      "commits_count": 12237,
       "commits_per_contributor": [
         {
-          "commits_count": 11930
+          "commits_count": 11931
         },
         {
           "name": "baudelotphilippe",
@@ -708,7 +708,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-08-31T01:15:29Z",
+      "pushed_at": "2024-09-05T07:57:24Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -717,13 +717,13 @@
         "Izanami",
         null
       ],
-      "commits_count": 295,
+      "commits_count": 296,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 137
+          "commits_count": 138
         },
         {
           "name": "baudelotphilippe",
@@ -925,7 +925,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-09-04T10:29:22Z",
+      "pushed_at": "2024-09-05T15:36:11Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -938,7 +938,7 @@
         null,
         "ptitFicus"
       ],
-      "commits_count": 2631,
+      "commits_count": 2633,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
@@ -959,7 +959,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 179
+          "commits_count": 181
         },
         {
           "name": "mathieuancelin",
@@ -1045,24 +1045,31 @@
       "url": "https://github.com/MAIF/arta",
       "description": "A Python Rules Engine - Make rule handling simple",
       "homepage": "https://maif.github.io/arta/",
-      "pushed_at": "2024-08-08T19:42:04Z",
+      "pushed_at": "2024-09-05T12:40:55Z",
       "contributors": [
         "develop-cs",
         "NP4567-dev",
+        "meriemjebali",
         "HugoPerrier"
       ],
-      "commits_count": 17,
+      "commits_count": 19,
       "commits_per_contributor": [
         {
           "name": "develop-cs",
           "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
           "url": "https://github.com/develop-cs",
-          "commits_count": 15
+          "commits_count": 16
         },
         {
           "name": "NP4567-dev",
           "avatar_url": "https://avatars.githubusercontent.com/u/23741953?v=4",
           "url": "https://github.com/NP4567-dev",
+          "commits_count": 1
+        },
+        {
+          "name": "meriemjebali",
+          "avatar_url": "https://avatars.githubusercontent.com/u/151190390?v=4",
+          "url": "https://github.com/meriemjebali",
           "commits_count": 1
         },
         {
@@ -1091,7 +1098,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13630,
+      "commits_count": 13631,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1167,7 +1174,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 879,
+      "commits_count": 881,
       "projects": [
         "otoroshi",
         "nio",
@@ -1194,7 +1201,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 190,
+      "commits_count": 191,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1354,7 +1361,7 @@
       "name": "HugoPerrier",
       "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
       "url": "https://github.com/HugoPerrier",
-      "commits_count": 114,
+      "commits_count": 119,
       "projects": [
         "melusine",
         "arta"
@@ -1508,7 +1515,7 @@
       "name": "develop-cs",
       "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
       "url": "https://github.com/develop-cs",
-      "commits_count": 21,
+      "commits_count": 22,
       "projects": [
         "maif.github.io",
         "arta"
@@ -1641,6 +1648,15 @@
       "projects": [
         "arta"
       ]
+    },
+    "meriemjebali": {
+      "name": "meriemjebali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151190390?v=4",
+      "url": "https://github.com/meriemjebali",
+      "commits_count": 1,
+      "projects": [
+        "arta"
+      ]
     }
   },
   "commits_per_contributor_sorted": [
@@ -1686,6 +1702,7 @@
     "SebastienBidault",
     "mbaechler",
     "Izanami",
+    "meriemjebali",
     "NP4567-dev",
     "gotson",
     "wikijm",
