@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-09-01T20:01:15Z",
+      "pushed_at": "2024-09-11T23:20:14Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -95,7 +95,7 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8239,
+      "commits_count": 8243,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -107,7 +107,7 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1110
+          "commits_count": 1114
         },
         {
           "commits_count": 545
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-09-10T00:07:58Z",
+      "pushed_at": "2024-09-11T00:07:58Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12242,
+      "commits_count": 12243,
       "commits_per_contributor": [
         {
-          "commits_count": 11936
+          "commits_count": 11937
         },
         {
           "name": "baudelotphilippe",
@@ -925,7 +925,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-09-10T14:59:22Z",
+      "pushed_at": "2024-09-11T15:28:36Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1086,7 +1086,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1746,
+      "commits_count": 1750,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi-rust-types",
@@ -1098,7 +1098,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13636,
+      "commits_count": 13637,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
