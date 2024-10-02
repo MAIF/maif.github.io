@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-09-30T20:49:12Z",
+      "pushed_at": "2024-10-01T08:07:35Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -95,13 +95,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8274,
+      "commits_count": 8275,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5790
+          "commits_count": 5791
         },
         {
           "name": "Zwiterrion",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-09-30T00:08:56Z",
+      "pushed_at": "2024-10-01T00:09:24Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12262,
+      "commits_count": 12263,
       "commits_per_contributor": [
         {
-          "commits_count": 11956
+          "commits_count": 11957
         },
         {
           "name": "baudelotphilippe",
@@ -646,23 +646,23 @@
       "url": "https://github.com/MAIF/jooq-async",
       "description": "Use jooq to build queries and run it a reactive way",
       "homepage": "",
-      "pushed_at": "2024-09-17T16:31:17Z",
+      "pushed_at": "2024-10-01T14:43:56Z",
       "contributors": [
         "larousso",
         null,
         null,
-        null,
-        null,
         "florian-tirard",
+        null,
+        null,
         null
       ],
-      "commits_count": 132,
+      "commits_count": 134,
       "commits_per_contributor": [
         {
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 67
+          "commits_count": 68
         },
         {
           "commits_count": 53
@@ -671,16 +671,16 @@
           "commits_count": 6
         },
         {
-          "commits_count": 2
-        },
-        {
-          "commits_count": 2
-        },
-        {
           "name": "florian-tirard",
           "avatar_url": "https://avatars.githubusercontent.com/u/150662252?v=4",
           "url": "https://github.com/florian-tirard",
-          "commits_count": 1
+          "commits_count": 2
+        },
+        {
+          "commits_count": 2
+        },
+        {
+          "commits_count": 2
         },
         {
           "commits_count": 1
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-09-30T14:49:57Z",
+      "pushed_at": "2024-10-01T11:42:45Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -725,7 +725,7 @@
         null,
         "jeanphi-baconnais"
       ],
-      "commits_count": 332,
+      "commits_count": 333,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
@@ -746,7 +746,7 @@
           "name": "helakaraa",
           "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
           "url": "https://github.com/helakaraa",
-          "commits_count": 51
+          "commits_count": 52
         },
         {
           "name": "Izanami",
@@ -943,7 +943,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-09-30T14:12:37Z",
+      "pushed_at": "2024-10-01T14:27:32Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1116,7 +1116,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13681,
+      "commits_count": 13682,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1180,7 +1180,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6064,
+      "commits_count": 6065,
       "projects": [
         "otoroshi",
         "nio",
@@ -1270,7 +1270,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 163,
+      "commits_count": 164,
       "projects": [
         "otoroshi",
         "nio",
@@ -1563,7 +1563,7 @@
       "name": "florian-tirard",
       "avatar_url": "https://avatars.githubusercontent.com/u/150662252?v=4",
       "url": "https://github.com/florian-tirard",
-      "commits_count": 1,
+      "commits_count": 2,
       "projects": [
         "jooq-async"
       ]
@@ -1572,7 +1572,7 @@
       "name": "helakaraa",
       "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
       "url": "https://github.com/helakaraa",
-      "commits_count": 81,
+      "commits_count": 82,
       "projects": [
         "izanami",
         "daikoku"
@@ -1739,12 +1739,12 @@
     "SebastienBidault",
     "mbaechler",
     "Izanami",
+    "florian-tirard",
     "meriemjebali",
     "NP4567-dev",
     "gotson",
     "wikijm",
     "jeanphi-baconnais",
-    "florian-tirard",
     "remi-perrier",
     "nicolaspte",
     "sebastienthebaud",
