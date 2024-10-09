@@ -227,7 +227,7 @@
       "url": "https://github.com/MAIF/nio",
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
-      "pushed_at": "2024-10-07T12:54:20Z",
+      "pushed_at": "2024-10-08T08:06:56Z",
       "contributors": [
         null,
         "quentinovega",
@@ -243,7 +243,7 @@
         "marclaporte",
         "frinyvonnick"
       ],
-      "commits_count": 394,
+      "commits_count": 396,
       "commits_per_contributor": [
         {
           "commits_count": 219
@@ -258,7 +258,7 @@
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 34
+          "commits_count": 36
         },
         {
           "name": "Fraer",
@@ -318,7 +318,7 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "📧 Melusine: Use python to automatize your email processing workflow",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2024-10-04T16:04:42Z",
+      "pushed_at": "2024-10-08T08:24:44Z",
       "contributors": [
         "hugo-quantmetry",
         "HugoPerrier",
@@ -350,7 +350,7 @@
         "nicolaspte",
         "remi-perrier"
       ],
-      "commits_count": 759,
+      "commits_count": 766,
       "commits_per_contributor": [
         {
           "name": "hugo-quantmetry",
@@ -362,7 +362,7 @@
           "name": "HugoPerrier",
           "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
           "url": "https://github.com/HugoPerrier",
-          "commits_count": 118
+          "commits_count": 125
         },
         {
           "name": "farthur",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-10-07T00:08:50Z",
+      "pushed_at": "2024-10-08T00:07:55Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12269,
+      "commits_count": 12270,
       "commits_per_contributor": [
         {
-          "commits_count": 11963
+          "commits_count": 11964
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-10-07T14:56:05Z",
+      "pushed_at": "2024-10-08T21:59:18Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -943,7 +943,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-10-07T14:41:41Z",
+      "pushed_at": "2024-10-08T14:33:10Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -956,13 +956,13 @@
         null,
         "ptitFicus"
       ],
-      "commits_count": 2702,
+      "commits_count": 2704,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1374
+          "commits_count": 1376
         },
         {
           "name": "Zwiterrion",
@@ -1116,7 +1116,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13690,
+      "commits_count": 13691,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1209,7 +1209,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1480,
+      "commits_count": 1482,
       "projects": [
         "otoroshi",
         "nio",
@@ -1270,7 +1270,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 164,
+      "commits_count": 166,
       "projects": [
         "otoroshi",
         "nio",
@@ -1380,7 +1380,7 @@
       "name": "HugoPerrier",
       "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
       "url": "https://github.com/HugoPerrier",
-      "commits_count": 119,
+      "commits_count": 126,
       "projects": [
         "melusine",
         "arta"
