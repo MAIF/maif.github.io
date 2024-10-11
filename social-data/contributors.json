@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-10-09T14:26:01Z",
+      "pushed_at": "2024-10-10T14:44:01Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -227,7 +227,7 @@
       "url": "https://github.com/MAIF/nio",
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
-      "pushed_at": "2024-10-09T16:27:26Z",
+      "pushed_at": "2024-10-10T16:07:45Z",
       "contributors": [
         null,
         "quentinovega",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-10-09T00:08:35Z",
+      "pushed_at": "2024-10-10T00:08:26Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12271,
+      "commits_count": 12272,
       "commits_per_contributor": [
         {
-          "commits_count": 11965
+          "commits_count": 11966
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-10-09T20:09:36Z",
+      "pushed_at": "2024-10-10T20:17:11Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -881,7 +881,7 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2024-10-04T13:02:10Z",
+      "pushed_at": "2024-10-10T11:41:57Z",
       "contributors": [
         "ThomasBouche",
         "guillaume-vignal",
@@ -1116,7 +1116,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13692,
+      "commits_count": 13693,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
