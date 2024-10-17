@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-10-15T14:56:18Z",
+      "pushed_at": "2024-10-16T13:27:08Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -95,13 +95,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8308,
+      "commits_count": 8310,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5805
+          "commits_count": 5806
         },
         {
           "name": "Zwiterrion",
@@ -116,7 +116,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 461
+          "commits_count": 462
         },
         {
           "commits_count": 153
@@ -227,7 +227,7 @@
       "url": "https://github.com/MAIF/nio",
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
-      "pushed_at": "2024-10-14T14:03:16Z",
+      "pushed_at": "2024-10-16T15:09:08Z",
       "contributors": [
         null,
         "larousso",
@@ -243,7 +243,7 @@
         "marclaporte",
         "frinyvonnick"
       ],
-      "commits_count": 399,
+      "commits_count": 400,
       "commits_per_contributor": [
         {
           "commits_count": 219
@@ -252,7 +252,7 @@
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 39
+          "commits_count": 40
         },
         {
           "name": "quentinovega",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-10-15T00:08:34Z",
+      "pushed_at": "2024-10-16T00:08:28Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12277,
+      "commits_count": 12278,
       "commits_per_contributor": [
         {
-          "commits_count": 11971
+          "commits_count": 11972
         },
         {
           "name": "baudelotphilippe",
@@ -692,7 +692,7 @@
       "url": "https://github.com/MAIF/izanami-java-client",
       "description": "Java Client for Izanami V2",
       "homepage": null,
-      "pushed_at": "2024-05-14T23:08:55Z",
+      "pushed_at": "2024-10-16T23:35:31Z",
       "contributors": [
         null,
         "ptitFicus"
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-10-15T14:39:41Z",
+      "pushed_at": "2024-10-16T12:54:08Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -1116,7 +1116,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13698,
+      "commits_count": 13699,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1180,7 +1180,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6079,
+      "commits_count": 6080,
       "projects": [
         "otoroshi",
         "nio",
@@ -1193,7 +1193,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 915,
+      "commits_count": 916,
       "projects": [
         "otoroshi",
         "nio",
@@ -1270,7 +1270,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 169,
+      "commits_count": 170,
       "projects": [
         "otoroshi",
         "nio",
