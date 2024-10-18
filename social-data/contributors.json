@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-10-16T13:27:08Z",
+      "pushed_at": "2024-10-17T10:00:27Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -227,7 +227,7 @@
       "url": "https://github.com/MAIF/nio",
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
-      "pushed_at": "2024-10-16T15:09:08Z",
+      "pushed_at": "2024-10-17T11:01:04Z",
       "contributors": [
         null,
         "larousso",
@@ -243,7 +243,7 @@
         "marclaporte",
         "frinyvonnick"
       ],
-      "commits_count": 400,
+      "commits_count": 401,
       "commits_per_contributor": [
         {
           "commits_count": 219
@@ -252,7 +252,7 @@
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 40
+          "commits_count": 41
         },
         {
           "name": "quentinovega",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-10-16T00:08:28Z",
+      "pushed_at": "2024-10-17T00:08:29Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12278,
+      "commits_count": 12279,
       "commits_per_contributor": [
         {
-          "commits_count": 11972
+          "commits_count": 11973
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-10-16T12:54:08Z",
+      "pushed_at": "2024-10-17T15:45:11Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -881,7 +881,7 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2024-10-10T11:41:57Z",
+      "pushed_at": "2024-10-17T14:59:37Z",
       "contributors": [
         "ThomasBouche",
         "guillaume-vignal",
@@ -892,7 +892,7 @@
         null,
         "SebastienBidault"
       ],
-      "commits_count": 117,
+      "commits_count": 124,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
@@ -904,7 +904,7 @@
           "name": "guillaume-vignal",
           "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
           "url": "https://github.com/guillaume-vignal",
-          "commits_count": 17
+          "commits_count": 24
         },
         {
           "commits_count": 13
@@ -1116,7 +1116,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13699,
+      "commits_count": 13700,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1270,7 +1270,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 170,
+      "commits_count": 171,
       "projects": [
         "otoroshi",
         "nio",
@@ -1609,7 +1609,7 @@
       "name": "guillaume-vignal",
       "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
       "url": "https://github.com/guillaume-vignal",
-      "commits_count": 17,
+      "commits_count": 24,
       "projects": [
         "eurybia"
       ]
@@ -1717,9 +1717,9 @@
     "mathieuancelinserli",
     "desmfr",
     "Fraer",
+    "guillaume-vignal",
     "develop-cs",
     "milidris",
-    "guillaume-vignal",
     "guilieb",
     "sachasamama",
     "victorBigand",
