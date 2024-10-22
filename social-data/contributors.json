@@ -227,7 +227,7 @@
       "url": "https://github.com/MAIF/nio",
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
-      "pushed_at": "2024-10-17T11:01:04Z",
+      "pushed_at": "2024-10-21T15:02:45Z",
       "contributors": [
         null,
         "larousso",
@@ -243,7 +243,7 @@
         "marclaporte",
         "frinyvonnick"
       ],
-      "commits_count": 401,
+      "commits_count": 402,
       "commits_per_contributor": [
         {
           "commits_count": 219
@@ -252,7 +252,7 @@
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 41
+          "commits_count": 42
         },
         {
           "name": "quentinovega",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-10-20T00:09:26Z",
+      "pushed_at": "2024-10-21T00:09:03Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12282,
+      "commits_count": 12283,
       "commits_per_contributor": [
         {
-          "commits_count": 11976
+          "commits_count": 11977
         },
         {
           "name": "baudelotphilippe",
@@ -692,7 +692,7 @@
       "url": "https://github.com/MAIF/izanami-java-client",
       "description": "Java Client for Izanami V2",
       "homepage": null,
-      "pushed_at": "2024-10-16T23:35:31Z",
+      "pushed_at": "2024-10-21T21:36:44Z",
       "contributors": [
         null,
         "ptitFicus"
@@ -715,17 +715,17 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-10-19T10:57:25Z",
+      "pushed_at": "2024-10-21T23:07:06Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
-        null,
         "helakaraa",
+        null,
         "Izanami",
         null,
         "jeanphi-baconnais"
       ],
-      "commits_count": 335,
+      "commits_count": 336,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
@@ -740,12 +740,12 @@
           "commits_count": 64
         },
         {
-          "commits_count": 54
-        },
-        {
           "name": "helakaraa",
           "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
           "url": "https://github.com/helakaraa",
+          "commits_count": 55
+        },
+        {
           "commits_count": 54
         },
         {
@@ -1116,7 +1116,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13703,
+      "commits_count": 13704,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1270,7 +1270,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 171,
+      "commits_count": 172,
       "projects": [
         "otoroshi",
         "nio",
@@ -1572,7 +1572,7 @@
       "name": "helakaraa",
       "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
       "url": "https://github.com/helakaraa",
-      "commits_count": 91,
+      "commits_count": 92,
       "projects": [
         "izanami",
         "daikoku"
