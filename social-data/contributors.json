@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-10-17T10:00:27Z",
+      "pushed_at": "2024-10-22T14:30:18Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -95,7 +95,7 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8310,
+      "commits_count": 8312,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -116,7 +116,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 462
+          "commits_count": 464
         },
         {
           "commits_count": 153
@@ -227,7 +227,7 @@
       "url": "https://github.com/MAIF/nio",
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
-      "pushed_at": "2024-10-21T15:02:45Z",
+      "pushed_at": "2024-10-22T12:53:44Z",
       "contributors": [
         null,
         "larousso",
@@ -243,7 +243,7 @@
         "marclaporte",
         "frinyvonnick"
       ],
-      "commits_count": 402,
+      "commits_count": 403,
       "commits_per_contributor": [
         {
           "commits_count": 219
@@ -252,7 +252,7 @@
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 42
+          "commits_count": 43
         },
         {
           "name": "quentinovega",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-10-21T00:09:03Z",
+      "pushed_at": "2024-10-22T00:08:30Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12283,
+      "commits_count": 12284,
       "commits_per_contributor": [
         {
-          "commits_count": 11977
+          "commits_count": 11978
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-10-21T23:07:06Z",
+      "pushed_at": "2024-10-22T13:59:55Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -1116,7 +1116,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13704,
+      "commits_count": 13705,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1193,7 +1193,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 916,
+      "commits_count": 918,
       "projects": [
         "otoroshi",
         "nio",
@@ -1270,7 +1270,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 172,
+      "commits_count": 173,
       "projects": [
         "otoroshi",
         "nio",
