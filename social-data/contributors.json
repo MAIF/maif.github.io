@@ -227,7 +227,7 @@
       "url": "https://github.com/MAIF/nio",
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
-      "pushed_at": "2024-10-22T12:53:44Z",
+      "pushed_at": "2024-10-24T14:02:39Z",
       "contributors": [
         null,
         "larousso",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-10-23T00:08:31Z",
+      "pushed_at": "2024-10-24T00:08:30Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12285,
+      "commits_count": 12286,
       "commits_per_contributor": [
         {
-          "commits_count": 11979
+          "commits_count": 11980
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-10-23T09:11:27Z",
+      "pushed_at": "2024-10-24T21:10:45Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -881,7 +881,7 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2024-10-17T14:59:37Z",
+      "pushed_at": "2024-10-24T09:42:04Z",
       "contributors": [
         "ThomasBouche",
         "guillaume-vignal",
@@ -1116,7 +1116,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13706,
+      "commits_count": 13707,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
