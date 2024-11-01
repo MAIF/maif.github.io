@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-10-30T14:49:29Z",
+      "pushed_at": "2024-10-31T16:58:55Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -95,19 +95,19 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8338,
+      "commits_count": 8383,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5812
+          "commits_count": 5837
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1142
+          "commits_count": 1148
         },
         {
           "commits_count": 548
@@ -119,7 +119,7 @@
           "commits_count": 464
         },
         {
-          "commits_count": 153
+          "commits_count": 167
         },
         {
           "name": "quentinovega",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-10-30T00:08:41Z",
+      "pushed_at": "2024-10-31T00:08:36Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12292,
+      "commits_count": 12293,
       "commits_per_contributor": [
         {
-          "commits_count": 11986
+          "commits_count": 11987
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-10-30T16:01:14Z",
+      "pushed_at": "2024-10-31T14:20:20Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -943,7 +943,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-10-30T15:56:38Z",
+      "pushed_at": "2024-10-31T15:38:18Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -956,19 +956,19 @@
         null,
         "ptitFicus"
       ],
-      "commits_count": 2721,
+      "commits_count": 2773,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1386
+          "commits_count": 1387
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 505
+          "commits_count": 556
         },
         {
           "commits_count": 410
@@ -1104,7 +1104,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1778,
+      "commits_count": 1835,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi-rust-types",
@@ -1116,7 +1116,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13715,
+      "commits_count": 13730,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1180,7 +1180,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6086,
+      "commits_count": 6111,
       "projects": [
         "otoroshi",
         "nio",
@@ -1209,7 +1209,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1492,
+      "commits_count": 1493,
       "projects": [
         "otoroshi",
         "nio",
