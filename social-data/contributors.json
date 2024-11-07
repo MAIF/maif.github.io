@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-11-05T15:37:23Z",
+      "pushed_at": "2024-11-06T20:16:41Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -95,19 +95,19 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8383,
+      "commits_count": 8403,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5837
+          "commits_count": 5851
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1148
+          "commits_count": 1150
         },
         {
           "commits_count": 548
@@ -116,7 +116,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 464
+          "commits_count": 468
         },
         {
           "commits_count": 167
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-11-05T00:08:15Z",
+      "pushed_at": "2024-11-06T00:08:14Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12298,
+      "commits_count": 12299,
       "commits_per_contributor": [
         {
-          "commits_count": 11992
+          "commits_count": 11993
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-11-05T15:57:08Z",
+      "pushed_at": "2024-11-06T23:46:07Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -725,7 +725,7 @@
         null,
         "jeanphi-baconnais"
       ],
-      "commits_count": 341,
+      "commits_count": 342,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
@@ -743,7 +743,7 @@
           "name": "helakaraa",
           "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
           "url": "https://github.com/helakaraa",
-          "commits_count": 56
+          "commits_count": 57
         },
         {
           "commits_count": 55
@@ -1063,7 +1063,7 @@
       "url": "https://github.com/MAIF/arta",
       "description": "A Python Rules Engine - Make rule handling simple",
       "homepage": "https://maif.github.io/arta/",
-      "pushed_at": "2024-09-05T12:40:55Z",
+      "pushed_at": "2024-11-06T09:29:55Z",
       "contributors": [
         "develop-cs",
         "NP4567-dev",
@@ -1104,7 +1104,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1835,
+      "commits_count": 1837,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi-rust-types",
@@ -1116,7 +1116,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13741,
+      "commits_count": 13742,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1180,7 +1180,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6111,
+      "commits_count": 6125,
       "projects": [
         "otoroshi",
         "nio",
@@ -1193,7 +1193,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 918,
+      "commits_count": 922,
       "projects": [
         "otoroshi",
         "nio",
@@ -1572,7 +1572,7 @@
       "name": "helakaraa",
       "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
       "url": "https://github.com/helakaraa",
-      "commits_count": 93,
+      "commits_count": 94,
       "projects": [
         "izanami",
         "daikoku"
