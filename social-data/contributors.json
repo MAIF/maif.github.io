@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-11-06T20:16:41Z",
+      "pushed_at": "2024-11-07T07:57:13Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-11-06T00:08:14Z",
+      "pushed_at": "2024-11-07T00:08:20Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12299,
+      "commits_count": 12300,
       "commits_per_contributor": [
         {
-          "commits_count": 11993
+          "commits_count": 11994
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-11-06T23:46:07Z",
+      "pushed_at": "2024-11-07T16:16:35Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -943,7 +943,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-11-05T15:30:46Z",
+      "pushed_at": "2024-11-07T15:04:28Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1116,7 +1116,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13742,
+      "commits_count": 13743,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
