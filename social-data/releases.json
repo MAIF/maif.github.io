@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<p>✨ Non-boolean (text / numeric) flags</p>\n<p>🛂 Personal access tokens</p>\n<p>🔒 Password protect sensitive operations</p>",
+    "project": "izanami",
+    "date": "2024-11-18T13:26:28Z",
+    "name": "v2.6.0",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.6.0",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.6.0"
+  },
+  {
     "highlights": "<p>🔎 Global search bar</p>\n<p>📦 Export / import tenant data between V2 instances</p>",
     "project": "izanami",
     "date": "2024-09-19T15:12:24Z",
