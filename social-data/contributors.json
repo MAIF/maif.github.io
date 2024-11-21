@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-11-19T20:33:26Z",
+      "pushed_at": "2024-11-20T08:49:58Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -95,13 +95,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8409,
+      "commits_count": 8413,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5856
+          "commits_count": 5860
         },
         {
           "name": "Zwiterrion",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-11-19T00:09:03Z",
+      "pushed_at": "2024-11-20T00:08:54Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12313,
+      "commits_count": 12314,
       "commits_per_contributor": [
         {
-          "commits_count": 12007
+          "commits_count": 12008
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-11-19T15:22:49Z",
+      "pushed_at": "2024-11-20T13:47:59Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -943,7 +943,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-11-19T15:23:48Z",
+      "pushed_at": "2024-11-20T15:39:37Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1123,7 +1123,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13765,
+      "commits_count": 13766,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1187,7 +1187,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6130,
+      "commits_count": 6134,
       "projects": [
         "otoroshi",
         "nio",
