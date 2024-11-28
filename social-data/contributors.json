@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-11-22T16:14:48Z",
+      "pushed_at": "2024-11-27T16:20:39Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -95,7 +95,7 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8434,
+      "commits_count": 8441,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -119,7 +119,7 @@
           "commits_count": 468
         },
         {
-          "commits_count": 167
+          "commits_count": 174
         },
         {
           "name": "quentinovega",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-11-26T00:09:12Z",
+      "pushed_at": "2024-11-27T00:09:06Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12320,
+      "commits_count": 12321,
       "commits_per_contributor": [
         {
-          "commits_count": 12014
+          "commits_count": 12015
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-11-25T21:45:13Z",
+      "pushed_at": "2024-11-27T15:27:24Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -943,7 +943,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-11-25T17:00:10Z",
+      "pushed_at": "2024-11-27T16:02:38Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1130,7 +1130,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13774,
+      "commits_count": 13782,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
