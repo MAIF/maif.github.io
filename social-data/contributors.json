@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-12-02T16:08:47Z",
+      "pushed_at": "2024-12-03T15:44:22Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-12-02T00:09:49Z",
+      "pushed_at": "2024-12-03T00:10:13Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12326,
+      "commits_count": 12327,
       "commits_per_contributor": [
         {
-          "commits_count": 12020
+          "commits_count": 12021
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-12-02T23:54:26Z",
+      "pushed_at": "2024-12-03T23:02:57Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -943,7 +943,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-11-29T16:02:52Z",
+      "pushed_at": "2024-12-03T15:12:23Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -954,24 +954,26 @@
         "helakaraa",
         null,
         null,
-        "ptitFicus"
+        null,
+        "ptitFicus",
+        null
       ],
-      "commits_count": 2783,
+      "commits_count": 2809,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1390
+          "commits_count": 1391
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 557
+          "commits_count": 576
         },
         {
-          "commits_count": 416
+          "commits_count": 418
         },
         {
           "name": "baudelotphilippe",
@@ -1001,12 +1003,18 @@
           "commits_count": 4
         },
         {
+          "commits_count": 3
+        },
+        {
           "commits_count": 2
         },
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
+          "commits_count": 1
+        },
+        {
           "commits_count": 1
         }
       ]
@@ -1118,7 +1126,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1858,
+      "commits_count": 1877,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi-rust-types",
@@ -1130,7 +1138,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13788,
+      "commits_count": 13795,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1187,6 +1195,8 @@
         "eurybia",
         "daikoku",
         "daikoku",
+        "daikoku",
+        "daikoku",
         "daikoku"
       ]
     },
@@ -1223,7 +1233,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1496,
+      "commits_count": 1497,
       "projects": [
         "otoroshi",
         "nio",
