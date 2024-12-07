@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-12-03T15:44:22Z",
+      "pushed_at": "2024-12-06T14:41:50Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -95,7 +95,7 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8444,
+      "commits_count": 8460,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -107,7 +107,7 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1170
+          "commits_count": 1177
         },
         {
           "commits_count": 548
@@ -116,7 +116,7 @@
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 468
+          "commits_count": 477
         },
         {
           "commits_count": 174
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-12-05T00:09:25Z",
+      "pushed_at": "2024-12-06T00:09:24Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12329,
+      "commits_count": 12330,
       "commits_per_contributor": [
         {
-          "commits_count": 12023
+          "commits_count": 12024
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-12-05T22:34:42Z",
+      "pushed_at": "2024-12-06T16:09:25Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -723,9 +723,10 @@
         "helakaraa",
         "Izanami",
         null,
-        "jeanphi-baconnais"
+        "jeanphi-baconnais",
+        "Zwiterrion"
       ],
-      "commits_count": 362,
+      "commits_count": 363,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
@@ -761,6 +762,12 @@
           "name": "jeanphi-baconnais",
           "avatar_url": "https://avatars.githubusercontent.com/u/32639372?v=4",
           "url": "https://github.com/jeanphi-baconnais",
+          "commits_count": 1
+        },
+        {
+          "name": "Zwiterrion",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+          "url": "https://github.com/Zwiterrion",
           "commits_count": 1
         }
       ]
@@ -943,7 +950,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-12-05T15:38:34Z",
+      "pushed_at": "2024-12-06T03:07:50Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1126,19 +1133,20 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1880,
+      "commits_count": 1888,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi-rust-types",
         "otoroshi-go-types",
         "otoroshi",
         "maif.github.io",
+        "izanami",
         "homebrew-wasmo",
         "daikoku"
       ]
     },
     "undefined": {
-      "commits_count": 13799,
+      "commits_count": 13800,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1217,7 +1225,7 @@
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
       "url": "https://github.com/baudelotphilippe",
-      "commits_count": 922,
+      "commits_count": 931,
       "projects": [
         "otoroshi",
         "nio",
