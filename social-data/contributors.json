@@ -318,7 +318,7 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "📧 Melusine: Use python to automatize your email processing workflow",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2024-12-05T16:30:23Z",
+      "pushed_at": "2024-12-09T16:02:39Z",
       "contributors": [
         "hugo-quantmetry",
         "HugoPerrier",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-12-08T00:09:59Z",
+      "pushed_at": "2024-12-09T00:09:35Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12332,
+      "commits_count": 12333,
       "commits_per_contributor": [
         {
-          "commits_count": 12026
+          "commits_count": 12027
         },
         {
           "name": "baudelotphilippe",
@@ -692,12 +692,12 @@
       "url": "https://github.com/MAIF/izanami-java-client",
       "description": "Java Client for Izanami V2",
       "homepage": null,
-      "pushed_at": "2024-11-18T14:07:00Z",
+      "pushed_at": "2024-12-09T22:34:21Z",
       "contributors": [
         null,
         "ptitFicus"
       ],
-      "commits_count": 14,
+      "commits_count": 15,
       "commits_per_contributor": [
         {
           "commits_count": 8
@@ -706,7 +706,7 @@
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 6
+          "commits_count": 7
         }
       ]
     },
@@ -715,7 +715,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2024-12-08T23:52:31Z",
+      "pushed_at": "2024-12-09T22:14:31Z",
       "contributors": [
         "ptitFicus",
         "baudelotphilippe",
@@ -726,13 +726,13 @@
         "jeanphi-baconnais",
         "Zwiterrion"
       ],
-      "commits_count": 364,
+      "commits_count": 368,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 172
+          "commits_count": 174
         },
         {
           "name": "baudelotphilippe",
@@ -741,13 +741,13 @@
           "commits_count": 64
         },
         {
-          "commits_count": 63
+          "commits_count": 64
         },
         {
           "name": "helakaraa",
           "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
           "url": "https://github.com/helakaraa",
-          "commits_count": 59
+          "commits_count": 60
         },
         {
           "name": "Izanami",
@@ -1078,7 +1078,7 @@
       "url": "https://github.com/MAIF/arta",
       "description": "A Python Rules Engine - Make rule handling simple",
       "homepage": "https://maif.github.io/arta/",
-      "pushed_at": "2024-11-25T10:21:34Z",
+      "pushed_at": "2024-12-09T14:29:26Z",
       "contributors": [
         "develop-cs",
         "roman2git",
@@ -1087,13 +1087,13 @@
         "HugoPerrier",
         "guilieb"
       ],
-      "commits_count": 22,
+      "commits_count": 23,
       "commits_per_contributor": [
         {
           "name": "develop-cs",
           "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
           "url": "https://github.com/develop-cs",
-          "commits_count": 17
+          "commits_count": 18
         },
         {
           "name": "roman2git",
@@ -1146,7 +1146,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13802,
+      "commits_count": 13804,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1252,7 +1252,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 231,
+      "commits_count": 234,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1568,7 +1568,7 @@
       "name": "develop-cs",
       "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
       "url": "https://github.com/develop-cs",
-      "commits_count": 23,
+      "commits_count": 24,
       "projects": [
         "maif.github.io",
         "arta"
@@ -1606,7 +1606,7 @@
       "name": "helakaraa",
       "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
       "url": "https://github.com/helakaraa",
-      "commits_count": 96,
+      "commits_count": 97,
       "projects": [
         "izanami",
         "daikoku"
