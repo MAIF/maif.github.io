@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<p>📝 Audit log for flags (<a href=\"https://maif.github.io/izanami/docs/guides/audit-logs\">more details</a>)</p>\n<p>🔎 Allow restricting search results by types</p>\n<p>📋 Search history</p>\n<p>🆔 Search by feature / project ID</p>",
+    "project": "izanami",
+    "date": "2024-12-15T14:20:57Z",
+    "name": "v2.7.0",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.7.0",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.7.0"
+  },
+  {
     "highlights": "<p>✨ Non-boolean (text / numeric) flags</p>\n<p>🛂 Personal access tokens</p>\n<p>🔒 Password protect sensitive operations</p>",
     "project": "izanami",
     "date": "2024-11-18T13:26:28Z",
