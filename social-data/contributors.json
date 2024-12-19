@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2024-12-17T16:06:56Z",
+      "pushed_at": "2024-12-18T15:38:30Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -506,7 +506,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2024-12-17T00:09:26Z",
+      "pushed_at": "2024-12-18T00:09:07Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +524,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12341,
+      "commits_count": 12342,
       "commits_per_contributor": [
         {
-          "commits_count": 12035
+          "commits_count": 12036
         },
         {
           "name": "baudelotphilippe",
@@ -1078,7 +1078,7 @@
       "url": "https://github.com/MAIF/arta",
       "description": "A Python Rules Engine - Make rule handling simple",
       "homepage": "https://maif.github.io/arta/home",
-      "pushed_at": "2024-12-13T14:37:29Z",
+      "pushed_at": "2024-12-18T12:58:26Z",
       "contributors": [
         "develop-cs",
         "roman2git",
@@ -1087,13 +1087,13 @@
         "HugoPerrier",
         "guilieb"
       ],
-      "commits_count": 23,
+      "commits_count": 24,
       "commits_per_contributor": [
         {
           "name": "develop-cs",
           "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
           "url": "https://github.com/develop-cs",
-          "commits_count": 18
+          "commits_count": 19
         },
         {
           "name": "roman2git",
@@ -1146,7 +1146,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13837,
+      "commits_count": 13838,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1568,7 +1568,7 @@
       "name": "develop-cs",
       "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
       "url": "https://github.com/develop-cs",
-      "commits_count": 24,
+      "commits_count": 25,
       "projects": [
         "maif.github.io",
         "arta"
@@ -1751,8 +1751,8 @@
     "mathieuancelinserli",
     "desmfr",
     "Fraer",
-    "guillaume-vignal",
     "develop-cs",
+    "guillaume-vignal",
     "milidris",
     "guilieb",
     "sachasamama",
