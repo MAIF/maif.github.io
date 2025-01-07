@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<p>🪡 Allow specifying ID for new features</p>\n<p>🧳 Standalone docker image for testing / demo</p>",
+    "project": "izanami",
+    "date": "2025-01-06T22:59:07Z",
+    "name": "v2.7.1",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.7.1",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.7.1"
+  },
+  {
     "highlights": "<p>📝 Audit log for flags (<a href=\"https://maif.github.io/izanami/docs/guides/audit-logs\">more details</a>)</p>\n<p>🔎 Allow restricting search results by types</p>\n<p>📋 Search history</p>\n<p>🆔 Search by feature / project ID</p>",
     "project": "izanami",
     "date": "2024-12-15T14:20:57Z",
