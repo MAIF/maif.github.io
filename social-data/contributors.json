@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-01-07T15:45:19Z",
+      "pushed_at": "2025-01-08T15:25:33Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -92,16 +92,17 @@
         null,
         "lucbu",
         "desmfr",
+        "SelligtomGit86",
         "cwoodrow",
         null
       ],
-      "commits_count": 8500,
+      "commits_count": 8503,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5892
+          "commits_count": 5894
         },
         {
           "name": "Zwiterrion",
@@ -209,6 +210,12 @@
           "name": "desmfr",
           "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
           "url": "https://github.com/desmfr",
+          "commits_count": 1
+        },
+        {
+          "name": "SelligtomGit86",
+          "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
+          "url": "https://github.com/SelligtomGit86",
           "commits_count": 1
         },
         {
@@ -506,7 +513,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-01-07T00:09:29Z",
+      "pushed_at": "2025-01-08T00:08:49Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -524,10 +531,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12362,
+      "commits_count": 12363,
       "commits_per_contributor": [
         {
-          "commits_count": 12056
+          "commits_count": 12057
         },
         {
           "name": "baudelotphilippe",
@@ -715,7 +722,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-01-07T23:59:08Z",
+      "pushed_at": "2025-01-08T13:56:45Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -727,13 +734,13 @@
         "jeanphi-baconnais",
         "Zwiterrion"
       ],
-      "commits_count": 396,
+      "commits_count": 397,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 185
+          "commits_count": 186
         },
         {
           "commits_count": 78
@@ -1150,7 +1157,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13867,
+      "commits_count": 13868,
       "projects": [
         "otoroshi-ts-types",
         "otoroshi",
@@ -1217,7 +1224,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6166,
+      "commits_count": 6168,
       "projects": [
         "otoroshi",
         "nio",
@@ -1257,7 +1264,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 245,
+      "commits_count": 246,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1354,6 +1361,15 @@
         "melusine",
         "maif.github.io",
         "cards"
+      ]
+    },
+    "SelligtomGit86": {
+      "name": "SelligtomGit86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
+      "url": "https://github.com/SelligtomGit86",
+      "commits_count": 1,
+      "projects": [
+        "otoroshi"
       ]
     },
     "cwoodrow": {
@@ -1791,6 +1807,7 @@
     "frinyvonnick",
     "marclaporte",
     "oltruong",
+    "SelligtomGit86",
     "lucbu"
   ]
 }
