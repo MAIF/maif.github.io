@@ -66,7 +66,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-01-08T15:25:33Z",
+      "pushed_at": "2025-01-09T15:24:30Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -83,7 +83,7 @@
         null,
         "omahs",
         "larousso",
-        "tristan-chauveau",
+        null,
         "sebprunierserli",
         null,
         null,
@@ -174,9 +174,6 @@
           "commits_count": 3
         },
         {
-          "name": "tristan-chauveau",
-          "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
-          "url": "https://github.com/tristan-chauveau",
           "commits_count": 3
         },
         {
@@ -513,7 +510,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-01-08T00:08:49Z",
+      "pushed_at": "2025-01-09T00:08:48Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -531,10 +528,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12363,
+      "commits_count": 12364,
       "commits_per_contributor": [
         {
-          "commits_count": 12057
+          "commits_count": 12058
         },
         {
           "name": "baudelotphilippe",
@@ -961,7 +958,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2024-12-20T16:20:23Z",
+      "pushed_at": "2025-01-09T16:22:02Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -976,13 +973,13 @@
         "ptitFicus",
         null
       ],
-      "commits_count": 2841,
+      "commits_count": 2846,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1408
+          "commits_count": 1413
         },
         {
           "name": "Zwiterrion",
@@ -1157,9 +1154,10 @@
       ]
     },
     "undefined": {
-      "commits_count": 13868,
+      "commits_count": 13872,
       "projects": [
         "otoroshi-ts-types",
+        "otoroshi",
         "otoroshi",
         "otoroshi",
         "otoroshi",
@@ -1253,7 +1251,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1514,
+      "commits_count": 1519,
       "projects": [
         "otoroshi",
         "nio",
@@ -1322,15 +1320,6 @@
         "jooq-async",
         "functional-validation",
         "functional-json"
-      ]
-    },
-    "tristan-chauveau": {
-      "name": "tristan-chauveau",
-      "avatar_url": "https://avatars.githubusercontent.com/u/52445468?v=4",
-      "url": "https://github.com/tristan-chauveau",
-      "commits_count": 3,
-      "projects": [
-        "otoroshi"
       ]
     },
     "sebprunierserli": {
@@ -1791,7 +1780,6 @@
     "omahs",
     "AntoineSimoulin",
     "sebprunierserli",
-    "tristan-chauveau",
     "SebastienBidault",
     "mbaechler",
     "Izanami",
