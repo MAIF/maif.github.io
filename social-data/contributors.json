@@ -1,28 +1,5 @@
 {
   "projects": {
-    "otoroshi-ts-types": {
-      "name": "otoroshi-ts-types",
-      "url": "https://github.com/MAIF/otoroshi-ts-types",
-      "description": "Types for developing Wasm plugins that are compatible with Otoroshi",
-      "homepage": null,
-      "pushed_at": "2024-06-20T12:55:39Z",
-      "contributors": [
-        "Zwiterrion",
-        null
-      ],
-      "commits_count": 25,
-      "commits_per_contributor": [
-        {
-          "name": "Zwiterrion",
-          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
-          "url": "https://github.com/Zwiterrion",
-          "commits_count": 19
-        },
-        {
-          "commits_count": 6
-        }
-      ]
-    },
     "otoroshi-rust-types": {
       "name": "otoroshi-rust-types",
       "url": "https://github.com/MAIF/otoroshi-rust-types",
@@ -322,20 +299,20 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-01-10T15:47:59Z",
+      "pushed_at": "2025-01-14T16:57:47Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
         "develop-cs",
         null
       ],
-      "commits_count": 59,
+      "commits_count": 69,
       "commits_per_contributor": [
         {
           "name": "GratienDSX",
           "avatar_url": "https://avatars.githubusercontent.com/u/11066079?v=4",
           "url": "https://github.com/GratienDSX",
-          "commits_count": 38
+          "commits_count": 46
         },
         {
           "name": "ThomasBouche",
@@ -347,7 +324,7 @@
           "name": "develop-cs",
           "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
           "url": "https://github.com/develop-cs",
-          "commits_count": 8
+          "commits_count": 10
         },
         {
           "commits_count": 1
@@ -547,15 +524,15 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-01-12T00:09:54Z",
+      "pushed_at": "2025-01-13T14:25:05Z",
       "contributors": [
         null,
         "baudelotphilippe",
         "Zwiterrion",
         "mathieuancelin",
         "desmfr",
-        "develop-cs",
         "ptitFicus",
+        "develop-cs",
         null,
         null,
         null,
@@ -565,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12367,
+      "commits_count": 12369,
       "commits_per_contributor": [
         {
-          "commits_count": 12061
+          "commits_count": 12062
         },
         {
           "name": "baudelotphilippe",
@@ -595,16 +572,16 @@
           "commits_count": 26
         },
         {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 6
+        },
+        {
           "name": "develop-cs",
           "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
           "url": "https://github.com/develop-cs",
           "commits_count": 6
-        },
-        {
-          "name": "ptitFicus",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-          "url": "https://github.com/ptitFicus",
-          "commits_count": 5
         },
         {
           "commits_count": 3
@@ -756,7 +733,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-01-12T23:14:42Z",
+      "pushed_at": "2025-01-14T16:18:53Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -768,13 +745,13 @@
         "jeanphi-baconnais",
         "Zwiterrion"
       ],
-      "commits_count": 397,
+      "commits_count": 400,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 186
+          "commits_count": 189
         },
         {
           "commits_count": 78
@@ -833,6 +810,25 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
           "commits_count": 27
+        }
+      ]
+    },
+    "homebrew-daikoku": {
+      "name": "homebrew-daikoku",
+      "url": "https://github.com/MAIF/homebrew-daikoku",
+      "description": null,
+      "homepage": null,
+      "pushed_at": "2024-12-04T09:15:06Z",
+      "contributors": [
+        "Zwiterrion"
+      ],
+      "commits_count": 7,
+      "commits_per_contributor": [
+        {
+          "name": "Zwiterrion",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
+          "url": "https://github.com/Zwiterrion",
+          "commits_count": 7
         }
       ]
     },
@@ -995,7 +991,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2025-01-10T10:20:40Z",
+      "pushed_at": "2025-01-14T13:34:40Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1010,7 +1006,7 @@
         "ptitFicus",
         null
       ],
-      "commits_count": 2854,
+      "commits_count": 2856,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
@@ -1022,10 +1018,10 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 579
+          "commits_count": 580
         },
         {
-          "commits_count": 436
+          "commits_count": 437
         },
         {
           "name": "baudelotphilippe",
@@ -1178,22 +1174,34 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1891,
+      "commits_count": 1880,
       "projects": [
-        "otoroshi-ts-types",
         "otoroshi-rust-types",
         "otoroshi-go-types",
         "otoroshi",
         "maif.github.io",
         "izanami",
         "homebrew-wasmo",
+        "homebrew-daikoku",
         "daikoku"
       ]
     },
-    "undefined": {
-      "commits_count": 13882,
+    "mathieuancelin": {
+      "name": "mathieuancelin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
+      "url": "https://github.com/mathieuancelin",
+      "commits_count": 6168,
       "projects": [
-        "otoroshi-ts-types",
+        "otoroshi",
+        "nio",
+        "maif.github.io",
+        "daikoku",
+        "cards"
+      ]
+    },
+    "undefined": {
+      "commits_count": 13878,
+      "projects": [
         "otoroshi",
         "otoroshi",
         "otoroshi",
@@ -1256,19 +1264,6 @@
         "daikoku"
       ]
     },
-    "mathieuancelin": {
-      "name": "mathieuancelin",
-      "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
-      "url": "https://github.com/mathieuancelin",
-      "commits_count": 6168,
-      "projects": [
-        "otoroshi",
-        "nio",
-        "maif.github.io",
-        "daikoku",
-        "cards"
-      ]
-    },
     "baudelotphilippe": {
       "name": "baudelotphilippe",
       "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
@@ -1300,7 +1295,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 246,
+      "commits_count": 250,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1451,7 +1446,7 @@
       "name": "GratienDSX",
       "avatar_url": "https://avatars.githubusercontent.com/u/11066079?v=4",
       "url": "https://github.com/GratienDSX",
-      "commits_count": 38,
+      "commits_count": 46,
       "projects": [
         "meteole"
       ]
@@ -1471,7 +1466,7 @@
       "name": "develop-cs",
       "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
       "url": "https://github.com/develop-cs",
-      "commits_count": 33,
+      "commits_count": 35,
       "projects": [
         "meteole",
         "maif.github.io",
@@ -1806,8 +1801,8 @@
     "ThomasBouche",
     "tstringerquantmetry",
     "benoitLebreton-perso",
-    "pierrebruninmaif",
     "GratienDSX",
+    "pierrebruninmaif",
     "mathieuancelinserli",
     "develop-cs",
     "desmfr",
