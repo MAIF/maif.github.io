@@ -43,7 +43,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-01-10T16:09:18Z",
+      "pushed_at": "2025-01-15T15:39:49Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -208,7 +208,7 @@
       "url": "https://github.com/MAIF/nio",
       "description": "Privacy Management Toolbox to implement GDPR",
       "homepage": "https://maif.github.io/nio/",
-      "pushed_at": "2024-10-24T14:02:39Z",
+      "pushed_at": "2025-01-15T10:02:07Z",
       "contributors": [
         null,
         "larousso",
@@ -224,7 +224,7 @@
         "marclaporte",
         "frinyvonnick"
       ],
-      "commits_count": 403,
+      "commits_count": 404,
       "commits_per_contributor": [
         {
           "commits_count": 219
@@ -233,7 +233,7 @@
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 43
+          "commits_count": 44
         },
         {
           "name": "quentinovega",
@@ -299,7 +299,7 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-01-14T16:57:47Z",
+      "pushed_at": "2025-01-15T10:18:17Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
@@ -340,13 +340,15 @@
       "contributors": [
         "hugo-quantmetry",
         "HugoPerrier",
-        "farthur",
         "TFA-MAIF",
         "tstringerquantmetry",
+        null,
         "benoitLebreton-perso",
         null,
+        "farthur",
         "milidris",
         "guilieb",
+        null,
         "sachasamama",
         null,
         null,
@@ -364,11 +366,9 @@
         null,
         null,
         "baudelotphilippe",
-        "sebastienthebaud",
-        "nicolaspte",
         "remi-perrier"
       ],
-      "commits_count": 786,
+      "commits_count": 784,
       "commits_per_contributor": [
         {
           "name": "hugo-quantmetry",
@@ -383,12 +383,6 @@
           "commits_count": 142
         },
         {
-          "name": "farthur",
-          "avatar_url": "https://avatars.githubusercontent.com/u/24226844?v=4",
-          "url": "https://github.com/farthur",
-          "commits_count": 101
-        },
-        {
           "name": "TFA-MAIF",
           "avatar_url": "https://avatars.githubusercontent.com/u/55534151?v=4",
           "url": "https://github.com/TFA-MAIF",
@@ -401,6 +395,9 @@
           "commits_count": 56
         },
         {
+          "commits_count": 54
+        },
+        {
           "name": "benoitLebreton-perso",
           "avatar_url": "https://avatars.githubusercontent.com/u/51739671?v=4",
           "url": "https://github.com/benoitLebreton-perso",
@@ -408,6 +405,12 @@
         },
         {
           "commits_count": 52
+        },
+        {
+          "name": "farthur",
+          "avatar_url": "https://avatars.githubusercontent.com/u/24226844?v=4",
+          "url": "https://github.com/farthur",
+          "commits_count": 33
         },
         {
           "name": "milidris",
@@ -419,6 +422,9 @@
           "name": "guilieb",
           "avatar_url": "https://avatars.githubusercontent.com/u/49333734?v=4",
           "url": "https://github.com/guilieb",
+          "commits_count": 14
+        },
+        {
           "commits_count": 14
         },
         {
@@ -500,18 +506,6 @@
           "commits_count": 2
         },
         {
-          "name": "sebastienthebaud",
-          "avatar_url": "https://avatars.githubusercontent.com/u/68376697?v=4",
-          "url": "https://github.com/sebastienthebaud",
-          "commits_count": 1
-        },
-        {
-          "name": "nicolaspte",
-          "avatar_url": "https://avatars.githubusercontent.com/u/55386851?v=4",
-          "url": "https://github.com/nicolaspte",
-          "commits_count": 1
-        },
-        {
           "name": "remi-perrier",
           "avatar_url": "https://avatars.githubusercontent.com/u/57212723?v=4",
           "url": "https://github.com/remi-perrier",
@@ -524,7 +518,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-01-13T14:25:05Z",
+      "pushed_at": "2025-01-15T00:08:21Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +536,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12369,
+      "commits_count": 12370,
       "commits_per_contributor": [
         {
-          "commits_count": 12062
+          "commits_count": 12063
         },
         {
           "name": "baudelotphilippe",
@@ -1200,7 +1194,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13878,
+      "commits_count": 13947,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1219,6 +1213,8 @@
         "nio",
         "nio",
         "meteole",
+        "melusine",
+        "melusine",
         "melusine",
         "melusine",
         "melusine",
@@ -1345,7 +1341,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 173,
+      "commits_count": 174,
       "projects": [
         "otoroshi",
         "nio",
@@ -1492,15 +1488,6 @@
         "arta"
       ]
     },
-    "farthur": {
-      "name": "farthur",
-      "avatar_url": "https://avatars.githubusercontent.com/u/24226844?v=4",
-      "url": "https://github.com/farthur",
-      "commits_count": 101,
-      "projects": [
-        "melusine"
-      ]
-    },
     "TFA-MAIF": {
       "name": "TFA-MAIF",
       "avatar_url": "https://avatars.githubusercontent.com/u/55534151?v=4",
@@ -1524,6 +1511,15 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/51739671?v=4",
       "url": "https://github.com/benoitLebreton-perso",
       "commits_count": 53,
+      "projects": [
+        "melusine"
+      ]
+    },
+    "farthur": {
+      "name": "farthur",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24226844?v=4",
+      "url": "https://github.com/farthur",
+      "commits_count": 33,
       "projects": [
         "melusine"
       ]
@@ -1607,24 +1603,6 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/11446904?v=4",
       "url": "https://github.com/AntoineSimoulin",
       "commits_count": 3,
-      "projects": [
-        "melusine"
-      ]
-    },
-    "sebastienthebaud": {
-      "name": "sebastienthebaud",
-      "avatar_url": "https://avatars.githubusercontent.com/u/68376697?v=4",
-      "url": "https://github.com/sebastienthebaud",
-      "commits_count": 1,
-      "projects": [
-        "melusine"
-      ]
-    },
-    "nicolaspte": {
-      "name": "nicolaspte",
-      "avatar_url": "https://avatars.githubusercontent.com/u/55386851?v=4",
-      "url": "https://github.com/nicolaspte",
-      "commits_count": 1,
       "projects": [
         "melusine"
       ]
@@ -1794,7 +1772,6 @@
     "larousso",
     "hugo-quantmetry",
     "HugoPerrier",
-    "farthur",
     "helakaraa",
     "TFA-MAIF",
     "Btxgear",
@@ -1805,6 +1782,7 @@
     "pierrebruninmaif",
     "mathieuancelinserli",
     "develop-cs",
+    "farthur",
     "desmfr",
     "Fraer",
     "guillaume-vignal",
@@ -1835,8 +1813,6 @@
     "wikijm",
     "jeanphi-baconnais",
     "remi-perrier",
-    "nicolaspte",
-    "sebastienthebaud",
     "frinyvonnick",
     "marclaporte",
     "oltruong",
