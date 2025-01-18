@@ -43,7 +43,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-01-16T15:48:34Z",
+      "pushed_at": "2025-01-17T10:48:00Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -299,7 +299,7 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-01-15T10:18:17Z",
+      "pushed_at": "2025-01-17T16:46:50Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
@@ -518,7 +518,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-01-16T00:08:42Z",
+      "pushed_at": "2025-01-17T00:08:51Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -536,10 +536,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12371,
+      "commits_count": 12372,
       "commits_per_contributor": [
         {
-          "commits_count": 12064
+          "commits_count": 12065
         },
         {
           "name": "baudelotphilippe",
@@ -727,7 +727,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-01-14T16:18:53Z",
+      "pushed_at": "2025-01-17T15:32:21Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -739,13 +739,13 @@
         "jeanphi-baconnais",
         "Zwiterrion"
       ],
-      "commits_count": 400,
+      "commits_count": 403,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 189
+          "commits_count": 192
         },
         {
           "commits_count": 78
@@ -1194,7 +1194,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13948,
+      "commits_count": 13949,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1291,7 +1291,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 250,
+      "commits_count": 253,
       "projects": [
         "otoroshi",
         "maif.github.io",
