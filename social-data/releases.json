@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<p>🚫 Limit allowed user input for multiple fields\n🎛️ Improve oauth2 support\n💻 OAuth / OIDC is now configurable from UI</p>",
+    "project": "izanami",
+    "date": "2025-01-18T13:26:29Z",
+    "name": "v2.8.0",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.8.0",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.8.0"
+  },
+  {
     "highlights": "<p>🪡 Allow specifying ID for new features</p>\n<p>🧳 Standalone docker image for testing / demo</p>",
     "project": "izanami",
     "date": "2025-01-06T22:59:07Z",
