@@ -299,26 +299,26 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-01-20T13:10:50Z",
+      "pushed_at": "2025-01-21T13:36:19Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
         "develop-cs",
         null
       ],
-      "commits_count": 75,
+      "commits_count": 81,
       "commits_per_contributor": [
         {
           "name": "GratienDSX",
           "avatar_url": "https://avatars.githubusercontent.com/u/11066079?v=4",
           "url": "https://github.com/GratienDSX",
-          "commits_count": 46
+          "commits_count": 50
         },
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 18
+          "commits_count": 20
         },
         {
           "name": "develop-cs",
@@ -518,7 +518,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-01-20T00:08:41Z",
+      "pushed_at": "2025-01-21T15:26:59Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -530,16 +530,16 @@
         null,
         null,
         null,
-        null,
         "ThomasBouche",
+        null,
         null,
         "cwoodrow",
         null
       ],
-      "commits_count": 12375,
+      "commits_count": 12378,
       "commits_per_contributor": [
         {
-          "commits_count": 12068
+          "commits_count": 12069
         },
         {
           "name": "baudelotphilippe",
@@ -569,7 +569,7 @@
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 6
+          "commits_count": 7
         },
         {
           "name": "develop-cs",
@@ -587,13 +587,13 @@
           "commits_count": 3
         },
         {
-          "commits_count": 2
-        },
-        {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 1
+          "commits_count": 2
+        },
+        {
+          "commits_count": 2
         },
         {
           "commits_count": 1
@@ -1194,7 +1194,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13954,
+      "commits_count": 13955,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1291,7 +1291,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 255,
+      "commits_count": 256,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1442,7 +1442,7 @@
       "name": "GratienDSX",
       "avatar_url": "https://avatars.githubusercontent.com/u/11066079?v=4",
       "url": "https://github.com/GratienDSX",
-      "commits_count": 46,
+      "commits_count": 50,
       "projects": [
         "meteole"
       ]
@@ -1451,7 +1451,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 78,
+      "commits_count": 81,
       "projects": [
         "meteole",
         "maif.github.io",
