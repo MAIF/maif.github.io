@@ -1,6 +1,6 @@
 [
   {
-    "highlights": "<p>🚫 Limit allowed user input for multiple fields\n🎛️ Improve oauth2 support\n💻 OAuth / OIDC is now configurable from UI</p>",
+    "highlights": "<p>🚫 Limit allowed user input for multiple fields</p>\n<p>🎛️ Improve oauth2 support</p>\n<p>💻 OAuth / OIDC is now configurable from UI</p>",
     "project": "izanami",
     "date": "2025-01-18T13:26:29Z",
     "name": "v2.8.0",

@@ -336,7 +336,7 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "📧 Melusine: Use python to automatize your email processing workflow",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2024-12-16T08:41:31Z",
+      "pushed_at": "2025-01-21T15:59:48Z",
       "contributors": [
         "hugo-quantmetry",
         "HugoPerrier",
@@ -354,6 +354,7 @@
         null,
         "victorBigand",
         "MathisNcl",
+        "VandvC",
         "adam-benjellounSG",
         "FDJFDJ",
         "NP4567-dev",
@@ -365,10 +366,9 @@
         null,
         null,
         null,
-        "baudelotphilippe",
-        "remi-perrier"
+        "baudelotphilippe"
       ],
-      "commits_count": 784,
+      "commits_count": 791,
       "commits_per_contributor": [
         {
           "name": "hugo-quantmetry",
@@ -380,7 +380,7 @@
           "name": "HugoPerrier",
           "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
           "url": "https://github.com/HugoPerrier",
-          "commits_count": 142
+          "commits_count": 143
         },
         {
           "name": "TFA-MAIF",
@@ -452,6 +452,12 @@
           "commits_count": 9
         },
         {
+          "name": "VandvC",
+          "avatar_url": "https://avatars.githubusercontent.com/u/69578966?v=4",
+          "url": "https://github.com/VandvC",
+          "commits_count": 7
+        },
+        {
           "name": "adam-benjellounSG",
           "avatar_url": "https://avatars.githubusercontent.com/u/97891573?v=4",
           "url": "https://github.com/adam-benjellounSG",
@@ -504,12 +510,6 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
           "commits_count": 2
-        },
-        {
-          "name": "remi-perrier",
-          "avatar_url": "https://avatars.githubusercontent.com/u/57212723?v=4",
-          "url": "https://github.com/remi-perrier",
-          "commits_count": 1
         }
       ]
     },
@@ -518,7 +518,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-01-21T15:26:59Z",
+      "pushed_at": "2025-01-21T15:27:19Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -536,10 +536,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12378,
+      "commits_count": 12379,
       "commits_per_contributor": [
         {
-          "commits_count": 12069
+          "commits_count": 12070
         },
         {
           "name": "baudelotphilippe",
@@ -727,7 +727,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-01-19T22:53:41Z",
+      "pushed_at": "2025-01-21T20:02:26Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1194,7 +1194,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13955,
+      "commits_count": 13956,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1482,7 +1482,7 @@
       "name": "HugoPerrier",
       "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
       "url": "https://github.com/HugoPerrier",
-      "commits_count": 143,
+      "commits_count": 144,
       "projects": [
         "melusine",
         "arta"
@@ -1570,6 +1570,15 @@
         "melusine"
       ]
     },
+    "VandvC": {
+      "name": "VandvC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69578966?v=4",
+      "url": "https://github.com/VandvC",
+      "commits_count": 7,
+      "projects": [
+        "melusine"
+      ]
+    },
     "adam-benjellounSG": {
       "name": "adam-benjellounSG",
       "avatar_url": "https://avatars.githubusercontent.com/u/97891573?v=4",
@@ -1603,15 +1612,6 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/11446904?v=4",
       "url": "https://github.com/AntoineSimoulin",
       "commits_count": 3,
-      "projects": [
-        "melusine"
-      ]
-    },
-    "remi-perrier": {
-      "name": "remi-perrier",
-      "avatar_url": "https://avatars.githubusercontent.com/u/57212723?v=4",
-      "url": "https://github.com/remi-perrier",
-      "commits_count": 1,
       "projects": [
         "melusine"
       ]
@@ -1796,6 +1796,7 @@
     "MathisNcl",
     "fedysalahserli",
     "adam-benjellounSG",
+    "VandvC",
     "githubyako",
     "MLecardonnel",
     "FDJFDJ",
@@ -1812,7 +1813,6 @@
     "gotson",
     "wikijm",
     "jeanphi-baconnais",
-    "remi-perrier",
     "frinyvonnick",
     "marclaporte",
     "oltruong",
