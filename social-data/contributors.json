@@ -299,14 +299,14 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-01-17T16:46:50Z",
+      "pushed_at": "2025-01-20T13:10:50Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
         "develop-cs",
         null
       ],
-      "commits_count": 69,
+      "commits_count": 75,
       "commits_per_contributor": [
         {
           "name": "GratienDSX",
@@ -318,7 +318,7 @@
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 12
+          "commits_count": 18
         },
         {
           "name": "develop-cs",
@@ -518,7 +518,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-01-19T00:09:30Z",
+      "pushed_at": "2025-01-20T00:08:41Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -536,10 +536,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12374,
+      "commits_count": 12375,
       "commits_per_contributor": [
         {
-          "commits_count": 12067
+          "commits_count": 12068
         },
         {
           "name": "baudelotphilippe",
@@ -1194,7 +1194,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13953,
+      "commits_count": 13954,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1451,7 +1451,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 72,
+      "commits_count": 78,
       "projects": [
         "meteole",
         "maif.github.io",
@@ -1774,8 +1774,8 @@
     "HugoPerrier",
     "helakaraa",
     "TFA-MAIF",
-    "Btxgear",
     "ThomasBouche",
+    "Btxgear",
     "tstringerquantmetry",
     "benoitLebreton-perso",
     "GratienDSX",
