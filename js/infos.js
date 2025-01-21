@@ -4,6 +4,11 @@ const infosRepos = {
     img: "arta.svg",
     url_project: "https://maif.github.io/arta/",
   },
+  meteole: {
+    url: "https://github.com/MAIF/meteole",
+    img: "meteole.svg",
+    url_project: "https://maif.github.io/meteole/",
+  },
   otoroshi: {
     url: "https://github.com/MAIF/otoroshi",
     img: "otoroshi.svg",
