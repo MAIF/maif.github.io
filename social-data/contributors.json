@@ -43,7 +43,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-01-17T10:48:00Z",
+      "pushed_at": "2025-01-22T15:48:36Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -62,6 +62,7 @@
         "larousso",
         null,
         "sebprunierserli",
+        "quentinproust",
         null,
         null,
         null,
@@ -73,19 +74,19 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8503,
+      "commits_count": 8535,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5894
+          "commits_count": 5904
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1180
+          "commits_count": 1200
         },
         {
           "commits_count": 548
@@ -158,6 +159,12 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
           "url": "https://github.com/sebprunierserli",
           "commits_count": 3
+        },
+        {
+          "name": "quentinproust",
+          "avatar_url": "https://avatars.githubusercontent.com/u/355461?v=4",
+          "url": "https://github.com/quentinproust",
+          "commits_count": 2
         },
         {
           "commits_count": 2
@@ -299,7 +306,7 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-01-21T13:36:19Z",
+      "pushed_at": "2025-01-22T16:25:51Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
@@ -518,7 +525,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-01-21T22:26:33Z",
+      "pushed_at": "2025-01-22T00:08:28Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -536,10 +543,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12380,
+      "commits_count": 12381,
       "commits_per_contributor": [
         {
-          "commits_count": 12071
+          "commits_count": 12072
         },
         {
           "name": "baudelotphilippe",
@@ -727,7 +734,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-01-21T20:02:26Z",
+      "pushed_at": "2025-01-22T23:41:03Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -985,7 +992,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2025-01-14T13:34:40Z",
+      "pushed_at": "2025-01-22T03:09:36Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1168,7 +1175,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1880,
+      "commits_count": 1900,
       "projects": [
         "otoroshi-rust-types",
         "otoroshi-go-types",
@@ -1184,7 +1191,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6168,
+      "commits_count": 6178,
       "projects": [
         "otoroshi",
         "nio",
@@ -1194,7 +1201,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13957,
+      "commits_count": 13958,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1356,6 +1363,15 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
       "url": "https://github.com/sebprunierserli",
       "commits_count": 3,
+      "projects": [
+        "otoroshi"
+      ]
+    },
+    "quentinproust": {
+      "name": "quentinproust",
+      "avatar_url": "https://avatars.githubusercontent.com/u/355461?v=4",
+      "url": "https://github.com/quentinproust",
+      "commits_count": 2,
       "projects": [
         "otoroshi"
       ]
@@ -1808,6 +1824,7 @@
     "mbaechler",
     "Izanami",
     "florian-tirard",
+    "quentinproust",
     "meriemjebali",
     "roman2git",
     "gotson",
