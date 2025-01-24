@@ -43,7 +43,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-01-22T15:48:36Z",
+      "pushed_at": "2025-01-23T16:56:24Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -74,13 +74,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8535,
+      "commits_count": 8552,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5904
+          "commits_count": 5921
         },
         {
           "name": "Zwiterrion",
@@ -306,7 +306,7 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-01-22T16:25:51Z",
+      "pushed_at": "2025-01-23T08:33:19Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
@@ -343,7 +343,7 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "📧 Melusine: Use python to automatize your email processing workflow",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2025-01-21T15:59:48Z",
+      "pushed_at": "2025-01-23T08:36:26Z",
       "contributors": [
         "hugo-quantmetry",
         "HugoPerrier",
@@ -375,7 +375,7 @@
         null,
         "baudelotphilippe"
       ],
-      "commits_count": 791,
+      "commits_count": 793,
       "commits_per_contributor": [
         {
           "name": "hugo-quantmetry",
@@ -387,7 +387,7 @@
           "name": "HugoPerrier",
           "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
           "url": "https://github.com/HugoPerrier",
-          "commits_count": 143
+          "commits_count": 145
         },
         {
           "name": "TFA-MAIF",
@@ -525,7 +525,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-01-22T00:08:28Z",
+      "pushed_at": "2025-01-23T00:08:30Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -543,10 +543,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12381,
+      "commits_count": 12382,
       "commits_per_contributor": [
         {
-          "commits_count": 12072
+          "commits_count": 12073
         },
         {
           "name": "baudelotphilippe",
@@ -734,7 +734,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-01-22T23:41:03Z",
+      "pushed_at": "2025-01-23T13:28:20Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1191,7 +1191,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6178,
+      "commits_count": 6195,
       "projects": [
         "otoroshi",
         "nio",
@@ -1201,7 +1201,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13958,
+      "commits_count": 13959,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1498,7 +1498,7 @@
       "name": "HugoPerrier",
       "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
       "url": "https://github.com/HugoPerrier",
-      "commits_count": 144,
+      "commits_count": 146,
       "projects": [
         "melusine",
         "arta"
