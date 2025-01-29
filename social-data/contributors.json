@@ -43,7 +43,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-01-27T08:29:27Z",
+      "pushed_at": "2025-01-28T20:41:24Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -60,6 +60,7 @@
         null,
         "omahs",
         "larousso",
+        "SelligtomGit86",
         null,
         "sebprunierserli",
         "quentinproust",
@@ -70,17 +71,16 @@
         null,
         "lucbu",
         "desmfr",
-        "SelligtomGit86",
         "cwoodrow",
         null
       ],
-      "commits_count": 8554,
+      "commits_count": 8559,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5923
+          "commits_count": 5926
         },
         {
           "name": "Zwiterrion",
@@ -152,6 +152,12 @@
           "commits_count": 3
         },
         {
+          "name": "SelligtomGit86",
+          "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
+          "url": "https://github.com/SelligtomGit86",
+          "commits_count": 3
+        },
+        {
           "commits_count": 3
         },
         {
@@ -191,12 +197,6 @@
           "name": "desmfr",
           "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
           "url": "https://github.com/desmfr",
-          "commits_count": 1
-        },
-        {
-          "name": "SelligtomGit86",
-          "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
-          "url": "https://github.com/SelligtomGit86",
           "commits_count": 1
         },
         {
@@ -306,7 +306,7 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-01-27T16:36:36Z",
+      "pushed_at": "2025-01-28T17:15:27Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
@@ -314,7 +314,7 @@
         null,
         null
       ],
-      "commits_count": 89,
+      "commits_count": 94,
       "commits_per_contributor": [
         {
           "name": "GratienDSX",
@@ -326,7 +326,7 @@
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 23
+          "commits_count": 28
         },
         {
           "name": "develop-cs",
@@ -529,7 +529,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-01-27T00:08:45Z",
+      "pushed_at": "2025-01-28T00:08:23Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -547,10 +547,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12386,
+      "commits_count": 12387,
       "commits_per_contributor": [
         {
-          "commits_count": 12077
+          "commits_count": 12078
         },
         {
           "name": "baudelotphilippe",
@@ -738,7 +738,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-01-27T16:21:35Z",
+      "pushed_at": "2025-01-28T22:58:28Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -996,7 +996,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2025-01-27T14:20:37Z",
+      "pushed_at": "2025-01-28T10:22:04Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1011,13 +1011,13 @@
         "ptitFicus",
         null
       ],
-      "commits_count": 2862,
+      "commits_count": 2864,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1420
+          "commits_count": 1422
         },
         {
           "name": "Zwiterrion",
@@ -1195,7 +1195,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6197,
+      "commits_count": 6200,
       "projects": [
         "otoroshi",
         "nio",
@@ -1205,7 +1205,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 13969,
+      "commits_count": 13970,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1292,7 +1292,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1526,
+      "commits_count": 1528,
       "projects": [
         "otoroshi",
         "nio",
@@ -1363,6 +1363,15 @@
         "functional-json"
       ]
     },
+    "SelligtomGit86": {
+      "name": "SelligtomGit86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
+      "url": "https://github.com/SelligtomGit86",
+      "commits_count": 3,
+      "projects": [
+        "otoroshi"
+      ]
+    },
     "sebprunierserli": {
       "name": "sebprunierserli",
       "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
@@ -1400,15 +1409,6 @@
         "melusine",
         "maif.github.io",
         "cards"
-      ]
-    },
-    "SelligtomGit86": {
-      "name": "SelligtomGit86",
-      "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
-      "url": "https://github.com/SelligtomGit86",
-      "commits_count": 1,
-      "projects": [
-        "otoroshi"
       ]
     },
     "cwoodrow": {
@@ -1472,7 +1472,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 84,
+      "commits_count": 89,
       "projects": [
         "meteole",
         "maif.github.io",
@@ -1825,6 +1825,7 @@
     "omahs",
     "AntoineSimoulin",
     "sebprunierserli",
+    "SelligtomGit86",
     "SebastienBidault",
     "mbaechler",
     "Izanami",
@@ -1838,7 +1839,6 @@
     "frinyvonnick",
     "marclaporte",
     "oltruong",
-    "SelligtomGit86",
     "lucbu"
   ]
 }
