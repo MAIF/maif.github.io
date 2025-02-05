@@ -1,24 +1,5 @@
 {
   "projects": {
-    "otoroshi-rust-types": {
-      "name": "otoroshi-rust-types",
-      "url": "https://github.com/MAIF/otoroshi-rust-types",
-      "description": "Types for developing Wasm plugins that are compatible with Otoroshi",
-      "homepage": null,
-      "pushed_at": "2024-06-20T12:54:45Z",
-      "contributors": [
-        "Zwiterrion"
-      ],
-      "commits_count": 20,
-      "commits_per_contributor": [
-        {
-          "name": "Zwiterrion",
-          "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
-          "url": "https://github.com/Zwiterrion",
-          "commits_count": 20
-        }
-      ]
-    },
     "otoroshi-go-types": {
       "name": "otoroshi-go-types",
       "url": "https://github.com/MAIF/otoroshi-go-types",
@@ -43,7 +24,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-02-03T21:54:38Z",
+      "pushed_at": "2025-02-04T14:05:37Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -74,13 +55,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8593,
+      "commits_count": 8601,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5946
+          "commits_count": 5947
         },
         {
           "name": "Zwiterrion",
@@ -98,7 +79,7 @@
           "commits_count": 480
         },
         {
-          "commits_count": 195
+          "commits_count": 202
         },
         {
           "name": "quentinovega",
@@ -210,6 +191,25 @@
         }
       ]
     },
+    "numerique-pour-toutes-2025": {
+      "name": "numerique-pour-toutes-2025",
+      "url": "https://github.com/MAIF/numerique-pour-toutes-2025",
+      "description": null,
+      "homepage": null,
+      "pushed_at": "2025-02-04T09:30:53Z",
+      "contributors": [
+        "ffremont"
+      ],
+      "commits_count": 3,
+      "commits_per_contributor": [
+        {
+          "name": "ffremont",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5568721?v=4",
+          "url": "https://github.com/ffremont",
+          "commits_count": 3
+        }
+      ]
+    },
     "nio": {
       "name": "nio",
       "url": "https://github.com/MAIF/nio",
@@ -306,27 +306,28 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-01-31T16:10:07Z",
+      "pushed_at": "2025-02-04T10:31:33Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
         "develop-cs",
         null,
+        null,
         null
       ],
-      "commits_count": 111,
+      "commits_count": 116,
       "commits_per_contributor": [
         {
           "name": "GratienDSX",
           "avatar_url": "https://avatars.githubusercontent.com/u/11066079?v=4",
           "url": "https://github.com/GratienDSX",
-          "commits_count": 67
+          "commits_count": 70
         },
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 28
+          "commits_count": 29
         },
         {
           "name": "develop-cs",
@@ -336,6 +337,9 @@
         },
         {
           "commits_count": 5
+        },
+        {
+          "commits_count": 1
         },
         {
           "commits_count": 1
@@ -529,7 +533,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-02-03T00:08:54Z",
+      "pushed_at": "2025-02-04T00:08:26Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -547,10 +551,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12393,
+      "commits_count": 12394,
       "commits_per_contributor": [
         {
-          "commits_count": 12084
+          "commits_count": 12085
         },
         {
           "name": "baudelotphilippe",
@@ -1179,9 +1183,8 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 1900,
+      "commits_count": 1880,
       "projects": [
-        "otoroshi-rust-types",
         "otoroshi-go-types",
         "otoroshi",
         "maif.github.io",
@@ -1195,7 +1198,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6220,
+      "commits_count": 6221,
       "projects": [
         "otoroshi",
         "nio",
@@ -1205,7 +1208,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14002,
+      "commits_count": 14011,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1223,6 +1226,7 @@
         "nio",
         "nio",
         "nio",
+        "meteole",
         "meteole",
         "meteole",
         "melusine",
@@ -1423,6 +1427,15 @@
         "lets-automate"
       ]
     },
+    "ffremont": {
+      "name": "ffremont",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5568721?v=4",
+      "url": "https://github.com/ffremont",
+      "commits_count": 3,
+      "projects": [
+        "numerique-pour-toutes-2025"
+      ]
+    },
     "Fraer": {
       "name": "Fraer",
       "avatar_url": "https://avatars.githubusercontent.com/u/976420?v=4",
@@ -1463,7 +1476,7 @@
       "name": "GratienDSX",
       "avatar_url": "https://avatars.githubusercontent.com/u/11066079?v=4",
       "url": "https://github.com/GratienDSX",
-      "commits_count": 67,
+      "commits_count": 70,
       "projects": [
         "meteole"
       ]
@@ -1472,7 +1485,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 89,
+      "commits_count": 90,
       "projects": [
         "meteole",
         "maif.github.io",
@@ -1824,6 +1837,7 @@
     "NP4567-dev",
     "omahs",
     "AntoineSimoulin",
+    "ffremont",
     "sebprunierserli",
     "SelligtomGit86",
     "SebastienBidault",
