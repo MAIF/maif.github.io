@@ -24,7 +24,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-02-04T14:05:37Z",
+      "pushed_at": "2025-02-05T14:24:25Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -533,7 +533,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-02-04T00:08:26Z",
+      "pushed_at": "2025-02-05T00:08:42Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -551,10 +551,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12394,
+      "commits_count": 12395,
       "commits_per_contributor": [
         {
-          "commits_count": 12085
+          "commits_count": 12086
         },
         {
           "name": "baudelotphilippe",
@@ -742,7 +742,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-02-03T10:17:25Z",
+      "pushed_at": "2025-02-05T21:28:19Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -754,16 +754,16 @@
         "jeanphi-baconnais",
         "Zwiterrion"
       ],
-      "commits_count": 415,
+      "commits_count": 418,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 196
+          "commits_count": 198
         },
         {
-          "commits_count": 84
+          "commits_count": 85
         },
         {
           "name": "baudelotphilippe",
@@ -1000,7 +1000,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2025-02-03T18:51:37Z",
+      "pushed_at": "2025-02-05T10:30:53Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1208,7 +1208,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14011,
+      "commits_count": 14013,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1307,7 +1307,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 258,
+      "commits_count": 260,
       "projects": [
         "otoroshi",
         "maif.github.io",
