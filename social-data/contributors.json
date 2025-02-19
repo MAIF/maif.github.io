@@ -24,7 +24,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-02-14T09:43:17Z",
+      "pushed_at": "2025-02-18T15:42:19Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -533,7 +533,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-02-17T00:09:15Z",
+      "pushed_at": "2025-02-18T00:08:34Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -551,10 +551,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12407,
+      "commits_count": 12408,
       "commits_per_contributor": [
         {
-          "commits_count": 12098
+          "commits_count": 12099
         },
         {
           "name": "baudelotphilippe",
@@ -742,7 +742,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-02-17T14:02:07Z",
+      "pushed_at": "2025-02-18T22:27:17Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -751,19 +751,20 @@
         null,
         "Izanami",
         null,
+        "GaetanFrejoux",
         "jeanphi-baconnais",
         "Zwiterrion"
       ],
-      "commits_count": 426,
+      "commits_count": 432,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 204
+          "commits_count": 208
         },
         {
-          "commits_count": 87
+          "commits_count": 88
         },
         {
           "name": "baudelotphilippe",
@@ -788,6 +789,12 @@
         },
         {
           "commits_count": 2
+        },
+        {
+          "name": "GaetanFrejoux",
+          "avatar_url": "https://avatars.githubusercontent.com/u/47180075?v=4",
+          "url": "https://github.com/GaetanFrejoux",
+          "commits_count": 1
         },
         {
           "name": "jeanphi-baconnais",
@@ -1000,7 +1007,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2025-02-17T07:30:53Z",
+      "pushed_at": "2025-02-18T08:44:32Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1208,7 +1215,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14044,
+      "commits_count": 14046,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1307,7 +1314,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 266,
+      "commits_count": 270,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1687,6 +1694,15 @@
         "izanami"
       ]
     },
+    "GaetanFrejoux": {
+      "name": "GaetanFrejoux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47180075?v=4",
+      "url": "https://github.com/GaetanFrejoux",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
     "jeanphi-baconnais": {
       "name": "jeanphi-baconnais",
       "avatar_url": "https://avatars.githubusercontent.com/u/32639372?v=4",
@@ -1850,6 +1866,7 @@
     "gotson",
     "wikijm",
     "jeanphi-baconnais",
+    "GaetanFrejoux",
     "frinyvonnick",
     "marclaporte",
     "oltruong",
