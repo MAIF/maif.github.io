@@ -533,7 +533,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-02-23T00:09:21Z",
+      "pushed_at": "2025-02-24T00:09:05Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -551,10 +551,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12413,
+      "commits_count": 12414,
       "commits_per_contributor": [
         {
-          "commits_count": 12104
+          "commits_count": 12105
         },
         {
           "name": "baudelotphilippe",
@@ -1007,7 +1007,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2025-02-19T17:24:57Z",
+      "pushed_at": "2025-02-24T14:52:05Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1022,13 +1022,13 @@
         "ptitFicus",
         null
       ],
-      "commits_count": 2916,
+      "commits_count": 2925,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1453
+          "commits_count": 1456
         },
         {
           "name": "Zwiterrion",
@@ -1037,7 +1037,7 @@
           "commits_count": 580
         },
         {
-          "commits_count": 459
+          "commits_count": 465
         },
         {
           "name": "baudelotphilippe",
@@ -1215,7 +1215,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14055,
+      "commits_count": 14062,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1303,7 +1303,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1559,
+      "commits_count": 1562,
       "projects": [
         "otoroshi",
         "nio",
