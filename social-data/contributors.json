@@ -533,7 +533,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-03-02T00:09:46Z",
+      "pushed_at": "2025-03-03T00:09:10Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -552,10 +552,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12421,
+      "commits_count": 12422,
       "commits_per_contributor": [
         {
-          "commits_count": 12111
+          "commits_count": 12112
         },
         {
           "name": "baudelotphilippe",
@@ -749,7 +749,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-02-26T21:30:08Z",
+      "pushed_at": "2025-03-03T09:46:10Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -762,16 +762,16 @@
         "jeanphi-baconnais",
         "Zwiterrion"
       ],
-      "commits_count": 440,
+      "commits_count": 444,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 213
+          "commits_count": 215
         },
         {
-          "commits_count": 91
+          "commits_count": 93
         },
         {
           "name": "baudelotphilippe",
@@ -1222,7 +1222,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14075,
+      "commits_count": 14078,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1322,7 +1322,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 275,
+      "commits_count": 277,
       "projects": [
         "otoroshi",
         "maif.github.io",
