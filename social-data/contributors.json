@@ -24,7 +24,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-03-04T15:24:18Z",
+      "pushed_at": "2025-03-05T14:43:02Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -533,7 +533,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-03-04T00:08:55Z",
+      "pushed_at": "2025-03-05T00:08:49Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -552,10 +552,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12424,
+      "commits_count": 12425,
       "commits_per_contributor": [
         {
-          "commits_count": 12114
+          "commits_count": 12115
         },
         {
           "name": "baudelotphilippe",
@@ -1222,7 +1222,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14080,
+      "commits_count": 14081,
       "projects": [
         "otoroshi",
         "otoroshi",
