@@ -24,7 +24,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-03-05T14:43:02Z",
+      "pushed_at": "2025-03-06T14:33:18Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -533,7 +533,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-03-05T00:08:49Z",
+      "pushed_at": "2025-03-06T00:08:58Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -552,10 +552,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12425,
+      "commits_count": 12426,
       "commits_per_contributor": [
         {
-          "commits_count": 12115
+          "commits_count": 12116
         },
         {
           "name": "baudelotphilippe",
@@ -749,7 +749,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-03-03T09:46:10Z",
+      "pushed_at": "2025-03-06T22:59:15Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -760,9 +760,10 @@
         null,
         "GaetanFrejoux",
         "jeanphi-baconnais",
-        "Zwiterrion"
+        "Zwiterrion",
+        "super7ramp"
       ],
-      "commits_count": 444,
+      "commits_count": 446,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
@@ -771,7 +772,7 @@
           "commits_count": 215
         },
         {
-          "commits_count": 93
+          "commits_count": 94
         },
         {
           "name": "baudelotphilippe",
@@ -813,6 +814,12 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
+          "commits_count": 1
+        },
+        {
+          "name": "super7ramp",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9394745?v=4",
+          "url": "https://github.com/super7ramp",
           "commits_count": 1
         }
       ]
@@ -1222,7 +1229,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14081,
+      "commits_count": 14083,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1720,6 +1727,15 @@
         "izanami"
       ]
     },
+    "super7ramp": {
+      "name": "super7ramp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9394745?v=4",
+      "url": "https://github.com/super7ramp",
+      "commits_count": 1,
+      "projects": [
+        "izanami"
+      ]
+    },
     "mbaechler": {
       "name": "mbaechler",
       "avatar_url": "https://avatars.githubusercontent.com/u/708318?v=4",
@@ -1873,6 +1889,7 @@
     "roman2git",
     "gotson",
     "wikijm",
+    "super7ramp",
     "jeanphi-baconnais",
     "GaetanFrejoux",
     "frinyvonnick",
