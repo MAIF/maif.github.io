@@ -24,7 +24,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-03-10T20:55:42Z",
+      "pushed_at": "2025-03-11T08:30:36Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -55,13 +55,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8634,
+      "commits_count": 8635,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5955
+          "commits_count": 5956
         },
         {
           "name": "Zwiterrion",
@@ -533,7 +533,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-03-10T00:07:40Z",
+      "pushed_at": "2025-03-11T00:09:19Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -552,10 +552,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12430,
+      "commits_count": 12431,
       "commits_per_contributor": [
         {
-          "commits_count": 12120
+          "commits_count": 12121
         },
         {
           "name": "baudelotphilippe",
@@ -749,7 +749,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-03-10T23:50:14Z",
+      "pushed_at": "2025-03-11T16:10:46Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1149,7 +1149,7 @@
       "url": "https://github.com/MAIF/arta",
       "description": "A Python Rules Engine - Make rule handling simple",
       "homepage": "https://maif.github.io/arta/home",
-      "pushed_at": "2024-12-18T12:58:26Z",
+      "pushed_at": "2025-03-11T11:43:14Z",
       "contributors": [
         "develop-cs",
         "roman2git",
@@ -1219,7 +1219,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6229,
+      "commits_count": 6230,
       "projects": [
         "otoroshi",
         "nio",
@@ -1229,7 +1229,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14092,
+      "commits_count": 14093,
       "projects": [
         "otoroshi",
         "otoroshi",
