@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<p>🔒 Protected contexts (see <a href=\"https://maif.github.io/izanami/docs/guides/protected-contexts\">associated documentation</a>)</p>\n<p>📋 Tenant audit log base</p>",
+    "project": "izanami",
+    "date": "2025-03-25T15:52:08Z",
+    "name": "v2.9.0",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.9.0",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.9.0"
+  },
+  {
     "highlights": "<p>💽 Support Postgres 12.x</p>\n<p>＠ Allow to use email as username</p>",
     "project": "izanami",
     "date": "2025-03-03T09:46:11Z",
