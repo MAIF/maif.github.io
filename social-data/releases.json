@@ -96,6 +96,14 @@
     "url": "https://github.com/MAIF/shapash/releases/tag/v2.4.0"
   },
   {
+    "highlights": "<p>Fixes:</p>\n<ul>\n<li>Unintentional breaking change on the action function parameter <code>input_data</code> (now deprecated) by @develop-cs in https://github.com/MAIF/arta/pull/46</li>\n</ul>",
+    "project": "arta",
+    "date": "2025-04-14T08:14:15Z",
+    "name": "0.10.1",
+    "zip": "https://api.github.com/repos/MAIF/arta/zipball/0.10.1",
+    "url": "https://github.com/MAIF/arta/releases/tag/0.10.1"
+  },
+  {
     "highlights": "<p>Features:</p>\n<ul>\n<li>Ability to share values between validation and action functions (#7) by @develop-cs in https://github.com/MAIF/arta/pull/44</li>\n<li>The <code>kwargs</code> parameter of action functions is now optional (only mandatory if you need to access <code>input_data</code>) by @develop-cs in https://github.com/MAIF/arta/pull/44</li>\n</ul>\n<p>Documentation:</p>\n<ul>\n<li><a href=\"https://maif.github.io/arta/value_sharing/\">Value sharing</a> by @develop-cs in https://github.com/MAIF/arta/pull/44</li>\n<li>Add information on how to retrieve input or output data (#43) by @develop-cs in https://github.com/MAIF/arta/pull/44</li>\n</ul>\n<p>Maintenance:</p>\n<ul>\n<li>Enable Dependabot by @develop-cs in https://github.com/MAIF/arta/pull/45</li>\n</ul>",
     "project": "arta",
     "date": "2025-04-02T12:45:15Z",
