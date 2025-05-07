@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-05-05T21:10:00Z",
+      "pushed_at": "2025-05-06T15:26:27Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8810,
+      "commits_count": 8816,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 5992
+          "commits_count": 5998
         },
         {
           "name": "Zwiterrion",
@@ -287,7 +287,7 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-02-04T10:31:33Z",
+      "pushed_at": "2025-05-06T15:30:00Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
@@ -515,7 +515,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-05-05T00:10:22Z",
+      "pushed_at": "2025-05-06T00:09:54Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -534,10 +534,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12486,
+      "commits_count": 12487,
       "commits_per_contributor": [
         {
-          "commits_count": 12176
+          "commits_count": 12177
         },
         {
           "name": "baudelotphilippe",
@@ -750,7 +750,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-05-06T00:05:32Z",
+      "pushed_at": "2025-05-06T23:50:37Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1228,7 +1228,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6267,
+      "commits_count": 6273,
       "projects": [
         "otoroshi",
         "nio",
@@ -1254,7 +1254,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14224,
+      "commits_count": 14225,
       "projects": [
         "otoroshi",
         "otoroshi",
