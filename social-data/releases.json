@@ -64,14 +64,6 @@
     "url": "https://github.com/MAIF/izanami/releases/tag/v2.5.0"
   },
   {
-    "highlights": "<ul>\n<li>🔌 Webhooks</li>\n</ul>",
-    "project": "izanami",
-    "date": "2024-06-17T11:15:44Z",
-    "name": "v2.3.0",
-    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.3.0",
-    "url": "https://github.com/MAIF/izanami/releases/tag/v2.3.0"
-  },
-  {
     "highlights": "<p><strong>Added Features</strong></p>\n<ul>\n<li>Support for Wss Protocol: with the added support for the Wss protocol, the user interface now has the capability to communicate seamlessly with a Wasmo instance deployed using HTTPS</li>\n<li>Exposing Wasmo Behind Proxy: Specify baseURL to expose Wasmo behind a proxy effortlessly.</li>\n<li>New Plugin Creation via CLI: Start a new plugin directly using the CLI, with Izanami and Otoroshi templates available for quick setup.</li>\n<li>Upgrade all Extism PDK Versions: Stay up-to-date with upgraded Extism PDK versions for improved performance and compatibility.</li>\n</ul>",
     "project": "wasmo",
     "date": "2024-03-05T10:42:13Z",
