@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-05-23T18:47:05Z",
+      "pushed_at": "2025-05-25T20:08:58Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -515,7 +515,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-05-24T00:09:24Z",
+      "pushed_at": "2025-05-25T00:11:10Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -534,10 +534,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12505,
+      "commits_count": 12506,
       "commits_per_contributor": [
         {
-          "commits_count": 12195
+          "commits_count": 12196
         },
         {
           "name": "baudelotphilippe",
@@ -750,7 +750,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-05-23T10:05:59Z",
+      "pushed_at": "2025-05-25T22:24:49Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -764,13 +764,13 @@
         "Zwiterrion",
         "super7ramp"
       ],
-      "commits_count": 471,
+      "commits_count": 472,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 232
+          "commits_count": 233
         },
         {
           "commits_count": 102
@@ -1124,6 +1124,26 @@
         }
       ]
     },
+    "codelab-pattern-jdk21-et-plus": {
+      "name": "codelab-pattern-jdk21-et-plus",
+      "url": "https://github.com/MAIF/codelab-pattern-jdk21-et-plus",
+      "description": "Apprendre les nouveautés de java par la pratique",
+      "homepage": null,
+      "pushed_at": "2025-05-25T13:26:30Z",
+      "contributors": [
+        null,
+        null
+      ],
+      "commits_count": 20,
+      "commits_per_contributor": [
+        {
+          "commits_count": 18
+        },
+        {
+          "commits_count": 2
+        }
+      ]
+    },
     "cards": {
       "name": "cards",
       "url": "https://github.com/MAIF/cards",
@@ -1254,7 +1274,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14271,
+      "commits_count": 14292,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1322,6 +1342,8 @@
         "daikoku",
         "daikoku",
         "daikoku",
+        "codelab-pattern-jdk21-et-plus",
+        "codelab-pattern-jdk21-et-plus",
         "arta"
       ]
     },
@@ -1357,7 +1379,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 294,
+      "commits_count": 295,
       "projects": [
         "otoroshi",
         "maif.github.io",
