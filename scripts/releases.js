@@ -60,6 +60,7 @@ Promise.all(
     "daikoku",
     "wasm4s",
     "wasmo",
+    "yozefu",
     "thoth",
     "nio",
     "shapash",
