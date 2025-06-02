@@ -69,4 +69,9 @@ const infosRepos = {
     img: "wasm4s.png",
     url_project: "https://github.com/maif/wasm4s",
   },
+  yozefu: {
+    url: "https://github.com/maif/yozefu",
+    img: "yozefu.svg",
+    url_project: "https://github.com/maif/yozefu",
+  }
 };
