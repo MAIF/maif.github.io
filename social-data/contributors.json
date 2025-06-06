@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-06-04T15:04:23Z",
+      "pushed_at": "2025-06-05T13:58:22Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,7 +36,7 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8931,
+      "commits_count": 8938,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -48,7 +48,7 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1348
+          "commits_count": 1349
         },
         {
           "commits_count": 574
@@ -60,7 +60,7 @@
           "commits_count": 480
         },
         {
-          "commits_count": 251
+          "commits_count": 257
         },
         {
           "name": "quentinovega",
@@ -287,16 +287,17 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-05-06T15:30:00Z",
+      "pushed_at": "2025-06-05T12:25:41Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
         "develop-cs",
         null,
+        "Jupihawx",
         null,
         null
       ],
-      "commits_count": 116,
+      "commits_count": 118,
       "commits_per_contributor": [
         {
           "name": "GratienDSX",
@@ -308,7 +309,7 @@
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 29
+          "commits_count": 30
         },
         {
           "name": "develop-cs",
@@ -318,6 +319,12 @@
         },
         {
           "commits_count": 5
+        },
+        {
+          "name": "Jupihawx",
+          "avatar_url": "https://avatars.githubusercontent.com/u/63653620?v=4",
+          "url": "https://github.com/Jupihawx",
+          "commits_count": 1
         },
         {
           "commits_count": 1
@@ -515,7 +522,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-06-04T00:10:18Z",
+      "pushed_at": "2025-06-05T00:10:16Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -534,10 +541,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12516,
+      "commits_count": 12517,
       "commits_per_contributor": [
         {
-          "commits_count": 12206
+          "commits_count": 12207
         },
         {
           "name": "baudelotphilippe",
@@ -1262,7 +1269,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 2042,
+      "commits_count": 2043,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1274,7 +1281,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14329,
+      "commits_count": 14336,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1557,7 +1564,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 90,
+      "commits_count": 91,
       "projects": [
         "meteole",
         "maif.github.io",
@@ -1573,6 +1580,15 @@
         "meteole",
         "maif.github.io",
         "arta"
+      ]
+    },
+    "Jupihawx": {
+      "name": "Jupihawx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63653620?v=4",
+      "url": "https://github.com/Jupihawx",
+      "commits_count": 1,
+      "projects": [
+        "meteole"
       ]
     },
     "hugo-quantmetry": {
@@ -1941,6 +1957,7 @@
     "super7ramp",
     "jeanphi-baconnais",
     "GaetanFrejoux",
+    "Jupihawx",
     "frinyvonnick",
     "marclaporte",
     "oltruong",
