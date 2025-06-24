@@ -1,62 +1,70 @@
-const fetch = require('node-fetch');
-const fs = require('fs-extra');
-const _ = require('lodash');
+const fetch = require("node-fetch");
+const fs = require("fs-extra");
+const _ = require("lodash");
 
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN // || process.argv[2] || 'secret';
-const contributors_file = './social-data/contributors.json';
+//const GITHUB_TOKEN = process.env.GITHUB_TOKEN // || process.argv[2] || 'secret';
+const contributors_file = "./social-data/contributors.json";
 const filterOut = [
-  'project-template',
-  'otoroshi-jar-clevercloud-template',
-  'otoroshi-clevercloud-template',
-  'izanami-clevercloud-template',
-  '.github'
-]
+  "project-template",
+  "otoroshi-jar-clevercloud-template",
+  "otoroshi-clevercloud-template",
+  "izanami-clevercloud-template",
+  ".github",
+];
 
 const projectsPerUser = {};
 
 function getCommits(repo, attempts) {
   if (attempts <= 0) {
-    return Promise.resolve([])
+    return Promise.resolve([]);
   }
 
-  return fetch(`https://api.github.com/repos/MAIF/${repo}/contributors?anon=1`, {
-    method: 'GET',
-    headers: {
-      Accept: 'application/vnd.github+json',
-      Authorization: `Bearer ${GITHUB_TOKEN}`
+  return fetch(
+    `https://api.github.com/repos/MAIF/${repo}/contributors?anon=1`,
+    {
+      method: "GET",
+      headers: {
+        Accept: "application/vnd.github+json",
+        //      Authorization: `Bearer ${GITHUB_TOKEN}`
+      },
     }
-  }).then(r => {
-    console.log(`https://api.github.com/repos/MAIF/${repo}/contributors?anon=1`, r.headers)
+  ).then((r) => {
+    console.log(
+      `https://api.github.com/repos/MAIF/${repo}/contributors?anon=1`,
+      r.headers
+    );
     if (r.status === 202) {
-      return new Promise(resolve => {
-        console.log(repo, 'retry')
+      return new Promise((resolve) => {
+        console.log(repo, "retry");
         setTimeout(() => {
-          resolve(getCommits(repo, attempts - 1))
-        }, 10000)
+          resolve(getCommits(repo, attempts - 1));
+        }, 10000);
       });
-    }
-    else if (r.status === 200) {
-      return r.json()
-        .then(contributors => {
-          console.log(repo, contributors.length)
-          return _.sortBy(contributors.map(contributor => {
-            let login = contributor.login;
-            if (!projectsPerUser[login]) {
-              projectsPerUser[login] = []
-            }
-            projectsPerUser[login].push(repo);
-            return {
-              name: contributor.login,
-              avatar_url: contributor.avatar_url,
-              url: contributor.html_url,
-              commits_count: contributor.contributions,
-            }
-          })
-            .filter(c => c.name !== 'gitter-badger')
-            .filter(c => c.name !== 'snyk-bot')
-            .filter(c => c.name !== 'github-actions')
-            .filter(c => c.name !== 'dependabot[bot]'), c => c.commits_count).reverse()
-        })
+    } else if (r.status === 200) {
+      return r.json().then((contributors) => {
+        console.log(repo, contributors.length);
+        return _.sortBy(
+          contributors
+            .map((contributor) => {
+              let login = contributor.login;
+              if (!projectsPerUser[login]) {
+                projectsPerUser[login] = [];
+              }
+              projectsPerUser[login].push(repo);
+              return {
+                name: contributor.login,
+                avatar_url: contributor.avatar_url,
+                url: contributor.html_url,
+                commits_count: contributor.contributions,
+              };
+            })
+            .filter((c) => c.name !== "gitter-badger")
+            .filter((c) => c.name !== "snyk-bot")
+            .filter((c) => c.name !== "github-actions")
+            .filter((c) => c.name !== "dependabot[bot]"),
+          (c) => c.commits_count
+        ).reverse();
+      });
     } else {
       return [];
     }
@@ -64,80 +72,90 @@ function getCommits(repo, attempts) {
 }
 
 function getRepos() {
-
   const global = {};
 
   return new Promise((success) => {
     return fetch(`https://api.github.com/users/MAIF/repos`, {
-      method: 'GET',
+      method: "GET",
       headers: {
-        Accept: 'application/vnd.github+json',
-        Authorization: `Bearer ${GITHUB_TOKEN}`
-      }
-    }).then(r => {
-      console.log("status", r.status)
+        Accept: "application/vnd.github+json",
+        //        Authorization: `Bearer ${GITHUB_TOKEN}`,
+      },
+    }).then((r) => {
+      console.log("status", r.status);
       if (r.status === 200) {
-        return r.json().then(repositories => {
-          console.log(repositories)
+        return r.json().then((repositories) => {
+          console.log(repositories);
           const results = {};
           const tasks = [...repositories]
-            .filter(r => r.private === false)
-            .filter(r => r.fork === false)
-            .filter(r => filterOut.indexOf(r.name) === -1);
+            .filter((r) => r.private === false)
+            .filter((r) => r.fork === false)
+            .filter((r) => filterOut.indexOf(r.name) === -1);
 
           function next() {
             if (tasks.length === 0) {
-              console.log(Object.values(projectsPerUser).flat().length)
+              console.log(Object.values(projectsPerUser).flat().length);
               success({
                 projects: results,
-                contributors: Object.keys(global).map(k => global[k]).map(_user => {
-                  const user = { ..._user, projects: projectsPerUser[_user.name] };
-                  return user
-                }).reduce((prev, curr) => {
-                  prev[curr.name] = curr;
-                  return prev;
-                }, {}),
-                commits_per_contributor_sorted: _.sortBy(Object.keys(global).map(k => global[k]), c => c.commits_count).reverse().map(i => i.name),
-              })
+                contributors: Object.keys(global)
+                  .map((k) => global[k])
+                  .map((_user) => {
+                    const user = {
+                      ..._user,
+                      projects: projectsPerUser[_user.name],
+                    };
+                    return user;
+                  })
+                  .reduce((prev, curr) => {
+                    prev[curr.name] = curr;
+                    return prev;
+                  }, {}),
+                commits_per_contributor_sorted: _.sortBy(
+                  Object.keys(global).map((k) => global[k]),
+                  (c) => c.commits_count
+                )
+                  .reverse()
+                  .map((i) => i.name),
+              });
             } else {
               const task = tasks.pop();
-              getCommits(task.name, 10)
-                .then(commits => {
-                  results[task.name] = {
-                    name: task.name,
-                    url: task.html_url,
-                    description: task.description,
-                    homepage: task.homepage,
-                    pushed_at: task.pushed_at,
-                    contributors: commits.map(c => c.name),
-                    commits_count: commits.map(c => c.commits_count).reduce((a, b) => a + b, 0),
-                    commits_per_contributor: commits,
-                  };
-                  commits.map(commit => {
-                    const gcommit = global[commit.name];
-                    if (!gcommit) {
-                      global[commit.name] = { ...commit, commits_count: 0 };
-                    }
-                    global[commit.name].commits_count = global[commit.name].commits_count + commit.commits_count;
-                  })
-                  console.log(task.name);
-                  next();
+              getCommits(task.name, 10).then((commits) => {
+                results[task.name] = {
+                  name: task.name,
+                  url: task.html_url,
+                  description: task.description,
+                  homepage: task.homepage,
+                  pushed_at: task.pushed_at,
+                  contributors: commits.map((c) => c.name),
+                  commits_count: commits
+                    .map((c) => c.commits_count)
+                    .reduce((a, b) => a + b, 0),
+                  commits_per_contributor: commits,
+                };
+                commits.map((commit) => {
+                  const gcommit = global[commit.name];
+                  if (!gcommit) {
+                    global[commit.name] = { ...commit, commits_count: 0 };
+                  }
+                  global[commit.name].commits_count =
+                    global[commit.name].commits_count + commit.commits_count;
                 });
+                console.log(task.name);
+                next();
+              });
             }
           }
 
           next();
-        })
+        });
       } else {
-        console.log("not found repo")
+        console.log("not found repo");
         return [];
       }
     });
   });
-
-
 }
 
-getRepos().then(results => {
+getRepos().then((results) => {
   fs.writeFileSync(contributors_file, JSON.stringify(results, null, 2));
 });
