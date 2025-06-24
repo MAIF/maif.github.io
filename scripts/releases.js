@@ -1,24 +1,22 @@
 const fetch = require("node-fetch");
 const fs = require("fs-extra");
 const showdown = require("showdown");
-//const GITHUB_TOKEN = process.env.GITHUB_TOKEN || process.argv[2] || "secret";
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN || process.argv[2] || "secret";
 const output_file = "./social-data/releases.json";
 
 const converter = new showdown.Converter();
 
 function fetchReleases(repo) {
-  console.log(`https://api.github.com/repos/maif/${repo}/releases?per_page=20`);
-  return fetch(
-    `https://api.github.com/repos/maif/${repo}/releases?per_page=20`,
-    {
-      method: "GET",
-      headers: {
-        accept: "application/json",
-        //        authorization: `Bearer ${GITHUB_TOKEN}`,
-      },
-    }
-  )
+  console.log(`https://api.github.com/repos/maif/${repo}/releases?per_page=20`)
+  return fetch(`https://api.github.com/repos/maif/${repo}/releases?per_page=20`, {
+    method: "GET",
+    headers: {
+      accept: "application/json",
+      authorization: `Bearer ${GITHUB_TOKEN}`,
+    },
+  })
     .then((response) => {
+      //console.log(`https://api.github.com/repos/maif/${repo}/releases?per_page=20`, response.status)
       return response.json();
     })
     .then((releases) => {
@@ -37,7 +35,7 @@ function fetchReleases(repo) {
           project: repo,
           ...rest,
         }))
-        .filter(({ highlights, date }) => Boolean(highlights));
+        .filter(({ highlights, date }) => Boolean(highlights))
     });
 }
 
@@ -72,12 +70,5 @@ Promise.all(
     "meteole",
   ].map((name) => fetchReleases(name))
 ).then((bodies) =>
-  fs.writeFileSync(
-    output_file,
-    JSON.stringify(
-      bodies.flat().filter((r) => r),
-      null,
-      2
-    )
-  )
+  fs.writeFileSync(output_file, JSON.stringify(bodies.flat().filter(r => r), null, 2))
 );
