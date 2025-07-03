@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-06-30T14:14:11Z",
+      "pushed_at": "2025-07-02T12:15:55Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8942,
+      "commits_count": 8950,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6056
+          "commits_count": 6060
         },
         {
           "name": "Zwiterrion",
@@ -51,7 +51,7 @@
           "commits_count": 1349
         },
         {
-          "commits_count": 574
+          "commits_count": 578
         },
         {
           "name": "baudelotphilippe",
@@ -522,7 +522,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-07-01T00:11:52Z",
+      "pushed_at": "2025-07-02T00:10:12Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -541,10 +541,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12531,
+      "commits_count": 12532,
       "commits_per_contributor": [
         {
-          "commits_count": 12219
+          "commits_count": 12220
         },
         {
           "name": "baudelotphilippe",
@@ -1270,7 +1270,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6331,
+      "commits_count": 6335,
       "projects": [
         "otoroshi",
         "nio",
@@ -1296,7 +1296,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14312,
+      "commits_count": 14317,
       "projects": [
         "otoroshi",
         "otoroshi",
