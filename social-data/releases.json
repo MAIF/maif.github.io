@@ -96,6 +96,14 @@
     "url": "https://github.com/MAIF/shapash/releases/tag/v2.4.0"
   },
   {
+    "highlights": "<p>Fixes:</p>\n<ul>\n<li><code>kwargs</code> as an optional parameter (since v0.10.0) wasn't totally implemented: <em>dictionary of rules</em> was missing (#47 by @StephaneTy-Pro) by @develop-cs in https://github.com/MAIF/arta/pull/48.</li>\n</ul>",
+    "project": "arta",
+    "date": "2025-07-04T20:54:24Z",
+    "name": "0.10.2",
+    "zip": "https://api.github.com/repos/MAIF/arta/zipball/0.10.2",
+    "url": "https://github.com/MAIF/arta/releases/tag/0.10.2"
+  },
+  {
     "highlights": "<p>Fixes:</p>\n<ul>\n<li>Unintentional breaking change on the action function parameter <code>input_data</code> (now deprecated) by @develop-cs in https://github.com/MAIF/arta/pull/46</li>\n</ul>",
     "project": "arta",
     "date": "2025-04-14T08:14:15Z",
