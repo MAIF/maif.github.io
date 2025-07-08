@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-07-04T05:06:48Z",
+      "pushed_at": "2025-07-07T15:15:17Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -522,7 +522,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-07-06T00:11:22Z",
+      "pushed_at": "2025-07-07T00:11:08Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -541,10 +541,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12536,
+      "commits_count": 12537,
       "commits_per_contributor": [
         {
-          "commits_count": 12224
+          "commits_count": 12225
         },
         {
           "name": "baudelotphilippe",
@@ -912,7 +912,7 @@
       "url": "https://github.com/MAIF/functional-json",
       "description": "Parse and write json the functional way",
       "homepage": "",
-      "pushed_at": "2025-07-03T13:51:20Z",
+      "pushed_at": "2025-07-07T11:21:46Z",
       "contributors": [
         "larousso",
         "ade-maif",
@@ -926,13 +926,13 @@
         null,
         null
       ],
-      "commits_count": 101,
+      "commits_count": 102,
       "commits_per_contributor": [
         {
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
-          "commits_count": 46
+          "commits_count": 47
         },
         {
           "name": "ade-maif",
@@ -1296,7 +1296,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14322,
+      "commits_count": 14323,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1455,7 +1455,7 @@
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
       "url": "https://github.com/larousso",
-      "commits_count": 200,
+      "commits_count": 201,
       "projects": [
         "otoroshi",
         "nio",
