@@ -522,7 +522,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-07-08T12:30:13Z",
+      "pushed_at": "2025-07-08T12:36:56Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12540,
+      "commits_count": 12542,
       "commits_per_contributor": [
         {
-          "commits_count": 12226
+          "commits_count": 12227
         },
         {
           "name": "baudelotphilippe",
@@ -596,7 +596,7 @@
           "name": "Mcdostone",
           "avatar_url": "https://avatars.githubusercontent.com/u/6984659?v=4",
           "url": "https://github.com/Mcdostone",
-          "commits_count": 2
+          "commits_count": 3
         },
         {
           "name": "ThomasBouche",
@@ -1303,7 +1303,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14324,
+      "commits_count": 14325,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1749,7 +1749,7 @@
       "name": "Mcdostone",
       "avatar_url": "https://avatars.githubusercontent.com/u/6984659?v=4",
       "url": "https://github.com/Mcdostone",
-      "commits_count": 6,
+      "commits_count": 7,
       "projects": [
         "maif.github.io",
         "functional-json"
@@ -1974,11 +1974,11 @@
     "MathisNcl",
     "fedysalahserli",
     "Luc-Bonade",
+    "Mcdostone",
     "adam-benjellounSG",
     "VandvC",
     "githubyako",
     "MLecardonnel",
-    "Mcdostone",
     "FDJFDJ",
     "NP4567-dev",
     "SelligtomGit86",
