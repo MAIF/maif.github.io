@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-07-07T15:15:17Z",
+      "pushed_at": "2025-07-08T12:04:47Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8950,
+      "commits_count": 8952,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6060
+          "commits_count": 6062
         },
         {
           "name": "Zwiterrion",
@@ -522,7 +522,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-07-07T00:11:08Z",
+      "pushed_at": "2025-07-08T12:30:13Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -534,6 +534,7 @@
         null,
         null,
         null,
+        "Mcdostone",
         "ThomasBouche",
         null,
         "quentinovega",
@@ -541,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12537,
+      "commits_count": 12540,
       "commits_per_contributor": [
         {
-          "commits_count": 12225
+          "commits_count": 12226
         },
         {
           "name": "baudelotphilippe",
@@ -590,6 +591,12 @@
         },
         {
           "commits_count": 3
+        },
+        {
+          "name": "Mcdostone",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6984659?v=4",
+          "url": "https://github.com/Mcdostone",
+          "commits_count": 2
         },
         {
           "name": "ThomasBouche",
@@ -1270,7 +1277,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6335,
+      "commits_count": 6337,
       "projects": [
         "otoroshi",
         "nio",
@@ -1296,7 +1303,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14323,
+      "commits_count": 14324,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1738,6 +1745,16 @@
         "melusine"
       ]
     },
+    "Mcdostone": {
+      "name": "Mcdostone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6984659?v=4",
+      "url": "https://github.com/Mcdostone",
+      "commits_count": 6,
+      "projects": [
+        "maif.github.io",
+        "functional-json"
+      ]
+    },
     "pierrebruninmaif": {
       "name": "pierrebruninmaif",
       "avatar_url": "https://avatars.githubusercontent.com/u/26602186?v=4",
@@ -1821,15 +1838,6 @@
       "commits_count": 1,
       "projects": [
         "izanami"
-      ]
-    },
-    "Mcdostone": {
-      "name": "Mcdostone",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6984659?v=4",
-      "url": "https://github.com/Mcdostone",
-      "commits_count": 4,
-      "projects": [
-        "functional-json"
       ]
     },
     "mbaechler": {
@@ -1970,11 +1978,11 @@
     "VandvC",
     "githubyako",
     "MLecardonnel",
+    "Mcdostone",
     "FDJFDJ",
     "NP4567-dev",
     "SelligtomGit86",
     "omahs",
-    "Mcdostone",
     "AntoineSimoulin",
     "ffremont",
     "sebprunierserli",
