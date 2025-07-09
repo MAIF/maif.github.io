@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-07-08T12:04:47Z",
+      "pushed_at": "2025-07-08T14:45:01Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8952,
+      "commits_count": 8954,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6062
+          "commits_count": 6064
         },
         {
           "name": "Zwiterrion",
@@ -522,7 +522,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-07-08T13:00:56Z",
+      "pushed_at": "2025-07-08T13:06:51Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12540,
+      "commits_count": 12544,
       "commits_per_contributor": [
         {
-          "commits_count": 12226
+          "commits_count": 12229
         },
         {
           "name": "baudelotphilippe",
@@ -596,7 +596,7 @@
           "name": "Mcdostone",
           "avatar_url": "https://avatars.githubusercontent.com/u/6984659?v=4",
           "url": "https://github.com/Mcdostone",
-          "commits_count": 2
+          "commits_count": 3
         },
         {
           "name": "ThomasBouche",
@@ -1277,7 +1277,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6337,
+      "commits_count": 6339,
       "projects": [
         "otoroshi",
         "nio",
@@ -1303,7 +1303,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14324,
+      "commits_count": 14327,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1749,7 +1749,7 @@
       "name": "Mcdostone",
       "avatar_url": "https://avatars.githubusercontent.com/u/6984659?v=4",
       "url": "https://github.com/Mcdostone",
-      "commits_count": 6,
+      "commits_count": 7,
       "projects": [
         "maif.github.io",
         "functional-json"
@@ -1974,11 +1974,11 @@
     "MathisNcl",
     "fedysalahserli",
     "Luc-Bonade",
+    "Mcdostone",
     "adam-benjellounSG",
     "VandvC",
     "githubyako",
     "MLecardonnel",
-    "Mcdostone",
     "FDJFDJ",
     "NP4567-dev",
     "SelligtomGit86",
