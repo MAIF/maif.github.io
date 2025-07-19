@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-07-15T11:20:50Z",
+      "pushed_at": "2025-07-18T09:41:49Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -22,9 +22,9 @@
         null,
         "omahs",
         "SelligtomGit86",
+        "sebprunierserli",
         "larousso",
         null,
-        "sebprunierserli",
         "quentinproust",
         null,
         null,
@@ -36,13 +36,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 8970,
+      "commits_count": 8972,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6071
+          "commits_count": 6072
         },
         {
           "name": "Zwiterrion",
@@ -114,18 +114,18 @@
           "commits_count": 5
         },
         {
+          "name": "sebprunierserli",
+          "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
+          "url": "https://github.com/sebprunierserli",
+          "commits_count": 4
+        },
+        {
           "name": "larousso",
           "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
           "url": "https://github.com/larousso",
           "commits_count": 3
         },
         {
-          "commits_count": 3
-        },
-        {
-          "name": "sebprunierserli",
-          "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
-          "url": "https://github.com/sebprunierserli",
           "commits_count": 3
         },
         {
@@ -522,7 +522,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-07-17T00:10:37Z",
+      "pushed_at": "2025-07-18T00:10:22Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12553,
+      "commits_count": 12554,
       "commits_per_contributor": [
         {
-          "commits_count": 12238
+          "commits_count": 12239
         },
         {
           "name": "baudelotphilippe",
@@ -763,7 +763,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-07-17T15:13:45Z",
+      "pushed_at": "2025-07-18T23:30:06Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1277,7 +1277,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6346,
+      "commits_count": 6347,
       "projects": [
         "otoroshi",
         "nio",
@@ -1303,7 +1303,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14343,
+      "commits_count": 14344,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1458,6 +1458,15 @@
         "otoroshi"
       ]
     },
+    "sebprunierserli": {
+      "name": "sebprunierserli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
+      "url": "https://github.com/sebprunierserli",
+      "commits_count": 4,
+      "projects": [
+        "otoroshi"
+      ]
+    },
     "larousso": {
       "name": "larousso",
       "avatar_url": "https://avatars.githubusercontent.com/u/1575521?v=4",
@@ -1470,15 +1479,6 @@
         "jooq-async",
         "functional-validation",
         "functional-json"
-      ]
-    },
-    "sebprunierserli": {
-      "name": "sebprunierserli",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
-      "url": "https://github.com/sebprunierserli",
-      "commits_count": 3,
-      "projects": [
-        "otoroshi"
       ]
     },
     "quentinproust": {
@@ -1983,9 +1983,9 @@
     "NP4567-dev",
     "SelligtomGit86",
     "omahs",
+    "sebprunierserli",
     "AntoineSimoulin",
     "ffremont",
-    "sebprunierserli",
     "SebastienBidault",
     "mbaechler",
     "Izanami",
