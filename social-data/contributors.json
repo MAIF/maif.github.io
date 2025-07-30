@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-07-28T12:26:38Z",
+      "pushed_at": "2025-07-29T12:59:40Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -522,7 +522,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-07-28T00:11:36Z",
+      "pushed_at": "2025-07-29T00:11:52Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12564,
+      "commits_count": 12565,
       "commits_per_contributor": [
         {
-          "commits_count": 12249
+          "commits_count": 12250
         },
         {
           "name": "baudelotphilippe",
@@ -763,7 +763,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-07-26T22:44:33Z",
+      "pushed_at": "2025-07-29T13:35:43Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1052,7 +1052,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2025-07-28T13:56:20Z",
+      "pushed_at": "2025-07-29T15:01:32Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1067,13 +1067,13 @@
         "ptitFicus",
         null
       ],
-      "commits_count": 3162,
+      "commits_count": 3164,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1618
+          "commits_count": 1620
         },
         {
           "name": "Zwiterrion",
@@ -1303,7 +1303,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14368,
+      "commits_count": 14369,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1391,7 +1391,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1725,
+      "commits_count": 1727,
       "projects": [
         "otoroshi",
         "nio",
