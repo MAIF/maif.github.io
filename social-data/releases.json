@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<p>🔐 allow deducing rights from external authentication provider data</p>\n<p>🔑 default rights for projects, keys and webhooks</p>\n<p>📝 add \"concept\" doc page explaining rights</p>",
+    "project": "izanami",
+    "date": "2025-08-02T23:07:48Z",
+    "name": "v2.11.0",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.11.0",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.11.0"
+  },
+  {
     "highlights": "<p>✅ allow toggling feature state directly from feature row</p>\n<p>🔐 add \"update\" right for project : users will only be able to update features, not to create or delete features</p>\n<p>📋 replace password confirmation by input confirmation</p>\n<p>🩹 preserve line jumps in textual feature flags</p>",
     "project": "izanami",
     "date": "2025-06-23T23:07:48Z",
