@@ -88,6 +88,14 @@
     "url": "https://github.com/MAIF/wasmo/releases/tag/1.0.15"
   },
   {
+    "highlights": "<ul>\n<li>Move to tracing crate</li>\n<li>UX improvements regarding the selected topics</li>\n<li>messages in <code>__consumer_offsets</code> can be parsed</li>\n<li>Update dependencies</li>\n</ul>",
+    "project": "yozefu",
+    "date": "2025-08-04T12:19:44Z",
+    "name": "v0.0.12",
+    "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.12",
+    "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.12"
+  },
+  {
     "highlights": "<ul>\n<li>Rework of the TUI to make it more concise.</li>\n<li>Add a new information <code>published at</code> in the record details component.</li>\n<li>Disable any IO interactions for the wasm search filters.</li>\n<li>Update dependencies</li>\n</ul>",
     "project": "yozefu",
     "date": "2025-07-08T11:48:57Z",
