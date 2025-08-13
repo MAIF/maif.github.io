@@ -522,7 +522,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-08-11T00:11:26Z",
+      "pushed_at": "2025-08-12T00:10:00Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12578,
+      "commits_count": 12579,
       "commits_per_contributor": [
         {
-          "commits_count": 12263
+          "commits_count": 12264
         },
         {
           "name": "baudelotphilippe",
@@ -740,21 +740,21 @@
       "url": "https://github.com/MAIF/izanami-java-client",
       "description": "Java Client for Izanami V2",
       "homepage": null,
-      "pushed_at": "2025-08-10T13:37:30Z",
+      "pushed_at": "2025-08-12T23:40:32Z",
       "contributors": [
-        "ptitFicus",
-        null
+        null,
+        "ptitFicus"
       ],
-      "commits_count": 16,
+      "commits_count": 27,
       "commits_per_contributor": [
+        {
+          "commits_count": 14
+        },
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 8
-        },
-        {
-          "commits_count": 8
+          "commits_count": 13
         }
       ]
     },
@@ -1303,7 +1303,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14398,
+      "commits_count": 14405,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1403,7 +1403,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 340,
+      "commits_count": 345,
       "projects": [
         "otoroshi",
         "maif.github.io",
