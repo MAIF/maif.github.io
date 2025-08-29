@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-08-27T18:48:46Z",
+      "pushed_at": "2025-08-28T14:34:16Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,7 +36,7 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 9084,
+      "commits_count": 9087,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -48,7 +48,7 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1423
+          "commits_count": 1426
         },
         {
           "commits_count": 582
@@ -287,7 +287,7 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-06-05T12:25:41Z",
+      "pushed_at": "2025-08-28T09:19:33Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
@@ -297,7 +297,7 @@
         null,
         null
       ],
-      "commits_count": 118,
+      "commits_count": 126,
       "commits_per_contributor": [
         {
           "name": "GratienDSX",
@@ -309,7 +309,7 @@
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 30
+          "commits_count": 38
         },
         {
           "name": "develop-cs",
@@ -522,7 +522,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-08-27T00:09:51Z",
+      "pushed_at": "2025-08-28T00:09:36Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12594,
+      "commits_count": 12595,
       "commits_per_contributor": [
         {
-          "commits_count": 12279
+          "commits_count": 12280
         },
         {
           "name": "baudelotphilippe",
@@ -1225,7 +1225,7 @@
       "url": "https://github.com/MAIF/arta",
       "description": "A Python Rules Engine - Make rule handling simple",
       "homepage": "https://maif.github.io/arta/home",
-      "pushed_at": "2025-07-22T08:28:04Z",
+      "pushed_at": "2025-08-28T07:55:03Z",
       "contributors": [
         "develop-cs",
         "roman2git",
@@ -1291,7 +1291,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 2117,
+      "commits_count": 2120,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1303,7 +1303,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14442,
+      "commits_count": 14443,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1581,7 +1581,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 91,
+      "commits_count": 99,
       "projects": [
         "meteole",
         "maif.github.io",
@@ -1950,9 +1950,9 @@
     "larousso",
     "hugo-quantmetry",
     "HugoPerrier",
+    "ThomasBouche",
     "helakaraa",
     "TFA-MAIF",
-    "ThomasBouche",
     "Btxgear",
     "GratienDSX",
     "tstringerquantmetry",
