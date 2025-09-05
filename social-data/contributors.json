@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-09-03T15:39:58Z",
+      "pushed_at": "2025-09-04T13:41:06Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,7 +36,7 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 9115,
+      "commits_count": 9120,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -48,10 +48,10 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1432
+          "commits_count": 1435
         },
         {
-          "commits_count": 583
+          "commits_count": 585
         },
         {
           "name": "baudelotphilippe",
@@ -522,7 +522,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-09-03T00:08:48Z",
+      "pushed_at": "2025-09-04T00:08:53Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -542,10 +542,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12601,
+      "commits_count": 12602,
       "commits_per_contributor": [
         {
-          "commits_count": 12286
+          "commits_count": 12287
         },
         {
           "name": "baudelotphilippe",
@@ -1291,7 +1291,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 2126,
+      "commits_count": 2129,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1303,7 +1303,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14464,
+      "commits_count": 14467,
       "projects": [
         "otoroshi",
         "otoroshi",

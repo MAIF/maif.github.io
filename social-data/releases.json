@@ -88,6 +88,14 @@
     "url": "https://github.com/MAIF/wasmo/releases/tag/1.0.15"
   },
   {
+    "highlights": "<ul>\n<li>Usage of syntect for syntax highlighting by @Mcdostone in https://github.com/MAIF/yozefu/pull/110</li>\n<li>Update dependencies</li>\n</ul>",
+    "project": "yozefu",
+    "date": "2025-09-04T13:51:53Z",
+    "name": "v0.0.15",
+    "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.15",
+    "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.15"
+  },
+  {
     "highlights": "<ul>\n<li>Rust compilations flags added to each crate due to tokio.</li>\n<li>Typos in the help</li>\n<li>Updated dependencies</li>\n</ul>",
     "project": "yozefu",
     "date": "2025-08-27T12:56:16Z",
