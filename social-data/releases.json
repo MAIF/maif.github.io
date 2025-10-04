@@ -128,6 +128,38 @@
     "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.11"
   },
   {
+    "highlights": "<p>This release brings important fixes to enhance both the visualization capabilities and the stability of the Shapash package.</p>\n<ul>\n<li><p><strong>Plot Title Overlap Fix</strong>: We have resolved an issue where the plot titles were incorrectly positioned, leading to overlaps with the graph when users specified different figure heights.</p></li>\n<li><p><strong>Fix for Shortened Label Duplication</strong>: In cases where long feature names were programmatically shortened for better visualization, duplicate labels could lead to missing lines in the correlation matrix.</p></li>\n<li><p><strong>Restoration of Missing Files in Shapash Package</strong>: Several important files such as <code>*.ipynb</code>, <code>*.html</code>, and <code>*.j2</code> were missing in previous package versions, causing issues and preventing the generation of reports. These files are now properly included, restoring full functionality to the package.</p></li>\n</ul>",
+    "project": "shapash",
+    "date": "2024-10-24T09:36:10Z",
+    "name": "v2.7.3 - Bug Fix Release",
+    "zip": "https://api.github.com/repos/MAIF/shapash/zipball/v2.7.3",
+    "url": "https://github.com/MAIF/shapash/releases/tag/v2.7.3"
+  },
+  {
+    "highlights": "<p>This release focuses on bug fixes to improve stability and functionality:</p>\n<ul>\n<li><strong>Fixed default color in Local explanation plot</strong>: Resolved an issue where the default colors in the local explanation plot were incorrect.</li>\n<li><strong>Improved pagination for large feature sets</strong>: Addressed a bug where pagination would not work properly.</li>\n<li><strong>Restored Shapash icon in the webapp</strong>: Replaced the unintended dash icon with the correct Shapash icon in the web application.</li>\n<li><strong>Removed unnecessary dataframe print in <code>plot_scatter_prediction.py</code></strong>: Eliminated unintended dataframe printing, which improves clarity in scatter plot generation.</li>\n</ul>",
+    "project": "shapash",
+    "date": "2024-10-17T13:52:56Z",
+    "name": " v2.7.2 - Bug Fix Release ",
+    "zip": "https://api.github.com/repos/MAIF/shapash/zipball/v2.7.2",
+    "url": "https://github.com/MAIF/shapash/releases/tag/v2.7.2"
+  },
+  {
+    "highlights": "<p>Major fix in this release:</p>\n<ul>\n<li><strong>Packaging Fix:</strong> Resolved a critical issue in <code>pyproject.toml</code> that caused <code>shapash</code> to fail importing after installation. The module now installs and loads correctly in all environments, including Conda and Python 3.10 setups.</li>\n</ul>",
+    "project": "shapash",
+    "date": "2024-10-11T08:50:59Z",
+    "name": "v2.7.1 - Bug Fix Release",
+    "zip": "https://api.github.com/repos/MAIF/shapash/zipball/v2.7.1",
+    "url": "https://github.com/MAIF/shapash/releases/tag/v2.7.1"
+  },
+  {
+    "highlights": "<p>Major features and improvements in this release are:</p>\n<ul>\n<li><strong>Feature Importance Pagination:</strong> Navigate through feature importance results across multiple pages, enabling deeper exploration of models with many features.</li>\n<li><strong>Subpopulation-based Feature Importance Plots:</strong> New visualizations to analyze feature importance divergence across subpopulations and track importance variation across the dataset.</li>\n<li><strong>SmartPlotter Refactoring:</strong> Modularized plotting system for easier maintenance and future feature additions.</li>\n<li><strong>Flask Constraint Removal:</strong> Shapash now supports the latest Flask versions, improving compatibility and performance.</li>\n</ul>",
+    "project": "shapash",
+    "date": "2024-10-10T11:57:22Z",
+    "name": "v2.7.0",
+    "zip": "https://api.github.com/repos/MAIF/shapash/zipball/v2.7.0",
+    "url": "https://github.com/MAIF/shapash/releases/tag/v2.7.0"
+  },
+  {
     "highlights": "<p>Major features announcements in this release are:</p>\n<ul>\n<li>Contribution Plot Improvement: Enhanced the contribution plot to provide more insightful visualizations.</li>\n<li>Shapash Report Enhancement: Upgraded the Shapash report with new functionalities and optimizations.</li>\n</ul>",
     "project": "shapash",
     "date": "2024-07-04T10:10:33Z",
