@@ -529,7 +529,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-10-10T00:10:01Z",
+      "pushed_at": "2025-10-11T00:09:04Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -549,10 +549,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12638,
+      "commits_count": 12639,
       "commits_per_contributor": [
         {
-          "commits_count": 12323
+          "commits_count": 12324
         },
         {
           "name": "baudelotphilippe",
@@ -1232,7 +1232,7 @@
       "url": "https://github.com/MAIF/arta",
       "description": "A Python Rules Engine - Make rule handling simple",
       "homepage": "https://maif.github.io/arta/home",
-      "pushed_at": "2025-10-10T15:11:15Z",
+      "pushed_at": "2025-10-11T07:09:01Z",
       "contributors": [
         "develop-cs",
         "roman2git",
@@ -1241,13 +1241,13 @@
         "HugoPerrier",
         null
       ],
-      "commits_count": 31,
+      "commits_count": 32,
       "commits_per_contributor": [
         {
           "name": "develop-cs",
           "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
           "url": "https://github.com/develop-cs",
-          "commits_count": 26
+          "commits_count": 27
         },
         {
           "name": "roman2git",
@@ -1310,7 +1310,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14542,
+      "commits_count": 14543,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1608,7 +1608,7 @@
       "name": "develop-cs",
       "avatar_url": "https://avatars.githubusercontent.com/u/43383361?v=4",
       "url": "https://github.com/develop-cs",
-      "commits_count": 42,
+      "commits_count": 43,
       "projects": [
         "meteole",
         "maif.github.io",

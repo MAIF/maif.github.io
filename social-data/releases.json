@@ -184,6 +184,14 @@
     "url": "https://github.com/MAIF/shapash/releases/tag/v2.4.0"
   },
   {
+    "highlights": "<p>Features:</p>\n<ul>\n<li>Add some logs by @develop-cs in https://github.com/MAIF/arta/pull/55</li>\n</ul>\n<p>Maintenance:</p>\n<ul>\n<li>Use <a href=\"https://docs.astral.sh/uv/\">uv</a> in ci/cd (<code>uv.lock</code> voluntarily in <code>.gitignore</code>) by @develop-cs in https://github.com/MAIF/arta/pull/51</li>\n</ul>",
+    "project": "arta",
+    "date": "2025-10-11T07:19:21Z",
+    "name": "0.11.0",
+    "zip": "https://api.github.com/repos/MAIF/arta/zipball/0.11.0",
+    "url": "https://github.com/MAIF/arta/releases/tag/0.11.0"
+  },
+  {
     "highlights": "<p>Fixes:</p>\n<ul>\n<li>User extra arguments in <code>.apply_rules()</code> were not given to action and condition function implementations (#49 by @heandr) by @develop-cs in https://github.com/MAIF/arta/pull/50</li>\n</ul>\n<p>Documentation:</p>\n<ul>\n<li>Improve <a href=\"https://maif.github.io/arta/value_sharing/\">value sharing</a> page.</li>\n</ul>",
     "project": "arta",
     "date": "2025-07-22T08:40:29Z",
