@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-10-14T14:11:00Z",
+      "pushed_at": "2025-10-15T20:28:53Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,19 +36,19 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 9316,
+      "commits_count": 9331,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6165
+          "commits_count": 6175
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1559
+          "commits_count": 1564
         },
         {
           "commits_count": 586
@@ -529,7 +529,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-10-14T00:09:30Z",
+      "pushed_at": "2025-10-15T00:09:51Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -549,10 +549,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12642,
+      "commits_count": 12643,
       "commits_per_contributor": [
         {
-          "commits_count": 12327
+          "commits_count": 12328
         },
         {
           "name": "baudelotphilippe",
@@ -1284,7 +1284,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6441,
+      "commits_count": 6451,
       "projects": [
         "otoroshi",
         "nio",
@@ -1298,7 +1298,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 2253,
+      "commits_count": 2258,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1310,7 +1310,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14551,
+      "commits_count": 14552,
       "projects": [
         "otoroshi",
         "otoroshi",

@@ -80,6 +80,14 @@
     "url": "https://github.com/MAIF/wasmo/releases/tag/1.0.15"
   },
   {
+    "highlights": "<ul>\n<li>Some refactoring thanks to clippy <code>pedantic</code></li>\n<li>Update dependencies</li>\n</ul>",
+    "project": "yozefu",
+    "date": "2025-10-15T08:11:57Z",
+    "name": "v0.0.17",
+    "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.17",
+    "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.17"
+  },
+  {
     "highlights": "<ul>\n<li><p>The default kafka consumer configuration is taken into account when you create a kafka consumer.</p></li>\n<li><p>Update dependencies</p></li>\n</ul>",
     "project": "yozefu",
     "date": "2025-09-17T14:23:22Z",
