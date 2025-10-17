@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-10-15T20:28:53Z",
+      "pushed_at": "2025-10-16T20:48:16Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 9331,
+      "commits_count": 9333,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6175
+          "commits_count": 6177
         },
         {
           "name": "Zwiterrion",
@@ -529,7 +529,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-10-15T00:09:51Z",
+      "pushed_at": "2025-10-16T00:09:50Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -549,10 +549,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12643,
+      "commits_count": 12644,
       "commits_per_contributor": [
         {
-          "commits_count": 12328
+          "commits_count": 12329
         },
         {
           "name": "baudelotphilippe",
@@ -1059,7 +1059,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2025-10-14T13:00:54Z",
+      "pushed_at": "2025-10-16T14:59:09Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1284,7 +1284,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6451,
+      "commits_count": 6453,
       "projects": [
         "otoroshi",
         "nio",
@@ -1310,7 +1310,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14552,
+      "commits_count": 14553,
       "projects": [
         "otoroshi",
         "otoroshi",
