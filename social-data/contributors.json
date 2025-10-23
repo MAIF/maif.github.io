@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-10-21T15:29:16Z",
+      "pushed_at": "2025-10-22T15:03:31Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -19,10 +19,10 @@
         null,
         null,
         "fedysalahserli",
-        null,
-        "omahs",
-        "SelligtomGit86",
         "sebprunierserli",
+        null,
+        "SelligtomGit86",
+        "omahs",
         "larousso",
         null,
         "quentinproust",
@@ -36,13 +36,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 9341,
+      "commits_count": 9368,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6184
+          "commits_count": 6206
         },
         {
           "name": "Zwiterrion",
@@ -99,13 +99,13 @@
           "commits_count": 9
         },
         {
-          "commits_count": 6
+          "name": "sebprunierserli",
+          "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
+          "url": "https://github.com/sebprunierserli",
+          "commits_count": 9
         },
         {
-          "name": "omahs",
-          "avatar_url": "https://avatars.githubusercontent.com/u/73983677?v=4",
-          "url": "https://github.com/omahs",
-          "commits_count": 5
+          "commits_count": 6
         },
         {
           "name": "SelligtomGit86",
@@ -114,10 +114,10 @@
           "commits_count": 5
         },
         {
-          "name": "sebprunierserli",
-          "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
-          "url": "https://github.com/sebprunierserli",
-          "commits_count": 4
+          "name": "omahs",
+          "avatar_url": "https://avatars.githubusercontent.com/u/73983677?v=4",
+          "url": "https://github.com/omahs",
+          "commits_count": 5
         },
         {
           "name": "larousso",
@@ -529,7 +529,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-10-21T00:10:00Z",
+      "pushed_at": "2025-10-22T00:10:13Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -549,10 +549,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12649,
+      "commits_count": 12650,
       "commits_per_contributor": [
         {
-          "commits_count": 12334
+          "commits_count": 12335
         },
         {
           "name": "baudelotphilippe",
@@ -1059,7 +1059,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2025-10-20T21:06:44Z",
+      "pushed_at": "2025-10-22T13:14:07Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1074,13 +1074,13 @@
         "ptitFicus",
         null
       ],
-      "commits_count": 3225,
+      "commits_count": 3227,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1656
+          "commits_count": 1657
         },
         {
           "name": "Zwiterrion",
@@ -1089,7 +1089,7 @@
           "commits_count": 597
         },
         {
-          "commits_count": 547
+          "commits_count": 548
         },
         {
           "name": "baudelotphilippe",
@@ -1284,7 +1284,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6460,
+      "commits_count": 6482,
       "projects": [
         "otoroshi",
         "nio",
@@ -1310,7 +1310,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14558,
+      "commits_count": 14560,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1398,7 +1398,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1763,
+      "commits_count": 1764,
       "projects": [
         "otoroshi",
         "nio",
@@ -1447,11 +1447,11 @@
         "otoroshi"
       ]
     },
-    "omahs": {
-      "name": "omahs",
-      "avatar_url": "https://avatars.githubusercontent.com/u/73983677?v=4",
-      "url": "https://github.com/omahs",
-      "commits_count": 5,
+    "sebprunierserli": {
+      "name": "sebprunierserli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
+      "url": "https://github.com/sebprunierserli",
+      "commits_count": 9,
       "projects": [
         "otoroshi"
       ]
@@ -1465,11 +1465,11 @@
         "otoroshi"
       ]
     },
-    "sebprunierserli": {
-      "name": "sebprunierserli",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
-      "url": "https://github.com/sebprunierserli",
-      "commits_count": 4,
+    "omahs": {
+      "name": "omahs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73983677?v=4",
+      "url": "https://github.com/omahs",
+      "commits_count": 5,
       "projects": [
         "otoroshi"
       ]
@@ -1989,6 +1989,7 @@
     "guillaumesolderaserli",
     "armgilles",
     "MathisNcl",
+    "sebprunierserli",
     "fedysalahserli",
     "Luc-Bonade",
     "Mcdostone",
@@ -1998,9 +1999,8 @@
     "MLecardonnel",
     "FDJFDJ",
     "NP4567-dev",
-    "SelligtomGit86",
     "omahs",
-    "sebprunierserli",
+    "SelligtomGit86",
     "AntoineSimoulin",
     "ffremont",
     "SebastienBidault",
