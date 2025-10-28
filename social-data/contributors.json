@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-10-23T13:23:17Z",
+      "pushed_at": "2025-10-27T15:54:22Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -287,7 +287,7 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2025-10-01T17:25:59Z",
+      "pushed_at": "2025-10-27T14:53:04Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
@@ -298,7 +298,7 @@
         null,
         null
       ],
-      "commits_count": 146,
+      "commits_count": 151,
       "commits_per_contributor": [
         {
           "name": "GratienDSX",
@@ -310,7 +310,7 @@
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 42
+          "commits_count": 47
         },
         {
           "name": "mattchdt",
@@ -529,7 +529,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-10-26T00:10:38Z",
+      "pushed_at": "2025-10-27T00:10:35Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -549,10 +549,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12654,
+      "commits_count": 12655,
       "commits_per_contributor": [
         {
-          "commits_count": 12339
+          "commits_count": 12340
         },
         {
           "name": "baudelotphilippe",
@@ -1310,7 +1310,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14568,
+      "commits_count": 14569,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1588,7 +1588,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 103,
+      "commits_count": 108,
       "projects": [
         "meteole",
         "maif.github.io",
