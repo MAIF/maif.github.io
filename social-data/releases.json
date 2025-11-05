@@ -72,6 +72,14 @@
     "url": "https://github.com/MAIF/wasmo/releases/tag/1.0.15"
   },
   {
+    "highlights": "<ul>\n<li>Show the configuration in the help dialog</li>\n<li>Update dependencies</li>\n</ul>",
+    "project": "yozefu",
+    "date": "2025-11-04T14:17:19Z",
+    "name": "v0.0.18",
+    "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.18",
+    "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.18"
+  },
+  {
     "highlights": "<ul>\n<li>Some refactoring thanks to clippy <code>pedantic</code></li>\n<li>Update dependencies</li>\n</ul>",
     "project": "yozefu",
     "date": "2025-10-15T08:11:57Z",
