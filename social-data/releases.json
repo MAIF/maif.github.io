@@ -192,6 +192,14 @@
     "url": "https://github.com/MAIF/shapash/releases/tag/v2.4.0"
   },
   {
+    "highlights": "<p>Fixes:</p>\n<ul>\n<li>Remove some false positive error logs by @develop-cs in https://github.com/MAIF/arta/pull/57</li>\n</ul>\n<p>Maintenance:</p>\n<ul>\n<li>Python 3.14 support.</li>\n</ul>",
+    "project": "arta",
+    "date": "2025-11-10T15:09:14Z",
+    "name": "0.11.1",
+    "zip": "https://api.github.com/repos/MAIF/arta/zipball/0.11.1",
+    "url": "https://github.com/MAIF/arta/releases/tag/0.11.1"
+  },
+  {
     "highlights": "<p>Features:</p>\n<ul>\n<li>Add some logs by @develop-cs in https://github.com/MAIF/arta/pull/55</li>\n</ul>\n<p>Maintenance:</p>\n<ul>\n<li>Use <a href=\"https://docs.astral.sh/uv/\">uv</a> in ci/cd (<code>uv.lock</code> voluntarily in <code>.gitignore</code>) by @develop-cs in https://github.com/MAIF/arta/pull/51</li>\n</ul>",
     "project": "arta",
     "date": "2025-10-11T07:19:21Z",
