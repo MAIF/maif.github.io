@@ -72,6 +72,14 @@
     "url": "https://github.com/MAIF/wasmo/releases/tag/1.0.15"
   },
   {
+    "highlights": "<ul>\n<li>Topic config is now available in the details view.</li>\n<li>Removed some default features for a better windows support.</li>\n</ul>",
+    "project": "yozefu",
+    "date": "2025-11-24T12:00:52Z",
+    "name": "v0.0.21",
+    "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.21",
+    "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.21"
+  },
+  {
     "highlights": "<ul>\n<li>Scrolling with <code>J</code> and <code>K</code> were inverted #174 </li>\n<li>Update Dependencies</li>\n</ul>",
     "project": "yozefu",
     "date": "2025-11-21T16:49:36Z",
