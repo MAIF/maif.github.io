@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-11-28T16:10:31Z",
+      "pushed_at": "2025-11-30T21:21:59Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,7 +36,7 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 9543,
+      "commits_count": 9554,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -60,7 +60,7 @@
           "commits_count": 480
         },
         {
-          "commits_count": 320
+          "commits_count": 331
         },
         {
           "name": "quentinovega",
@@ -533,7 +533,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-11-29T00:09:44Z",
+      "pushed_at": "2025-11-30T00:11:44Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -553,10 +553,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12689,
+      "commits_count": 12690,
       "commits_per_contributor": [
         {
-          "commits_count": 12373
+          "commits_count": 12374
         },
         {
           "name": "baudelotphilippe",
@@ -774,7 +774,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-11-29T23:44:23Z",
+      "pushed_at": "2025-11-30T14:43:47Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1321,7 +1321,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14655,
+      "commits_count": 14667,
       "projects": [
         "otoroshi",
         "otoroshi",
