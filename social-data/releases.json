@@ -72,6 +72,14 @@
     "url": "https://github.com/MAIF/wasmo/releases/tag/1.0.15"
   },
   {
+    "highlights": "<ul>\n<li>You can change the way the timestamp is displayed with the T key.</li>\n<li>You can resize the columns width with the arrows ↔</li>\n<li>Update dependencies</li>\n</ul>",
+    "project": "yozefu",
+    "date": "2025-12-01T12:48:14Z",
+    "name": "v0.0.22",
+    "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.22",
+    "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.22"
+  },
+  {
     "highlights": "<ul>\n<li>Topic config is now available in the details view.</li>\n<li>Removed some default features for a better windows support.</li>\n</ul>",
     "project": "yozefu",
     "date": "2025-11-24T12:00:52Z",
