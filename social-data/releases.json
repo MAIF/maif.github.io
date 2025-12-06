@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<p>🛡Allow duplicating old strategy while impacting indirectly protected contexts</p>\n<p>🌉 Open feature delete, project delete, key delete and tenant creation to personnal access token</p>",
+    "project": "izanami",
+    "date": "2025-12-06T00:01:32Z",
+    "name": "v2.14.0",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.14.0",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.14.0"
+  },
+  {
     "highlights": "<p>🫣 Hide mailer &amp; oidc secrets in UI</p>\n<p>⬆ Scala3 &amp; play3 migration</p>",
     "project": "izanami",
     "date": "2025-10-02T10:05:46Z",
@@ -54,14 +62,6 @@
     "name": "v2.8.0",
     "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.8.0",
     "url": "https://github.com/MAIF/izanami/releases/tag/v2.8.0"
-  },
-  {
-    "highlights": "<p>🪡 Allow specifying ID for new features</p>\n<p>🧳 Standalone docker image for testing / demo</p>",
-    "project": "izanami",
-    "date": "2025-01-06T22:59:07Z",
-    "name": "v2.7.1",
-    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.7.1",
-    "url": "https://github.com/MAIF/izanami/releases/tag/v2.7.1"
   },
   {
     "highlights": "<p><strong>Added Features</strong></p>\n<ul>\n<li>Support for Wss Protocol: with the added support for the Wss protocol, the user interface now has the capability to communicate seamlessly with a Wasmo instance deployed using HTTPS</li>\n<li>Exposing Wasmo Behind Proxy: Specify baseURL to expose Wasmo behind a proxy effortlessly.</li>\n<li>New Plugin Creation via CLI: Start a new plugin directly using the CLI, with Izanami and Otoroshi templates available for quick setup.</li>\n<li>Upgrade all Extism PDK Versions: Stay up-to-date with upgraded Extism PDK versions for improved performance and compatibility.</li>\n</ul>",
