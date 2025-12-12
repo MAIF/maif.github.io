@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-12-10T08:41:22Z",
+      "pushed_at": "2025-12-11T19:07:14Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,19 +36,19 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 9629,
+      "commits_count": 9636,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6298
+          "commits_count": 6299
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1671
+          "commits_count": 1677
         },
         {
           "commits_count": 589
@@ -533,7 +533,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-12-10T00:10:27Z",
+      "pushed_at": "2025-12-11T00:10:40Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -553,10 +553,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12700,
+      "commits_count": 12701,
       "commits_per_contributor": [
         {
-          "commits_count": 12384
+          "commits_count": 12385
         },
         {
           "name": "baudelotphilippe",
@@ -774,7 +774,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2025-12-09T15:56:46Z",
+      "pushed_at": "2025-12-11T13:50:38Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -788,16 +788,16 @@
         "Zwiterrion",
         "super7ramp"
       ],
-      "commits_count": 613,
+      "commits_count": 617,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 331
+          "commits_count": 333
         },
         {
-          "commits_count": 145
+          "commits_count": 147
         },
         {
           "name": "baudelotphilippe",
@@ -1070,7 +1070,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2025-12-10T15:59:20Z",
+      "pushed_at": "2025-12-11T15:24:48Z",
       "contributors": [
         "quentinovega",
         "Zwiterrion",
@@ -1295,7 +1295,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6574,
+      "commits_count": 6575,
       "projects": [
         "otoroshi",
         "nio",
@@ -1309,7 +1309,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 2368,
+      "commits_count": 2374,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1321,7 +1321,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14733,
+      "commits_count": 14736,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1422,7 +1422,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 408,
+      "commits_count": 410,
       "projects": [
         "otoroshi",
         "maif.github.io",
