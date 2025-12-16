@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2025-12-12T16:14:26Z",
+      "pushed_at": "2025-12-15T15:02:50Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,19 +36,19 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 9644,
+      "commits_count": 9647,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6301
+          "commits_count": 6302
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1683
+          "commits_count": 1685
         },
         {
           "commits_count": 589
@@ -361,27 +361,26 @@
         null,
         "farthur",
         "milidris",
-        null,
+        "gbernard-d",
         null,
         "sachasamama",
         null,
-        "victorBigand",
         null,
+        "victorBigand",
         "MathisNcl",
         "VandvC",
         "adam-benjellounSG",
         "FDJFDJ",
-        null,
-        null,
         "NP4567-dev",
         null,
-        "desmfr",
         "AntoineSimoulin",
-        "baudelotphilippe",
+        "desmfr",
         null,
         null,
         null,
-        null
+        null,
+        null,
+        "baudelotphilippe"
       ],
       "commits_count": 793,
       "commits_per_contributor": [
@@ -434,15 +433,21 @@
           "commits_count": 21
         },
         {
+          "name": "gbernard-d",
+          "avatar_url": "https://avatars.githubusercontent.com/u/249701278?v=4",
+          "url": "https://github.com/gbernard-d",
           "commits_count": 14
         },
         {
-          "commits_count": 13
+          "commits_count": 14
         },
         {
           "name": "sachasamama",
           "avatar_url": "https://avatars.githubusercontent.com/u/19156316?v=4",
           "url": "https://github.com/sachasamama",
+          "commits_count": 13
+        },
+        {
           "commits_count": 13
         },
         {
@@ -453,9 +458,6 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/45855502?v=4",
           "url": "https://github.com/victorBigand",
           "commits_count": 11
-        },
-        {
-          "commits_count": 10
         },
         {
           "name": "MathisNcl",
@@ -482,18 +484,18 @@
           "commits_count": 6
         },
         {
-          "commits_count": 4
-        },
-        {
-          "commits_count": 4
-        },
-        {
           "name": "NP4567-dev",
           "avatar_url": "https://avatars.githubusercontent.com/u/23741953?v=4",
           "url": "https://github.com/NP4567-dev",
           "commits_count": 4
         },
         {
+          "commits_count": 4
+        },
+        {
+          "name": "AntoineSimoulin",
+          "avatar_url": "https://avatars.githubusercontent.com/u/11446904?v=4",
+          "url": "https://github.com/AntoineSimoulin",
           "commits_count": 3
         },
         {
@@ -503,27 +505,24 @@
           "commits_count": 3
         },
         {
-          "name": "AntoineSimoulin",
-          "avatar_url": "https://avatars.githubusercontent.com/u/11446904?v=4",
-          "url": "https://github.com/AntoineSimoulin",
           "commits_count": 3
+        },
+        {
+          "commits_count": 2
+        },
+        {
+          "commits_count": 2
+        },
+        {
+          "commits_count": 2
+        },
+        {
+          "commits_count": 2
         },
         {
           "name": "baudelotphilippe",
           "avatar_url": "https://avatars.githubusercontent.com/u/27761959?v=4",
           "url": "https://github.com/baudelotphilippe",
-          "commits_count": 2
-        },
-        {
-          "commits_count": 2
-        },
-        {
-          "commits_count": 2
-        },
-        {
-          "commits_count": 2
-        },
-        {
           "commits_count": 2
         }
       ]
@@ -533,7 +532,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2025-12-14T00:11:41Z",
+      "pushed_at": "2025-12-15T00:11:28Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -553,10 +552,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12704,
+      "commits_count": 12705,
       "commits_per_contributor": [
         {
-          "commits_count": 12388
+          "commits_count": 12389
         },
         {
           "name": "baudelotphilippe",
@@ -1295,7 +1294,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6577,
+      "commits_count": 6578,
       "projects": [
         "otoroshi",
         "nio",
@@ -1309,7 +1308,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 2380,
+      "commits_count": 2382,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1321,7 +1320,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14741,
+      "commits_count": 14728,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1343,8 +1342,6 @@
         "meteole",
         "meteole",
         "meteole",
-        "melusine",
-        "melusine",
         "melusine",
         "melusine",
         "melusine",
@@ -1700,6 +1697,15 @@
         "melusine"
       ]
     },
+    "gbernard-d": {
+      "name": "gbernard-d",
+      "avatar_url": "https://avatars.githubusercontent.com/u/249701278?v=4",
+      "url": "https://github.com/gbernard-d",
+      "commits_count": 14,
+      "projects": [
+        "melusine"
+      ]
+    },
     "sachasamama": {
       "name": "sachasamama",
       "avatar_url": "https://avatars.githubusercontent.com/u/19156316?v=4",
@@ -2004,6 +2010,7 @@
     "guillaume-vignal",
     "mattchdt",
     "milidris",
+    "gbernard-d",
     "sachasamama",
     "victorBigand",
     "cwoodrow",
