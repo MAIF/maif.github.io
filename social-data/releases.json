@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<p>📋 buttons to ease copy of api key clientid &amp; secrets</p>",
+    "project": "izanami",
+    "date": "2025-12-17T01:42:15Z",
+    "name": "v2.16.0",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.16.0",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.16.0"
+  },
+  {
     "highlights": "<p>👷 Leader / worker mode</p>\n<p>🌉 Open tenant and project read to personnal access token</p>",
     "project": "izanami",
     "date": "2025-12-09T01:46:14Z",
