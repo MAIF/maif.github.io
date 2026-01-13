@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-01-09T15:29:30Z",
+      "pushed_at": "2026-01-12T10:27:22Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,7 +36,7 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 9699,
+      "commits_count": 9700,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -48,7 +48,7 @@
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1699
+          "commits_count": 1700
         },
         {
           "commits_count": 594
@@ -287,7 +287,7 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2026-01-09T15:31:43Z",
+      "pushed_at": "2026-01-12T08:48:34Z",
       "contributors": [
         "GratienDSX",
         "ThomasBouche",
@@ -300,7 +300,7 @@
         null,
         null
       ],
-      "commits_count": 183,
+      "commits_count": 189,
       "commits_per_contributor": [
         {
           "name": "GratienDSX",
@@ -312,7 +312,7 @@
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 59
+          "commits_count": 65
         },
         {
           "name": "mattchdt",
@@ -539,7 +539,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-01-11T00:12:02Z",
+      "pushed_at": "2026-01-12T00:11:42Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -559,10 +559,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12732,
+      "commits_count": 12733,
       "commits_per_contributor": [
         {
-          "commits_count": 12416
+          "commits_count": 12417
         },
         {
           "name": "baudelotphilippe",
@@ -1076,7 +1076,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-01-09T15:41:44Z",
+      "pushed_at": "2026-01-12T09:41:46Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1091,7 +1091,7 @@
         "ptitFicus",
         null
       ],
-      "commits_count": 3380,
+      "commits_count": 3386,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
@@ -1100,7 +1100,7 @@
           "commits_count": 1753
         },
         {
-          "commits_count": 602
+          "commits_count": 608
         },
         {
           "name": "Zwiterrion",
@@ -1288,7 +1288,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 2394,
+      "commits_count": 2395,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1299,7 +1299,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14780,
+      "commits_count": 14787,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1576,7 +1576,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 120,
+      "commits_count": 126,
       "projects": [
         "meteole",
         "maif.github.io",

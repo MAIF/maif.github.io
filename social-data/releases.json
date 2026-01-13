@@ -80,6 +80,14 @@
     "url": "https://github.com/MAIF/wasmo/releases/tag/1.0.15"
   },
   {
+    "highlights": "<ul>\n<li>Upgrade to ratatui 0.30.0</li>\n<li>Update dependencies</li>\n</ul>",
+    "project": "yozefu",
+    "date": "2026-01-12T11:34:31Z",
+    "name": "v0.0.24",
+    "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.24",
+    "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.24"
+  },
+  {
     "highlights": "<ul>\n<li>Support of avro schema references, thank you @toninhoPinto </li>\n<li>you quit the TUI by pressing <kbd>CTRL + C</kbd> instead of <kbd>ESC</kbd></li>\n<li>Update dependencies</li>\n</ul>",
     "project": "yozefu",
     "date": "2025-12-19T11:59:19Z",
