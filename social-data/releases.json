@@ -80,6 +80,14 @@
     "url": "https://github.com/MAIF/wasmo/releases/tag/1.0.15"
   },
   {
+    "highlights": "<ul>\n<li>fixed Integer overflows due to columns resizing</li>\n<li>Update dependencies</li>\n</ul>",
+    "project": "yozefu",
+    "date": "2026-01-14T20:56:15Z",
+    "name": "v0.0.25",
+    "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.25",
+    "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.25"
+  },
+  {
     "highlights": "<ul>\n<li>Upgrade to ratatui 0.30.0</li>\n<li>Update dependencies</li>\n</ul>",
     "project": "yozefu",
     "date": "2026-01-12T11:34:31Z",
