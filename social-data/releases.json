@@ -200,6 +200,14 @@
     "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.11"
   },
   {
+    "highlights": "<p>Major updates in this release:</p>\n<ul>\n<li><strong>WebApp Explainability Expansion:</strong> Introduction of several new visual explainability tools in the Shapash WebApp, including Global–Local Feature Importance, Clusters by Explainability, significantly enhancing model interpretation capabilities.</li>\n<li><strong>Modernized Packaging:</strong> Full support for <code>numpy&gt;=2.0.0</code> and dependency modernization, ensuring forward compatibility with the latest scientific Python ecosystem.</li>\n</ul>",
+    "project": "shapash",
+    "date": "2026-01-20T14:00:54Z",
+    "name": "2.8.0",
+    "zip": "https://api.github.com/repos/MAIF/shapash/zipball/2.8.0",
+    "url": "https://github.com/MAIF/shapash/releases/tag/2.8.0"
+  },
+  {
     "highlights": "<p>This release brings important fixes to enhance both the visualization capabilities and the stability of the Shapash package.</p>\n<ul>\n<li><p><strong>Plot Title Overlap Fix</strong>: We have resolved an issue where the plot titles were incorrectly positioned, leading to overlaps with the graph when users specified different figure heights.</p></li>\n<li><p><strong>Fix for Shortened Label Duplication</strong>: In cases where long feature names were programmatically shortened for better visualization, duplicate labels could lead to missing lines in the correlation matrix.</p></li>\n<li><p><strong>Restoration of Missing Files in Shapash Package</strong>: Several important files such as <code>*.ipynb</code>, <code>*.html</code>, and <code>*.j2</code> were missing in previous package versions, causing issues and preventing the generation of reports. These files are now properly included, restoring full functionality to the package.</p></li>\n</ul>",
     "project": "shapash",
     "date": "2024-10-24T09:36:10Z",
