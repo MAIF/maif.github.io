@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-01-24T14:47:23Z",
+      "pushed_at": "2026-01-25T17:38:25Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 9732,
+      "commits_count": 9734,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6336
+          "commits_count": 6338
         },
         {
           "name": "Zwiterrion",
@@ -539,7 +539,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-01-24T00:10:43Z",
+      "pushed_at": "2026-01-25T00:12:01Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -559,10 +559,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12745,
+      "commits_count": 12746,
       "commits_per_contributor": [
         {
-          "commits_count": 12429
+          "commits_count": 12430
         },
         {
           "name": "baudelotphilippe",
@@ -1282,7 +1282,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6611,
+      "commits_count": 6613,
       "projects": [
         "otoroshi",
         "nio",
@@ -1306,7 +1306,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14801,
+      "commits_count": 14802,
       "projects": [
         "otoroshi",
         "otoroshi",
