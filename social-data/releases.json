@@ -64,14 +64,6 @@
     "url": "https://github.com/MAIF/izanami/releases/tag/v2.9.0"
   },
   {
-    "highlights": "<p>💽 Support Postgres 12.x</p>\n<p>＠ Allow to use email as username</p>",
-    "project": "izanami",
-    "date": "2025-03-03T09:46:11Z",
-    "name": "v2.8.4",
-    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.8.4",
-    "url": "https://github.com/MAIF/izanami/releases/tag/v2.8.4"
-  },
-  {
     "highlights": "<p><strong>Added Features</strong></p>\n<ul>\n<li>Support for Wss Protocol: with the added support for the Wss protocol, the user interface now has the capability to communicate seamlessly with a Wasmo instance deployed using HTTPS</li>\n<li>Exposing Wasmo Behind Proxy: Specify baseURL to expose Wasmo behind a proxy effortlessly.</li>\n<li>New Plugin Creation via CLI: Start a new plugin directly using the CLI, with Izanami and Otoroshi templates available for quick setup.</li>\n<li>Upgrade all Extism PDK Versions: Stay up-to-date with upgraded Extism PDK versions for improved performance and compatibility.</li>\n</ul>",
     "project": "wasmo",
     "date": "2024-03-05T10:42:13Z",
@@ -203,7 +195,7 @@
     "highlights": "<p>Major updates in this release:</p>\n<ul>\n<li><strong>WebApp Explainability Expansion:</strong> Introduction of several new visual explainability tools in the Shapash WebApp, including Global–Local Feature Importance, Clusters by Explainability, significantly enhancing model interpretation capabilities.</li>\n<li><strong>Modernized Packaging:</strong> Full support for <code>numpy&gt;=2.0.0</code> and dependency modernization, ensuring forward compatibility with the latest scientific Python ecosystem.</li>\n</ul>",
     "project": "shapash",
     "date": "2026-01-20T14:00:54Z",
-    "name": "2.8.0",
+    "name": "v2.8.0",
     "zip": "https://api.github.com/repos/MAIF/shapash/zipball/2.8.0",
     "url": "https://github.com/MAIF/shapash/releases/tag/2.8.0"
   },
