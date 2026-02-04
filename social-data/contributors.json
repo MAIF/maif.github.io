@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-01-29T21:38:33Z",
+      "pushed_at": "2026-02-03T20:09:52Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -539,7 +539,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-02-02T00:14:00Z",
+      "pushed_at": "2026-02-03T00:14:48Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -559,10 +559,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12754,
+      "commits_count": 12755,
       "commits_per_contributor": [
         {
-          "commits_count": 12438
+          "commits_count": 12439
         },
         {
           "name": "baudelotphilippe",
@@ -1083,7 +1083,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-02-02T15:43:18Z",
+      "pushed_at": "2026-02-03T20:54:47Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1098,16 +1098,16 @@
         "ptitFicus",
         null
       ],
-      "commits_count": 3403,
+      "commits_count": 3411,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1767
+          "commits_count": 1768
         },
         {
-          "commits_count": 609
+          "commits_count": 616
         },
         {
           "name": "Zwiterrion",
@@ -1306,7 +1306,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14824,
+      "commits_count": 14832,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1393,7 +1393,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 1876,
+      "commits_count": 1877,
       "projects": [
         "otoroshi",
         "nio",
