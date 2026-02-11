@@ -72,6 +72,14 @@
     "url": "https://github.com/MAIF/wasmo/releases/tag/1.0.15"
   },
   {
+    "highlights": "<ul>\n<li>build: update rust and node dependencies by @Mcdostone</li>\n<li>fix: Parses a avro floating-point number into a JSON value, especially cases for NaN and infinity by @Mcdostone</li>\n<li>docs: give a try to llms.txt by @Mcdostone</li>\n<li>perf: get rid of arc<mutex<buffer>&gt; and use channels to avoid contention around the records buffer by @Mcdostone</li>\n<li>build: update dependencies by @Mcdostone</li>\n</ul>",
+    "project": "yozefu",
+    "date": "2026-02-10T10:37:17Z",
+    "name": "v0.0.26",
+    "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.26",
+    "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.26"
+  },
+  {
     "highlights": "<ul>\n<li>fixed Integer overflows due to columns resizing</li>\n<li>Update dependencies</li>\n</ul>",
     "project": "yozefu",
     "date": "2026-01-14T20:56:15Z",
