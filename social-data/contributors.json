@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-02-10T20:27:56Z",
+      "pushed_at": "2026-02-11T20:15:06Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -17,9 +17,9 @@
         "mathieuancelinserli",
         "guillaumesolderaserli",
         null,
+        "sebprunierserli",
         null,
         "fedysalahserli",
-        "sebprunierserli",
         null,
         "omahs",
         "SelligtomGit86",
@@ -36,22 +36,22 @@
         "lucbu",
         null
       ],
-      "commits_count": 9798,
+      "commits_count": 9802,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6389
+          "commits_count": 6390
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1716
+          "commits_count": 1717
         },
         {
-          "commits_count": 600
+          "commits_count": 601
         },
         {
           "name": "baudelotphilippe",
@@ -90,18 +90,18 @@
           "commits_count": 10
         },
         {
+          "name": "sebprunierserli",
+          "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
+          "url": "https://github.com/sebprunierserli",
+          "commits_count": 10
+        },
+        {
           "commits_count": 10
         },
         {
           "name": "fedysalahserli",
           "avatar_url": "https://avatars.githubusercontent.com/u/22706239?v=4",
           "url": "https://github.com/fedysalahserli",
-          "commits_count": 9
-        },
-        {
-          "name": "sebprunierserli",
-          "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
-          "url": "https://github.com/sebprunierserli",
           "commits_count": 9
         },
         {
@@ -539,7 +539,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-02-10T00:18:47Z",
+      "pushed_at": "2026-02-11T00:18:46Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -559,10 +559,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12762,
+      "commits_count": 12763,
       "commits_per_contributor": [
         {
-          "commits_count": 12446
+          "commits_count": 12447
         },
         {
           "name": "baudelotphilippe",
@@ -780,7 +780,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2026-02-09T17:47:54Z",
+      "pushed_at": "2026-02-11T13:34:49Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1282,7 +1282,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6664,
+      "commits_count": 6665,
       "projects": [
         "otoroshi",
         "nio",
@@ -1295,7 +1295,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 2413,
+      "commits_count": 2414,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1306,7 +1306,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14848,
+      "commits_count": 14850,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1434,19 +1434,19 @@
         "otoroshi"
       ]
     },
-    "fedysalahserli": {
-      "name": "fedysalahserli",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22706239?v=4",
-      "url": "https://github.com/fedysalahserli",
-      "commits_count": 9,
-      "projects": [
-        "otoroshi"
-      ]
-    },
     "sebprunierserli": {
       "name": "sebprunierserli",
       "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
       "url": "https://github.com/sebprunierserli",
+      "commits_count": 10,
+      "projects": [
+        "otoroshi"
+      ]
+    },
+    "fedysalahserli": {
+      "name": "fedysalahserli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22706239?v=4",
+      "url": "https://github.com/fedysalahserli",
       "commits_count": 9,
       "projects": [
         "otoroshi"
@@ -2019,9 +2019,9 @@
     "victorBigand",
     "guillaumesolderaserli",
     "cwoodrow",
+    "sebprunierserli",
     "armgilles",
     "MathisNcl",
-    "sebprunierserli",
     "fedysalahserli",
     "JacquesOpaux",
     "Luc-Bonade",
