@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-02-12T21:00:37Z",
+      "pushed_at": "2026-02-13T17:25:40Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "lucbu",
         null
       ],
-      "commits_count": 9804,
+      "commits_count": 9879,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6390
+          "commits_count": 6464
         },
         {
           "name": "Zwiterrion",
@@ -51,7 +51,7 @@
           "commits_count": 1719
         },
         {
-          "commits_count": 601
+          "commits_count": 602
         },
         {
           "name": "baudelotphilippe",
@@ -357,7 +357,7 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "📧 Melusine: Use python to automatize your email processing workflow",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2025-01-23T08:36:26Z",
+      "pushed_at": "2026-02-13T10:48:23Z",
       "contributors": [
         "hugo-quantmetry",
         "HugoPerrier",
@@ -539,7 +539,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-02-12T00:13:25Z",
+      "pushed_at": "2026-02-13T00:16:00Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -559,10 +559,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12764,
+      "commits_count": 12765,
       "commits_per_contributor": [
         {
-          "commits_count": 12448
+          "commits_count": 12449
         },
         {
           "name": "baudelotphilippe",
@@ -1282,7 +1282,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6665,
+      "commits_count": 6739,
       "projects": [
         "otoroshi",
         "nio",
@@ -1306,7 +1306,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14857,
+      "commits_count": 14859,
       "projects": [
         "otoroshi",
         "otoroshi",
