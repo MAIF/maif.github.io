@@ -336,6 +336,14 @@
     "url": "https://github.com/MAIF/arta/releases/tag/0.7.0b"
   },
   {
+    "highlights": "<p><strong>Features</strong></p>\n<ul>\n<li><p>Added the ability to retrieve observations from a single station at a time.</p></li>\n<li><p>Updated tests and documentation to reflect these additions See #21</p>\n<p>by @JacquesOpaux </p></li>\n</ul>",
+    "project": "meteole",
+    "date": "2026-02-19T13:56:24Z",
+    "name": "Retrieve observations from a single station",
+    "zip": "https://api.github.com/repos/MAIF/meteole/zipball/0.2.6",
+    "url": "https://github.com/MAIF/meteole/releases/tag/0.2.6"
+  },
+  {
     "highlights": "<p><strong>Features</strong></p>\n<ul>\n<li><p>Added a way to call the get_coverage method of WeatherForecast with floats for lat, long (instead of tuples only) to get forecast at a specific location (nearest grid point).</p></li>\n<li><p>Added a check on the lat, long parameters of get_coverage so that the closest gridpoint is used</p></li>\n<li><p>Added min and max available coordinates to get<em>coverage</em>description output</p></li>\n<li><p>Updated tests and documentation to reflect these changes</p>\n<p>by @JacquesOpaux </p></li>\n</ul>",
     "project": "meteole",
     "date": "2025-12-16T10:01:30Z",
