@@ -40,20 +40,20 @@
     "url": "https://github.com/MAIF/izanami/releases/tag/v2.11.0"
   },
   {
-    "highlights": "<p>✅ allow toggling feature state directly from feature row</p>\n<p>🔐 add \"update\" right for project : users will only be able to update features, not to create or delete features</p>\n<p>📋 replace password confirmation by input confirmation</p>\n<p>🩹 preserve line jumps in textual feature flags</p>",
-    "project": "izanami",
-    "date": "2025-06-23T23:07:48Z",
-    "name": "v2.10.0",
-    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.10.0",
-    "url": "https://github.com/MAIF/izanami/releases/tag/v2.10.0"
-  },
-  {
     "highlights": "<p><strong>Added Features</strong></p>\n<ul>\n<li>Support for Wss Protocol: with the added support for the Wss protocol, the user interface now has the capability to communicate seamlessly with a Wasmo instance deployed using HTTPS</li>\n<li>Exposing Wasmo Behind Proxy: Specify baseURL to expose Wasmo behind a proxy effortlessly.</li>\n<li>New Plugin Creation via CLI: Start a new plugin directly using the CLI, with Izanami and Otoroshi templates available for quick setup.</li>\n<li>Upgrade all Extism PDK Versions: Stay up-to-date with upgraded Extism PDK versions for improved performance and compatibility.</li>\n</ul>",
     "project": "wasmo",
     "date": "2024-03-05T10:42:13Z",
     "name": "1.0.15",
     "zip": "https://api.github.com/repos/MAIF/wasmo/zipball/1.0.15",
     "url": "https://github.com/MAIF/wasmo/releases/tag/1.0.15"
+  },
+  {
+    "highlights": "<ul>\n<li>perf: Removed a useless <code>clone()</code> of the records buffer</li>\n<li>perf: Do not highlight the kafka record when it's too big</li>\n<li>build: update dependencies by @Mcdostone</li>\n</ul>",
+    "project": "yozefu",
+    "date": "2026-02-25T19:28:43Z",
+    "name": "v0.0.27",
+    "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.27",
+    "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.27"
   },
   {
     "highlights": "<ul>\n<li>build: update rust and node dependencies by @Mcdostone</li>\n<li>fix: Parses a avro floating-point number into a JSON value, especially cases for NaN and infinity by @Mcdostone</li>\n<li>docs: give a try to llms.txt by @Mcdostone</li>\n<li>perf: get rid of arc<mutex<buffer>&gt; and use channels to avoid contention around the records buffer by @Mcdostone</li>\n<li>build: update dependencies by @Mcdostone</li>\n</ul>",
