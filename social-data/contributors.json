@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-02-25T00:20:18Z",
+      "pushed_at": "2026-02-26T14:11:08Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,19 +36,19 @@
         "lucbu",
         null
       ],
-      "commits_count": 9908,
+      "commits_count": 9910,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6482
+          "commits_count": 6483
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1720
+          "commits_count": 1721
         },
         {
           "commits_count": 605
@@ -357,10 +357,10 @@
       "url": "https://github.com/MAIF/melusine",
       "description": "📧 Melusine: Use python to automatize your email processing workflow",
       "homepage": "https://maif.github.io/melusine",
-      "pushed_at": "2026-02-19T14:43:51Z",
+      "pushed_at": "2026-02-26T16:04:43Z",
       "contributors": [
-        "hugo-quantmetry",
         "HugoPerrier",
+        "hugo-quantmetry",
         "TFA-MAIF",
         "tstringerquantmetry",
         null,
@@ -389,19 +389,19 @@
         null,
         "baudelotphilippe"
       ],
-      "commits_count": 796,
+      "commits_count": 804,
       "commits_per_contributor": [
+        {
+          "name": "HugoPerrier",
+          "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
+          "url": "https://github.com/HugoPerrier",
+          "commits_count": 156
+        },
         {
           "name": "hugo-quantmetry",
           "avatar_url": "https://avatars.githubusercontent.com/u/43343964?v=4",
           "url": "https://github.com/hugo-quantmetry",
           "commits_count": 150
-        },
-        {
-          "name": "HugoPerrier",
-          "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
-          "url": "https://github.com/HugoPerrier",
-          "commits_count": 148
         },
         {
           "name": "TFA-MAIF",
@@ -539,7 +539,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-02-25T00:16:11Z",
+      "pushed_at": "2026-02-26T00:13:14Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -559,10 +559,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12777,
+      "commits_count": 12778,
       "commits_per_contributor": [
         {
-          "commits_count": 12461
+          "commits_count": 12462
         },
         {
           "name": "baudelotphilippe",
@@ -1282,7 +1282,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6757,
+      "commits_count": 6758,
       "projects": [
         "otoroshi",
         "nio",
@@ -1295,7 +1295,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 2417,
+      "commits_count": 2418,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1306,7 +1306,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14886,
+      "commits_count": 14887,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1637,6 +1637,16 @@
         "meteole"
       ]
     },
+    "HugoPerrier": {
+      "name": "HugoPerrier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
+      "url": "https://github.com/HugoPerrier",
+      "commits_count": 157,
+      "projects": [
+        "melusine",
+        "arta"
+      ]
+    },
     "hugo-quantmetry": {
       "name": "hugo-quantmetry",
       "avatar_url": "https://avatars.githubusercontent.com/u/43343964?v=4",
@@ -1644,16 +1654,6 @@
       "commits_count": 150,
       "projects": [
         "melusine"
-      ]
-    },
-    "HugoPerrier": {
-      "name": "HugoPerrier",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17729704?v=4",
-      "url": "https://github.com/HugoPerrier",
-      "commits_count": 149,
-      "projects": [
-        "melusine",
-        "arta"
       ]
     },
     "TFA-MAIF": {
@@ -1995,8 +1995,8 @@
     "baudelotphilippe",
     "ptitFicus",
     "larousso",
-    "hugo-quantmetry",
     "HugoPerrier",
+    "hugo-quantmetry",
     "ThomasBouche",
     "helakaraa",
     "TFA-MAIF",
