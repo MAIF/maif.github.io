@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-03-05T21:13:51Z",
+      "pushed_at": "2026-03-09T18:43:54Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -21,28 +21,28 @@
         null,
         "fedysalahserli",
         null,
-        "omahs",
         "SelligtomGit86",
+        "omahs",
+        "davlgd",
         "larousso",
         null,
-        "davlgd",
         "quentinproust",
         null,
         null,
         null,
         null,
+        "cbois",
+        "cwoodrow",
         null,
-        "desmfr",
-        "lucbu",
-        null
+        "super7ramp"
       ],
-      "commits_count": 9912,
+      "commits_count": 9931,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6485
+          "commits_count": 6499
         },
         {
           "name": "Zwiterrion",
@@ -51,7 +51,7 @@
           "commits_count": 1721
         },
         {
-          "commits_count": 605
+          "commits_count": 609
         },
         {
           "name": "baudelotphilippe",
@@ -108,16 +108,22 @@
           "commits_count": 6
         },
         {
+          "name": "SelligtomGit86",
+          "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
+          "url": "https://github.com/SelligtomGit86",
+          "commits_count": 5
+        },
+        {
           "name": "omahs",
           "avatar_url": "https://avatars.githubusercontent.com/u/73983677?v=4",
           "url": "https://github.com/omahs",
           "commits_count": 5
         },
         {
-          "name": "SelligtomGit86",
-          "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
-          "url": "https://github.com/SelligtomGit86",
-          "commits_count": 5
+          "name": "davlgd",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1110600?v=4",
+          "url": "https://github.com/davlgd",
+          "commits_count": 4
         },
         {
           "name": "larousso",
@@ -126,12 +132,6 @@
           "commits_count": 3
         },
         {
-          "commits_count": 3
-        },
-        {
-          "name": "davlgd",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1110600?v=4",
-          "url": "https://github.com/davlgd",
           "commits_count": 3
         },
         {
@@ -153,21 +153,24 @@
           "commits_count": 2
         },
         {
+          "name": "cbois",
+          "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
+          "url": "https://github.com/cbois",
           "commits_count": 1
         },
         {
-          "name": "desmfr",
-          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
-          "url": "https://github.com/desmfr",
+          "name": "cwoodrow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+          "url": "https://github.com/cwoodrow",
           "commits_count": 1
         },
         {
-          "name": "lucbu",
-          "avatar_url": "https://avatars.githubusercontent.com/u/5434555?v=4",
-          "url": "https://github.com/lucbu",
           "commits_count": 1
         },
         {
+          "name": "super7ramp",
+          "avatar_url": "https://avatars.githubusercontent.com/u/9394745?v=4",
+          "url": "https://github.com/super7ramp",
           "commits_count": 1
         }
       ]
@@ -543,7 +546,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-03-08T00:13:20Z",
+      "pushed_at": "2026-03-09T00:13:41Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -563,10 +566,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12788,
+      "commits_count": 12789,
       "commits_per_contributor": [
         {
-          "commits_count": 12472
+          "commits_count": 12473
         },
         {
           "name": "baudelotphilippe",
@@ -1087,7 +1090,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-03-05T00:00:23Z",
+      "pushed_at": "2026-03-09T15:12:08Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1286,7 +1289,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6760,
+      "commits_count": 6774,
       "projects": [
         "otoroshi",
         "nio",
@@ -1310,9 +1313,8 @@
       ]
     },
     "undefined": {
-      "commits_count": 14902,
+      "commits_count": 14906,
       "projects": [
-        "otoroshi",
         "otoroshi",
         "otoroshi",
         "otoroshi",
@@ -1457,6 +1459,15 @@
         "otoroshi"
       ]
     },
+    "SelligtomGit86": {
+      "name": "SelligtomGit86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
+      "url": "https://github.com/SelligtomGit86",
+      "commits_count": 5,
+      "projects": [
+        "otoroshi"
+      ]
+    },
     "omahs": {
       "name": "omahs",
       "avatar_url": "https://avatars.githubusercontent.com/u/73983677?v=4",
@@ -1466,11 +1477,11 @@
         "otoroshi"
       ]
     },
-    "SelligtomGit86": {
-      "name": "SelligtomGit86",
-      "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
-      "url": "https://github.com/SelligtomGit86",
-      "commits_count": 5,
+    "davlgd": {
+      "name": "davlgd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1110600?v=4",
+      "url": "https://github.com/davlgd",
+      "commits_count": 4,
       "projects": [
         "otoroshi"
       ]
@@ -1489,15 +1500,6 @@
         "functional-json"
       ]
     },
-    "davlgd": {
-      "name": "davlgd",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1110600?v=4",
-      "url": "https://github.com/davlgd",
-      "commits_count": 3,
-      "projects": [
-        "otoroshi"
-      ]
-    },
     "quentinproust": {
       "name": "quentinproust",
       "avatar_url": "https://avatars.githubusercontent.com/u/355461?v=4",
@@ -1507,25 +1509,35 @@
         "otoroshi"
       ]
     },
-    "desmfr": {
-      "name": "desmfr",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
-      "url": "https://github.com/desmfr",
-      "commits_count": 31,
-      "projects": [
-        "otoroshi",
-        "melusine",
-        "maif.github.io",
-        "cards"
-      ]
-    },
-    "lucbu": {
-      "name": "lucbu",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5434555?v=4",
-      "url": "https://github.com/lucbu",
+    "cbois": {
+      "name": "cbois",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23309218?v=4",
+      "url": "https://github.com/cbois",
       "commits_count": 1,
       "projects": [
         "otoroshi"
+      ]
+    },
+    "cwoodrow": {
+      "name": "cwoodrow",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
+      "url": "https://github.com/cwoodrow",
+      "commits_count": 11,
+      "projects": [
+        "otoroshi",
+        "nio",
+        "maif.github.io",
+        "lets-automate"
+      ]
+    },
+    "super7ramp": {
+      "name": "super7ramp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9394745?v=4",
+      "url": "https://github.com/super7ramp",
+      "commits_count": 2,
+      "projects": [
+        "otoroshi",
+        "izanami"
       ]
     },
     "ffremont": {
@@ -1544,17 +1556,6 @@
       "commits_count": 28,
       "projects": [
         "nio"
-      ]
-    },
-    "cwoodrow": {
-      "name": "cwoodrow",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4905866?v=4",
-      "url": "https://github.com/cwoodrow",
-      "commits_count": 10,
-      "projects": [
-        "nio",
-        "maif.github.io",
-        "lets-automate"
       ]
     },
     "oltruong": {
@@ -1788,6 +1789,17 @@
         "melusine"
       ]
     },
+    "desmfr": {
+      "name": "desmfr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+      "url": "https://github.com/desmfr",
+      "commits_count": 30,
+      "projects": [
+        "melusine",
+        "maif.github.io",
+        "cards"
+      ]
+    },
     "Mcdostone": {
       "name": "Mcdostone",
       "avatar_url": "https://avatars.githubusercontent.com/u/6984659?v=4",
@@ -1869,15 +1881,6 @@
       "name": "jeanphi-baconnais",
       "avatar_url": "https://avatars.githubusercontent.com/u/32639372?v=4",
       "url": "https://github.com/jeanphi-baconnais",
-      "commits_count": 1,
-      "projects": [
-        "izanami"
-      ]
-    },
-    "super7ramp": {
-      "name": "super7ramp",
-      "avatar_url": "https://avatars.githubusercontent.com/u/9394745?v=4",
-      "url": "https://github.com/super7ramp",
       "commits_count": 1,
       "projects": [
         "izanami"
@@ -2023,8 +2026,8 @@
     "gbernard-d",
     "sachasamama",
     "victorBigand",
-    "guillaumesolderaserli",
     "cwoodrow",
+    "guillaumesolderaserli",
     "sebprunierserli",
     "armgilles",
     "MathisNcl",
@@ -2037,28 +2040,28 @@
     "MLecardonnel",
     "FDJFDJ",
     "NP4567-dev",
-    "SelligtomGit86",
     "omahs",
+    "SelligtomGit86",
     "guerinclement",
+    "davlgd",
     "AntoineSimoulin",
     "ffremont",
-    "davlgd",
     "SebastienBidault",
     "mbaechler",
     "Izanami",
     "florian-tirard",
+    "super7ramp",
     "quentinproust",
     "meriemjebali",
     "roman2git",
     "gotson",
     "wikijm",
-    "super7ramp",
     "jeanphi-baconnais",
     "GaetanFrejoux",
     "Jupihawx",
     "frinyvonnick",
     "marclaporte",
     "oltruong",
-    "lucbu"
+    "cbois"
   ]
 }
