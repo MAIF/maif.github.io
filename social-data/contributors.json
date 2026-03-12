@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-03-10T08:16:51Z",
+      "pushed_at": "2026-03-11T15:23:38Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         null,
         "super7ramp"
       ],
-      "commits_count": 9932,
+      "commits_count": 9937,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6500
+          "commits_count": 6503
         },
         {
           "name": "Zwiterrion",
@@ -51,7 +51,7 @@
           "commits_count": 1721
         },
         {
-          "commits_count": 609
+          "commits_count": 611
         },
         {
           "name": "baudelotphilippe",
@@ -546,7 +546,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-03-10T00:11:16Z",
+      "pushed_at": "2026-03-11T00:11:57Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -566,10 +566,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12790,
+      "commits_count": 12791,
       "commits_per_contributor": [
         {
-          "commits_count": 12474
+          "commits_count": 12475
         },
         {
           "name": "baudelotphilippe",
@@ -1090,7 +1090,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-03-09T15:12:08Z",
+      "pushed_at": "2026-03-11T07:13:17Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1171,17 +1171,28 @@
       "url": "https://github.com/MAIF/codelab-pattern-jdk21-et-plus",
       "description": "Apprendre les nouveautés de java par la pratique",
       "homepage": null,
-      "pushed_at": "2025-05-25T13:26:30Z",
+      "pushed_at": "2026-03-11T09:25:11Z",
       "contributors": [
-        "ade-maif"
+        "ade-maif",
+        "ptitFicus",
+        null
       ],
-      "commits_count": 20,
+      "commits_count": 23,
       "commits_per_contributor": [
         {
           "name": "ade-maif",
           "avatar_url": "https://avatars.githubusercontent.com/u/218625366?v=4",
           "url": "https://github.com/ade-maif",
           "commits_count": 20
+        },
+        {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 2
+        },
+        {
+          "commits_count": 1
         }
       ]
     },
@@ -1289,7 +1300,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6775,
+      "commits_count": 6778,
       "projects": [
         "otoroshi",
         "nio",
@@ -1313,7 +1324,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14907,
+      "commits_count": 14911,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1377,6 +1388,7 @@
         "daikoku",
         "daikoku",
         "daikoku",
+        "codelab-pattern-jdk21-et-plus",
         "arta"
       ]
     },
@@ -1413,14 +1425,15 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 438,
+      "commits_count": 440,
       "projects": [
         "otoroshi",
         "maif.github.io",
         "izanami-java-client",
         "izanami",
         "functional-json",
-        "daikoku"
+        "daikoku",
+        "codelab-pattern-jdk21-et-plus"
       ]
     },
     "mathieuancelinserli": {
