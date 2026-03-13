@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-03-11T15:23:38Z",
+      "pushed_at": "2026-03-12T11:25:16Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,19 +36,19 @@
         null,
         "super7ramp"
       ],
-      "commits_count": 9937,
+      "commits_count": 9959,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6503
+          "commits_count": 6504
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1721
+          "commits_count": 1742
         },
         {
           "commits_count": 611
@@ -546,7 +546,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-03-11T00:11:57Z",
+      "pushed_at": "2026-03-12T00:12:19Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -566,10 +566,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12791,
+      "commits_count": 12792,
       "commits_per_contributor": [
         {
-          "commits_count": 12475
+          "commits_count": 12476
         },
         {
           "name": "baudelotphilippe",
@@ -1021,7 +1021,7 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2025-11-10T16:29:05Z",
+      "pushed_at": "2026-03-12T11:07:51Z",
       "contributors": [
         "ThomasBouche",
         "guillaume-vignal",
@@ -1300,7 +1300,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6778,
+      "commits_count": 6779,
       "projects": [
         "otoroshi",
         "nio",
@@ -1313,7 +1313,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 2418,
+      "commits_count": 2439,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1324,7 +1324,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14911,
+      "commits_count": 14912,
       "projects": [
         "otoroshi",
         "otoroshi",
