@@ -546,7 +546,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-03-19T00:15:37Z",
+      "pushed_at": "2026-03-21T00:13:48Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -566,10 +566,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12799,
+      "commits_count": 12800,
       "commits_per_contributor": [
         {
-          "commits_count": 12483
+          "commits_count": 12484
         },
         {
           "name": "baudelotphilippe",
@@ -1324,7 +1324,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14943,
+      "commits_count": 14944,
       "projects": [
         "otoroshi",
         "otoroshi",
