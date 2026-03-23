@@ -546,7 +546,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-03-21T00:13:48Z",
+      "pushed_at": "2026-03-22T00:15:07Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -566,10 +566,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12800,
+      "commits_count": 12801,
       "commits_per_contributor": [
         {
-          "commits_count": 12484
+          "commits_count": 12485
         },
         {
           "name": "baudelotphilippe",
@@ -787,7 +787,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2026-03-20T13:47:49Z",
+      "pushed_at": "2026-03-23T00:11:22Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1324,7 +1324,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14944,
+      "commits_count": 14945,
       "projects": [
         "otoroshi",
         "otoroshi",
