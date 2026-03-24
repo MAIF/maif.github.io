@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-03-19T09:09:35Z",
+      "pushed_at": "2026-03-23T15:16:18Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,19 +36,19 @@
         null,
         "super7ramp"
       ],
-      "commits_count": 10140,
+      "commits_count": 10147,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 6659
+          "commits_count": 6665
         },
         {
           "name": "Zwiterrion",
           "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
           "url": "https://github.com/Zwiterrion",
-          "commits_count": 1746
+          "commits_count": 1747
         },
         {
           "commits_count": 633
@@ -546,7 +546,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-03-22T00:15:07Z",
+      "pushed_at": "2026-03-23T00:16:38Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -566,10 +566,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12801,
+      "commits_count": 12802,
       "commits_per_contributor": [
         {
-          "commits_count": 12485
+          "commits_count": 12486
         },
         {
           "name": "baudelotphilippe",
@@ -787,7 +787,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2026-03-23T00:11:22Z",
+      "pushed_at": "2026-03-23T12:33:14Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1021,19 +1021,19 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2026-03-13T15:02:46Z",
+      "pushed_at": "2026-03-23T15:40:05Z",
       "contributors": [
         "ThomasBouche",
         "guillaume-vignal",
         null,
+        "guerinclement",
         "armgilles",
         "MLecardonnel",
         "githubyako",
         null,
-        "guerinclement",
         "SebastienBidault"
       ],
-      "commits_count": 132,
+      "commits_count": 142,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
@@ -1045,10 +1045,16 @@
           "name": "guillaume-vignal",
           "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
           "url": "https://github.com/guillaume-vignal",
-          "commits_count": 28
+          "commits_count": 33
         },
         {
           "commits_count": 13
+        },
+        {
+          "name": "guerinclement",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5967752?v=4",
+          "url": "https://github.com/guerinclement",
+          "commits_count": 9
         },
         {
           "name": "armgilles",
@@ -1072,12 +1078,6 @@
           "commits_count": 5
         },
         {
-          "name": "guerinclement",
-          "avatar_url": "https://avatars.githubusercontent.com/u/5967752?v=4",
-          "url": "https://github.com/guerinclement",
-          "commits_count": 4
-        },
-        {
           "name": "SebastienBidault",
           "avatar_url": "https://avatars.githubusercontent.com/u/57792044?v=4",
           "url": "https://github.com/SebastienBidault",
@@ -1090,7 +1090,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-03-20T15:46:48Z",
+      "pushed_at": "2026-03-23T14:52:48Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1300,7 +1300,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 6934,
+      "commits_count": 6940,
       "projects": [
         "otoroshi",
         "nio",
@@ -1313,7 +1313,7 @@
       "name": "Zwiterrion",
       "avatar_url": "https://avatars.githubusercontent.com/u/6641669?v=4",
       "url": "https://github.com/Zwiterrion",
-      "commits_count": 2443,
+      "commits_count": 2444,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1324,7 +1324,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 14945,
+      "commits_count": 14946,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1912,7 +1912,16 @@
       "name": "guillaume-vignal",
       "avatar_url": "https://avatars.githubusercontent.com/u/41540039?v=4",
       "url": "https://github.com/guillaume-vignal",
-      "commits_count": 28,
+      "commits_count": 33,
+      "projects": [
+        "eurybia"
+      ]
+    },
+    "guerinclement": {
+      "name": "guerinclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5967752?v=4",
+      "url": "https://github.com/guerinclement",
+      "commits_count": 9,
       "projects": [
         "eurybia"
       ]
@@ -1940,15 +1949,6 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/7810681?v=4",
       "url": "https://github.com/githubyako",
       "commits_count": 6,
-      "projects": [
-        "eurybia"
-      ]
-    },
-    "guerinclement": {
-      "name": "guerinclement",
-      "avatar_url": "https://avatars.githubusercontent.com/u/5967752?v=4",
-      "url": "https://github.com/guerinclement",
-      "commits_count": 4,
       "projects": [
         "eurybia"
       ]
@@ -2029,9 +2029,9 @@
     "develop-cs",
     "pierrebruninmaif",
     "mathieuancelinserli",
+    "guillaume-vignal",
     "farthur",
     "desmfr",
-    "guillaume-vignal",
     "Fraer",
     "mattchdt",
     "milidris",
@@ -2043,6 +2043,7 @@
     "guillaumesolderaserli",
     "sebprunierserli",
     "armgilles",
+    "guerinclement",
     "MathisNcl",
     "fedysalahserli",
     "Luc-Bonade",
@@ -2055,7 +2056,6 @@
     "NP4567-dev",
     "omahs",
     "SelligtomGit86",
-    "guerinclement",
     "davlgd",
     "AntoineSimoulin",
     "ffremont",
