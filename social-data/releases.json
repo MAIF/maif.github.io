@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<p>🔐 Allow to define max rights for external roles</p>",
+    "project": "izanami",
+    "date": "2026-03-27T16:15:44Z",
+    "name": "v2.19.0",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.19.0",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.19.0"
+  },
+  {
     "highlights": "<p>📋 buttons to ease copy of api key clientid &amp; secrets</p>",
     "project": "izanami",
     "date": "2025-12-17T01:42:15Z",
