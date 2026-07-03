@@ -40,7 +40,7 @@ function fetchReleases(repo) {
 }
 
 function extractReleaseThumbnail(body) {
-  if (!body.includes(`<div id="release-thumbnail">`)) {
+  if (!body?.includes(`<div id="release-thumbnail">`)) {
     return undefined;
   }
   const goodPart = body
