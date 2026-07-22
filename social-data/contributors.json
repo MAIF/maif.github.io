@@ -546,7 +546,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-07-20T03:23:03Z",
+      "pushed_at": "2026-07-21T00:49:54Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -566,10 +566,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12831,
+      "commits_count": 12832,
       "commits_per_contributor": [
         {
-          "commits_count": 12514
+          "commits_count": 12515
         },
         {
           "name": "baudelotphilippe",
@@ -1104,7 +1104,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-07-20T23:51:01Z",
+      "pushed_at": "2026-07-21T14:55:30Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1121,16 +1121,16 @@
         "gmenant",
         null
       ],
-      "commits_count": 3851,
+      "commits_count": 3859,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 1993
+          "commits_count": 1998
         },
         {
-          "commits_count": 705
+          "commits_count": 706
         },
         {
           "name": "Zwiterrion",
@@ -1154,7 +1154,7 @@
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 77
+          "commits_count": 79
         },
         {
           "name": "Btxgear",
@@ -1349,7 +1349,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15252,
+      "commits_count": 15254,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1438,7 +1438,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 2102,
+      "commits_count": 2107,
       "projects": [
         "otoroshi",
         "nio",
@@ -1451,7 +1451,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 605,
+      "commits_count": 607,
       "projects": [
         "otoroshi",
         "maif.github.io",
