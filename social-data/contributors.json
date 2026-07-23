@@ -546,7 +546,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-07-21T00:49:54Z",
+      "pushed_at": "2026-07-22T00:48:31Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -566,10 +566,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12832,
+      "commits_count": 12833,
       "commits_per_contributor": [
         {
-          "commits_count": 12515
+          "commits_count": 12516
         },
         {
           "name": "baudelotphilippe",
@@ -1104,7 +1104,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-07-21T14:55:30Z",
+      "pushed_at": "2026-07-22T14:45:28Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1349,7 +1349,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15254,
+      "commits_count": 15255,
       "projects": [
         "otoroshi",
         "otoroshi",
