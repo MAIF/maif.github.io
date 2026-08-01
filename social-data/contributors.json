@@ -546,7 +546,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-07-30T00:45:57Z",
+      "pushed_at": "2026-07-31T00:52:16Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -566,10 +566,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12841,
+      "commits_count": 12842,
       "commits_per_contributor": [
         {
-          "commits_count": 12524
+          "commits_count": 12525
         },
         {
           "name": "baudelotphilippe",
@@ -794,7 +794,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2026-07-28T18:40:02Z",
+      "pushed_at": "2026-07-31T08:29:18Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1104,7 +1104,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-07-30T16:22:34Z",
+      "pushed_at": "2026-07-31T14:45:41Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1115,23 +1115,23 @@
         "Btxgear",
         null,
         "helakaraa",
-        null,
         "gmenant",
+        null,
         null,
         null,
         null,
         null
       ],
-      "commits_count": 3909,
+      "commits_count": 3919,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 2023
+          "commits_count": 2026
         },
         {
-          "commits_count": 707
+          "commits_count": 710
         },
         {
           "name": "Zwiterrion",
@@ -1155,7 +1155,7 @@
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 86
+          "commits_count": 87
         },
         {
           "name": "Btxgear",
@@ -1173,13 +1173,13 @@
           "commits_count": 37
         },
         {
-          "commits_count": 4
-        },
-        {
           "name": "gmenant",
           "avatar_url": "https://avatars.githubusercontent.com/u/4080022?v=4",
           "url": "https://github.com/gmenant",
-          "commits_count": 3
+          "commits_count": 6
+        },
+        {
+          "commits_count": 4
         },
         {
           "commits_count": 3
@@ -1353,7 +1353,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15279,
+      "commits_count": 15283,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1443,7 +1443,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 2132,
+      "commits_count": 2135,
       "projects": [
         "otoroshi",
         "nio",
@@ -1456,7 +1456,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 614,
+      "commits_count": 615,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -2032,7 +2032,7 @@
       "name": "gmenant",
       "avatar_url": "https://avatars.githubusercontent.com/u/4080022?v=4",
       "url": "https://github.com/gmenant",
-      "commits_count": 3,
+      "commits_count": 6,
       "projects": [
         "daikoku"
       ]
@@ -2118,13 +2118,13 @@
     "Mcdostone",
     "adam-benjellounSG",
     "VandvC",
+    "gmenant",
     "githubyako",
     "MLecardonnel",
     "FDJFDJ",
     "NP4567-dev",
     "SelligtomGit86",
     "omahs",
-    "gmenant",
     "AntoineSimoulin",
     "ffremont",
     "SebastienBidault",

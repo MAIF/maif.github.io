@@ -32,6 +32,14 @@
     "url": "https://github.com/MAIF/wasmo/releases/tag/1.0.15"
   },
   {
+    "highlights": "<ul>\n<li>feature: you can define a <code>display order</code> for records (ascending or descending)</li>\n<li>build: update dependencies</li>\n</ul>",
+    "project": "yozefu",
+    "date": "2026-07-31T16:25:41Z",
+    "name": "v0.0.31",
+    "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.31",
+    "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.31"
+  },
+  {
     "highlights": "<ul>\n<li>fix: clipboard content lost on Linux after copy</li>\n<li>build: update dependencies</li>\n</ul>",
     "project": "yozefu",
     "date": "2026-06-16T15:04:33Z",
@@ -174,14 +182,6 @@
     "name": "v0.0.12",
     "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.12",
     "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.12"
-  },
-  {
-    "highlights": "<ul>\n<li>Rework of the TUI to make it more concise.</li>\n<li>Add a new information <code>published at</code> in the record details component.</li>\n<li>Disable any IO interactions for the wasm search filters.</li>\n<li>Update dependencies</li>\n</ul>",
-    "project": "yozefu",
-    "date": "2025-07-08T11:48:57Z",
-    "name": "v0.0.11",
-    "zip": "https://api.github.com/repos/MAIF/yozefu/zipball/v0.0.11",
-    "url": "https://github.com/MAIF/yozefu/releases/tag/v0.0.11"
   },
   {
     "highlights": "<p>Major updates in this release:</p>\n<ul>\n<li><strong>WebApp Explainability Expansion:</strong> Introduction of several new visual explainability tools in the Shapash WebApp, including Global–Local Feature Importance, Clusters by Explainability, significantly enhancing model interpretation capabilities.</li>\n<li><strong>Modernized Packaging:</strong> Full support for <code>numpy&gt;=2.0.0</code> and dependency modernization, ensuring forward compatibility with the latest scientific Python ecosystem.</li>\n</ul>",
