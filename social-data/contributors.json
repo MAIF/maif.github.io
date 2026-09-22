@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-09-16T15:18:45Z",
+      "pushed_at": "2026-09-21T18:57:50Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -15,10 +15,10 @@
         "quentinovega",
         "ptitFicus",
         "mathieuancelinserli",
+        "davlgd",
         "guillaumesolderaserli",
         null,
         "sebprunierserli",
-        "davlgd",
         null,
         "fedysalahserli",
         null,
@@ -36,13 +36,13 @@
         "lucbu",
         null
       ],
-      "commits_count": 11600,
+      "commits_count": 11630,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 7836
+          "commits_count": 7857
         },
         {
           "name": "Zwiterrion",
@@ -51,7 +51,7 @@
           "commits_count": 1846
         },
         {
-          "commits_count": 715
+          "commits_count": 722
         },
         {
           "name": "baudelotphilippe",
@@ -81,6 +81,12 @@
           "commits_count": 37
         },
         {
+          "name": "davlgd",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1110600?v=4",
+          "url": "https://github.com/davlgd",
+          "commits_count": 12
+        },
+        {
           "name": "guillaumesolderaserli",
           "avatar_url": "https://avatars.githubusercontent.com/u/17246451?v=4",
           "url": "https://github.com/guillaumesolderaserli",
@@ -93,12 +99,6 @@
           "name": "sebprunierserli",
           "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
           "url": "https://github.com/sebprunierserli",
-          "commits_count": 10
-        },
-        {
-          "name": "davlgd",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1110600?v=4",
-          "url": "https://github.com/davlgd",
           "commits_count": 10
         },
         {
@@ -546,7 +546,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-09-20T00:57:21Z",
+      "pushed_at": "2026-09-21T00:56:40Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -566,10 +566,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12893,
+      "commits_count": 12894,
       "commits_per_contributor": [
         {
-          "commits_count": 12576
+          "commits_count": 12577
         },
         {
           "name": "baudelotphilippe",
@@ -1104,7 +1104,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-09-18T18:36:23Z",
+      "pushed_at": "2026-09-21T14:15:10Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1122,13 +1122,13 @@
         null,
         null
       ],
-      "commits_count": 4007,
+      "commits_count": 4014,
       "commits_per_contributor": [
         {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
-          "commits_count": 2071
+          "commits_count": 2073
         },
         {
           "commits_count": 720
@@ -1149,7 +1149,7 @@
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 108
+          "commits_count": 113
         },
         {
           "name": "mathieuancelin",
@@ -1329,7 +1329,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 8111,
+      "commits_count": 8132,
       "projects": [
         "otoroshi",
         "nio",
@@ -1353,7 +1353,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15410,
+      "commits_count": 15418,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1443,7 +1443,7 @@
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
       "url": "https://github.com/quentinovega",
-      "commits_count": 2180,
+      "commits_count": 2182,
       "projects": [
         "otoroshi",
         "nio",
@@ -1456,7 +1456,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 638,
+      "commits_count": 643,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1476,6 +1476,15 @@
         "otoroshi"
       ]
     },
+    "davlgd": {
+      "name": "davlgd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1110600?v=4",
+      "url": "https://github.com/davlgd",
+      "commits_count": 12,
+      "projects": [
+        "otoroshi"
+      ]
+    },
     "guillaumesolderaserli": {
       "name": "guillaumesolderaserli",
       "avatar_url": "https://avatars.githubusercontent.com/u/17246451?v=4",
@@ -1489,15 +1498,6 @@
       "name": "sebprunierserli",
       "avatar_url": "https://avatars.githubusercontent.com/u/17246464?v=4",
       "url": "https://github.com/sebprunierserli",
-      "commits_count": 10,
-      "projects": [
-        "otoroshi"
-      ]
-    },
-    "davlgd": {
-      "name": "davlgd",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1110600?v=4",
-      "url": "https://github.com/davlgd",
       "commits_count": 10,
       "projects": [
         "otoroshi"
@@ -2114,10 +2114,10 @@
     "guillaume-bernard-maif",
     "scala-steward",
     "sachasamama",
+    "davlgd",
     "victorBigand",
     "guillaumesolderaserli",
     "cwoodrow",
-    "davlgd",
     "sebprunierserli",
     "armgilles",
     "guerinclement",
