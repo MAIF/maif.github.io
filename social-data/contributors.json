@@ -12,18 +12,16 @@
         null,
         "baudelotphilippe",
         null,
-        "quentinovega",
         "ptitFicus",
+        "quentinovega",
         "mathieuancelinserli",
         "davlgd",
         "guillaumesolderaserli",
         null,
         "sebprunierserli",
-        null,
         "fedysalahserli",
-        null,
-        "omahs",
         "SelligtomGit86",
+        "omahs",
         "baptiste-gaillet",
         "larousso",
         null,
@@ -32,11 +30,13 @@
         null,
         null,
         null,
+        null,
+        "desmfr",
         "fcrohas",
         "lucbu",
         null
       ],
-      "commits_count": 11662,
+      "commits_count": 11664,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
@@ -63,16 +63,16 @@
           "commits_count": 474
         },
         {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 68
+        },
+        {
           "name": "quentinovega",
           "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
           "url": "https://github.com/quentinovega",
           "commits_count": 68
-        },
-        {
-          "name": "ptitFicus",
-          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-          "url": "https://github.com/ptitFicus",
-          "commits_count": 52
         },
         {
           "name": "mathieuancelinserli",
@@ -102,27 +102,21 @@
           "commits_count": 10
         },
         {
-          "commits_count": 10
-        },
-        {
           "name": "fedysalahserli",
           "avatar_url": "https://avatars.githubusercontent.com/u/22706239?v=4",
           "url": "https://github.com/fedysalahserli",
           "commits_count": 9
         },
         {
-          "commits_count": 6
+          "name": "SelligtomGit86",
+          "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
+          "url": "https://github.com/SelligtomGit86",
+          "commits_count": 5
         },
         {
           "name": "omahs",
           "avatar_url": "https://avatars.githubusercontent.com/u/73983677?v=4",
           "url": "https://github.com/omahs",
-          "commits_count": 5
-        },
-        {
-          "name": "SelligtomGit86",
-          "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
-          "url": "https://github.com/SelligtomGit86",
           "commits_count": 5
         },
         {
@@ -157,6 +151,15 @@
         },
         {
           "commits_count": 2
+        },
+        {
+          "commits_count": 1
+        },
+        {
+          "name": "desmfr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+          "url": "https://github.com/desmfr",
+          "commits_count": 1
         },
         {
           "name": "fcrohas",
@@ -546,7 +549,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-09-24T00:51:10Z",
+      "pushed_at": "2026-09-25T00:51:20Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -555,10 +558,9 @@
         "desmfr",
         "ptitFicus",
         "develop-cs",
-        null,
-        null,
-        null,
         "Mcdostone",
+        null,
+        null,
         "ThomasBouche",
         null,
         "quentinovega",
@@ -566,10 +568,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12897,
+      "commits_count": 12898,
       "commits_per_contributor": [
         {
-          "commits_count": 12580
+          "commits_count": 12581
         },
         {
           "name": "baudelotphilippe",
@@ -599,7 +601,7 @@
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 10
+          "commits_count": 13
         },
         {
           "name": "develop-cs",
@@ -608,18 +610,15 @@
           "commits_count": 6
         },
         {
-          "commits_count": 3
-        },
-        {
-          "commits_count": 3
-        },
-        {
-          "commits_count": 3
-        },
-        {
           "name": "Mcdostone",
           "avatar_url": "https://avatars.githubusercontent.com/u/6984659?v=4",
           "url": "https://github.com/Mcdostone",
+          "commits_count": 3
+        },
+        {
+          "commits_count": 3
+        },
+        {
           "commits_count": 3
         },
         {
@@ -724,9 +723,8 @@
         "larousso",
         null,
         "ade-maif",
-        "florian-tirard",
-        null,
-        null
+        "ptitFicus",
+        "florian-tirard"
       ],
       "commits_count": 145,
       "commits_per_contributor": [
@@ -746,16 +744,16 @@
           "commits_count": 8
         },
         {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
+          "commits_count": 3
+        },
+        {
           "name": "florian-tirard",
           "avatar_url": "https://avatars.githubusercontent.com/u/150662252?v=4",
           "url": "https://github.com/florian-tirard",
           "commits_count": 2
-        },
-        {
-          "commits_count": 2
-        },
-        {
-          "commits_count": 1
         }
       ]
     },
@@ -766,20 +764,16 @@
       "homepage": null,
       "pushed_at": "2026-05-10T22:06:00Z",
       "contributors": [
-        null,
         "ptitFicus",
         "webskin"
       ],
       "commits_count": 54,
       "commits_per_contributor": [
         {
-          "commits_count": 29
-        },
-        {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 24
+          "commits_count": 53
         },
         {
           "name": "webskin",
@@ -794,14 +788,13 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2026-09-22T23:34:52Z",
+      "pushed_at": "2026-09-25T21:43:00Z",
       "contributors": [
         "ptitFicus",
         null,
         "baudelotphilippe",
         "helakaraa",
         "scala-steward",
-        null,
         "Izanami",
         null,
         "GaetanFrejoux",
@@ -815,7 +808,7 @@
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 436
+          "commits_count": 441
         },
         {
           "commits_count": 216
@@ -837,9 +830,6 @@
           "avatar_url": "https://avatars.githubusercontent.com/u/43047562?v=4",
           "url": "https://github.com/scala-steward",
           "commits_count": 13
-        },
-        {
-          "commits_count": 5
         },
         {
           "name": "Izanami",
@@ -931,7 +921,7 @@
         "larousso",
         null,
         null,
-        null,
+        "ptitFicus",
         "ade-maif"
       ],
       "commits_count": 33,
@@ -949,6 +939,9 @@
           "commits_count": 4
         },
         {
+          "name": "ptitFicus",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+          "url": "https://github.com/ptitFicus",
           "commits_count": 4
         },
         {
@@ -975,7 +968,6 @@
         "Mcdostone",
         null,
         "mbaechler",
-        null,
         null
       ],
       "commits_count": 122,
@@ -1002,7 +994,7 @@
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 6
+          "commits_count": 8
         },
         {
           "commits_count": 4
@@ -1020,9 +1012,6 @@
           "name": "mbaechler",
           "avatar_url": "https://avatars.githubusercontent.com/u/708318?v=4",
           "url": "https://github.com/mbaechler",
-          "commits_count": 2
-        },
-        {
           "commits_count": 2
         },
         {
@@ -1203,8 +1192,7 @@
       "pushed_at": "2026-03-11T09:25:11Z",
       "contributors": [
         "ade-maif",
-        "ptitFicus",
-        null
+        "ptitFicus"
       ],
       "commits_count": 23,
       "commits_per_contributor": [
@@ -1218,10 +1206,7 @@
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 2
-        },
-        {
-          "commits_count": 1
+          "commits_count": 3
         }
       ]
     },
@@ -1353,7 +1338,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15430,
+      "commits_count": 15369,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1365,7 +1350,6 @@
         "otoroshi",
         "otoroshi",
         "otoroshi",
-        "otoroshi",
         "nio",
         "nio",
         "nio",
@@ -1386,7 +1370,6 @@
         "melusine",
         "melusine",
         "melusine",
-        "maif.github.io",
         "maif.github.io",
         "maif.github.io",
         "maif.github.io",
@@ -1395,16 +1378,10 @@
         "maif.github.io",
         "lets-automate",
         "jooq-async",
-        "jooq-async",
-        "jooq-async",
-        "izanami-java-client",
-        "izanami",
         "izanami",
         "izanami",
         "functional-validation",
         "functional-validation",
-        "functional-validation",
-        "functional-json",
         "functional-json",
         "functional-json",
         "functional-json",
@@ -1419,7 +1396,6 @@
         "daikoku",
         "daikoku",
         "daikoku",
-        "codelab-pattern-jdk21-et-plus",
         "arta"
       ]
     },
@@ -1439,6 +1415,23 @@
         "cards"
       ]
     },
+    "ptitFicus": {
+      "name": "ptitFicus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
+      "url": "https://github.com/ptitFicus",
+      "commits_count": 708,
+      "projects": [
+        "otoroshi",
+        "maif.github.io",
+        "jooq-async",
+        "izanami-java-client",
+        "izanami",
+        "functional-validation",
+        "functional-json",
+        "daikoku",
+        "codelab-pattern-jdk21-et-plus"
+      ]
+    },
     "quentinovega": {
       "name": "quentinovega",
       "avatar_url": "https://avatars.githubusercontent.com/u/9131476?v=4",
@@ -1450,21 +1443,6 @@
         "maif.github.io",
         "homebrew-daikoku",
         "daikoku"
-      ]
-    },
-    "ptitFicus": {
-      "name": "ptitFicus",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
-      "url": "https://github.com/ptitFicus",
-      "commits_count": 645,
-      "projects": [
-        "otoroshi",
-        "maif.github.io",
-        "izanami-java-client",
-        "izanami",
-        "functional-json",
-        "daikoku",
-        "codelab-pattern-jdk21-et-plus"
       ]
     },
     "mathieuancelinserli": {
@@ -1512,19 +1490,19 @@
         "otoroshi"
       ]
     },
-    "omahs": {
-      "name": "omahs",
-      "avatar_url": "https://avatars.githubusercontent.com/u/73983677?v=4",
-      "url": "https://github.com/omahs",
+    "SelligtomGit86": {
+      "name": "SelligtomGit86",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
+      "url": "https://github.com/SelligtomGit86",
       "commits_count": 5,
       "projects": [
         "otoroshi"
       ]
     },
-    "SelligtomGit86": {
-      "name": "SelligtomGit86",
-      "avatar_url": "https://avatars.githubusercontent.com/u/84376650?v=4",
-      "url": "https://github.com/SelligtomGit86",
+    "omahs": {
+      "name": "omahs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73983677?v=4",
+      "url": "https://github.com/omahs",
       "commits_count": 5,
       "projects": [
         "otoroshi"
@@ -1560,6 +1538,18 @@
       "commits_count": 2,
       "projects": [
         "otoroshi"
+      ]
+    },
+    "desmfr": {
+      "name": "desmfr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
+      "url": "https://github.com/desmfr",
+      "commits_count": 31,
+      "projects": [
+        "otoroshi",
+        "melusine",
+        "maif.github.io",
+        "cards"
       ]
     },
     "fcrohas": {
@@ -1838,17 +1828,6 @@
       "commits_count": 3,
       "projects": [
         "melusine"
-      ]
-    },
-    "desmfr": {
-      "name": "desmfr",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16403287?v=4",
-      "url": "https://github.com/desmfr",
-      "commits_count": 30,
-      "projects": [
-        "melusine",
-        "maif.github.io",
-        "cards"
       ]
     },
     "Mcdostone": {
@@ -2131,8 +2110,8 @@
     "MLecardonnel",
     "FDJFDJ",
     "NP4567-dev",
-    "SelligtomGit86",
     "omahs",
+    "SelligtomGit86",
     "baptiste-gaillet",
     "AntoineSimoulin",
     "ffremont",
