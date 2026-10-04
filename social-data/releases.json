@@ -1,5 +1,13 @@
 [
   {
+    "highlights": "<p>❴❴ ❵❵ Add handlebars helpers &amp; linting in handlebars editor</p>\n<p>📦 allow querying with too many features for url using post query body</p>",
+    "project": "izanami",
+    "date": "2026-10-03T13:43:36Z",
+    "name": "v2.27.0",
+    "zip": "https://api.github.com/repos/MAIF/izanami/zipball/v2.27.0",
+    "url": "https://github.com/MAIF/izanami/releases/tag/v2.27.0"
+  },
+  {
     "highlights": "<p>✨ Make V2 import atomic for all cases (only for \"fail on conflict\" previously)</p>\n<p>🔎 Allow fine grained conflict strategy for feature fields</p>",
     "project": "izanami",
     "date": "2026-05-11T13:19:45Z",
