@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-10-07T14:36:46Z",
+      "pushed_at": "2026-10-09T15:10:45Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "lucbu",
         null
       ],
-      "commits_count": 11759,
+      "commits_count": 11790,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 7948
+          "commits_count": 7979
         },
         {
           "name": "Zwiterrion",
@@ -549,7 +549,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-10-08T00:57:00Z",
+      "pushed_at": "2026-10-09T00:58:57Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -568,10 +568,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12911,
+      "commits_count": 12912,
       "commits_per_contributor": [
         {
-          "commits_count": 12594
+          "commits_count": 12595
         },
         {
           "name": "baudelotphilippe",
@@ -788,7 +788,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2026-10-03T13:43:26Z",
+      "pushed_at": "2026-10-09T23:35:29Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1314,7 +1314,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 8223,
+      "commits_count": 8254,
       "projects": [
         "otoroshi",
         "nio",
@@ -1338,7 +1338,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15413,
+      "commits_count": 15414,
       "projects": [
         "otoroshi",
         "otoroshi",
