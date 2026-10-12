@@ -293,10 +293,10 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2026-05-01T20:30:32Z",
+      "pushed_at": "2026-10-11T15:10:28Z",
       "contributors": [
-        "GratienDSX",
         "ThomasBouche",
+        "GratienDSX",
         "mattchdt",
         "JacquesOpaux",
         "develop-cs",
@@ -307,8 +307,14 @@
         null,
         null
       ],
-      "commits_count": 202,
+      "commits_count": 216,
       "commits_per_contributor": [
+        {
+          "name": "ThomasBouche",
+          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+          "url": "https://github.com/ThomasBouche",
+          "commits_count": 75
+        },
         {
           "name": "GratienDSX",
           "avatar_url": "https://avatars.githubusercontent.com/u/11066079?v=4",
@@ -316,16 +322,10 @@
           "commits_count": 70
         },
         {
-          "name": "ThomasBouche",
-          "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
-          "url": "https://github.com/ThomasBouche",
-          "commits_count": 69
-        },
-        {
           "name": "mattchdt",
           "avatar_url": "https://avatars.githubusercontent.com/u/138241238?v=4",
           "url": "https://github.com/mattchdt",
-          "commits_count": 24
+          "commits_count": 32
         },
         {
           "name": "JacquesOpaux",
@@ -549,7 +549,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-10-10T00:56:57Z",
+      "pushed_at": "2026-10-11T01:02:45Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -568,10 +568,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12913,
+      "commits_count": 12914,
       "commits_per_contributor": [
         {
-          "commits_count": 12596
+          "commits_count": 12597
         },
         {
           "name": "baudelotphilippe",
@@ -788,7 +788,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2026-10-09T23:35:29Z",
+      "pushed_at": "2026-10-11T23:00:33Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1338,7 +1338,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15415,
+      "commits_count": 15416,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1626,6 +1626,17 @@
         "nio"
       ]
     },
+    "ThomasBouche": {
+      "name": "ThomasBouche",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
+      "url": "https://github.com/ThomasBouche",
+      "commits_count": 136,
+      "projects": [
+        "meteole",
+        "maif.github.io",
+        "eurybia"
+      ]
+    },
     "GratienDSX": {
       "name": "GratienDSX",
       "avatar_url": "https://avatars.githubusercontent.com/u/11066079?v=4",
@@ -1635,22 +1646,11 @@
         "meteole"
       ]
     },
-    "ThomasBouche": {
-      "name": "ThomasBouche",
-      "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
-      "url": "https://github.com/ThomasBouche",
-      "commits_count": 130,
-      "projects": [
-        "meteole",
-        "maif.github.io",
-        "eurybia"
-      ]
-    },
     "mattchdt": {
       "name": "mattchdt",
       "avatar_url": "https://avatars.githubusercontent.com/u/138241238?v=4",
       "url": "https://github.com/mattchdt",
-      "commits_count": 24,
+      "commits_count": 32,
       "projects": [
         "meteole"
       ]
@@ -2085,9 +2085,9 @@
     "guillaume-vignal",
     "farthur",
     "gmenant",
+    "mattchdt",
     "desmfr",
     "Fraer",
-    "mattchdt",
     "milidris",
     "davlgd",
     "JacquesOpaux",
