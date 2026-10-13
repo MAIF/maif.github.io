@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-10-09T15:10:45Z",
+      "pushed_at": "2026-10-12T14:03:15Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "lucbu",
         null
       ],
-      "commits_count": 11790,
+      "commits_count": 11799,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 7979
+          "commits_count": 7981
         },
         {
           "name": "Zwiterrion",
@@ -51,10 +51,10 @@
           "commits_count": 1846
         },
         {
-          "commits_count": 733
+          "commits_count": 734
         },
         {
-          "commits_count": 487
+          "commits_count": 493
         },
         {
           "name": "baudelotphilippe",
@@ -293,7 +293,7 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2026-10-11T15:10:28Z",
+      "pushed_at": "2026-10-12T08:45:39Z",
       "contributors": [
         "ThomasBouche",
         "GratienDSX",
@@ -549,7 +549,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-10-11T01:02:45Z",
+      "pushed_at": "2026-10-12T01:04:22Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -568,10 +568,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12914,
+      "commits_count": 12915,
       "commits_per_contributor": [
         {
-          "commits_count": 12597
+          "commits_count": 12598
         },
         {
           "name": "baudelotphilippe",
@@ -762,18 +762,18 @@
       "url": "https://github.com/MAIF/izanami-java-client",
       "description": "Java Client for Izanami V2",
       "homepage": null,
-      "pushed_at": "2026-10-03T21:12:58Z",
+      "pushed_at": "2026-10-12T15:04:29Z",
       "contributors": [
         "ptitFicus",
         "webskin"
       ],
-      "commits_count": 63,
+      "commits_count": 73,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 62
+          "commits_count": 72
         },
         {
           "name": "webskin",
@@ -788,7 +788,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2026-10-11T23:00:33Z",
+      "pushed_at": "2026-10-12T15:16:27Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -1093,7 +1093,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-10-05T14:06:52Z",
+      "pushed_at": "2026-10-12T22:31:24Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1314,7 +1314,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 8254,
+      "commits_count": 8256,
       "projects": [
         "otoroshi",
         "nio",
@@ -1338,7 +1338,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15416,
+      "commits_count": 15424,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1419,7 +1419,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 723,
+      "commits_count": 733,
       "projects": [
         "otoroshi",
         "maif.github.io",

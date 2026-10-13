@@ -336,6 +336,14 @@
     "url": "https://github.com/MAIF/arta/releases/tag/0.7.0b"
   },
   {
+    "highlights": "<p><strong>Features</strong></p>\n<ul>\n<li>Added support for AROME-IFS model. by @mattchdt, See #73</li>\n<li>Added support for Python 3.14 / remove 3.9, 3.10. See #75</li>\n</ul>\n<p><strong>Bugs</strong></p>\n<ul>\n<li>Changed the subset parameter longitude from \"lon\" to \"long\" to fix an error raised when using get_coverage. See #72</li>\n</ul>",
+    "project": "meteole",
+    "date": "2026-10-12T08:45:39Z",
+    "name": "0.2.7 : New forecast model : AROME-IFS",
+    "zip": "https://api.github.com/repos/MAIF/meteole/zipball/0.2.7",
+    "url": "https://github.com/MAIF/meteole/releases/tag/0.2.7"
+  },
+  {
     "highlights": "<p><strong>Features</strong></p>\n<ul>\n<li><p>Added the ability to retrieve observations from a single station at a time.</p></li>\n<li><p>Updated tests and documentation to reflect these additions See #21</p>\n<p>by @JacquesOpaux </p></li>\n</ul>",
     "project": "meteole",
     "date": "2026-02-19T13:56:24Z",
