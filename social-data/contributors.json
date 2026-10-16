@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-10-14T21:15:55Z",
+      "pushed_at": "2026-10-15T21:04:08Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "lucbu",
         null
       ],
-      "commits_count": 11844,
+      "commits_count": 12069,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 8026
+          "commits_count": 8248
         },
         {
           "name": "Zwiterrion",
@@ -51,7 +51,7 @@
           "commits_count": 1846
         },
         {
-          "commits_count": 734
+          "commits_count": 737
         },
         {
           "commits_count": 493
@@ -549,7 +549,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-10-14T00:47:26Z",
+      "pushed_at": "2026-10-15T00:46:57Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -558,20 +558,21 @@
         "desmfr",
         "ptitFicus",
         "develop-cs",
-        "Mcdostone",
         null,
         null,
         "ThomasBouche",
+        null,
+        "Mcdostone",
         null,
         "quentinovega",
         null,
         "cwoodrow",
         null
       ],
-      "commits_count": 12917,
+      "commits_count": 12918,
       "commits_per_contributor": [
         {
-          "commits_count": 12600
+          "commits_count": 12601
         },
         {
           "name": "baudelotphilippe",
@@ -610,12 +611,6 @@
           "commits_count": 6
         },
         {
-          "name": "Mcdostone",
-          "avatar_url": "https://avatars.githubusercontent.com/u/6984659?v=4",
-          "url": "https://github.com/Mcdostone",
-          "commits_count": 3
-        },
-        {
           "commits_count": 3
         },
         {
@@ -629,6 +624,15 @@
         },
         {
           "commits_count": 2
+        },
+        {
+          "name": "Mcdostone",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6984659?v=4",
+          "url": "https://github.com/Mcdostone",
+          "commits_count": 2
+        },
+        {
+          "commits_count": 1
         },
         {
           "name": "quentinovega",
@@ -1093,7 +1097,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-10-14T09:49:30Z",
+      "pushed_at": "2026-10-15T15:06:48Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1101,10 +1105,9 @@
         "baudelotphilippe",
         "ptitFicus",
         "mathieuancelin",
-        "Btxgear",
-        null,
-        "helakaraa",
         "gmenant",
+        "Btxgear",
+        "helakaraa",
         null,
         null,
         null,
@@ -1147,25 +1150,22 @@
           "commits_count": 104
         },
         {
+          "name": "gmenant",
+          "avatar_url": "https://avatars.githubusercontent.com/u/4080022?v=4",
+          "url": "https://github.com/gmenant",
+          "commits_count": 74
+        },
+        {
           "name": "Btxgear",
           "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
           "url": "https://github.com/Btxgear",
           "commits_count": 72
         },
         {
-          "commits_count": 42
-        },
-        {
           "name": "helakaraa",
           "avatar_url": "https://avatars.githubusercontent.com/u/10269106?v=4",
           "url": "https://github.com/helakaraa",
           "commits_count": 37
-        },
-        {
-          "name": "gmenant",
-          "avatar_url": "https://avatars.githubusercontent.com/u/4080022?v=4",
-          "url": "https://github.com/gmenant",
-          "commits_count": 32
         },
         {
           "commits_count": 4
@@ -1314,7 +1314,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 8301,
+      "commits_count": 8523,
       "projects": [
         "otoroshi",
         "nio",
@@ -1338,7 +1338,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15428,
+      "commits_count": 15391,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1376,6 +1376,7 @@
         "maif.github.io",
         "maif.github.io",
         "maif.github.io",
+        "maif.github.io",
         "lets-automate",
         "jooq-async",
         "izanami",
@@ -1389,7 +1390,6 @@
         "functional-json",
         "eurybia",
         "eurybia",
-        "daikoku",
         "daikoku",
         "daikoku",
         "daikoku",
@@ -1834,7 +1834,7 @@
       "name": "Mcdostone",
       "avatar_url": "https://avatars.githubusercontent.com/u/6984659?v=4",
       "url": "https://github.com/Mcdostone",
-      "commits_count": 7,
+      "commits_count": 6,
       "projects": [
         "maif.github.io",
         "functional-json"
@@ -2006,20 +2006,20 @@
         "eurybia"
       ]
     },
+    "gmenant": {
+      "name": "gmenant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4080022?v=4",
+      "url": "https://github.com/gmenant",
+      "commits_count": 74,
+      "projects": [
+        "daikoku"
+      ]
+    },
     "Btxgear": {
       "name": "Btxgear",
       "avatar_url": "https://avatars.githubusercontent.com/u/84455293?v=4",
       "url": "https://github.com/Btxgear",
       "commits_count": 72,
-      "projects": [
-        "daikoku"
-      ]
-    },
-    "gmenant": {
-      "name": "gmenant",
-      "avatar_url": "https://avatars.githubusercontent.com/u/4080022?v=4",
-      "url": "https://github.com/gmenant",
-      "commits_count": 32,
       "projects": [
         "daikoku"
       ]
@@ -2074,6 +2074,7 @@
     "ThomasBouche",
     "helakaraa",
     "TFA-MAIF",
+    "gmenant",
     "Btxgear",
     "GratienDSX",
     "tstringerquantmetry",
@@ -2084,7 +2085,6 @@
     "mathieuancelinserli",
     "guillaume-vignal",
     "farthur",
-    "gmenant",
     "mattchdt",
     "desmfr",
     "Fraer",
@@ -2103,11 +2103,11 @@
     "MathisNcl",
     "fedysalahserli",
     "Luc-Bonade",
-    "Mcdostone",
     "adam-benjellounSG",
     "VandvC",
     "githubyako",
     "MLecardonnel",
+    "Mcdostone",
     "FDJFDJ",
     "NP4567-dev",
     "omahs",
