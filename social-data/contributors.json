@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-10-19T09:32:10Z",
+      "pushed_at": "2026-10-20T21:32:14Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -549,7 +549,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-10-19T00:52:42Z",
+      "pushed_at": "2026-10-20T00:48:49Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -569,10 +569,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12922,
+      "commits_count": 12923,
       "commits_per_contributor": [
         {
-          "commits_count": 12605
+          "commits_count": 12606
         },
         {
           "name": "baudelotphilippe",
@@ -1097,7 +1097,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-10-16T15:15:07Z",
+      "pushed_at": "2026-10-20T13:22:58Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1338,7 +1338,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15412,
+      "commits_count": 15413,
       "projects": [
         "otoroshi",
         "otoroshi",
