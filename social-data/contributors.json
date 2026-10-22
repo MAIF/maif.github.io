@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-10-20T21:32:14Z",
+      "pushed_at": "2026-10-21T21:03:05Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "lucbu",
         null
       ],
-      "commits_count": 12242,
+      "commits_count": 12252,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 8410
+          "commits_count": 8418
         },
         {
           "name": "Zwiterrion",
@@ -51,7 +51,7 @@
           "commits_count": 1846
         },
         {
-          "commits_count": 742
+          "commits_count": 744
         },
         {
           "commits_count": 499
@@ -549,7 +549,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-10-20T00:48:49Z",
+      "pushed_at": "2026-10-21T00:48:09Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -569,10 +569,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12923,
+      "commits_count": 12924,
       "commits_per_contributor": [
         {
-          "commits_count": 12606
+          "commits_count": 12607
         },
         {
           "name": "baudelotphilippe",
@@ -1097,7 +1097,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-10-20T13:22:58Z",
+      "pushed_at": "2026-10-21T07:52:29Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1314,7 +1314,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 8685,
+      "commits_count": 8693,
       "projects": [
         "otoroshi",
         "nio",
@@ -1338,7 +1338,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15413,
+      "commits_count": 15416,
       "projects": [
         "otoroshi",
         "otoroshi",
