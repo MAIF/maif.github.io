@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-10-21T21:03:05Z",
+      "pushed_at": "2026-10-22T10:49:24Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "lucbu",
         null
       ],
-      "commits_count": 12252,
+      "commits_count": 12261,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 8418
+          "commits_count": 8421
         },
         {
           "name": "Zwiterrion",
@@ -54,7 +54,7 @@
           "commits_count": 744
         },
         {
-          "commits_count": 499
+          "commits_count": 505
         },
         {
           "name": "baudelotphilippe",
@@ -549,7 +549,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-10-21T00:48:09Z",
+      "pushed_at": "2026-10-22T00:48:23Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -569,10 +569,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12924,
+      "commits_count": 12925,
       "commits_per_contributor": [
         {
-          "commits_count": 12607
+          "commits_count": 12608
         },
         {
           "name": "baudelotphilippe",
@@ -1028,7 +1028,7 @@
       "url": "https://github.com/MAIF/eurybia",
       "description": "⚓ Eurybia monitors model drift over time and securizes model deployment with data validation ",
       "homepage": "https://maif.github.io/eurybia/",
-      "pushed_at": "2026-03-23T15:40:05Z",
+      "pushed_at": "2026-10-22T14:45:47Z",
       "contributors": [
         "ThomasBouche",
         "guillaume-vignal",
@@ -1097,7 +1097,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-10-21T07:52:29Z",
+      "pushed_at": "2026-10-22T14:23:43Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1314,7 +1314,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 8693,
+      "commits_count": 8696,
       "projects": [
         "otoroshi",
         "nio",
@@ -1338,7 +1338,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15416,
+      "commits_count": 15423,
       "projects": [
         "otoroshi",
         "otoroshi",
