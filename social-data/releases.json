@@ -336,6 +336,14 @@
     "url": "https://github.com/MAIF/arta/releases/tag/0.7.0b"
   },
   {
+    "highlights": "<p><strong>Features</strong></p>\n<ul>\n<li>Make logs more explicit when hitting too many request and wait exactly the required time before retrying the API. See #77. by @mattchdt</li>\n</ul>\n<p><strong>Bugs</strong></p>\n<ul>\n<li>hotfix vigilance when all vigilance is green. See #71</li>\n</ul>",
+    "project": "meteole",
+    "date": "2026-10-27T08:20:35Z",
+    "name": "0.2.8 : Make logs more explicit when hitting too many request",
+    "zip": "https://api.github.com/repos/MAIF/meteole/zipball/0.2.8",
+    "url": "https://github.com/MAIF/meteole/releases/tag/0.2.8"
+  },
+  {
     "highlights": "<p><strong>Features</strong></p>\n<ul>\n<li>Added support for AROME-IFS model. by @mattchdt, See #73</li>\n<li>Added support for Python 3.14 / remove 3.9, 3.10. See #75</li>\n</ul>\n<p><strong>Bugs</strong></p>\n<ul>\n<li>Changed the subset parameter longitude from \"lon\" to \"long\" to fix an error raised when using get_coverage. See #72</li>\n</ul>",
     "project": "meteole",
     "date": "2026-10-12T08:45:39Z",

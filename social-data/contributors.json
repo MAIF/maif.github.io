@@ -293,7 +293,7 @@
       "url": "https://github.com/MAIF/meteole",
       "description": "A Python client library for weather forecast APIs (e.g., Météo-France)",
       "homepage": "https://maif.github.io/meteole/home/",
-      "pushed_at": "2026-10-26T08:40:47Z",
+      "pushed_at": "2026-10-27T08:20:35Z",
       "contributors": [
         "ThomasBouche",
         "GratienDSX",
@@ -307,13 +307,13 @@
         null,
         null
       ],
-      "commits_count": 219,
+      "commits_count": 222,
       "commits_per_contributor": [
         {
           "name": "ThomasBouche",
           "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
           "url": "https://github.com/ThomasBouche",
-          "commits_count": 76
+          "commits_count": 79
         },
         {
           "name": "GratienDSX",
@@ -549,7 +549,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-10-26T00:51:17Z",
+      "pushed_at": "2026-10-27T00:49:46Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -569,10 +569,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12929,
+      "commits_count": 12930,
       "commits_per_contributor": [
         {
-          "commits_count": 12612
+          "commits_count": 12613
         },
         {
           "name": "baudelotphilippe",
@@ -792,7 +792,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2026-10-14T00:05:19Z",
+      "pushed_at": "2026-10-27T15:34:53Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -806,16 +806,16 @@
         "Zwiterrion",
         "super7ramp"
       ],
-      "commits_count": 819,
+      "commits_count": 824,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 454
+          "commits_count": 458
         },
         {
-          "commits_count": 220
+          "commits_count": 221
         },
         {
           "name": "baudelotphilippe",
@@ -1338,7 +1338,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15443,
+      "commits_count": 15445,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1419,7 +1419,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 740,
+      "commits_count": 744,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1630,7 +1630,7 @@
       "name": "ThomasBouche",
       "avatar_url": "https://avatars.githubusercontent.com/u/53937041?v=4",
       "url": "https://github.com/ThomasBouche",
-      "commits_count": 137,
+      "commits_count": 140,
       "projects": [
         "meteole",
         "maif.github.io",
