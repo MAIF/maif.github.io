@@ -5,7 +5,7 @@
       "url": "https://github.com/MAIF/otoroshi",
       "description": "Lightweight api management on top of a modern http reverse proxy",
       "homepage": "https://www.otoroshi.io",
-      "pushed_at": "2026-11-18T17:09:28Z",
+      "pushed_at": "2026-11-19T21:22:24Z",
       "contributors": [
         "mathieuancelin",
         "Zwiterrion",
@@ -36,13 +36,13 @@
         "lucbu",
         null
       ],
-      "commits_count": 12332,
+      "commits_count": 12376,
       "commits_per_contributor": [
         {
           "name": "mathieuancelin",
           "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
           "url": "https://github.com/mathieuancelin",
-          "commits_count": 8470
+          "commits_count": 8495
         },
         {
           "name": "Zwiterrion",
@@ -51,7 +51,7 @@
           "commits_count": 1846
         },
         {
-          "commits_count": 753
+          "commits_count": 772
         },
         {
           "commits_count": 517
@@ -549,7 +549,7 @@
       "url": "https://github.com/MAIF/maif.github.io",
       "description": "MAIF OSS webiste",
       "homepage": "https://maif.github.io",
-      "pushed_at": "2026-11-18T00:33:07Z",
+      "pushed_at": "2026-11-19T00:32:50Z",
       "contributors": [
         null,
         "baudelotphilippe",
@@ -569,10 +569,10 @@
         "cwoodrow",
         null
       ],
-      "commits_count": 12953,
+      "commits_count": 12954,
       "commits_per_contributor": [
         {
-          "commits_count": 12635
+          "commits_count": 12636
         },
         {
           "name": "baudelotphilippe",
@@ -766,18 +766,18 @@
       "url": "https://github.com/MAIF/izanami-java-client",
       "description": "Java Client for Izanami V2",
       "homepage": null,
-      "pushed_at": "2026-11-17T22:32:56Z",
+      "pushed_at": "2026-11-19T16:19:34Z",
       "contributors": [
         "ptitFicus",
         "webskin"
       ],
-      "commits_count": 82,
+      "commits_count": 85,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 81
+          "commits_count": 84
         },
         {
           "name": "webskin",
@@ -792,7 +792,7 @@
       "url": "https://github.com/MAIF/izanami",
       "description": "Izanami is a centralized versatile feature flag solution, well suited for micro service architectures.",
       "homepage": "https://maif.github.io/izanami/",
-      "pushed_at": "2026-11-18T01:24:29Z",
+      "pushed_at": "2026-11-19T23:40:07Z",
       "contributors": [
         "ptitFicus",
         null,
@@ -806,13 +806,13 @@
         "Zwiterrion",
         "super7ramp"
       ],
-      "commits_count": 865,
+      "commits_count": 871,
       "commits_per_contributor": [
         {
           "name": "ptitFicus",
           "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
           "url": "https://github.com/ptitFicus",
-          "commits_count": 486
+          "commits_count": 491
         },
         {
           "commits_count": 230
@@ -833,7 +833,7 @@
           "name": "scala-steward",
           "avatar_url": "https://avatars.githubusercontent.com/u/43047562?v=4",
           "url": "https://github.com/scala-steward",
-          "commits_count": 17
+          "commits_count": 18
         },
         {
           "name": "Izanami",
@@ -1104,7 +1104,7 @@
       "url": "https://github.com/MAIF/daikoku",
       "description": "The developer portal that was missing in Otoroshi ",
       "homepage": "https://maif.github.io/daikoku",
-      "pushed_at": "2026-11-18T11:28:21Z",
+      "pushed_at": "2026-11-19T15:08:27Z",
       "contributors": [
         "quentinovega",
         null,
@@ -1321,7 +1321,7 @@
       "name": "mathieuancelin",
       "avatar_url": "https://avatars.githubusercontent.com/u/277206?v=4",
       "url": "https://github.com/mathieuancelin",
-      "commits_count": 8745,
+      "commits_count": 8770,
       "projects": [
         "otoroshi",
         "nio",
@@ -1345,7 +1345,7 @@
       ]
     },
     "undefined": {
-      "commits_count": 15495,
+      "commits_count": 15515,
       "projects": [
         "otoroshi",
         "otoroshi",
@@ -1426,7 +1426,7 @@
       "name": "ptitFicus",
       "avatar_url": "https://avatars.githubusercontent.com/u/1528358?v=4",
       "url": "https://github.com/ptitFicus",
-      "commits_count": 782,
+      "commits_count": 790,
       "projects": [
         "otoroshi",
         "maif.github.io",
@@ -1909,7 +1909,7 @@
       "name": "scala-steward",
       "avatar_url": "https://avatars.githubusercontent.com/u/43047562?v=4",
       "url": "https://github.com/scala-steward",
-      "commits_count": 17,
+      "commits_count": 18,
       "projects": [
         "izanami"
       ]
@@ -2105,8 +2105,8 @@
     "desmfr",
     "Fraer",
     "milidris",
-    "davlgd",
     "scala-steward",
+    "davlgd",
     "JacquesOpaux",
     "guillaume-bernard-maif",
     "sachasamama",
